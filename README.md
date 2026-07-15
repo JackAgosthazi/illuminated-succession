@@ -4,6 +4,11 @@ An interactive chart of the English monarchs and their immediate families from
 Edward the Confessor to Henry V (1042–1422), set against the period's major events,
 with the sourced connections between the two drawn as clickable links.
 
+**Live: https://jackagosthazi.github.io/illuminated-succession/**
+
+Deploy with `build/deploy.sh` — it validates before it publishes, and refuses to ship a
+dataset that breaks the sourcing rules below.
+
 ## The idea
 
 Genealogy and chronology share **one vertical time axis**. `y` is always a year.
@@ -82,9 +87,16 @@ python3 build/make-ids.py            # emit shards/_IDS.md, the closed id list f
 python3 build/merge.py               # validate shards -> data/dataset.json
 python3 build/merge.py --check-urls  # ...and verify every citation link resolves
 python3 build/bundle.py              # inline everything -> dist/index.html
+build/deploy.sh "message"            # all of the above, then push to GitHub Pages
 ```
 
-`dist/index.html` is fully self-contained: open it directly, or publish it.
+`dist/index.html` is fully self-contained — one file, no external requests at all (a
+CSP-blocked font CDN is why the faces are inlined). Open it directly from disk, host it
+anywhere, or let `deploy.sh` copy it to `docs/` for Pages.
+
+`build/fix-precision.py` is a one-off, idempotent set of corrections where a
+researcher's precision *label* contradicted their own prose. Every entry quotes the
+record's own `uncertain` note as justification; none of them changes a fact.
 
 ## Layout
 
