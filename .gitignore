@@ -1,0 +1,14 @@
+# Generated build output. `docs/index.html` is the ONLY generated file we commit,
+# because GitHub Pages serves it — everything else is reproducible from source:
+#   python3 build/make-fonts.py && python3 build/merge.py && python3 build/bundle.py
+dist/
+data/dataset.json
+data/dataset.preview.json
+
+# fonts.css is generated (inlined woff2 data URIs, ~100KB of base64) but IS committed:
+# it needs a network fetch from Google Fonts to rebuild, so committing it keeps the
+# build reproducible offline and keeps the OFL faces pinned to what was tested.
+
+.DS_Store
+__pycache__/
+node_modules/

@@ -1,0 +1,49 @@
+<title>The Illuminated Succession — England, 1042–1422</title>
+<style>/*__FONTS__*/</style>
+<style>/*__STYLES__*/</style>
+
+<div id="app">
+  <header class="codex-head">
+    <div>
+      <h1>The <span class="rubric">Illuminated</span> Succession</h1>
+      <p class="head-sub">England from Edward the Confessor to Henry V &middot; 1042&ndash;1422</p>
+    </div>
+    <div class="head-tools">
+      <label class="sr-only" for="search">Find a person or event</label>
+      <input class="control" id="search" type="text" list="results"
+             placeholder="Find a person or event&hellip;" autocomplete="off">
+      <datalist id="results" hidden></datalist>
+      <button class="control" id="kin" aria-pressed="false"
+              title="Show every relative at once. Off: monarchs, claimants and magnates only; a selection fans out its own kin.">kin</button>
+      <button class="control" id="zoom-out" title="Zoom out (−)" aria-label="Zoom out">&minus;</button>
+      <button class="control" id="zoom-in" title="Zoom in (+)" aria-label="Zoom in">+</button>
+      <button class="control" id="reset" title="Fit the whole span">fit</button>
+    </div>
+  </header>
+
+  <main>
+    <div id="stage" tabindex="0" role="application"
+         aria-label="Genealogy and chronology on a shared time axis. Use arrow keys to pan, plus and minus to zoom.">
+      <svg id="codex" aria-hidden="true">
+        <g id="axis"></g>
+        <g id="world"></g>
+      </svg>
+      <p class="hint">drag to pan &middot; scroll to zoom &middot; click any mark to read its gloss</p>
+    </div>
+    <aside class="gloss" id="gloss" aria-live="polite"></aside>
+  </main>
+
+  <div class="legend">
+    <span><i style="border-top-color:var(--reign);border-top-width:5px"></i> reign</span>
+    <span><i style="border-top-color:var(--text);border-top-width:3px"></i> lifespan</span>
+    <span><i style="border-top-color:var(--verdigris);border-top-width:4px"></i> magnate</span>
+    <span><i style="border-top-color:var(--reign);border-top-style:dashed"></i> disputed claim</span>
+    <span><i style="border-top-color:var(--text-faint)"></i> descent</span>
+    <span><i style="border-top-color:var(--murex);border-top-style:dashed"></i> marriage</span>
+    <span><i style="border-top-color:var(--link-hue);border-top-width:2px"></i> correlation (sourced)</span>
+    <span><i style="border-top-color:var(--link-hue);border-top-style:dashed"></i> correlation (attributed)</span>
+  </div>
+</div>
+
+<script>window.DATASET=/*__DATA__*/null;</script>
+<script>/*__APP__*/</script>

@@ -1,0 +1,550 @@
+[
+  {
+    "id": null,
+    "from": { "kind": "edge", "id": "eleanor-aquitaine~louis-vii-france" },
+    "to": { "kind": "event", "id": "evt-1154-stephen-death" },
+    "relation": "annulment-enabled",
+    "claim": "The annulment of Eleanor's marriage to Louis VII on grounds of consanguinity freed her to marry Henry eight weeks later, thereby transferring her Aquitaine lands from Louis to Henry, who succeeded to England in 1154.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine",
+        "title": "Eleanor of Aquitaine",
+        "publisher": "Wikipedia",
+        "quote": "On 21 March, the four archbishops, with the approval of Pope Eugene, granted an annulment on grounds of consanguinity within the fourth degree."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine",
+        "title": "Eleanor of Aquitaine",
+        "publisher": "Wikipedia",
+        "quote": "On 18 May 1152 (Whit Sunday), eight weeks after her annulment, Eleanor married the younger Henry in a quiet private ceremony at Poitiers Cathedral, thereby transferring her Aquitaine lands from Louis to Henry."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "edge", "id": "eleanor-aquitaine~henry-ii" },
+    "to": { "kind": "event", "id": "evt-1154-stephen-death" },
+    "relation": "marriage-enabled",
+    "claim": "Henry's 1152 marriage to Eleanor brought him the Duchy of Aquitaine, which together with his succession to Stephen in 1154 assembled the Angevin Empire.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Angevin_Empire",
+        "title": "Angevin Empire",
+        "publisher": "Wikipedia",
+        "quote": "Henry married Eleanor of Aquitaine in 1152, acquiring the Duchy of Aquitaine, and inherited his mother Empress Matilda's claim to the English throne, succeeding his rival Stephen in 1154."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Angevin_Empire",
+        "title": "Angevin Empire",
+        "publisher": "Wikipedia",
+        "quote": "At its largest extent, the Angevin Empire consisted of the Kingdom of England, the Lordship of Ireland, the Duchies of Normandy, Gascony and Aquitaine, as well as of the counties of Anjou, Poitou, Maine, Touraine…"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "event", "id": "evt-1164-constitutions-clarendon" },
+    "to": { "kind": "event", "id": "evt-1170-murder-thomas-becket" },
+    "relation": "grievance-escalated-to",
+    "claim": "Becket's resistance to the Constitutions of Clarendon set off the escalating quarrel with Henry II that ended with his murder in Canterbury Cathedral six years later.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Constitutions_of_Clarendon",
+        "title": "Constitutions of Clarendon",
+        "publisher": "Wikipedia",
+        "quote": "The ensuing controversy became so bitter that Becket was murdered on 29 December 1170."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "henry-ii" },
+    "to": { "kind": "event", "id": "evt-1170-murder-thomas-becket" },
+    "relation": "outburst-precipitated",
+    "claim": "Henry II's angry words on hearing of Becket's defiance were taken by four of his knights as a command to kill the archbishop, though the famous 'turbulent priest' phrasing is a later invention, not a contemporary record.",
+    "strength": "attributed",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Thomas_Becket",
+        "title": "Thomas Becket",
+        "publisher": "Wikipedia",
+        "quote": "On hearing reports of Becket's actions, Henry II is said to have uttered words interpreted by his men as wishing Becket killed."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Thomas_Becket",
+        "title": "Thomas Becket",
+        "publisher": "Wikipedia",
+        "quote": "The most commonly quoted, as invented in 1740 and handed down by oral tradition, is 'Will no one rid me of this turbulent priest?'"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "edge", "id": "eleanor-aquitaine~henry-ii" },
+    "to": { "kind": "event", "id": "evt-1173-great-revolt" },
+    "relation": "rebellion-provoked",
+    "claim": "Eleanor's encouragement helped drive her sons Henry, Richard, and Geoffrey to join the 1173 revolt against Henry II, and she was captured trying to reach them.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Revolt_of_1173%E2%80%931174",
+        "title": "Revolt of 1173–1174",
+        "publisher": "Wikipedia",
+        "quote": "In March 1173 Henry the Young King withdrew to the court of his father-in-law, Louis, in Paris and was soon followed by his brothers Richard and Geoffrey with Eleanor's encouragement."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Revolt_of_1173%E2%80%931174",
+        "title": "Revolt of 1173–1174",
+        "publisher": "Wikipedia",
+        "quote": "Eleanor tried to join them but was stopped by Henry II on the way and imprisoned. She would remain in captivity until Henry II's death in 1189."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "edge", "id": "henry-ii--henry-young-king" },
+    "to": { "kind": "event", "id": "evt-1173-great-revolt" },
+    "relation": "inheritance-disputed",
+    "claim": "Henry II's grant of three Anjou castles meant for the Young King's inheritance to his youngest son John was a contributing trigger for the Young King's break with his father in 1173.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Revolt_of_1173%E2%80%931174",
+        "title": "Revolt of 1173–1174",
+        "publisher": "Wikipedia",
+        "quote": "Henry II's decision to bequeath three castles in the province of Anjou, which were within the realm of the Young King's inheritance, to his youngest son, John."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "henry-young-king" },
+    "to": { "kind": "event", "id": "evt-1173-great-revolt" },
+    "relation": "grievance-caused",
+    "claim": "Contemporary chroniclers attribute Henry the Young King's 1173 break with his father to his frustration at being crowned king yet given no realm to rule and no money.",
+    "strength": "attributed",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Henry_the_Young_King",
+        "title": "Henry the Young King",
+        "publisher": "Wikipedia",
+        "quote": "Young Henry fell out with his father in 1173. Contemporary chroniclers allege that this was owing to the young man's frustration that his father had given him no realm to rule, and his feeling starved of funds."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "event", "id": "evt-1170-murder-thomas-becket" },
+    "to": { "kind": "event", "id": "evt-1173-great-revolt" },
+    "relation": "penance-credited-with-victory",
+    "claim": "Henry II's 1174 public penance at Becket's tomb was followed the very next day by the capture of William the Lion of Scotland at Alnwick, a coincidence contemporaries read as proof that Becket, and God, had accepted the king's repentance.",
+    "strength": "attributed",
+    "citations": [
+      {
+        "url": "https://www.english-heritage.org.uk/visit/places/dover-castle/history-and-stories/becket-henry-dover-castle/",
+        "title": "Thomas Becket, Henry II and Dover Castle",
+        "publisher": "English Heritage",
+        "quote": "By a truly extraordinary coincidence, the next day Henry heard that William of Scotland, who had invaded Northumberland, had been captured."
+      },
+      {
+        "url": "https://www.english-heritage.org.uk/visit/places/dover-castle/history-and-stories/becket-henry-dover-castle/",
+        "title": "Thomas Becket, Henry II and Dover Castle",
+        "publisher": "English Heritage",
+        "quote": "It seemed clear that Becket, and God, had accepted the king's repentance."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "event", "id": "evt-1189-coronation-richard-i" },
+    "to": { "kind": "event", "id": "evt-1190-york-massacre" },
+    "relation": "violence-provoked",
+    "claim": "Anti-Jewish rioting that broke out at Richard I's 1189 coronation spread to other towns including York, feeding the wave of violence that culminated in the March 1190 massacre at Clifford's Tower.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://www.english-heritage.org.uk/visit/places/cliffords-tower-york/history-and-stories/massacre-of-the-jews/",
+        "title": "The Massacre of the Jews at Clifford's Tower",
+        "publisher": "English Heritage",
+        "quote": "Resentment about the presence of Jews at the coronation was fuelled by anger about taxes to fund the Crusades, leading to riots at the ceremony itself and in Norwich, Stamford, York and Lincoln."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "event", "id": "evt-1189-siege-of-acre" },
+    "to": { "kind": "event", "id": "evt-1192-richard-captivity-ransom" },
+    "relation": "grievance-caused",
+    "claim": "Richard's insult to Duke Leopold of Austria at Acre, casting down his standard from the walls, left Leopold with a personal grievance that led him to arrest Richard near Vienna in December 1192.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Leopold_V,_Duke_of_Austria",
+        "title": "Leopold V, Duke of Austria",
+        "publisher": "Wikipedia",
+        "quote": "Richard removed Leopold's colours and the duke wrathfully left for his Austrian home, arriving by the end of 1191."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Leopold_V,_Duke_of_Austria",
+        "title": "Leopold V, Duke of Austria",
+        "publisher": "Wikipedia",
+        "quote": "Whilst travelling under disguise, he stopped at Vienna shortly before Christmas 1192, where he was recognized (supposedly because of his signet ring) and arrested in Erdberg."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "richard-i" },
+    "to": { "kind": "event", "id": "evt-1199-john-accession" },
+    "relation": "succession-designated",
+    "claim": "Richard reconciled with John after his release from captivity and named him his heir in place of their nephew Arthur, clearing the way for John's accession in 1199.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_I_of_England",
+        "title": "Richard I of England",
+        "publisher": "Wikipedia",
+        "quote": "Richard forgave John when they met again and named him as his heir in place of their nephew Arthur."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "arthur-brittany" },
+    "to": { "kind": "event", "id": "evt-1199-john-accession" },
+    "relation": "claim-asserted-via",
+    "claim": "As the son of John's elder brother Geoffrey, Arthur was regarded by many nobles as having the stronger hereditary claim, and Anjou, Maine, and Touraine declared for him against John in 1199.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikisource.org/wiki/Arthur_(1187-1203)_(DNB00)",
+        "title": "Dictionary of National Biography, 1885-1900/Arthur (1187-1203)",
+        "publisher": "Wikisource",
+        "quote": "The nobles of Anjou, Maine, and Touraine immediately declared for Arthur, as the son of Geoffrey, John's elder brother."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "john" },
+    "to": { "kind": "event", "id": "evt-1203-arthur-brittany-death" },
+    "relation": "rival-eliminated",
+    "claim": "Contemporary rumour and later historians held John immediately responsible for Arthur's death in 1203, though whether he did the deed with his own hands is doubtful.",
+    "strength": "attributed",
+    "citations": [
+      {
+        "url": "https://en.wikisource.org/wiki/Arthur_(1187-1203)_(DNB00)",
+        "title": "Dictionary of National Biography, 1885-1900/Arthur (1187-1203)",
+        "publisher": "Wikisource",
+        "quote": "There is therefore every probability, when this fact is combined with the current rumours of the time, that he was immediately responsible for the murder, but whether… it was the work of his own hands, is doubtful."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "event", "id": "evt-1203-arthur-brittany-death" },
+    "to": { "kind": "event", "id": "evt-1204-loss-of-normandy" },
+    "relation": "pretext-provided",
+    "claim": "Philip II summoned John to answer for Arthur's death before an assembly of his peers; John's refusal to appear led to a judgment of guilt and the forfeiture of his French lands, opening the way to the conquest of Normandy.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikisource.org/wiki/Arthur_(1187-1203)_(DNB00)",
+        "title": "Dictionary of National Biography, 1885-1900/Arthur (1187-1203)",
+        "publisher": "Wikisource",
+        "quote": "All mediaeval historians are agreed that Philip acceded to this request; that John refused to appear, was pronounced by an assembly of his peers guilty of the murder, and that all his lands in France were declared forfeited."
+      },
+      {
+        "url": "https://en.wikisource.org/wiki/Arthur_(1187-1203)_(DNB00)",
+        "title": "Dictionary of National Biography, 1885-1900/Arthur (1187-1203)",
+        "publisher": "Wikisource",
+        "quote": "It was after this declaration that Philip invaded and conquered Normandy."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "edge", "id": "isabella-angouleme~john" },
+    "to": { "kind": "event", "id": "evt-1204-loss-of-normandy" },
+    "relation": "grievance-caused",
+    "claim": "John's marriage to Isabella, who had already been betrothed to Hugh de Lusignan, provoked the Lusignans into rebellion and an appeal to Philip II, who confiscated John's French lands.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Isabella_of_Angoul%C3%AAme",
+        "title": "Isabella of Angoulême",
+        "publisher": "Wikipedia",
+        "quote": "Isabella was originally betrothed to Hugh IX le Brun, Count of Lusignan, grandson and heir of the Count of La Marche."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Isabella_of_Angoul%C3%AAme",
+        "title": "Isabella of Angoulême",
+        "publisher": "Wikipedia",
+        "quote": "As a result of John's temerity in taking her as his second wife, King Philip II of France confiscated all of their French lands and armed conflict ensued."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "event", "id": "evt-1204-loss-of-normandy" },
+    "to": { "kind": "event", "id": "evt-1215-magna-carta" },
+    "relation": "grievance-caused",
+    "claim": "The loss of Normandy in 1204 launched John on a ruthless campaign of financial exploitation across England to fund its recovery, fueling the baronial grievances that produced Magna Carta.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://magnacarta.cmp.uea.ac.uk/about/historical_intro",
+        "title": "Magna Carta Project - Historical Introduction",
+        "publisher": "Magna Carta Project, University of East Anglia",
+        "quote": "The turning point in King John's reign was the loss of Normandy to King Philip of France in 1204. It launched John… on a ruthless campaign of financial exploitation across England."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "event", "id": "evt-1208-interdict-excommunication" },
+    "to": { "kind": "event", "id": "evt-1215-magna-carta" },
+    "relation": "grievance-caused",
+    "claim": "John's rejection of Stephen Langton as archbishop, and the resulting excommunication and interdict, deepened the crisis of his kingship that led the barons to force Magna Carta on him.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://magnacarta.cmp.uea.ac.uk/about/historical_intro",
+        "title": "Magna Carta Project - Historical Introduction",
+        "publisher": "Magna Carta Project, University of East Anglia",
+        "quote": "Having rejected Pope Innocent III's candidate for the archbishopric of Canterbury, the famed scholar Stephen Langton, John was excommunicated and England placed under an interdict."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "event", "id": "evt-1214-bouvines" },
+    "to": { "kind": "event", "id": "evt-1215-magna-carta" },
+    "relation": "grievance-caused",
+    "claim": "John's defeat at Bouvines in 1214 ended his hopes of recovering Normandy and discredited his kingship, emboldening the barons who forced Magna Carta on him the following year.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://magnacarta.cmp.uea.ac.uk/about/historical_intro",
+        "title": "Magna Carta Project - Historical Introduction",
+        "publisher": "Magna Carta Project, University of East Anglia",
+        "quote": "His reputation suffered a further blow when his forces were comprehensively defeated by King Philip at Bouvines in July 1214, ending his hopes of recovering Normandy."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "event", "id": "evt-1215-magna-carta" },
+    "to": { "kind": "event", "id": "evt-1217-battle-of-lincoln" },
+    "relation": "war-provoked",
+    "claim": "John's refusal to abide by Magna Carta reignited civil war between the crown and the barons, a conflict decisively turned by the royalist victory at the Battle of Lincoln in 1217.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/First_Barons%27_War",
+        "title": "First Barons' War",
+        "publisher": "Wikipedia",
+        "quote": "John's subsequent refusal to accept and abide by Magna Carta, which John had sealed on 15 June 1215"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/First_Barons%27_War",
+        "title": "First Barons' War",
+        "publisher": "Wikipedia",
+        "quote": "Marshal and Falkes de Breauté were able to attack and heavily defeat pro-Louis barons at Lincoln Castle on 20 May, in what became known as the Second Battle of Lincoln"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "event", "id": "evt-1216-death-of-john" },
+    "to": { "kind": "event", "id": "evt-1217-battle-of-lincoln" },
+    "relation": "war-continued",
+    "claim": "John's death in October 1216 did not end the war; barons who saw Prince Louis of France as a greater threat than John's nine-year-old heir switched allegiance to Henry III, whose forces then won the decisive battle at Lincoln.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/First_Barons%27_War",
+        "title": "First Barons' War",
+        "publisher": "Wikipedia",
+        "quote": "Louis now seemed much more of a threat to baronial interests than John's nine-year-old son, Henry"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/First_Barons%27_War",
+        "title": "First Barons' War",
+        "publisher": "Wikipedia",
+        "quote": "William Marshal slowly managed to get most barons to switch sides from Louis to Henry and attack Louis."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "isabella-angouleme" },
+    "to": { "kind": "event", "id": "evt-1258-provisions-of-oxford" },
+    "relation": "grievance-caused",
+    "claim": "The Lusignan half-siblings Isabella bore Henry III after her second marriage settled in England as favoured 'Poitevins'; baronial hatred of them was a driving force behind the baronial coup that produced the Provisions of Oxford.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Henry_III_of_England",
+        "title": "Henry III of England",
+        "publisher": "Wikipedia",
+        "quote": "By 1258, the general dislike of the Poitevins had turned into hatred, with Simon de Montfort one of their strongest critics."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "simon-de-montfort" },
+    "to": { "kind": "event", "id": "evt-1258-provisions-of-oxford" },
+    "relation": "reform-led",
+    "claim": "Montfort stood at the head of the baronial opposition at the 1258 'Mad Parliament' of Oxford that imposed the Provisions on Henry III, and led that opposition on into the Second Barons' War.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Simon_de_Montfort,_6th_Earl_of_Leicester",
+        "title": "Simon de Montfort, 6th Earl of Leicester",
+        "publisher": "Wikipedia",
+        "quote": "at the 'Mad Parliament' of Oxford (1258) Montfort appeared with the Earl of Gloucester, at the head of the opposition."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Simon_de_Montfort,_6th_Earl_of_Leicester",
+        "title": "Simon de Montfort, 6th Earl of Leicester",
+        "publisher": "Wikipedia",
+        "quote": "who led the baronial opposition to the rule of King Henry III, culminating in the Second Barons' War. Following his initial victories over royal forces, he became de facto ruler of England"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "simon-de-montfort" },
+    "to": { "kind": "event", "id": "evt-1264-battle-of-lewes" },
+    "relation": "victory-commanded",
+    "claim": "Montfort commanded the baronial army at Lewes on 14 May 1264, capturing Henry III together with Prince Edward and Richard of Cornwall, and so became de facto ruler of England.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Simon_de_Montfort,_6th_Earl_of_Leicester",
+        "title": "Simon de Montfort, 6th Earl of Leicester",
+        "publisher": "Wikipedia",
+        "quote": "In early May 1264, Simon marched out to give battle to the king and scored a spectacular triumph at the Battle of Lewes on 14 May 1264, capturing the king, together with Prince Edward and Richard of Cornwall."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "simon-de-montfort" },
+    "to": { "kind": "event", "id": "evt-1265-montfort-parliament" },
+    "relation": "parliament-summoned",
+    "claim": "Montfort summoned the 1265 parliament in the king's name, requiring each county and a select list of boroughs to send two representatives, and it is from this period that parliamentary representation derives.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Simon_de_Montfort,_6th_Earl_of_Leicester",
+        "title": "Simon de Montfort, 6th Earl of Leicester",
+        "publisher": "Wikipedia",
+        "quote": "Montfort sent his summons, in the king's name, to each county and to a select list of boroughs, asking each to send two representatives."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Simon_de_Montfort,_6th_Earl_of_Leicester",
+        "title": "Simon de Montfort, 6th Earl of Leicester",
+        "publisher": "Wikipedia",
+        "quote": "it was from this period that parliamentary representation derives."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "simon-de-montfort" },
+    "to": { "kind": "event", "id": "evt-1265-battle-of-evesham" },
+    "relation": "death-precipitated",
+    "claim": "Montfort led his outnumbered army in a desperate uphill charge at Evesham on 4 August 1265 and was killed there by Roger Mortimer, ending his rule.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Simon_de_Montfort,_6th_Earl_of_Leicester",
+        "title": "Simon de Montfort, 6th Earl of Leicester",
+        "publisher": "Wikipedia",
+        "quote": "An ominous black cloud hung over the field of Evesham on 4 August 1265 as Montfort led his army in a desperate uphill charge against superior forces, described by one chronicler as the 'murder of Evesham, for battle it was none'."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Simon_de_Montfort,_6th_Earl_of_Leicester",
+        "title": "Simon de Montfort, 6th Earl of Leicester",
+        "publisher": "Wikipedia",
+        "quote": "Roger Mortimer killed Montfort by stabbing him in the neck with a lance."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "event", "id": "evt-1258-provisions-of-oxford" },
+    "to": { "kind": "event", "id": "evt-1264-battle-of-lewes" },
+    "relation": "repudiation-provoked-war",
+    "claim": "Henry III's overthrow of the Provisions of Oxford in 1261 seeded the Second Barons' War, which culminated in his defeat and capture at Lewes in 1264.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Provisions_of_Oxford",
+        "title": "Provisions of Oxford",
+        "publisher": "Wikipedia",
+        "quote": "The Provisions of Oxford were overthrown by Henry, helped by a papal bull, in 1261, seeding the start of the Second Barons' War (1263–1267)."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Provisions_of_Oxford",
+        "title": "Provisions of Oxford",
+        "publisher": "Wikipedia",
+        "quote": "The king was defeated at the Battle of Lewes in 1264, and Simon de Montfort became the real ruler of England for the next twelve months."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "event", "id": "evt-1264-battle-of-lewes" },
+    "to": { "kind": "event", "id": "evt-1265-montfort-parliament" },
+    "relation": "victory-enabled",
+    "claim": "Montfort's capture of Henry III at Lewes made him the real ruler of England for the following year, during which he summoned the celebrated parliament of January 1265.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Provisions_of_Oxford",
+        "title": "Provisions of Oxford",
+        "publisher": "Wikipedia",
+        "quote": "The king was defeated at the Battle of Lewes in 1264, and Simon de Montfort became the real ruler of England for the next twelve months."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "edward-i" },
+    "to": { "kind": "event", "id": "evt-1265-battle-of-evesham" },
+    "relation": "revenge-secured",
+    "claim": "Henry III's eldest son Edward escaped captivity after Lewes and defeated Simon de Montfort at the Battle of Evesham in 1265, freeing his father and ending Montfort's rule.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Henry_III_of_England",
+        "title": "Henry III of England",
+        "publisher": "Wikipedia",
+        "quote": "Henry's eldest son, Edward, escaped from captivity to defeat Simon at the Battle of Evesham the following year and freed his father."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "event", "id": "evt-1258-provisions-of-oxford" },
+    "to": { "kind": "event", "id": "evt-1267-statute-of-marlborough" },
+    "relation": "reforms-reaffirmed",
+    "claim": "Although the Provisions of Oxford were formally annulled, the administrative and legislative reforms the barons had initiated were taken up and confirmed in the Statute of Marlborough of 1267.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Provisions_of_Oxford",
+        "title": "Provisions of Oxford",
+        "publisher": "Wikipedia",
+        "quote": "Nonetheless, the administrative and legislative reforms the barons had initiated were taken up and confirmed in the Statute of Marlborough."
+      }
+    ]
+  }
+]

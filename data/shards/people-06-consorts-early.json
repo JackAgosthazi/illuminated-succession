@@ -1,0 +1,823 @@
+[
+ {
+  "id": "aenor-chatellerault",
+  "name": "Aénor de Châtellerault",
+  "fullName": "Aénor de Châtellerault",
+  "role": "Duchess of Aquitaine (consort)",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1103",
+   "place": "Châtellerault, Aquitaine",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Aenor_de_Ch%C3%A2tellerault",
+     "title": "Aenor de Châtellerault - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Born c. 1103 Châtellerault, Aquitaine"
+    }
+   ]
+  },
+  "death": {
+   "date": "1130-03",
+   "precision": "month",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Aenor_de_Ch%C3%A2tellerault",
+     "title": "Aenor de Châtellerault - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Died March 1130"
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "william-x-aquitaine",
+    "married": "1121",
+    "ended": "1130",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Aenor_de_Ch%C3%A2tellerault",
+      "title": "Aenor de Châtellerault - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "In 1121, Aénor married William X of Aquitaine, the son of her mother's lover."
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Duchess of Aquitaine (consort)",
+    "from": "1126",
+    "to": "1130",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/William_X_of_Aquitaine",
+      "title": "William X of Aquitaine - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "William succeeded to the duchy of Aquitaine in 1126."
+     }
+    ]
+   }
+  ],
+  "summary": "Aénor de Châtellerault was the daughter of Aimery I, Viscount of Châtellerault, and his wife Dangereuse of L'Île-Bouchard. In 1121 she married William X of Aquitaine, becoming duchess consort of Aquitaine when he succeeded to the duchy in 1126. She died in March 1130 at Talmont-sur-Gironde. Her surviving daughters were Eleanor of Aquitaine, later queen of both France and England, and Petronilla.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Aenor_de_Ch%C3%A2tellerault",
+    "title": "Aenor de Châtellerault - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "Aénor was a daughter of Aimery I, Viscount of Châtellerault, and his wife, Dangereuse of L'Île-Bouchard."
+   }
+  ],
+  "uncertain": "Her birth year is approximate (c. 1103). Her parents Aimery I of Châtellerault and Dangereuse of L'Île-Bouchard are not given individual entries in this dataset, so no parents are recorded here. Her death place (Talmont-sur-Gironde) is dropped here because the infobox rendering of the place string could not be confirmed verbatim."
+ },
+ {
+  "id": "william-x-aquitaine",
+  "name": "William X of Aquitaine",
+  "fullName": "William X, Duke of Aquitaine",
+  "role": "Duke of Aquitaine",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1099",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/William_X_of_Aquitaine",
+     "title": "William X of Aquitaine - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "His birth is recorded in the Chronicle of Saint-Maixent for the year 1099"
+    }
+   ]
+  },
+  "death": {
+   "date": "1137-04-09",
+   "place": "Santiago de Compostela",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/William_X_of_Aquitaine",
+     "title": "William X of Aquitaine - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "In 1137, William joined the pilgrimage to Santiago de Compostela, but died during the trip."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/William_X_of_Aquitaine",
+     "title": "William X of Aquitaine - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Died 9 April 1137(1137-04-09) (aged 37–38) Santiago de Compostela, Spain"
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "aenor-chatellerault",
+    "married": "1121",
+    "ended": "1130",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/William_X_of_Aquitaine",
+      "title": "William X of Aquitaine - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "William X married Aénor de Châtellerault, a daughter of his father's mistress Dangerose by her first husband, Aimery."
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Duke of Aquitaine",
+    "from": "1126",
+    "to": "1137",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/William_X_of_Aquitaine",
+      "title": "William X of Aquitaine - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "William succeeded to the duchy of Aquitaine in 1126."
+     }
+    ]
+   }
+  ],
+  "summary": "William X, son of William IX of Aquitaine — the 'Troubadour Duke' — by his second wife Philippa of Toulouse, succeeded to the duchy of Aquitaine in 1126. In 1121 he married Aénor de Châtellerault, daughter of his father's former mistress. He died on 9 April 1137 while on pilgrimage to Santiago de Compostela, leaving Aquitaine to his teenage daughter Eleanor.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/William_X_of_Aquitaine",
+    "title": "William X of Aquitaine - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "William was the son of William IX by his second wife Philippa of Toulouse."
+   }
+  ],
+  "uncertain": "Sources disagree slightly on his birth year: the Wikipedia infobox gives c. 1098 while the article text cites the Chronicle of Saint-Maixent recording his birth for the year 1099. His parents William IX of Aquitaine and Philippa of Toulouse are not given individual entries in this dataset, so no parents are recorded here."
+ },
+ {
+  "id": "louis-vii-france",
+  "name": "Louis VII",
+  "fullName": "Louis VII of France",
+  "epithet": "the Younger",
+  "house": "Capet",
+  "role": "King of France",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1120",
+   "precision": "year",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Louis_VII_of_France",
+     "title": "Louis VII of France - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Louis was born in 1120, the second son of Louis VI of France and Adelaide of Maurienne."
+    }
+   ]
+  },
+  "death": {
+   "date": "1180-09-18",
+   "place": "Paris",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Louis_VII_of_France",
+     "title": "Louis VII of France - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "He died on 18 September 1180 in Paris"
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "eleanor-aquitaine",
+    "married": "1137-07-25",
+    "ended": "1152-03-21",
+    "endedBy": "annulment",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine",
+      "title": "Eleanor of Aquitaine - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "On 25 July 1137, Archbishop Geoffrey of Bordeaux oversaw her wedding to Louis in the Cathedral of Saint-André in Bordeaux."
+     },
+     {
+      "url": "https://en.wikipedia.org/wiki/Louis_VII_of_France",
+      "title": "Louis VII of France - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "thus the marriage was annulled on 21 March 1152"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "King of France",
+    "from": "1137-08-01",
+    "to": "1180-09-18",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Louis_VII_of_France",
+      "title": "Louis VII of France - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "On 1 August 1137, shortly after the marriage, Louis VI died, and Louis became king."
+     },
+     {
+      "url": "https://en.wikipedia.org/wiki/Louis_VII_of_France",
+      "title": "Louis VII of France - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "House of Capet"
+     }
+    ]
+   }
+  ],
+  "summary": "Louis VII, second son of Louis VI of France and Adelaide of Maurienne, married Eleanor of Aquitaine on 25 July 1137, days before succeeding as King of France on his father's death on 1 August. The marriage produced no sons and was annulled on 21 March 1152 on grounds of consanguinity, freeing Eleanor to marry Henry of Anjou weeks later and carry Aquitaine into the English royal house. Louis reigned until his death in Paris on 18 September 1180.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Louis_VII_of_France",
+    "title": "Louis VII of France - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "King of France from 1137 to 1180"
+   }
+  ],
+  "uncertain": "Louis VII reigned as King of France, not of England; this dataset's monarch flag tracks English reigns only, so he is recorded with monarch: false and his crown carried in role and titles. He appears here as Eleanor of Aquitaine's first husband. He married twice more after the annulment (Constance of Castile in 1154 and Adela of Champagne in 1160); those wives are not given entries in this dataset, so no spouse records for them appear here. His parents Louis VI and Adelaide of Maurienne are likewise not in the dataset."
+ },
+ {
+  "id": "cnut",
+  "name": "Cnut",
+  "fullName": "Cnut the Great",
+  "epithet": "the Great",
+  "house": "Knýtlinga",
+  "role": "King of England, Denmark, and Norway",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "995",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Cnut",
+     "title": "Cnut - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Born c. 995"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Cnut",
+     "title": "Cnut - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Neither the place nor the date of his birth are known."
+    }
+   ]
+  },
+  "death": {
+   "date": "1035-11-12",
+   "place": "Shaftesbury, Dorset",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Cnut",
+     "title": "Cnut - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Cnut died on 12 November 1035 in Shaftesbury, Dorset."
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "emma-normandy",
+    "married": "1017-07",
+    "ended": "1035-11-12",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Cnut",
+      "title": "Cnut - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "In July 1017, Cnut wed Queen Emma, the widow of Æthelred"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "King of England",
+    "from": "1016",
+    "to": "1035",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Cnut",
+      "title": "Cnut - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "was King of England from 1016, King of Denmark from 1018, and King of Norway from 1028"
+     }
+    ]
+   },
+   {
+    "title": "King of Denmark",
+    "from": "1018",
+    "to": "1035",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Cnut",
+      "title": "Cnut - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "was King of England from 1016, King of Denmark from 1018, and King of Norway from 1028"
+     }
+    ]
+   },
+   {
+    "title": "King of Norway",
+    "from": "1028",
+    "to": "1035",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Cnut",
+      "title": "Cnut - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "was King of England from 1016, King of Denmark from 1018, and King of Norway from 1028"
+     }
+    ]
+   }
+  ],
+  "summary": "Cnut the Great, son of Sweyn Forkbeard, ruled a North Sea empire as King of England from 1016, King of Denmark from 1018, and King of Norway from 1028. In July 1017 he married Emma of Normandy, widow of Æthelred the Unready, joining his conquest to the old West Saxon royal line; their son Harthacnut later ruled England. He died at Shaftesbury in Dorset on 12 November 1035.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Cnut",
+    "title": "Cnut - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "was King of England from 1016, King of Denmark from 1018, and King of Norway from 1028"
+   }
+  ],
+  "uncertain": "Cnut did reign as King of England, but from 1016 to 1035 — before this dataset's 1042 starting point — and he is included here only as Emma of Normandy's second husband. He therefore carries monarch: false and reign: null by this dataset's convention, with his three crowns recorded in role and titles. Neither the place nor the date of his birth is known; sources give only c. 995. His father Sweyn Forkbeard is not given an entry in this dataset, so no parents are recorded."
+ },
+ {
+  "id": "herluin-conteville",
+  "name": "Herluin de Conteville",
+  "fullName": "Herluin de Conteville",
+  "role": "Norman nobleman; Viscount of Conteville",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1001",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Herluin_de_Conteville",
+     "title": "Herluin de Conteville - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Herluin de Conteville (c. 1001–1066"
+    }
+   ]
+  },
+  "death": {
+   "date": "1066",
+   "precision": "year",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Herluin_de_Conteville",
+     "title": "Herluin de Conteville - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "He died in 1066, the year his stepson conquered England."
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "herleva",
+    "married": "1031",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Herleva",
+      "title": "Herleva - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Herleva later married Herluin de Conteville in 1031."
+     }
+    ]
+   }
+  ],
+  "summary": "Herluin de Conteville, a Norman nobleman styled viscount of Conteville, married Herleva in 1031 after her relationship with Robert I, Duke of Normandy — which had produced the future William the Conqueror — had ended. His sons by Herleva were Odo, Bishop of Bayeux, and Robert, Count of Mortain, both prominent supporters of their half-brother William's conquest of England. Herluin died in 1066, the year of that conquest.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Herluin_de_Conteville",
+    "title": "Herluin de Conteville - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "He was viscount of Conteville, probably so created by his stepson"
+   }
+  ],
+  "uncertain": "His birth year is approximate (c. 1001) and no precise date within 1066 is given for his death. The source hedges his title, stating he was viscount of Conteville 'probably so created by his stepson', so no dated titles entry is recorded. His sons Odo of Bayeux and Robert of Mortain are not given individual entries in this dataset."
+ },
+ {
+  "id": "alfonso-viii-castile",
+  "name": "Alfonso VIII",
+  "fullName": "Alfonso VIII of Castile",
+  "epithet": "the Noble",
+  "house": "Ivrea",
+  "role": "King of Castile",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1155-11-11",
+   "place": "Soria",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Alfonso_VIII_of_Castile",
+     "title": "Alfonso VIII of Castile - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Alfonso VIII (11 November 1155 – 5 October 1214), called the Noble (El Noble) or the one of Las Navas (el de las Navas), was King of Castile from 1158 to his death and King of Toledo."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Alfonso_VIII_of_Castile",
+     "title": "Alfonso VIII of Castile - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Born: 11 November 1155 Soria"
+    }
+   ]
+  },
+  "death": {
+   "date": "1214-10-05",
+   "place": "Gutierre-Muñoz",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Alfonso_VIII_of_Castile",
+     "title": "Alfonso VIII of Castile - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Died: 5 October 1214(1214-10-05) (aged 58) Gutierre-Muñoz"
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "eleanor-castile-queen",
+    "married": "1170",
+    "ended": "1214-10-05",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Eleanor_of_England,_Queen_of_Castile",
+      "title": "Eleanor of England, Queen of Castile - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "In 1170 Eleanor married King Alfonso VIII of Castile in Burgos at the age of 9"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "King of Castile",
+    "from": "1158",
+    "to": "1214",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Alfonso_VIII_of_Castile",
+      "title": "Alfonso VIII of Castile - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "was King of Castile from 1158 to his death and King of Toledo."
+     },
+     {
+      "url": "https://en.wikipedia.org/wiki/Alfonso_VIII_of_Castile",
+      "title": "Alfonso VIII of Castile - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "House: Castilian House of Ivrea"
+     }
+    ]
+   }
+  ],
+  "summary": "Alfonso VIII, called the Noble, was King of Castile from 1158 until his death in 1214, and is chiefly remembered for the decisive Christian victory at Las Navas de Tolosa. In 1170 he married Eleanor of England, daughter of Henry II and Eleanor of Aquitaine, at Burgos, tying the Castilian crown to the Angevin dynasty. He died at Gutierre-Muñoz on 5 October 1214, weeks before his queen.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Alfonso_VIII_of_Castile",
+    "title": "Alfonso VIII of Castile - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "Alfonso VIII (11 November 1155 – 5 October 1214), called the Noble (El Noble) or the one of Las Navas (el de las Navas), was King of Castile from 1158 to his death and King of Toledo."
+   }
+  ],
+  "uncertain": "Alfonso VIII reigned as King of Castile, not of England; this dataset's monarch flag tracks English reigns only, so he carries monarch: false with his crown recorded in role and titles. His parents Sancho III of Castile and Blanca of Navarre are not given entries in this dataset, so no parents are recorded."
+ },
+ {
+  "id": "william-ii-sicily",
+  "name": "William II",
+  "fullName": "William II of Sicily",
+  "epithet": "the Good",
+  "house": "Hauteville",
+  "role": "King of Sicily",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1153-12",
+   "precision": "month",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/William_II_of_Sicily",
+     "title": "William II of Sicily - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "William II (December 1153 – 11 November 1189), called the Good, was king of Sicily from 1166 to 1189."
+    }
+   ]
+  },
+  "death": {
+   "date": "1189-11-11",
+   "place": "Palermo",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/William_II_of_Sicily",
+     "title": "William II of Sicily - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "William II (December 1153 – 11 November 1189), called the Good, was king of Sicily from 1166 to 1189."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/William_II_of_Sicily",
+     "title": "William II of Sicily - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "In November 1189 William died at Palermo, leaving no children"
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "joan-sicily",
+    "married": "1177-02-13",
+    "ended": "1189-11-11",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Joan_of_England,_Queen_of_Sicily",
+      "title": "Joan of England, Queen of Sicily - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "on 13 February 1177, she married King William and was crowned Queen of Sicily"
+     },
+     {
+      "url": "https://en.wikipedia.org/wiki/William_II_of_Sicily",
+      "title": "William II of Sicily - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "his marriage in February 1177 with Joan, daughter of King Henry II of England"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "King of Sicily",
+    "from": "1166",
+    "to": "1189",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/William_II_of_Sicily",
+      "title": "William II of Sicily - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "was king of Sicily from 1166 to 1189."
+     },
+     {
+      "url": "https://en.wikipedia.org/wiki/William_II_of_Sicily",
+      "title": "William II of Sicily - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "House: Hauteville"
+     }
+    ]
+   }
+  ],
+  "summary": "William II, called the Good, was King of Sicily from 1166 until his death in 1189. In February 1177 he married Joan, daughter of Henry II of England and Eleanor of Aquitaine, a match marking his high standing in European politics. He died at Palermo in November 1189 leaving no children, and the resulting succession dispute drew in his widow's brother Richard I en route to the Third Crusade.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/William_II_of_Sicily",
+    "title": "William II of Sicily - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "his marriage in February 1177 with Joan, daughter of King Henry II of England"
+   }
+  ],
+  "uncertain": "William II reigned as King of Sicily, not of England; this dataset's monarch flag tracks English reigns only, so he carries monarch: false with his crown recorded in role and titles. His parents William I of Sicily and Margaret of Navarre are not given entries in this dataset, so no parents are recorded."
+ },
+ {
+  "id": "raymond-vi-toulouse",
+  "name": "Raymond VI",
+  "fullName": "Raymond VI, Count of Toulouse",
+  "house": "Rouergue",
+  "role": "Count of Toulouse",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1156-10-27",
+   "place": "Saint-Gilles, Gard",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Raymond_VI,_Count_of_Toulouse",
+     "title": "Raymond VI, Count of Toulouse - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Born: 27 October 1156, Saint-Gilles, Gard, Occitanie"
+    }
+   ]
+  },
+  "death": {
+   "date": "1222-08",
+   "precision": "month",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Raymond_VI,_Count_of_Toulouse",
+     "title": "Raymond VI, Count of Toulouse - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Following an abrupt and unexpected illness that left him mostly speechless, Raymond died in August 1222."
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "joan-sicily",
+    "married": "1196-10",
+    "ended": "1199-09-24",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Joan_of_England,_Queen_of_Sicily",
+      "title": "Joan of England, Queen of Sicily - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Joan was married in October 1196, at Rouen to Raymond VI, Count of Toulouse"
+     },
+     {
+      "url": "https://en.wikipedia.org/wiki/Joan_of_England,_Queen_of_Sicily",
+      "title": "Joan of England, Queen of Sicily - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "She died in childbirth on 24 September 1199"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Count of Toulouse",
+    "from": "1194",
+    "to": "1222",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Raymond_VI,_Count_of_Toulouse",
+      "title": "Raymond VI, Count of Toulouse - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "In 1194 he succeeded his father as count of Toulouse."
+     }
+    ]
+   }
+  ],
+  "summary": "Raymond VI, born at Saint-Gilles on 27 October 1156, succeeded his father as Count of Toulouse in 1194. He married several times; one of his wives was Joan of England, widowed queen of Sicily, whom he wed at Rouen in October 1196 and who died in childbirth in September 1199. His long resistance to the Albigensian Crusade brought excommunication and the loss of much of his territory before his death in August 1222.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Raymond_VI,_Count_of_Toulouse",
+    "title": "Raymond VI, Count of Toulouse - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "In 1194 he succeeded his father as count of Toulouse."
+   }
+  ],
+  "uncertain": "Sources disagree on Joan's place among Raymond's wives: the Joan of England article calls her his 'fourth wife', while the ordering of wives in Raymond's own infobox implies she was his third. The exact day of his death within August 1222 is not given by the source consulted, so his death is recorded only to the month. His other wives and his parents are not given entries in this dataset, so no further spouses and no parents are recorded."
+ },
+ {
+  "id": "sancho-vi-navarre",
+  "name": "Sancho VI",
+  "fullName": "Sancho Garcés VI of Navarre",
+  "epithet": "the Wise",
+  "house": "Jiménez",
+  "role": "King of Navarre",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1132-04-21",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Sancho_VI_of_Navarre",
+     "title": "Sancho VI of Navarre - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "21 April 1132 – 27 June 1194"
+    }
+   ]
+  },
+  "death": {
+   "date": "1194-06-27",
+   "place": "Pamplona",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Sancho_VI_of_Navarre",
+     "title": "Sancho VI of Navarre - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "He died on 27 June 1194, in Pamplona, where he is buried."
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "sancha-castile-navarre",
+    "married": "1153-07-20",
+    "ended": "1177",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Sancho_VI_of_Navarre",
+      "title": "Sancho VI of Navarre - Wikipedia",
+      "publisher": "Wikipedia",
+      "publisher_note": null,
+      "quote": "On 20 July 1153, Sancho Garcés married Sancha of Castile, daughter of Alfonso VII"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "King of Navarre",
+    "from": "1150",
+    "to": "1194",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Sancho_VI_of_Navarre",
+      "title": "Sancho VI of Navarre - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Called \"the Wise\" (Basque: Jakituna; Spanish: el Sabio)"
+     }
+    ]
+   }
+  ],
+  "summary": "Sancho VI, called the Wise, was King of Navarre from 1150 until his death at Pamplona on 27 June 1194. On 20 July 1153 he married Sancha of Castile, daughter of Alfonso VII of León and Castile. Their eldest daughter, Berengaria of Navarre, became queen consort of England as the wife of Richard I.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Berengaria_of_Navarre",
+    "title": "Berengaria of Navarre - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "She was the eldest daughter of Sancho VI of Navarre and Sancha of Castile."
+   }
+  ],
+  "uncertain": "Sancho VI reigned as King of Navarre, not of England; this dataset's monarch flag tracks English reigns only, so he carries monarch: false with his crown recorded in role and titles. His wife Sancha's death year is disputed (5 August 1177 or 1179), so the end of the marriage is recorded at the earlier candidate. His parents are not given entries in this dataset, so no parents are recorded."
+ },
+ {
+  "id": "sancha-castile-navarre",
+  "name": "Sancha of Castile",
+  "fullName": "Sancha of Castile, Queen of Navarre",
+  "house": "Ivrea",
+  "role": "Queen of Navarre",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1139",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Sancha_of_Castile,_Queen_of_Navarre",
+     "title": "Sancha of Castile, Queen of Navarre - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Sancha of Castile (c. 1139–5 August 1177 or 1179)"
+    }
+   ]
+  },
+  "death": {
+   "date": "1177-08-05",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Sancha_of_Castile,_Queen_of_Navarre",
+     "title": "Sancha of Castile, Queen of Navarre - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Died 5 August 1177 or 1179 (aged 37-38 or 39-40)"
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "sancho-vi-navarre",
+    "married": "1153-07-20",
+    "ended": "1177",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Sancha_of_Castile,_Queen_of_Navarre",
+      "title": "Sancha of Castile, Queen of Navarre - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "On 20 July 1153, Sancha married Sancho VI of Navarre."
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Queen of Navarre",
+    "from": "1153",
+    "to": "1177",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Sancha_of_Castile,_Queen_of_Navarre",
+      "title": "Sancha of Castile, Queen of Navarre - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "On 20 July 1153, Sancha married Sancho VI of Navarre."
+     }
+    ]
+   }
+  ],
+  "summary": "Sancha of Castile, born around 1139, was a daughter of Alfonso VII of León and Castile and his first wife Berengaria of Barcelona. On 20 July 1153 she married Sancho VI of Navarre, becoming queen consort of Navarre. Her eldest daughter, Berengaria of Navarre, married Richard I of England.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Sancha_of_Castile,_Queen_of_Navarre",
+    "title": "Sancha of Castile, Queen of Navarre - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "daughter of Alfonso VII of León and Castile and his first wife Berengaria of Barcelona"
+   }
+  ],
+  "uncertain": "Her death year is disputed: the source gives 5 August in either 1177 or 1179, and the earlier candidate is recorded here with circa precision. Her birth year is approximate (c. 1139). Her parents Alfonso VII of Castile and Berengaria of Barcelona are not given entries in this dataset, so no parents are recorded."
+ }
+]

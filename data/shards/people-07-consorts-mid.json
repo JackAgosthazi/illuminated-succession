@@ -1,0 +1,1885 @@
+[
+ {
+  "id": "simon-de-montfort",
+  "name": "Simon de Montfort",
+  "fullName": "Simon de Montfort, 6th Earl of Leicester",
+  "epithet": null,
+  "house": "Montfort",
+  "role": "6th Earl of Leicester; leader of the baronial reform movement",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1208",
+   "place": "Montfort-l'Amaury, France",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Montfort,_Simon_of_(1208%3F-1265)",
+     "title": "Montfort, Simon of (1208?-1265) (DNB00)",
+     "publisher": "Wikisource (Dictionary of National Biography, 1885-1900)",
+     "quote": "He was probably born about 1208."
+    }
+   ]
+  },
+  "death": {
+   "date": "1265-08-04",
+   "place": "Evesham, Worcestershire",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Simon_de_Montfort,_6th_Earl_of_Leicester",
+     "title": "Simon de Montfort, 6th Earl of Leicester",
+     "publisher": "Wikipedia",
+     "quote": "Simon de Montfort, 6th Earl of Leicester, 1st Earl of Chester (c. 1208 - 4 August 1265)"
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "eleanor-leicester",
+    "married": "1238-01-07",
+    "ended": "1265-08-04",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Montfort,_Simon_of_(1208%3F-1265)",
+      "title": "Montfort, Simon of (1208?-1265) (DNB00)",
+      "publisher": "Wikisource (Dictionary of National Biography, 1885-1900)",
+      "quote": "On 7 Jan. 1238 Simon had been privately married in the royal chapel at Westminster to the king's sister Eleanor."
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Earl of Leicester",
+    "from": "1239-02",
+    "to": "1265-08-04",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Simon_de_Montfort,_6th_Earl_of_Leicester",
+      "title": "Simon de Montfort, 6th Earl of Leicester",
+      "publisher": "Wikipedia",
+      "quote": "In February 1239, Montfort was finally invested with the Earldom of Leicester."
+     }
+    ]
+   },
+   {
+    "title": "De facto governor of king and kingdom (head of the baronial council after Lewes)",
+    "from": "1264-05-14",
+    "to": "1265-08-04",
+    "citations": [
+     {
+      "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Montfort,_Simon_of_(1208%3F-1265)",
+      "title": "Montfort, Simon of (1208?-1265) (DNB00)",
+      "publisher": "Wikisource (Dictionary of National Biography, 1885-1900)",
+      "quote": "From that moment Simon was virtually governor of king and kingdom."
+     }
+    ]
+   }
+  ],
+  "summary": "Simon de Montfort, 6th Earl of Leicester, was an English nobleman of French birth who became the leading voice of baronial opposition to Henry III. A central figure behind the Provisions of Oxford of 1258, he led the baronial cause into open war and, after his victory at the Battle of Lewes in May 1264, held effective control of royal government. In January 1265 he summoned a parliament that for the first time drew elected representatives from the towns as well as the shires, a step later celebrated as a milestone in the growth of parliamentary government. He was defeated and killed at the Battle of Evesham on 4 August 1265.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Simon_de_Montfort,_6th_Earl_of_Leicester",
+    "title": "Simon de Montfort, 6th Earl of Leicester",
+    "publisher": "Wikipedia",
+    "quote": "who led the baronial opposition to the rule of King Henry III, culminating in the Second Barons' War"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Simon_de_Montfort,_6th_Earl_of_Leicester",
+    "title": "Simon de Montfort, 6th Earl of Leicester",
+    "publisher": "Wikipedia",
+    "quote": "Montfort sent his summons, in the king's name, to each county and to a select list of boroughs, asking each to send two representatives."
+   },
+   {
+    "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Montfort,_Simon_of_(1208%3F-1265)",
+    "title": "Montfort, Simon of (1208?-1265) (DNB00)",
+    "publisher": "Wikisource (Dictionary of National Biography, 1885-1900)",
+    "quote": "At the close of a three hours massacre...he fell, almost the last of his little band, crying 'God's grace!' as he passed away."
+   }
+  ],
+  "uncertain": "His birth year is not firmly attested; the DNB states only that he was 'probably born about 1208.'"
+ },
+ {
+  "id": "raymond-berenguer-v-provence",
+  "name": "Raymond Berenguer V",
+  "fullName": "Ramon Berenguer V, Count of Provence",
+  "epithet": null,
+  "house": "Barcelona",
+  "role": "Count of Provence and Forcalquier",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1198",
+   "place": null,
+   "precision": "year",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Ramon_Berenguer_V,_Count_of_Provence",
+     "title": "Ramon Berenguer V, Count of Provence",
+     "publisher": "Wikipedia",
+     "quote": "Ramon Berenguar IV or V (French: Raimond-Berenger; 1198 - 19 August 1245) was a member of the House of Barcelona who ruled as count of Provence and Forcalquier."
+    }
+   ]
+  },
+  "death": {
+   "date": "1245-08-19",
+   "place": "Aix-en-Provence",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Ramon_Berenguer_V,_Count_of_Provence",
+     "title": "Ramon Berenguer V, Count of Provence",
+     "publisher": "Wikipedia",
+     "quote": "Ramon Berenguar IV or V (French: Raimond-Berenger; 1198 - 19 August 1245) was a member of the House of Barcelona who ruled as count of Provence and Forcalquier."
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "beatrice-savoy",
+    "married": "1219-06-05",
+    "ended": "1245-08-19",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Ramon_Berenguer_V,_Count_of_Provence",
+      "title": "Ramon Berenguer V, Count of Provence",
+      "publisher": "Wikipedia",
+      "quote": "On 5 June 1219, Ramon Berenguer married Beatrice of Savoy, daughter of Thomas, Count of Savoy."
+     }
+    ]
+   }
+  ],
+  "titles": [],
+  "summary": "Ramon Berenguer V, of the House of Barcelona, ruled as Count of Provence and Forcalquier through the first half of the thirteenth century. He married Beatrice of Savoy in 1219, and the couple's four daughters all became queens: Margaret married Louis IX of France, Eleanor married Henry III of England, Sanchia married Richard, Earl of Cornwall (later King of the Romans), and Beatrice married Charles I of Sicily. He died at Aix-en-Provence in August 1245.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Ramon_Berenguer_V,_Count_of_Provence",
+    "title": "Ramon Berenguer V, Count of Provence",
+    "publisher": "Wikipedia",
+    "quote": "Eleanor of Provence (1223-1291): married Henry III, King of England"
+   }
+  ],
+  "uncertain": "The Wikipedia article on his wife, Beatrice of Savoy, gives their marriage as December 1220 rather than 5 June 1219 as stated on his own page; the earlier date, sourced to his own article, is used here."
+ },
+ {
+  "id": "beatrice-savoy",
+  "name": "Beatrice of Savoy",
+  "fullName": "Beatrice of Savoy, Countess of Provence",
+  "epithet": null,
+  "house": "Savoy",
+  "role": "Countess of Provence",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1198",
+   "place": "Chateau du Menuet",
+   "precision": "year",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Beatrice_of_Savoy,_Countess_of_Provence",
+     "title": "Beatrice of Savoy",
+     "publisher": "Wikipedia",
+     "quote": "Born 1198 in Chateau du Menuet"
+    }
+   ]
+  },
+  "death": {
+   "date": "1267",
+   "place": "Chateau du Menuet",
+   "precision": "year",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Beatrice_of_Savoy,_Countess_of_Provence",
+     "title": "Beatrice of Savoy",
+     "publisher": "Wikipedia",
+     "quote": "Died 1267 (aged 68-69) in Chateau du Menuet"
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "raymond-berenguer-v-provence",
+    "married": "1219-06-05",
+    "ended": "1245-08-19",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Ramon_Berenguer_V,_Count_of_Provence",
+      "title": "Ramon Berenguer V, Count of Provence",
+      "publisher": "Wikipedia",
+      "quote": "On 5 June 1219, Ramon Berenguer married Beatrice of Savoy, daughter of Thomas, Count of Savoy."
+     }
+    ]
+   }
+  ],
+  "titles": [],
+  "summary": "Beatrice of Savoy, daughter of Thomas I of Savoy and Margaret of Geneva, married Ramon Berenguer V, Count of Provence. Their four daughters, Margaret, Eleanor, Sanchia, and Beatrice, all married reigning kings, giving Beatrice a central place in the dynastic politics of thirteenth-century Europe, including as mother-in-law of Henry III of England through her daughter Eleanor of Provence.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Beatrice_of_Savoy,_Countess_of_Provence",
+    "title": "Beatrice of Savoy",
+    "publisher": "Wikipedia",
+    "quote": "Eleanor, Queen of England (married Henry III)"
+   }
+  ],
+  "uncertain": "Her own Wikipedia article dates her marriage to December 1220, while her husband's article gives 5 June 1219; the latter is used here as the date attested on his page."
+ },
+ {
+  "id": "sancha-provence",
+  "name": "Sancha of Provence",
+  "fullName": "Sanchia of Provence, Queen of the Romans",
+  "epithet": null,
+  "house": "Barcelona",
+  "role": "Queen of the Romans (2nd wife of Richard, 1st Earl of Cornwall)",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1225",
+   "place": "Aix-en-Provence",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Sanchia_of_Provence",
+     "title": "Sanchia of Provence",
+     "publisher": "Wikipedia",
+     "quote": "c. 1225 Aix-en-Provence, France"
+    }
+   ]
+  },
+  "death": {
+   "date": "1261-11-09",
+   "place": "Berkhamsted Castle, Hertfordshire",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Sanchia_of_Provence",
+     "title": "Sanchia of Provence",
+     "publisher": "Wikipedia",
+     "quote": "9 November 1261 Berkhamsted Castle, Hertfordshire"
+    }
+   ]
+  },
+  "parents": [
+   "raymond-berenguer-v-provence",
+   "beatrice-savoy"
+  ],
+  "spouses": [
+   {
+    "id": "richard-cornwall",
+    "married": "1243-11",
+    "ended": "1261-11-09",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Richard,_1st_Earl_of_Cornwall",
+      "title": "Richard, 1st Earl of Cornwall - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Richard and Sanchia were married at Westminster in November 1243."
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Queen of the Romans",
+    "from": "1257-05-27",
+    "to": "1261-11-09",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Sanchia_of_Provence",
+      "title": "Sanchia of Provence",
+      "publisher": "Wikipedia",
+      "quote": "crowned Queen of the Romans with her husband on 27 May 1257 at Aachen Cathedral"
+     }
+    ]
+   }
+  ],
+  "summary": "Sanchia of Provence, third daughter of Ramon Berenguer V, Count of Provence, and Beatrice of Savoy, and younger sister of Eleanor of Provence, married Richard, Earl of Cornwall, at Westminster in November 1243. When Richard was elected King of the Romans in 1257 she was crowned alongside him at Aachen. She died at Berkhamsted Castle in 1261.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Sanchia_of_Provence",
+    "title": "Sanchia of Provence",
+    "publisher": "Wikipedia",
+    "quote": "Countess of Cornwall (1243-1257)"
+   }
+  ],
+  "uncertain": null
+ },
+ {
+  "id": "beatrice-falkenburg",
+  "name": "Beatrice of Falkenburg",
+  "fullName": "Beatrice of Falkenburg, Queen of the Romans",
+  "epithet": null,
+  "house": "Falkenburg",
+  "role": "Queen of the Romans (3rd wife of Richard, 1st Earl of Cornwall)",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1254",
+   "place": null,
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Beatrice_of_Falkenburg",
+     "title": "Beatrice of Falkenburg",
+     "publisher": "Wikipedia",
+     "quote": "c. 1254"
+    }
+   ]
+  },
+  "death": {
+   "date": "1277-10-17",
+   "place": "Oxford, England",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Beatrice_of_Falkenburg",
+     "title": "Beatrice of Falkenburg",
+     "publisher": "Wikipedia",
+     "quote": "17 October 1277 Oxford, England"
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "richard-cornwall",
+    "married": "1269-06-16",
+    "ended": "1272-04-02",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Richard,_1st_Earl_of_Cornwall",
+      "title": "Richard, 1st Earl of Cornwall - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "They married on 16 June 1269 at Kaiserslautern"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Queen of the Romans",
+    "from": "1269-06-16",
+    "to": "1272-04-02",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Beatrice_of_Falkenburg",
+      "title": "Beatrice of Falkenburg",
+      "publisher": "Wikipedia",
+      "quote": "Queen of the Romans (formally queen of Germany)"
+     }
+    ]
+   }
+  ],
+  "summary": "Beatrice of Falkenburg, daughter of Theodoric II, Lord of Valkenburg, became the third wife of Richard, 1st Earl of Cornwall and King of the Romans, marrying him at Kaiserslautern in June 1269 when she was about sixteen and he sixty. Widowed within three years, she died at Oxford in 1277.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Beatrice_of_Falkenburg",
+    "title": "Beatrice of Falkenburg",
+    "publisher": "Wikipedia",
+    "quote": "she married Richard of Cornwall on 16 June 1269 in Kaiserslautern"
+   }
+  ],
+  "uncertain": null
+ },
+ {
+  "id": "frederick-ii-emperor",
+  "name": "Frederick II",
+  "fullName": "Frederick II, Holy Roman Emperor",
+  "epithet": null,
+  "house": "Hohenstaufen",
+  "role": "Holy Roman Emperor; King of Sicily; King of Jerusalem",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1194-12-26",
+   "place": "Jesi, near Ancona, Italy",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor",
+     "title": "Frederick II, Holy Roman Emperor",
+     "publisher": "Wikipedia",
+     "quote": "26 December 1194 Jesi, near Ancona, Italy"
+    }
+   ]
+  },
+  "death": {
+   "date": "1250-12-13",
+   "place": "Castel Fiorentino, Kingdom of Sicily",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor",
+     "title": "Frederick II, Holy Roman Emperor",
+     "publisher": "Wikipedia",
+     "quote": "13 December 1250 Castel Fiorentino, Kingdom of Sicily"
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "isabella-empress",
+    "married": "1235-07",
+    "ended": "1241-12-01",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Isabella_of_England",
+      "title": "Isabella of England - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "their official wedding took place and Isabella was crowned at Worms Cathedral"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Holy Roman Emperor",
+    "from": "1220-11-23",
+    "to": "1250-12-13",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor",
+      "title": "Frederick II, Holy Roman Emperor",
+      "publisher": "Wikipedia",
+      "quote": "23 November 1220 - 13 December 1250"
+     }
+    ]
+   },
+   {
+    "title": "King of Sicily",
+    "from": "1198",
+    "to": "1250",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor",
+      "title": "Frederick II, Holy Roman Emperor",
+      "publisher": "Wikipedia",
+      "quote": "King of Sicily: 1198-1250"
+     }
+    ]
+   },
+   {
+    "title": "King of Jerusalem",
+    "from": "1225",
+    "to": "1243",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor",
+      "title": "Frederick II, Holy Roman Emperor",
+      "publisher": "Wikipedia",
+      "quote": "King of Jerusalem: 1225-1243"
+     }
+    ]
+   }
+  ],
+  "summary": "Frederick II, of the House of Hohenstaufen, was Holy Roman Emperor, King of Sicily, and, through his first marriage, King of Jerusalem, ruling as one of the most powerful sovereigns of thirteenth-century Europe. In July 1235 he married as his third wife Isabella of England, sister of Henry III, who was crowned with him at Worms. He died at Castel Fiorentino in Sicily in December 1250.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor",
+    "title": "Frederick II, Holy Roman Emperor",
+    "publisher": "Wikipedia",
+    "quote": "Dynasty: Hohenstaufen"
+   }
+  ],
+  "uncertain": null
+ },
+ {
+  "id": "alexander-iii-scotland",
+  "name": "Alexander III",
+  "fullName": "Alexander III, King of Scots",
+  "epithet": null,
+  "house": null,
+  "role": "King of Scots",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1241-09-04",
+   "place": "Roxburgh Castle, Roxburghshire, Scotland",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Alexander_III_of_Scotland",
+     "title": "Alexander III of Scotland",
+     "publisher": "Wikipedia",
+     "quote": "Alexander III (...; 4 September 1241 - 19 March 1286) was King of Alba (Scotland) from 6 July 1249 until his death."
+    }
+   ]
+  },
+  "death": {
+   "date": "1286-03-19",
+   "place": "Kinghorn, Fife, Scotland",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Alexander_III_of_Scotland",
+     "title": "Alexander III of Scotland",
+     "publisher": "Wikipedia",
+     "quote": "Alexander III (...; 4 September 1241 - 19 March 1286) was King of Alba (Scotland) from 6 July 1249 until his death."
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "margaret-england",
+    "married": "1251-12-25",
+    "ended": "1275-02-26",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Margaret_of_England,_Queen_of_Scotland",
+      "title": "Margaret of England, Queen of Scotland - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Married to Alexander III of Scotland on \"25 December 1251\" at \"York Minster\""
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "King of Alba (Scotland)",
+    "from": "1249-07-06",
+    "to": "1286-03-19",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Alexander_III_of_Scotland",
+      "title": "Alexander III of Scotland",
+      "publisher": "Wikipedia",
+      "quote": "was King of Alba (Scotland) from 6 July 1249 until his death"
+     }
+    ]
+   }
+  ],
+  "summary": "Alexander III became King of Scots in 1249 at the age of seven and married Margaret of England, daughter of Henry III, at York Minster on Christmas Day 1251. His reign saw the securing of the Western Isles from Norway after the Battle of Largs. He died in March 1286 after a fall from his horse while riding at night, a death that precipitated the succession crisis leading to the Wars of Scottish Independence.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Alexander_III_of_Scotland",
+    "title": "Alexander III of Scotland",
+    "publisher": "Wikipedia",
+    "quote": "fell from his horse while riding in the dark"
+   }
+  ],
+  "uncertain": "Some sources give the marriage date to Margaret of England as 26 December 1251 rather than the 25 December given on Margaret's own Wikipedia page, which is used here for consistency with her record."
+ },
+ {
+  "id": "john-ii-brittany",
+  "name": "John II, Duke of Brittany",
+  "fullName": "John II, Duke of Brittany",
+  "epithet": null,
+  "house": "Dreux",
+  "role": "Duke of Brittany",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1239-01-03/1239-01-04",
+   "place": null,
+   "precision": "range",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/John_II,_Duke_of_Brittany",
+     "title": "John II, Duke of Brittany",
+     "publisher": "Wikipedia",
+     "quote": "3/4 January 1239"
+    }
+   ]
+  },
+  "death": {
+   "date": "1305-11-18",
+   "place": "Lyon, Kingdom of Arles",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/John_II,_Duke_of_Brittany",
+     "title": "John II, Duke of Brittany",
+     "publisher": "Wikipedia",
+     "quote": "18 November 1305 in Lyon, Kingdom of Arles"
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "beatrice-england",
+    "married": "1260-01-22",
+    "ended": "1275-03-24",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/John_II,_Duke_of_Brittany",
+      "title": "John II, Duke of Brittany",
+      "publisher": "Wikipedia",
+      "quote": "On 22 January 1260, he married Beatrice, daughter of Henry III of England"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Duke of Brittany",
+    "from": "1286-10-08",
+    "to": "1305-11-18",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/John_II,_Duke_of_Brittany",
+      "title": "John II, Duke of Brittany",
+      "publisher": "Wikipedia",
+      "quote": "Duke of Brittany from 8 October 1286 - 18 November 1305"
+     }
+    ]
+   }
+  ],
+  "summary": "John II, of the House of Dreux, was heir to the duchy of Brittany when he married Beatrice of England, daughter of Henry III, at Saint-Denis in January 1260; he succeeded his father as duke in 1286 and died at Lyon in 1305, on his way home from the papal court.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/John_II,_Duke_of_Brittany",
+    "title": "John II, Duke of Brittany",
+    "publisher": "Wikipedia",
+    "quote": "Cadet branch of the Capetian dynasty"
+   }
+  ],
+  "uncertain": "His exact birth date is given only as 3 or 4 January 1239."
+ },
+ {
+  "id": "john-ii-brabant",
+  "name": "John II, Duke of Brabant",
+  "fullName": "John II, Duke of Brabant",
+  "epithet": null,
+  "house": "Brabant",
+  "role": "Duke of Brabant",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1275-09-27",
+   "place": null,
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/John_II,_Duke_of_Brabant",
+     "title": "John II of Brabant",
+     "publisher": "Wikipedia",
+     "quote": "27 September 1275"
+    }
+   ]
+  },
+  "death": {
+   "date": "1312-10-27",
+   "place": "Tervuren",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/John_II,_Duke_of_Brabant",
+     "title": "John II of Brabant",
+     "publisher": "Wikipedia",
+     "quote": "27 October 1312 in Tervuren"
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "margaret-brabant",
+    "married": "1290-07-08",
+    "ended": "1312-10-27",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Margaret_of_England,_Duchess_of_Brabant",
+      "title": "Margaret of England, Duchess of Brabant",
+      "publisher": "Wikipedia",
+      "quote": "On 8 July 1290 Margaret married John II, Duke of Brabant in Westminster Abbey, London"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Duke of Brabant, Lothier and Limburg",
+    "from": "1294",
+    "to": "1312",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/John_II,_Duke_of_Brabant",
+      "title": "John II of Brabant",
+      "publisher": "Wikipedia",
+      "quote": "Duke of Brabant, Lothier and Limburg (1294-1312)"
+     }
+    ]
+   }
+  ],
+  "summary": "John II, Duke of Brabant, married Margaret of England, daughter of Edward I, at Westminster Abbey in 1290, and succeeded his father as duke in 1294. Their only child, John III, later succeeded him. He died at Tervuren in 1312.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Margaret_of_England,_Duchess_of_Brabant",
+    "title": "Margaret of England, Duchess of Brabant",
+    "publisher": "Wikipedia",
+    "quote": "Their only child was John III, Duke of Brabant, successor to his father."
+   }
+  ],
+  "uncertain": null
+ },
+ {
+  "id": "john-hastings-pembroke",
+  "name": "John Hastings",
+  "fullName": "John Hastings, 2nd Earl of Pembroke",
+  "epithet": null,
+  "house": "Hastings",
+  "role": "2nd Earl of Pembroke",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1347-08-29",
+   "place": "Sutton Valence, England",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/John_Hastings,_2nd_Earl_of_Pembroke",
+     "title": "John Hastings, 2nd Earl of Pembroke",
+     "publisher": "Wikipedia",
+     "quote": "29 August 1347 at Sutton Valence, England"
+    }
+   ]
+  },
+  "death": {
+   "date": "1375-04-16",
+   "place": "Picardy, France",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/John_Hastings,_2nd_Earl_of_Pembroke",
+     "title": "John Hastings, 2nd Earl of Pembroke",
+     "publisher": "Wikipedia",
+     "quote": "16 April 1375 in Picardy, France"
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "margaret-england-1346",
+    "married": "1359-05-13",
+    "ended": "1361",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Margaret,_Countess_of_Pembroke",
+      "title": "Margaret, Countess of Pembroke",
+      "publisher": "Wikipedia",
+      "quote": "13 May 1359"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Earl of Pembroke",
+    "from": "1368",
+    "to": "1375-04-16",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/John_Hastings,_2nd_Earl_of_Pembroke",
+      "title": "John Hastings, 2nd Earl of Pembroke",
+      "publisher": "Wikipedia",
+      "quote": "Earl of Pembroke from 1368 until his death in 1375"
+     }
+    ]
+   }
+  ],
+  "summary": "John Hastings, 2nd Earl of Pembroke, son of Laurence Hastings, 1st Earl of Pembroke, was married as a child to Margaret of England, a daughter of Edward III, in May 1359; she died shortly afterwards without the marriage having been consummated. He later married Anne Mauny in 1368 and succeeded to the earldom of Pembroke that year, dying in Picardy in 1375.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/John_Hastings,_2nd_Earl_of_Pembroke",
+    "title": "John Hastings, 2nd Earl of Pembroke",
+    "publisher": "Wikipedia",
+    "quote": "The marriage was never solemnised."
+   }
+  ],
+  "uncertain": "Sources differ on the exact date of his child marriage to Margaret of England: Margaret's own Wikipedia article gives 13 May 1359, while his article describes a betrothal ceremony of 19 May 1359 and states the marriage was never solemnised because of her early death."
+ },
+ {
+  "id": "henry-iii-bar",
+  "name": "Henry III, Count of Bar",
+  "fullName": "Henry III, Count of Bar",
+  "epithet": null,
+  "house": "Bar",
+  "role": "Count of Bar",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1259",
+   "place": null,
+   "precision": "year",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Henry_III,_Count_of_Bar",
+     "title": "Henry III, Count of Bar",
+     "publisher": "Wikipedia",
+     "quote": "Born 1259"
+    }
+   ]
+  },
+  "death": {
+   "date": "1302-09",
+   "place": "Naples",
+   "precision": "month",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Henry_III,_Count_of_Bar",
+     "title": "Henry III, Count of Bar",
+     "publisher": "Wikipedia",
+     "quote": "Died September 1302 in Naples"
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "eleanor-england-1269",
+    "married": "1293-09-20",
+    "ended": "1298-08-29",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Eleanor_of_England,_Countess_of_Bar",
+      "title": "Eleanor of England, Countess of Bar",
+      "publisher": "Wikipedia",
+      "quote": "Eleanor subsequently married Count Henry III of Bar on 20 September 1293"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Count of Bar",
+    "from": "1291",
+    "to": "1302",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Henry_III,_Count_of_Bar",
+      "title": "Henry III, Count of Bar",
+      "publisher": "Wikipedia",
+      "quote": "Count of Bar from 1291 to 1302"
+     }
+    ]
+   }
+  ],
+  "summary": "Henry III, Count of Bar, married Eleanor of England, daughter of Edward I, at Bristol in September 1293. He succeeded as count in 1291 and died in September 1302 of wounds sustained while fighting for Charles II of Naples against invading Sicilian forces.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Henry_III,_Count_of_Bar",
+    "title": "Henry III, Count of Bar",
+    "publisher": "Wikipedia",
+    "quote": "wounded in fighting"
+   }
+  ],
+  "uncertain": null
+ },
+ {
+  "id": "aveline-forz",
+  "name": "Aveline de Forz",
+  "fullName": "Aveline de Forz, Countess of Aumale",
+  "epithet": null,
+  "house": "Forz",
+  "role": "Countess of Aumale and Lady of Holderness (1st wife of Edmund Crouchback)",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1259-01-20",
+   "place": "Burstwick, Holderness",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Aveline_de_Forz,_Countess_of_Aumale",
+     "title": "Aveline de Forz, Countess of Aumale",
+     "publisher": "Wikipedia",
+     "quote": "20 January 1259 at Burstwick in Holderness"
+    }
+   ]
+  },
+  "death": {
+   "date": "1274-11-10",
+   "place": "Stockwell, Surrey, England",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Aveline_de_Forz,_Countess_of_Aumale",
+     "title": "Aveline de Forz, Countess of Aumale",
+     "publisher": "Wikipedia",
+     "quote": "10 November 1274 at Stockwell, Surrey, England"
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "edmund-crouchback",
+    "married": "1269-04-08",
+    "ended": "1274-11-10",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Edmund_Crouchback",
+      "title": "Edmund Crouchback - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "On 8 or 9 April 1269, Edmund married 10-year-old Aveline"
+     }
+    ]
+   }
+  ],
+  "titles": [],
+  "summary": "Aveline de Forz, daughter of William de Forz, 4th Earl of Albemarle, and Isabella de Redvers, Countess of Devon, became sole heiress of the Forz estates when her brother Thomas died in 1269. She married Edmund Crouchback, son of Henry III, in April 1269 while still a child, but died childless in 1274 aged fifteen.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Aveline_de_Forz,_Countess_of_Aumale",
+    "title": "Aveline de Forz, Countess of Aumale",
+    "publisher": "Wikipedia",
+    "quote": "They had no children"
+   }
+  ],
+  "uncertain": "The exact day of her marriage to Edmund Crouchback is given as either 8 or 9 April 1269."
+ },
+ {
+  "id": "blanche-artois",
+  "name": "Blanche of Artois",
+  "fullName": "Blanche of Artois, Countess of Lancaster",
+  "epithet": null,
+  "house": "Artois",
+  "role": "Queen dowager of Navarre; Countess of Lancaster (2nd wife of Edmund Crouchback)",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1248",
+   "place": null,
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Blanche_of_Artois",
+     "title": "Blanche of Artois",
+     "publisher": "Wikipedia",
+     "quote": "c. 1248"
+    }
+   ]
+  },
+  "death": {
+   "date": "1302-05-02",
+   "place": "Paris, Kingdom of France",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Blanche_of_Artois",
+     "title": "Blanche of Artois",
+     "publisher": "Wikipedia",
+     "quote": "2 May 1302 in Paris, Kingdom of France"
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "edmund-crouchback",
+    "married": "1276",
+    "ended": "1296-06-05",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Edmund_Crouchback",
+      "title": "Edmund Crouchback - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Between December 1275 and January 1276 in Paris, Edmund married Blanche"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Queen consort of Navarre",
+    "from": "1270",
+    "to": "1274",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Blanche_of_Artois",
+      "title": "Blanche of Artois",
+      "publisher": "Wikipedia",
+      "quote": "Queen consort of Navarre"
+     }
+    ]
+   }
+  ],
+  "summary": "Blanche of Artois, daughter of Robert I, Count of Artois, was first married to Henry I of Navarre, becoming queen consort of Navarre, and after his death married Edmund Crouchback, son of Henry III of England, in Paris around the turn of 1275-76. She acted as regent for her daughter Joan I of Navarre and died in Paris in 1302.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Blanche_of_Artois",
+    "title": "Blanche of Artois",
+    "publisher": "Wikipedia",
+    "quote": "Robert I, Count of Artois"
+   }
+  ],
+  "uncertain": null
+ },
+ {
+  "id": "david-ii-scotland",
+  "name": "David II",
+  "fullName": "David II, King of Scotland",
+  "epithet": null,
+  "house": "Bruce",
+  "role": "King of Scots",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1324-03-05",
+   "place": null,
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/David_II_of_Scotland",
+     "title": "David II of Scotland",
+     "publisher": "Wikipedia",
+     "quote": "David II (5 March 1324 - 22 February 1371) was King of Scotland from 1329 until his death in 1371."
+    }
+   ]
+  },
+  "death": {
+   "date": "1371-02-22",
+   "place": "Edinburgh Castle",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/David_II_of_Scotland",
+     "title": "David II of Scotland",
+     "publisher": "Wikipedia",
+     "quote": "David II died unexpectedly of natural causes at Edinburgh Castle on 22 February 1371, aged forty-six."
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "joan-of-the-tower",
+    "married": "1328-07-17",
+    "ended": "1362-09-07",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/David_II_of_Scotland",
+      "title": "David II of Scotland",
+      "publisher": "Wikipedia",
+      "quote": "on 17 July 1328, when he was four years old, David was married to seven-year-old Joan"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "King of Scots",
+    "from": "1329-06-07",
+    "to": "1371-02-22",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/David_II_of_Scotland",
+      "title": "David II of Scotland",
+      "publisher": "Wikipedia",
+      "quote": "was King of Scotland from 1329 until his death in 1371"
+     }
+    ]
+   }
+  ],
+  "summary": "David II, son of Robert the Bruce, became King of Scots on his father's death in 1329 at the age of five. He was married as a child to Joan of the Tower, daughter of Edward II of England, under the terms of the Anglo-Scottish peace settlement. His reign was marked by long exile in France, capture by the English at the Battle of Neville's Cross, and eleven years of captivity. He died at Edinburgh Castle in 1371, the last of the House of Bruce to rule Scotland.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/David_II_of_Scotland",
+    "title": "David II of Scotland",
+    "publisher": "Wikipedia",
+    "quote": "David was not buried...beside his parents at Dunfermline Abbey, but before the high altar of Holyrood Abbey."
+   }
+  ],
+  "uncertain": null
+ },
+ {
+  "id": "gilbert-clare-gloucester",
+  "name": "Gilbert de Clare",
+  "fullName": "Gilbert de Clare, 7th Earl of Gloucester and Hertford",
+  "epithet": null,
+  "house": "Clare",
+  "role": "7th Earl of Gloucester and Hertford (1st husband of Joan of Acre)",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1243-09-02",
+   "place": "Christchurch, Hampshire",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Gilbert_de_Clare,_7th_Earl_of_Gloucester",
+     "title": "Gilbert de Clare, 7th Earl of Gloucester",
+     "publisher": "Wikipedia",
+     "quote": "2 September 1243 at Christchurch, Hampshire"
+    }
+   ]
+  },
+  "death": {
+   "date": "1295-12-07",
+   "place": "Monmouth Castle",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Gilbert_de_Clare,_7th_Earl_of_Gloucester",
+     "title": "Gilbert de Clare, 7th Earl of Gloucester",
+     "publisher": "Wikipedia",
+     "quote": "7 December 1295 at Monmouth Castle"
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "joan-acre",
+    "married": "1290-04-30",
+    "ended": "1295-12-07",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Joan_of_Acre",
+      "title": "Joan of Acre",
+      "publisher": "Wikipedia",
+      "quote": "The couple were married 30 April 1290 at Westminster Abbey"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Earl of Gloucester and Hertford",
+    "from": "1262",
+    "to": "1295-12-07",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Gilbert_de_Clare,_7th_Earl_of_Gloucester",
+      "title": "Gilbert de Clare, 7th Earl of Gloucester",
+      "publisher": "Wikipedia",
+      "quote": "Earl of Hertford (1262-1295)"
+     }
+    ]
+   }
+  ],
+  "summary": "Gilbert de Clare, 7th Earl of Gloucester and Hertford, one of the greatest magnates of thirteenth-century England, married Joan of Acre, daughter of Edward I, at Westminster Abbey in April 1290, uniting his earldom with the royal family. He died at Monmouth Castle in December 1295.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Gilbert_de_Clare,_7th_Earl_of_Gloucester",
+    "title": "Gilbert de Clare, 7th Earl of Gloucester",
+    "publisher": "Wikipedia",
+    "quote": "Richard de Clare, Earl of Hertford and Gloucester"
+   }
+  ],
+  "uncertain": "His first marriage, to Alice de Lusignan (married 1253, annulled 1285), is not recorded here as a spouse entry because Alice is not otherwise part of this dataset."
+ },
+ {
+  "id": "ralph-monthermer",
+  "name": "Ralph de Monthermer",
+  "fullName": "Ralph de Monthermer, 1st Baron Monthermer",
+  "epithet": null,
+  "house": "Monthermer",
+  "role": "Earl of Gloucester and Hertford jure uxoris (2nd husband of Joan of Acre)",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1270",
+   "place": "Wales",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Ralph_de_Monthermer,_1st_Baron_Monthermer",
+     "title": "Ralph de Monthermer, 1st Baron Monthermer",
+     "publisher": "Wikipedia",
+     "quote": "c. 1270"
+    }
+   ]
+  },
+  "death": {
+   "date": "1325-04-05",
+   "place": null,
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Ralph_de_Monthermer,_1st_Baron_Monthermer",
+     "title": "Ralph de Monthermer, 1st Baron Monthermer",
+     "publisher": "Wikipedia",
+     "quote": "5 April 1325"
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "joan-acre",
+    "married": "1297-01",
+    "ended": "1307-04-23",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Ralph_de_Monthermer,_1st_Baron_Monthermer",
+      "title": "Ralph de Monthermer, 1st Baron Monthermer",
+      "publisher": "Wikipedia",
+      "quote": "secretly married him in January 1297"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Earl of Gloucester and Hertford (jure uxoris)",
+    "from": "1297",
+    "to": "1307",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Ralph_de_Monthermer,_1st_Baron_Monthermer",
+      "title": "Ralph de Monthermer, 1st Baron Monthermer",
+      "publisher": "Wikipedia",
+      "quote": "between 1297 and 1307 jure uxoris Earl of Gloucester and Hertford"
+     }
+    ]
+   }
+  ],
+  "summary": "Ralph de Monthermer, a squire of unknown parentage in the service of Gilbert de Clare, secretly married the widowed Joan of Acre, daughter of Edward I, in January 1297, briefly provoking the king's anger before being recognised as Earl of Gloucester and Hertford in his wife's right. He lost the earldoms on Joan's death in 1307 but continued to be summoned to parliament as Lord Monthermer.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Ralph_de_Monthermer,_1st_Baron_Monthermer",
+    "title": "Ralph de Monthermer, 1st Baron Monthermer",
+    "publisher": "Wikipedia",
+    "quote": "Of unknown parentage, Monthermer was born in Wales."
+   }
+  ],
+  "uncertain": "His second marriage, around 1313 to Isabel le Despenser, widow of Lord Hastings, is not recorded here as a spouse entry because she is not otherwise part of this dataset."
+ },
+ {
+  "id": "humphrey-bohun-hereford",
+  "name": "Humphrey de Bohun",
+  "fullName": "Humphrey de Bohun, 4th Earl of Hereford",
+  "epithet": null,
+  "house": "Bohun",
+  "role": "4th Earl of Hereford and Essex; Constable of England",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1276",
+   "place": "Pleshey Castle, Essex",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Humphrey_de_Bohun,_4th_Earl_of_Hereford",
+     "title": "Humphrey de Bohun, 4th Earl of Hereford",
+     "publisher": "Wikipedia",
+     "quote": "c. 1276 at Pleshey Castle, Essex"
+    }
+   ]
+  },
+  "death": {
+   "date": "1322-03-16",
+   "place": "Boroughbridge, England",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Humphrey_de_Bohun,_4th_Earl_of_Hereford",
+     "title": "Humphrey de Bohun, 4th Earl of Hereford",
+     "publisher": "Wikipedia",
+     "quote": "16 March 1322 at Boroughbridge, England"
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "elizabeth-rhuddlan",
+    "married": "1302-11-14",
+    "ended": "1316-05-05",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Elizabeth_of_Rhuddlan",
+      "title": "Elizabeth of Rhuddlan",
+      "publisher": "Wikipedia",
+      "quote": "On 14 November 1302 Elizabeth was married to Humphrey de Bohun, 4th Earl of Hereford"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Earl of Hereford and Essex",
+    "from": "1298",
+    "to": "1322-03-16",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Humphrey_de_Bohun,_4th_Earl_of_Hereford",
+      "title": "Humphrey de Bohun, 4th Earl of Hereford",
+      "publisher": "Wikipedia",
+      "quote": "Earl of Hereford and Earl of Essex from 1298-1322"
+     }
+    ]
+   }
+  ],
+  "summary": "Humphrey de Bohun, 4th Earl of Hereford and Essex, and hereditary Constable of England, married Elizabeth of Rhuddlan, daughter of Edward I, at Westminster in November 1302. He later joined the baronial opposition to Edward II and was killed at the Battle of Boroughbridge in March 1322.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Humphrey_de_Bohun,_4th_Earl_of_Hereford",
+    "title": "Humphrey de Bohun, 4th Earl of Hereford",
+    "publisher": "Wikipedia",
+    "quote": "killed during the Battle of Boroughbridge"
+   }
+  ],
+  "uncertain": null
+ },
+ {
+  "id": "john-i-holland",
+  "name": "John I",
+  "fullName": "John I, Count of Holland",
+  "epithet": null,
+  "house": "Holland",
+  "role": "Count of Holland (1st husband of Elizabeth of Rhuddlan)",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1284",
+   "place": null,
+   "precision": "year",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/John_I,_Count_of_Holland",
+     "title": "John I, Count of Holland",
+     "publisher": "Wikipedia",
+     "quote": "Born 1284"
+    }
+   ]
+  },
+  "death": {
+   "date": "1299-11-10",
+   "place": "Haarlem",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/John_I,_Count_of_Holland",
+     "title": "John I, Count of Holland",
+     "publisher": "Wikipedia",
+     "quote": "10 November 1299 at Haarlem"
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "elizabeth-rhuddlan",
+    "married": "1297-01-08",
+    "ended": "1299-11-10",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Elizabeth_of_Rhuddlan",
+      "title": "Elizabeth of Rhuddlan",
+      "publisher": "Wikipedia",
+      "quote": "On 8 January 1297 Elizabeth was married to John at Ipswich."
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Count of Holland",
+    "from": "1296",
+    "to": "1299-11-10",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/John_I,_Count_of_Holland",
+      "title": "John I, Count of Holland",
+      "publisher": "Wikipedia",
+      "quote": "Count of Holland from 1296-1299"
+     }
+    ]
+   }
+  ],
+  "summary": "John I, Count of Holland, son of Floris V, Count of Holland, married Elizabeth of Rhuddlan, youngest daughter of Edward I, at Ipswich in January 1297. He succeeded his father as count in 1296 and died childless, only fifteen years old, at Haarlem in 1299.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/John_I,_Count_of_Holland",
+    "title": "John I, Count of Holland",
+    "publisher": "Wikipedia",
+    "quote": "he died childless and only fifteen years old, reportedly of dysentery, but there were suspicions he was murdered"
+   }
+  ],
+  "uncertain": "John's own Wikipedia article gives the marriage date as 7 January 1297, one day earlier than the 8 January 1297 given on Elizabeth of Rhuddlan's page, which is used here for consistency with her record. The cause of his death is also disputed between illness and suspected poisoning."
+ },
+ {
+  "id": "margaret-wake",
+  "name": "Margaret Wake",
+  "fullName": "Margaret Wake, 3rd Baroness Wake of Liddell",
+  "epithet": null,
+  "house": "Wake",
+  "role": "3rd Baroness Wake of Liddell (wife of Edmund of Woodstock)",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1297",
+   "place": null,
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Margaret_Wake,_3rd_Baroness_Wake_of_Liddell",
+     "title": "Margaret Wake, 3rd Baroness Wake of Liddell",
+     "publisher": "Wikipedia",
+     "quote": "c. 1297"
+    }
+   ]
+  },
+  "death": {
+   "date": "1349-09-19",
+   "place": null,
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Margaret_Wake,_3rd_Baroness_Wake_of_Liddell",
+     "title": "Margaret Wake, 3rd Baroness Wake of Liddell",
+     "publisher": "Wikipedia",
+     "quote": "19 September 1349"
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "edmund-woodstock",
+    "married": "1325",
+    "ended": "1330-03-19",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Edmund_of_Woodstock,_1st_Earl_of_Kent",
+      "title": "Edmund of Woodstock, 1st Earl of Kent",
+      "publisher": "Wikipedia",
+      "quote": "In late 1325, Edmund had married Margaret Wake, 3rd Baroness Wake of Liddell"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Baroness Wake of Liddell (suo jure)",
+    "from": "1349",
+    "to": "1349-09-19",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Margaret_Wake,_3rd_Baroness_Wake_of_Liddell",
+      "title": "Margaret Wake, 3rd Baroness Wake of Liddell",
+      "publisher": "Wikipedia",
+      "quote": "briefly succeeding her brother in 1349 before her death that same year from plague"
+     }
+    ]
+   }
+  ],
+  "summary": "Margaret Wake, daughter of John Wake, 1st Baron Wake of Liddell, married Edmund of Woodstock, Earl of Kent and half-brother of Edward II, in late 1325, and was left a widow with young children when Edmund was executed as a traitor in 1330. Their daughter Joan of Kent later married Edward the Black Prince. Margaret briefly held the barony of Wake of Liddell in her own right in 1349, the year she died of plague.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Margaret_Wake,_3rd_Baroness_Wake_of_Liddell",
+    "title": "Margaret Wake, 3rd Baroness Wake of Liddell",
+    "publisher": "Wikipedia",
+    "quote": "John Wake, 1st Baron Wake of Liddell"
+   }
+  ],
+  "uncertain": "Her earlier marriage, to John Comyn IV of Badenoch (c. 1312, he died 1314), is not recorded here as a spouse entry because he is not otherwise part of this dataset."
+ },
+ {
+  "id": "alice-hales",
+  "name": "Alice Hales",
+  "fullName": "Alice de Hales",
+  "epithet": null,
+  "house": "Hales",
+  "role": "1st wife of Thomas of Brotherton",
+  "monarch": false,
+  "reign": null,
+  "spouses": [
+   {
+    "id": "thomas-brotherton",
+    "married": "1326-01-08",
+    "ended": "1330-10-12",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Thomas_of_Brotherton,_1st_Earl_of_Norfolk",
+      "title": "Thomas of Brotherton, 1st Earl of Norfolk",
+      "publisher": "Wikipedia",
+      "quote": "Thomas married, firstly, before 8 January 1326, Alice de Hales (d. bef. 12 October 1330)"
+     }
+    ]
+   }
+  ],
+  "titles": [],
+  "summary": "Alice de Hales, daughter of Sir Roger de Hales of Hales Hall in Norfolk, a coroner, by his wife Alice Skogan, became the first wife of Thomas of Brotherton, Earl of Norfolk, a son of Edward I. She died before October 1330, when a chantry was founded for her soul at Bosham, Sussex.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Thomas_of_Brotherton,_1st_Earl_of_Norfolk",
+    "title": "Thomas of Brotherton, 1st Earl of Norfolk",
+    "publisher": "Wikipedia",
+    "quote": "daughter of Sir Roger de Hales of Hales Hall in Loddon in Roughton, Norfolk, a coroner, by his wife, Alice Skogan"
+   }
+  ],
+  "uncertain": "Neither her birth date nor an exact marriage/death date is attested; the source gives only upper bounds, 'before 8 January 1326' for the marriage and 'before 12 October 1330' for her death, and no birth date at all, so birth is omitted here."
+ },
+ {
+  "id": "mary-brewes",
+  "name": "Mary Brewes",
+  "fullName": "Mary de Brewes",
+  "epithet": null,
+  "house": "Brewes",
+  "role": "2nd wife of Thomas of Brotherton",
+  "monarch": false,
+  "reign": null,
+  "death": {
+   "date": "1362-06-11",
+   "place": null,
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Thomas_of_Brotherton,_1st_Earl_of_Norfolk",
+     "title": "Thomas of Brotherton, 1st Earl of Norfolk",
+     "publisher": "Wikipedia",
+     "quote": "Thomas married, secondly, before 4 April 1336, Mary de Brewes (died 11 June 1362)"
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "thomas-brotherton",
+    "married": "1336-04-04",
+    "ended": "1338-08",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Thomas_of_Brotherton,_1st_Earl_of_Norfolk",
+      "title": "Thomas of Brotherton, 1st Earl of Norfolk",
+      "publisher": "Wikipedia",
+      "quote": "Thomas married, secondly, before 4 April 1336, Mary de Brewes (died 11 June 1362)"
+     }
+    ]
+   }
+  ],
+  "titles": [],
+  "summary": "Mary de Brewes, daughter of Sir Peter de Brewes of Tetbury, Gloucestershire, and widow of Sir Ralph de Cobham, became the second wife of Thomas of Brotherton, Earl of Norfolk, a son of Edward I, before April 1336. She outlived him by twenty-four years, dying in June 1362.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Thomas_of_Brotherton,_1st_Earl_of_Norfolk",
+    "title": "Thomas of Brotherton, 1st Earl of Norfolk",
+    "publisher": "Wikipedia",
+    "quote": "widow of Sir Ralph de Cobham (died 5 February 1326), and daughter of Sir Peter de Brewes (died before 7 February 1312) of Tetbury, Gloucestershire, by Agnes de Clifford"
+   }
+  ],
+  "uncertain": "Her birth date is not attested and is omitted here. Her marriage date to Thomas is given only as an upper bound, 'before 4 April 1336'. Her earlier marriage to Sir Ralph de Cobham is not recorded as a spouse entry because he is not otherwise part of this dataset."
+ },
+ {
+  "id": "reginald-ii-guelders",
+  "name": "Reginald II",
+  "fullName": "Reginald II, Duke of Guelders",
+  "epithet": "the Black",
+  "house": "Guelders",
+  "role": "Count, later Duke, of Guelders and Zutphen",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1295",
+   "place": null,
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Reginald_II,_Duke_of_Guelders",
+     "title": "Reinald II of Guelders",
+     "publisher": "Wikipedia",
+     "quote": "c. 1295"
+    }
+   ]
+  },
+  "death": {
+   "date": "1343-10-12",
+   "place": "Arnhem",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Reginald_II,_Duke_of_Guelders",
+     "title": "Reinald II of Guelders",
+     "publisher": "Wikipedia",
+     "quote": "12 October 1343 at Arnhem"
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "eleanor-woodstock",
+    "married": "1332-05",
+    "ended": "1343-10-12",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Eleanor_of_Woodstock",
+      "title": "Eleanor of Woodstock",
+      "publisher": "Wikipedia",
+      "quote": "In May 1332 Eleanor married the count of Guelders and Zutphen, Reinoud II 'the black' (English: Reginald)."
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Count of Guelders and Zutphen",
+    "from": "1326",
+    "to": "1339",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Reginald_II,_Duke_of_Guelders",
+      "title": "Reinald II of Guelders",
+      "publisher": "Wikipedia",
+      "quote": "Count of Guelders and Zutphen from 1326"
+     }
+    ]
+   },
+   {
+    "title": "Duke of Guelders",
+    "from": "1339",
+    "to": "1343-10-12",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Reginald_II,_Duke_of_Guelders",
+      "title": "Reinald II of Guelders",
+      "publisher": "Wikipedia",
+      "quote": "elevated to Duke of Guelders in 1339"
+     }
+    ]
+   }
+  ],
+  "summary": "Reginald II, known as 'the Black', succeeded his father as Count of Guelders and Zutphen in 1326 and married Eleanor of Woodstock, daughter of Edward II, at Nijmegen in May 1332. In 1339 the Holy Roman Emperor elevated Guelders to a duchy in his favour. He died at Arnhem in 1343.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Reginald_II,_Duke_of_Guelders",
+    "title": "Reinald II of Guelders",
+    "publisher": "Wikipedia",
+    "quote": "Reginald I of Guelders and Marguerite of Flanders"
+   }
+  ],
+  "uncertain": null
+ },
+ {
+  "id": "enguerrand-vii-coucy",
+  "name": "Enguerrand VII de Coucy",
+  "fullName": "Enguerrand VII, Lord of Coucy, Earl of Bedford",
+  "epithet": null,
+  "house": "Coucy",
+  "role": "Lord of Coucy; Earl of Bedford (husband of Isabella of England)",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1340",
+   "place": "Coucy Castle, Picardy, France",
+   "precision": "year",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Enguerrand_VII,_Lord_of_Coucy",
+     "title": "Enguerrand VII de Coucy",
+     "publisher": "Wikipedia",
+     "quote": "Born...1340...Coucy Castle, Picardy, France"
+    }
+   ]
+  },
+  "death": {
+   "date": "1397-02-18",
+   "place": "Bursa, Ottoman Empire",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Enguerrand_VII,_Lord_of_Coucy",
+     "title": "Enguerrand VII de Coucy",
+     "publisher": "Wikipedia",
+     "quote": "Died 18 February 1397 (aged 56-57) Bursa, Ottoman Empire In captivity, of bubonic plague"
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "isabella-england",
+    "married": "1365-07-27",
+    "ended": null,
+    "endedBy": null,
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Enguerrand_VII,_Lord_of_Coucy",
+      "title": "Enguerrand VII de Coucy",
+      "publisher": "Wikipedia",
+      "quote": "the wealthy Coucy was betrothed and married to the 33-year-old Isabella of England"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Lord of Coucy",
+    "from": "1346-08-25",
+    "to": "1397-02-18",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Enguerrand_VII,_Lord_of_Coucy",
+      "title": "Enguerrand VII de Coucy",
+      "publisher": "Wikipedia",
+      "quote": "Lord of Coucy held 25 August 1346 - 18 February 1397"
+     }
+    ]
+   },
+   {
+    "title": "Earl of Bedford",
+    "from": "1366",
+    "to": null,
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Enguerrand_VII,_Lord_of_Coucy",
+      "title": "Enguerrand VII de Coucy",
+      "publisher": "Wikipedia",
+      "quote": "Earl of Bedford (granted during a visit to England following his 1365 marriage)"
+     }
+    ]
+   }
+  ],
+  "summary": "Enguerrand VII, Lord of Coucy, one of the great nobles of France, married Isabella of England, eldest daughter of Edward III, at Windsor in 1365 and was made Earl of Bedford in England the following year. He remained active in French politics and warfare, and was captured at the Battle of Nicopolis in 1396 during a crusade against the Ottomans; weakened by his wounds, he died in captivity at Bursa of bubonic plague in February 1397.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Enguerrand_VII,_Lord_of_Coucy",
+    "title": "Enguerrand VII de Coucy",
+    "publisher": "Wikipedia",
+    "quote": "Captured at the Battle of Nicopolis in 1396"
+   }
+  ],
+  "uncertain": "As with Isabella of England's own record, the end of the marriage is left unresolved: Isabella's date of death is genuinely disputed between sources (1379 or 1382), predating Enguerrand's own death in 1397, and no source consulted here states when his English earldom of Bedford lapsed."
+ },
+ {
+  "id": "thomas-holland-kent",
+  "name": "Thomas Holland",
+  "fullName": "Thomas Holland, 1st Earl of Kent",
+  "epithet": null,
+  "house": "Holland",
+  "role": "1st Earl of Kent jure uxoris (1st husband of Joan of Kent)",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1314",
+   "place": "Upholland, Lancashire",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Thomas_Holland,_1st_Earl_of_Kent",
+     "title": "Thomas Holland, 1st Earl of Kent",
+     "publisher": "Wikipedia",
+     "quote": "c. 1314"
+    }
+   ]
+  },
+  "death": {
+   "date": "1360-12-28",
+   "place": "Normandy",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Thomas_Holland,_1st_Earl_of_Kent",
+     "title": "Thomas Holland, 1st Earl of Kent",
+     "publisher": "Wikipedia",
+     "quote": "28 December 1360 (aged around 46)"
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "joan-plantagenet",
+    "married": "1340",
+    "ended": "1360-12-28",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Joan_of_Kent",
+      "title": "Joan of Kent",
+      "publisher": "Wikipedia",
+      "quote": "In 1340, at the age of about twelve, Joan secretly married 26-year-old Thomas Holland"
+     }
+    ]
+   }
+  ],
+  "titles": [],
+  "summary": "Thomas Holland, a soldier who fought at the Battle of Crecy and the siege of Caen and was a founding Knight of the Order of the Garter in 1348, secretly married Joan of Kent, granddaughter of Edward I, in 1340 while both were young; the marriage was contested for years by a rival match forced on Joan with William Montagu, and only settled in Holland's favour by papal ruling in 1349. Through Joan he was recognised as Earl of Kent jure uxoris shortly before his death on campaign in Normandy in December 1360.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Thomas_Holland,_1st_Earl_of_Kent",
+    "title": "Thomas Holland, 1st Earl of Kent",
+    "publisher": "Wikipedia",
+    "quote": "In 1348, he was invested as one of the founders and 13th Knight of the new Order of the Garter"
+   }
+  ],
+  "uncertain": "Joan of Kent's marital history is genuinely contested in the sources: she secretly married Holland in 1340, was separately married to William Montagu while Holland was overseas, and the dispute between the two unions went to the papal curia, which ruled for Holland's marriage as valid in 1349. This record does not attempt to resolve the underlying contemporary confusion beyond reporting the papal ruling."
+ },
+ {
+  "id": "william-montagu-salisbury",
+  "name": "William Montagu",
+  "fullName": "William Montagu, 2nd Earl of Salisbury",
+  "epithet": null,
+  "house": "Montagu",
+  "role": "2nd Earl of Salisbury (contested husband of Joan of Kent)",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1328-06-25",
+   "place": "Donyatt, Somerset, England",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/William_de_Montacute,_2nd_Earl_of_Salisbury",
+     "title": "William Montagu, 2nd Earl of Salisbury",
+     "publisher": "Wikipedia",
+     "quote": "25 June 1328 in Donyatt in Somerset, England"
+    }
+   ]
+  },
+  "death": {
+   "date": "1397-06-03",
+   "place": null,
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/William_de_Montacute,_2nd_Earl_of_Salisbury",
+     "title": "William Montagu, 2nd Earl of Salisbury",
+     "publisher": "Wikipedia",
+     "quote": "3 June 1397 (aged 68)"
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "joan-plantagenet",
+    "married": "1341",
+    "ended": "1349",
+    "endedBy": "annulment",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Joan_of_Kent",
+      "title": "Joan of Kent",
+      "publisher": "Wikipedia",
+      "quote": "In 1349, the proceedings ruled in Holland's favour. Pope Clement VI annulled Joan's marriage to Salisbury."
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Earl of Salisbury",
+    "from": "1344",
+    "to": "1397-06-03",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/William_de_Montacute,_2nd_Earl_of_Salisbury",
+      "title": "William Montagu, 2nd Earl of Salisbury",
+      "publisher": "Wikipedia",
+      "quote": "Earl of Salisbury and Baron Montagu from 1344-1397"
+     }
+    ]
+   }
+  ],
+  "summary": "William Montagu, 2nd Earl of Salisbury, married Joan of Kent while both were teenagers in the early 1340s, unaware, on his side, that she had already secretly married Thomas Holland. When Holland returned from campaign in 1348 and pressed his claim, an ecclesiastical inquiry found in Holland's favour, and the Pope annulled Joan's marriage to Montagu in 1349. Montagu later married Elizabeth Mohun and lived at Bisham Manor in Berkshire; he died in 1397.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/William_de_Montacute,_2nd_Earl_of_Salisbury",
+    "title": "William Montagu, 2nd Earl of Salisbury",
+    "publisher": "Wikipedia",
+    "quote": "Following the findings of the inquiry, Lord Salisbury's marriage with Joan, Fair Maid of Kent, was annulled by the Pope in 1349."
+   }
+  ],
+  "uncertain": "Joan of Kent's marital status between 1340 and 1349 is a genuinely contested case that went to the Pope; contemporaries and later historians differ on whether Montagu's marriage was ever valid or merely a family-arranged match made while Holland was believed permanently absent. This record reports the papal ruling without treating the underlying contemporary dispute as settled. His second marriage, to Elizabeth Mohun, is not recorded as a spouse entry because she is not otherwise part of this dataset."
+ }
+]

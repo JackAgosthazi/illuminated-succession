@@ -1,0 +1,2479 @@
+[
+ {
+  "id": "edward-confessor",
+  "name": "Edward the Confessor",
+  "fullName": "Edward the Confessor",
+  "epithet": "the Confessor",
+  "house": "Wessex",
+  "monarch": true,
+  "reign": {
+   "start": "1042",
+   "end": "1066-01-05",
+   "citations": [
+    {
+     "url": "https://www.royal.uk/edward-iii-confessor-r-1042-1066",
+     "title": "Edward III 'The Confessor' (r. 1042-1066) | The Royal Family",
+     "publisher": "The Royal Family (royal.uk)",
+     "quote": "In 1042 Edward 'the Confessor' became King"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Edward_the_Confessor",
+     "title": "Edward the Confessor - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "King of the English from 1042 until his death in 1066"
+    }
+   ]
+  },
+  "birth": {
+   "date": "1003",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Edward_the_Confessor",
+     "title": "Edward the Confessor - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Edward the Confessor (1003/1005 – 5 January 1066)"
+    }
+   ]
+  },
+  "death": {
+   "date": "1066-01-05",
+   "place": "Westminster",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Edward_the_Confessor",
+     "title": "Edward the Confessor - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Edward probably entrusted the kingdom to Harold and Edith shortly before he died at Westminster on 5 January 1066"
+    }
+   ]
+  },
+  "parents": [
+   "aethelred-unraed",
+   "emma-normandy"
+  ],
+  "spouses": [
+   {
+    "id": "edith-wessex",
+    "married": "1045-01-23",
+    "ended": "1066-01-05",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Edward_the_Confessor",
+      "title": "Edward the Confessor - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "on 23 January 1045 Edward married Godwin's daughter Edith"
+     }
+    ]
+   }
+  ],
+  "summary": "Edward the Confessor was King of the English from 1042 until his death in 1066, the son of Æthelred the Unready and Emma of Normandy. In 1045 he married Edith, daughter of Earl Godwin of Wessex, but the marriage produced no children. His death at Westminster on 5 January 1066 left the succession disputed, a crisis that led directly to the Norman Conquest.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Edward_the_Confessor",
+    "title": "Edward the Confessor - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "Edward was the son of Æthelred the Unready and Emma of Normandy"
+   },
+   {
+    "url": "https://en.wikisource.org/wiki/Page:The_Anglo-Saxon_Chronicle_(Giles).djvu/157",
+    "title": "The Anglo-Saxon Chronicle (Giles)",
+    "publisher": "Wikisource",
+    "quote": "Archbishop Aldred and the townsmen of London would then have child Edgar for king, all as was his true natural right"
+   }
+  ],
+  "uncertain": "Birth year is uncertain, with sources giving 1003 or 1005. Edward's intentions for the succession are disputed among historians, contributing to the rival claims of Harold Godwinson, William of Normandy, and Edgar Ætheling after his death."
+ },
+ {
+  "id": "harold-godwinson",
+  "name": "Harold II",
+  "fullName": "Harold Godwinson",
+  "house": "Godwin",
+  "monarch": true,
+  "reign": {
+   "start": "1066-01-06",
+   "end": "1066-10-14",
+   "citations": [
+    {
+     "url": "https://www.royal.uk/harold-ii-r-jan-oct-1066",
+     "title": "Harold II (r. Jan - Oct 1066) | The Royal Family",
+     "publisher": "The Royal Family (royal.uk)",
+     "quote": "Harold had himself crowned in Westminster Abbey on 6 January 1066, the day after Edward's death"
+    },
+    {
+     "url": "https://en.wikisource.org/wiki/Page:The_Anglo-Saxon_Chronicle_(Giles).djvu/155",
+     "title": "The Anglo-Saxon Chronicle (Giles)",
+     "publisher": "Wikisource",
+     "quote": "And this year also was Harold consecrated king; and he with little quiet abode therein, the while that he wielded the realm."
+    }
+   ]
+  },
+  "birth": {
+   "date": "1022",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Harold_Godwinson",
+     "title": "Harold Godwinson - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Harold was aged about 25 in 1045, which makes his birth year around 1020."
+    }
+   ]
+  },
+  "death": {
+   "date": "1066-10-14",
+   "place": "Senlac Hill, near Hastings",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://www.royal.uk/harold-ii-r-jan-oct-1066",
+     "title": "Harold II (r. Jan - Oct 1066) | The Royal Family",
+     "publisher": "The Royal Family (royal.uk)",
+     "quote": "Harold was hit in the eye by an arrow and cut down by Norman swords"
+    },
+    {
+     "url": "https://en.wikisource.org/wiki/Page:The_Anglo-Saxon_Chronicle_(Giles).djvu/157",
+     "title": "The Anglo-Saxon Chronicle (Giles)",
+     "publisher": "Wikisource",
+     "quote": "There was slain king Harold, and Leofwin the earl, his brother, and Girth the earl, his brother, and many good men; and the Frenchmen had possession of the place of carnage."
+    }
+   ]
+  },
+  "parents": [
+   "godwin-wessex",
+   "gytha-thorkelsdottir"
+  ],
+  "spouses": [
+   {
+    "id": "edith-swanneck",
+    "married": "1046",
+    "ended": "1066-10-14",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Harold_Godwinson",
+      "title": "Harold Godwinson - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "in a more danico marriage with Edith the Fair for approximately twenty years and had at least five children with her"
+     }
+    ]
+   },
+   {
+    "id": "ealdgyth-mercia",
+    "married": "1066",
+    "ended": "1066-10-14",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Harold_Godwinson",
+      "title": "Harold Godwinson - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "In about January 1066, Harold married Ealdgyth, daughter of Earl Ælfgar."
+     }
+    ]
+   }
+  ],
+  "summary": "Harold Godwinson, son of Godwin, Earl of Wessex, and Gytha Thorkelsdóttir, was crowned King of the English on 6 January 1066, the day after Edward the Confessor's death. He maintained a decades-long customary union with Edith Swanneck and married Ealdgyth of Mercia early in 1066. Harold defeated his brother Tostig and Harald Hardrada at Stamford Bridge in September 1066, but was killed alongside his brothers Gyrth and Leofwine at the Battle of Hastings on 14 October 1066.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Harold_Godwinson",
+    "title": "Harold Godwinson - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "His father was \"Godwin\" (died 1053), the powerful Earl of Wessex"
+   }
+  ],
+  "uncertain": "Harold's birth year is uncertain; regnal-age calculations point to c. 1020, while other sources give c. 1022/1023. His long union with Edith Swanneck was a customary (more danico) rather than church-blessed marriage, and sources disagree on whether it should count as a true marriage; whether his 1066 marriage to Ealdgyth of Mercia produced surviving children is also disputed."
+ },
+ {
+  "id": "edgar-atheling",
+  "name": "Edgar Ætheling",
+  "fullName": "Edgar Ætheling",
+  "epithet": "Ætheling",
+  "house": "Wessex",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1052",
+   "place": "Kingdom of Hungary",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Edgar_%C3%86theling",
+     "title": "Edgar Ætheling - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Edgar was probably born around 1052 in Hungary"
+    }
+   ]
+  },
+  "parents": [
+   "edward-exile",
+   "agatha-exile"
+  ],
+  "spouses": [],
+  "titles": [
+   {
+    "title": "King-elect of the English (uncrowned)",
+    "from": "1066-10",
+    "to": "1066-12",
+    "citations": [
+     {
+      "url": "https://en.wikisource.org/wiki/Page:The_Anglo-Saxon_Chronicle_(Giles).djvu/157",
+      "title": "The Anglo-Saxon Chronicle (Giles)",
+      "publisher": "Wikisource",
+      "quote": "Archbishop Aldred and the townsmen of London would then have child Edgar for king, all as was his true natural right: and Edwin and Morcar vowed to him that they would fight together with him."
+     },
+     {
+      "url": "https://en.wikipedia.org/wiki/Edgar_%C3%86theling",
+      "title": "Edgar Ætheling - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "he was never formally anointed"
+     }
+    ]
+   }
+  ],
+  "summary": "Edgar Ætheling, grandson of Edmund Ironside through Edward the Exile, was proclaimed king by the archbishop of York and the leading men of London after the Battle of Hastings in 1066, but was never crowned. He submitted to William the Conqueror before the year's end and remained a marginal claimant for decades afterward; he was still alive as late as 1125, though the date and circumstances of his death go unrecorded.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Edgar_%C3%86theling",
+    "title": "Edgar Ætheling - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "he was chosen as king by the archbishop of York and the leading citizens of London"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Edgar_%C3%86theling",
+    "title": "Edgar Ætheling - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "Edgar was still alive in 1125, according to William of Malmesbury"
+   }
+  ],
+  "uncertain": "Edgar was proclaimed but never crowned king in the winter of 1066, a claim eclipsed once William secured London; whether this makes him a legitimate (if uncrowned) monarch is a matter of editorial judgement, hence monarch: false here. No marriage or legitimate children are reliably documented despite a late and disputed claim of one daughter; his death date is unknown beyond a last mention of him being alive in 1125."
+ },
+ {
+  "id": "william-i",
+  "name": "William I",
+  "fullName": "William the Conqueror",
+  "epithet": "the Conqueror",
+  "house": "Normandy",
+  "monarch": true,
+  "reign": {
+   "start": "1066-12-25",
+   "end": "1087-09-09",
+   "citations": [
+    {
+     "url": "https://www.royal.uk/william-the-conqueror",
+     "title": "William I 'The Conqueror' (r. 1066-1087) | The Royal Family",
+     "publisher": "The Royal Family (royal.uk)",
+     "quote": "William was crowned on Christmas Day 1066 in Westminster Abbey"
+    },
+    {
+     "url": "https://en.wikisource.org/wiki/Page:The_Anglo-Saxon_Chronicle_(Giles).djvu/157",
+     "title": "The Anglo-Saxon Chronicle (Giles)",
+     "publisher": "Wikisource",
+     "quote": "Then, on mid-winter's day, archbishop Aldred consecrated him king at Westminster; and he gave him a pledge upon Christ's book."
+    }
+   ]
+  },
+  "birth": {
+   "date": "1028",
+   "place": "Falaise, Duchy of Normandy",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/William_the_Conqueror",
+     "title": "William the Conqueror - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "William was born in 1027 or 1028 at Falaise, Duchy of Normandy, most likely towards the end of 1028."
+    },
+    {
+     "url": "https://www.royal.uk/william-the-conqueror",
+     "title": "William I 'The Conqueror' (r. 1066-1087) | The Royal Family",
+     "publisher": "The Royal Family (royal.uk)",
+     "quote": "Born around 1028, William was the illegitimate son of Duke Robert I of Normandy"
+    }
+   ]
+  },
+  "death": {
+   "date": "1087-09-09",
+   "place": "Priory of Saint Gervase, Rouen",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/William_the_Conqueror",
+     "title": "William the Conqueror - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "he died in September 1087 ... on 9 September 1087 (aged about 59)"
+    },
+    {
+     "url": "https://www.royal.uk/william-the-conqueror",
+     "title": "William I 'The Conqueror' (r. 1066-1087) | The Royal Family",
+     "publisher": "The Royal Family (royal.uk)",
+     "quote": "Before his death on 9 September 1087, William divided his 'Anglo-Norman' state between his sons"
+    }
+   ]
+  },
+  "parents": [
+   "robert-i-normandy",
+   "herleva"
+  ],
+  "spouses": [
+   {
+    "id": "matilda-flanders",
+    "married": "1051",
+    "ended": "1083-11-02",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/William_the_Conqueror",
+      "title": "William the Conqueror - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "The union was arranged in 1049 ... the marriage nevertheless went ahead in the early 1050s"
+     }
+    ]
+   }
+  ],
+  "summary": "William I, 'the Conqueror', was born around 1028 in Falaise, the illegitimate son of Robert I, Duke of Normandy, and Herleva. He defeated Harold Godwinson at the Battle of Hastings on 14 October 1066 and was crowned King of England at Westminster on Christmas Day 1066. He married Matilda of Flanders in the early 1050s, and died at Rouen on 9 September 1087.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/William_the_Conqueror",
+    "title": "William the Conqueror - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "he reigned from 1066 until his death"
+   }
+  ],
+  "uncertain": "William's exact birth date is uncertain; sources place it in 1027 or 1028, most likely late 1028."
+ },
+ {
+  "id": "william-ii",
+  "name": "William II",
+  "fullName": "William Rufus",
+  "epithet": "Rufus",
+  "house": "Normandy",
+  "monarch": true,
+  "reign": {
+   "start": "1087-09-26",
+   "end": "1100-08-02",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/William_II_of_England",
+     "title": "William II of England - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "From 26 September 1087 until his death in 1100"
+    },
+    {
+     "url": "https://www.royal.uk/william-rufus",
+     "title": "William II (Known as William Rufus) (r. 1087-1100) | The Royal Family",
+     "publisher": "The Royal Family (royal.uk)",
+     "quote": "William II (reigned 1087-1100)"
+    }
+   ]
+  },
+  "birth": {
+   "date": "1057",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/William_II_of_England",
+     "title": "William II of England - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "c. 1057"
+    }
+   ]
+  },
+  "death": {
+   "date": "1100-08-02",
+   "place": "New Forest",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://www.royal.uk/william-rufus",
+     "title": "William II (Known as William Rufus) (r. 1087-1100) | The Royal Family",
+     "publisher": "The Royal Family (royal.uk)",
+     "quote": "William died on 2 August 1100, after being shot by an arrow whilst hunting in the New Forest."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/William_II_of_England",
+     "title": "William II of England - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "was killed by an arrow through the lung"
+    }
+   ]
+  },
+  "parents": [
+   "william-i",
+   "matilda-flanders"
+  ],
+  "spouses": [],
+  "summary": "William II, known as William Rufus for his ruddy complexion, was the third son of William the Conqueror and Matilda of Flanders. He reigned as King of England from 26 September 1087 until his death, never marrying or fathering children. He was killed by an arrow while hunting in the New Forest on 2 August 1100, in circumstances that remain disputed.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/William_II_of_England",
+    "title": "William II of England - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "did not marry or have children"
+   }
+  ],
+  "uncertain": "William Rufus's exact birth date is unknown (c. 1057). The circumstances of his death in the New Forest are disputed: chroniclers named Walter Tirel as responsible, but modern historians debate whether it was accident or assassination."
+ },
+ {
+  "id": "henry-i",
+  "name": "Henry I",
+  "fullName": "Henry Beauclerc",
+  "epithet": "Beauclerc",
+  "house": "Normandy",
+  "monarch": true,
+  "reign": {
+   "start": "1100-08-05",
+   "end": "1135-12-01",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Henry_I_of_England",
+     "title": "Henry I of England - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "King of England from 1100 to his death in 1135"
+    },
+    {
+     "url": "https://www.royal.uk/henry-i",
+     "title": "Henry I 'Beauclerc' (r. 1100-1135) | The Royal Family",
+     "publisher": "The Royal Family (royal.uk)",
+     "quote": "Henry I was crowned three days after his brother's death"
+    }
+   ]
+  },
+  "birth": {
+   "date": "1068",
+   "place": "England, possibly Selby, Yorkshire",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Henry_I_of_England",
+     "title": "Henry I of England - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Henry was probably born in England in 1068, in either the summer or the last weeks of the year, possibly in the town of Selby in Yorkshire."
+    }
+   ]
+  },
+  "death": {
+   "date": "1135-12-01",
+   "place": "Saint-Denis-en-Lyons, Normandy",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Henry_I_of_England",
+     "title": "Henry I of England - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Henry died on 1 December 1135 after a week of illness"
+    },
+    {
+     "url": "https://www.royal.uk/henry-i",
+     "title": "Henry I 'Beauclerc' (r. 1100-1135) | The Royal Family",
+     "publisher": "The Royal Family (royal.uk)",
+     "quote": "Henry died in 1135, allegedly from eating too many lampreys"
+    }
+   ]
+  },
+  "parents": [
+   "william-i",
+   "matilda-flanders"
+  ],
+  "spouses": [
+   {
+    "id": "matilda-scotland",
+    "married": "1100-11-11",
+    "ended": "1118-05-01",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Henry_I_of_England",
+      "title": "Henry I of England - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "On 11 November 1100 Henry married Matilda, the daughter of Malcolm III of Scotland, in Westminster Abbey."
+     }
+    ]
+   },
+   {
+    "id": "adeliza-louvain",
+    "married": "1121-01-24",
+    "ended": "1135-12-01",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Adeliza_of_Louvain",
+      "title": "Adeliza of Louvain - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "the couple wed on 24 January 1121"
+     }
+    ]
+   }
+  ],
+  "summary": "Henry I, fourth son of William the Conqueror and Matilda of Flanders, was born around 1068. He was crowned King of England on 5 August 1100, days after the death of his brother William II. He married Matilda of Scotland in 1100 and, after her death, Adeliza of Louvain in 1121. His only legitimate son, William Adelin, drowned in the White Ship disaster of 1120, precipitating the succession crisis resolved only after Henry's own death on 1 December 1135.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Henry_I_of_England",
+    "title": "Henry I of England - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "The couple soon had two children, Matilda, born in 1102, and William Adelin, born in 1103."
+   }
+  ],
+  "uncertain": "Henry's exact birthplace is uncertain; sources say only that he was 'probably' born in England, possibly at Selby."
+ },
+ {
+  "id": "stephen",
+  "name": "Stephen",
+  "fullName": "Stephen of Blois",
+  "house": "Blois",
+  "monarch": true,
+  "reign": {
+   "start": "1135-12-22",
+   "end": "1154-10-25",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Stephen,_King_of_England",
+     "title": "Stephen, King of England - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "King of England from 22 December 1135 to his death in 1154"
+    },
+    {
+     "url": "https://avalon.law.yale.edu/medieval/ang12.asp",
+     "title": "The Avalon Project - The Anglo-Saxon Chronicle : Twelfth Century",
+     "publisher": "Avalon Project, Yale Law School",
+     "quote": "Meanwhile was his nephew come to England, Stephen de Blois. He came to London, and the people of London received him, and sent after the Archbishop William Curboil, and hallowed him to king on midwinter day."
+    }
+   ]
+  },
+  "birth": {
+   "date": "1096",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Stephen,_King_of_England",
+     "title": "Stephen, King of England - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Stephen (1092 or 1096 – 25 October 1154), often referred to as Stephen of Blois"
+    }
+   ]
+  },
+  "death": {
+   "date": "1154-10-25",
+   "place": "Dover, Kent",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Stephen,_King_of_England",
+     "title": "Stephen, King of England - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Died 25 October 1154 (aged 57–58 or 61–62) Dover, Kent, Kingdom of England"
+    }
+   ]
+  },
+  "parents": [
+   "stephen-blois",
+   "adela-normandy"
+  ],
+  "spouses": [
+   {
+    "id": "matilda-boulogne",
+    "married": "1125",
+    "ended": "1152-05-03",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Stephen,_King_of_England",
+      "title": "Stephen, King of England - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "The King arranged for Stephen to marry in 1125 to Matilda"
+     }
+    ]
+   }
+  ],
+  "summary": "Stephen of Blois, son of Stephen-Henry, Count of Blois, and Adela of Normandy (a daughter of William the Conqueror), was crowned King of England on 22 December 1135 after seizing the throne from his cousin Empress Matilda. His reign was dominated by the civil war remembered as the Anarchy, described by the Anglo-Saxon Chronicle as 'the nineteen winters while Stephen was king'. He married Matilda of Boulogne in 1125; their eldest son and heir Eustace died in 1153, and Stephen agreed that Empress Matilda's son Henry would succeed him. Stephen died at Dover on 25 October 1154.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Stephen,_King_of_England",
+    "title": "Stephen, King of England - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "His father was Stephen-Henry, Count of Blois and Chartres"
+   },
+   {
+    "url": "https://avalon.law.yale.edu/medieval/ang12.asp",
+    "title": "The Avalon Project - The Anglo-Saxon Chronicle : Twelfth Century",
+    "publisher": "Avalon Project, Yale Law School",
+    "quote": "This lasted the nineteen winters while Stephen was king; and it grew continually worse and worse."
+   },
+   {
+    "url": "https://www.royal.uk/stephen-and-matilda",
+    "title": "Stephen and Matilda (r. 1135-1154) | The Royal Family",
+    "publisher": "The Royal Family (royal.uk)",
+    "quote": "Though charming, attractive and (when required) a brave warrior, Stephen (reigned 1135-54) lacked ruthlessness and failed to inspire loyalty."
+   }
+  ],
+  "uncertain": "Stephen's birth year is uncertain (1092 or 1096, depending on the source)."
+ },
+ {
+  "id": "matilda-empress",
+  "name": "Empress Matilda",
+  "fullName": "Matilda",
+  "epithet": "the Empress",
+  "house": "Normandy",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1102-02-07",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Empress_Matilda",
+     "title": "Empress Matilda - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "c. 7 February 1102"
+    }
+   ]
+  },
+  "death": {
+   "date": "1167-09-10",
+   "place": "Rouen",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Empress_Matilda",
+     "title": "Empress Matilda - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Matilda died on 10 September 1167 in Rouen"
+    }
+   ]
+  },
+  "parents": [
+   "henry-i",
+   "matilda-scotland"
+  ],
+  "spouses": [
+   {
+    "id": "geoffrey-anjou",
+    "married": "1128-06-17",
+    "ended": "1151-09-07",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Empress_Matilda",
+      "title": "Empress Matilda - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Matilda and Geoffrey were married a week later on 17 June 1128 in Le Mans"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Lady of the English",
+    "from": "1141",
+    "to": "1141",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Empress_Matilda",
+      "title": "Empress Matilda - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "she was styled as Lady of the English (Latin: domina Anglorum) rather than queen, since she was never formally declared Queen of England"
+     }
+    ]
+   }
+  ],
+  "summary": "Empress Matilda, daughter and designated heir of Henry I and Matilda of Scotland, was previously married to the Holy Roman Emperor Henry V and, after his death, married Geoffrey of Anjou in 1128. On her father's death in 1135 she claimed the English throne, but her cousin Stephen of Blois was crowned instead, precipitating the civil war known as the Anarchy. She controlled much of England briefly in 1141, styled 'Lady of the English', but was never crowned queen. Her son by Geoffrey became King Henry II. She died at Rouen on 10 September 1167.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Empress_Matilda",
+    "title": "Empress Matilda - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "Following the death of her father, King Henry I of England, as his only surviving child and nominated heir, she asserted her right to the English throne"
+   },
+   {
+    "url": "https://www.royal.uk/stephen-and-matilda",
+    "title": "Stephen and Matilda (r. 1135-1154) | The Royal Family",
+    "publisher": "The Royal Family (royal.uk)",
+    "quote": "Henry I's daughter Matilda invaded England in 1139 to claim the throne, and the country was plunged into civil war."
+   }
+  ],
+  "uncertain": "Matilda's claim to the English throne is genuinely disputed in the sources: her cousin Stephen was crowned and reigned as king, while she was never crowned and held only the style 'Lady of the English' during her ascendancy in 1141. She is recorded here as monarch: false to reflect that Stephen, not she, held the crown, even though she is her father's designated heir in her own telling and that of her supporters."
+ },
+ {
+  "id": "aethelred-unraed",
+  "name": "Æthelred the Unready",
+  "fullName": "Æthelred II",
+  "epithet": "the Unready",
+  "house": "Wessex",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "968",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/%C3%86thelred_the_Unready",
+     "title": "Æthelred the Unready - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Æthelred II (c. 968 – 23 April 1016), known as Æthelred the Unready"
+    }
+   ]
+  },
+  "death": {
+   "date": "1016-04-23",
+   "place": "London",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/%C3%86thelred_the_Unready",
+     "title": "Æthelred the Unready - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Æthelred died on 23 April 1016"
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "emma-normandy",
+    "married": "1002",
+    "ended": "1016-04-23",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Emma_of_Normandy",
+      "title": "Emma of Normandy - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "King Æthelred of England married Emma in 1002 AD"
+     }
+    ]
+   }
+  ],
+  "summary": "Æthelred II, called 'the Unready', was King of the English from 978 to his death in 1016, his reign briefly interrupted by Sweyn Forkbeard's conquest in 1013–1014. He married Emma of Normandy in 1002; their son was Edward the Confessor. He died in London on 23 April 1016.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/%C3%86thelred_the_Unready",
+    "title": "Æthelred the Unready - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "Ælfgifu of York"
+   }
+  ],
+  "uncertain": "Æthelred's reign was interrupted by Sweyn Forkbeard's invasion in 1013–1014. He also had numerous children by an earlier marriage to Ælfgifu of York, including Edmund Ironside; these half-siblings of Edward the Confessor are not given individual entries in this dataset for reasons of scope.",
+  "role": "King of the English, 978–1013 and 1014–1016"
+ },
+ {
+  "id": "emma-normandy",
+  "name": "Emma of Normandy",
+  "fullName": "Emma of Normandy",
+  "house": "Normandy",
+  "monarch": false,
+  "birth": {
+   "date": "984",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Emma_of_Normandy",
+     "title": "Emma of Normandy - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "c. 984"
+    }
+   ]
+  },
+  "death": {
+   "date": "1052",
+   "place": "Winchester",
+   "precision": "year",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Emma_of_Normandy",
+     "title": "Emma of Normandy - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "After her death in 1052"
+    }
+   ]
+  },
+  "parents": [],
+  "spouses": [
+   {
+    "id": "aethelred-unraed",
+    "married": "1002",
+    "ended": "1016-04-23",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Emma_of_Normandy",
+      "title": "Emma of Normandy - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "King Æthelred of England married Emma in 1002 AD"
+     }
+    ]
+   },
+   {
+    "id": "cnut",
+    "married": "1017",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Emma_of_Normandy",
+      "title": "Emma of Normandy - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "At the time of their marriage in 1017"
+     }
+    ]
+   }
+  ],
+  "summary": "Emma of Normandy, daughter of Richard I, Duke of Normandy, married King Æthelred the Unready in 1002 and, after the Danish conquest, King Cnut in 1017, becoming queen consort of England twice over. Her son by Æthelred was Edward the Confessor; her children by Cnut included Harthacnut and Gunhilda of Denmark. She died in 1052.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Emma_of_Normandy",
+    "title": "Emma of Normandy - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "Edward the Confessor"
+   }
+  ],
+  "uncertain": "Her exact birth year is approximate (c. 984)."
+ },
+ {
+  "id": "godwin-wessex",
+  "name": "Godwin, Earl of Wessex",
+  "fullName": "Godwin of Wessex",
+  "house": "Godwin",
+  "monarch": false,
+  "death": {
+   "date": "1053-04-15",
+   "place": "Winchester",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Godwin,_Earl_of_Wessex",
+     "title": "Godwin, Earl of Wessex - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Godwin died 15 April 1053"
+    }
+   ]
+  },
+  "parents": [],
+  "spouses": [
+   {
+    "id": "gytha-thorkelsdottir",
+    "married": "1020",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Godwin,_Earl_of_Wessex",
+      "title": "Godwin, Earl of Wessex - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Gytha Thorkelsdóttir"
+     }
+    ],
+    "precision": "circa"
+   }
+  ],
+  "titles": [
+   {
+    "title": "Earl of Wessex",
+    "from": "1020",
+    "to": "1053",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Godwin,_Earl_of_Wessex",
+      "title": "Godwin, Earl of Wessex - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "the first Earl of Wessex"
+     }
+    ]
+   }
+  ],
+  "summary": "Godwin, Earl of Wessex, the most powerful nobleman in England under Edward the Confessor, married the Danish noblewoman Gytha Thorkelsdóttir. Their children included Harold II, Edith of Wessex, Tostig, Gyrth, and Leofwine. He died suddenly at Winchester on 15 April 1053, four days after collapsing at the king's table.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Godwin,_Earl_of_Wessex",
+    "title": "Godwin, Earl of Wessex - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "According to the Anglo-Saxon Chronicle"
+   }
+  ],
+  "uncertain": "Godwin's exact birth year is not established in the sources consulted; he is generally placed in the first decade of the eleventh century. He had further children (including Sweyn, Wulfnoth, and Gunhilda) not given individual entries here for reasons of scope."
+ },
+ {
+  "id": "gytha-thorkelsdottir",
+  "name": "Gytha Thorkelsdóttir",
+  "fullName": "Gytha Thorkelsdóttir",
+  "monarch": false,
+  "birth": {
+   "date": "997",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Gytha_Thorkelsd%C3%B3ttir",
+     "title": "Gytha Thorkelsdóttir - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Gytha Thorkelsdóttir (c. 997 – c. 1069), also called Githa, was a Danish noblewoman."
+    }
+   ]
+  },
+  "death": {
+   "date": "1069",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Gytha_Thorkelsd%C3%B3ttir",
+     "title": "Gytha Thorkelsdóttir - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Gytha Thorkelsdóttir (c. 997 – c. 1069), also called Githa, was a Danish noblewoman."
+    }
+   ]
+  },
+  "parents": [],
+  "spouses": [
+   {
+    "id": "godwin-wessex",
+    "married": "1020",
+    "ended": "1053-04-15",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Gytha_Thorkelsd%C3%B3ttir",
+      "title": "Gytha Thorkelsdóttir - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "She married the Anglo-Saxon nobleman Godwin of Wessex."
+     }
+    ],
+    "precision": "circa"
+   }
+  ],
+  "summary": "Gytha Thorkelsdóttir, a Danish noblewoman and daughter of the chieftain Thorgil Sprakling, married Godwin, Earl of Wessex. She was the mother of King Harold II and at least eight other children, including Edith of Wessex, Tostig, Gyrth, and Leofwine Godwinson.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Gytha_Thorkelsd%C3%B3ttir",
+    "title": "Gytha Thorkelsdóttir - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "Gytha Thorkelsdóttir was the daughter of Danish chieftain Thorgil Sprakling (also called Thorkel)."
+   }
+  ],
+  "uncertain": "Her birth and death dates are approximate (c. 997 – c. 1069)."
+ },
+ {
+  "id": "edith-wessex",
+  "name": "Edith of Wessex",
+  "fullName": "Edith of Wessex",
+  "house": "Godwin",
+  "monarch": false,
+  "birth": {
+   "date": "1027",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Edith_of_Wessex",
+     "title": "Edith of Wessex - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "She was probably born in or before 1027."
+    }
+   ]
+  },
+  "death": {
+   "date": "1075-12-18",
+   "place": "Winchester",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Edith_of_Wessex",
+     "title": "Edith of Wessex - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "She died at Winchester on 18 December 1075."
+    }
+   ]
+  },
+  "parents": [
+   "godwin-wessex",
+   "gytha-thorkelsdottir"
+  ],
+  "spouses": [
+   {
+    "id": "edward-confessor",
+    "married": "1045-01-23",
+    "ended": "1066-01-05",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Edith_of_Wessex",
+      "title": "Edith of Wessex - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Edith married Edward on 23 January 1045."
+     }
+    ]
+   }
+  ],
+  "summary": "Edith of Wessex, daughter of Godwin, Earl of Wessex, and Gytha Thorkelsdóttir, married King Edward the Confessor on 23 January 1045. The marriage produced no children. She died at Winchester on 18 December 1075.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Edith_of_Wessex",
+    "title": "Edith of Wessex - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "Edith was the daughter of Godwin, the most powerful earl in England."
+   }
+  ],
+  "uncertain": "Sources debate why the marriage was childless; ecclesiastical writers variously attributed it to a vow of celibacy by Edward or to estrangement from the Godwin family."
+ },
+ {
+  "id": "tostig-godwinson",
+  "name": "Tostig Godwinson",
+  "fullName": "Tostig Godwinson",
+  "house": "Godwin",
+  "monarch": false,
+  "birth": {
+   "date": "1029",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Tostig_Godwinson",
+     "title": "Tostig Godwinson - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Tostig Godwinson (c. 1029 – 25 September 1066)"
+    }
+   ]
+  },
+  "death": {
+   "date": "1066-09-25",
+   "place": "Stamford Bridge",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Tostig_Godwinson",
+     "title": "Tostig Godwinson - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Hardrada, Tostig, and many of their men were killed"
+    },
+    {
+     "url": "https://en.wikisource.org/wiki/Page:The_Anglo-Saxon_Chronicle_(Giles).djvu/156",
+     "title": "The Anglo-Saxon Chronicle (Giles)",
+     "publisher": "Wikisource",
+     "quote": "Harold the Fair-haired, and Tosty the earl"
+    }
+   ]
+  },
+  "parents": [
+   "godwin-wessex",
+   "gytha-thorkelsdottir"
+  ],
+  "spouses": [
+   {
+    "id": "judith-flanders",
+    "married": "1051",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Tostig_Godwinson",
+      "title": "Tostig Godwinson - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "In 1051, he married Judith of Flanders, the only child of Baldwin IV, Count of Flanders"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Earl of Northumbria",
+    "from": "1055",
+    "to": "1065",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Tostig_Godwinson",
+      "title": "Tostig Godwinson - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Three years later in 1055, Tostig became the Earl of Northumbria upon the death of Earl Siward."
+     },
+     {
+      "url": "https://en.wikipedia.org/wiki/Tostig_Godwinson",
+      "title": "Tostig Godwinson - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "they killed Tostig's officials and supporters, then declared Tostig outlawed for his unlawful actions"
+     }
+    ]
+   }
+  ],
+  "summary": "Tostig Godwinson, son of Godwin and Gytha and younger brother of Harold II, was Earl of Northumbria from 1055 until his deposition by rebellious Northumbrian thegns in 1065. He allied with Harald Hardrada of Norway and invaded northern England in September 1066, but was defeated and killed alongside Hardrada by his brother Harold at the Battle of Stamford Bridge on 25 September 1066.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Tostig_Godwinson",
+    "title": "Tostig Godwinson - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "Tostig was the third son of the Anglo-Saxon nobleman Godwin, Earl of Wessex and Gytha Thorkelsdóttir"
+   }
+  ]
+ },
+ {
+  "id": "gyrth-godwinson",
+  "name": "Gyrth Godwinson",
+  "fullName": "Gyrth Godwinson",
+  "house": "Godwin",
+  "monarch": false,
+  "birth": {
+   "date": "1032",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Gyrth_Godwinson",
+     "title": "Gyrth Godwinson - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "c. 1032"
+    }
+   ]
+  },
+  "death": {
+   "date": "1066-10-14",
+   "place": "Battle of Hastings",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikisource.org/wiki/Page:The_Anglo-Saxon_Chronicle_(Giles).djvu/157",
+     "title": "The Anglo-Saxon Chronicle (Giles)",
+     "publisher": "Wikisource",
+     "quote": "There was slain king Harold, and Leofwin the earl, his brother, and Girth the earl, his brother, and many good men"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Gyrth_Godwinson",
+     "title": "Gyrth Godwinson - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Gyrth fought at and was killed in the Battle of Hastings alongside his brothers Harold and Leofwine"
+    }
+   ]
+  },
+  "parents": [
+   "godwin-wessex",
+   "gytha-thorkelsdottir"
+  ],
+  "spouses": [],
+  "titles": [
+   {
+    "title": "Earl of East Anglia",
+    "from": "1055",
+    "to": "1066",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Gyrth_Godwinson",
+      "title": "Gyrth Godwinson - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Gyrth was made Earl of East Anglia, Cambridgeshire and Oxfordshire some time between 1055 and 1057."
+     }
+    ]
+   }
+  ],
+  "summary": "Gyrth Godwinson, fourth son of Godwin, Earl of Wessex, held the earldom of East Anglia from the mid-1050s. He died fighting alongside his brothers King Harold II and Leofwine at the Battle of Hastings on 14 October 1066.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Gyrth_Godwinson",
+    "title": "Gyrth Godwinson - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "the fourth son of Earl Godwin"
+   }
+  ]
+ },
+ {
+  "id": "leofwine-godwinson",
+  "name": "Leofwine Godwinson",
+  "fullName": "Leofwine Godwinson",
+  "house": "Godwin",
+  "monarch": false,
+  "birth": {
+   "date": "1035",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Leofwine_Godwinson",
+     "title": "Leofwine Godwinson - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Leofwine Godwinson (c. 1035"
+    }
+   ]
+  },
+  "death": {
+   "date": "1066-10-14",
+   "place": "Battle of Hastings",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikisource.org/wiki/Page:The_Anglo-Saxon_Chronicle_(Giles).djvu/157",
+     "title": "The Anglo-Saxon Chronicle (Giles)",
+     "publisher": "Wikisource",
+     "quote": "There was slain king Harold, and Leofwin the earl, his brother, and Girth the earl, his brother, and many good men"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Leofwine_Godwinson",
+     "title": "Leofwine Godwinson - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "He was killed alongside his brothers Harold and Gyrth in the Battle of Hastings"
+    }
+   ]
+  },
+  "parents": [
+   "godwin-wessex",
+   "gytha-thorkelsdottir"
+  ],
+  "spouses": [],
+  "titles": [
+   {
+    "title": "Earl of Kent",
+    "from": "1055",
+    "to": "1066",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Leofwine_Godwinson",
+      "title": "Leofwine Godwinson - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Leofwine was made Earl of Kent"
+     }
+    ]
+   }
+  ],
+  "summary": "Leofwine Godwinson, fifth son of Godwin, Earl of Wessex, held the earldom of Kent from the mid-1050s. He died fighting alongside his brothers King Harold II and Gyrth at the Battle of Hastings on 14 October 1066.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Leofwine_Godwinson",
+    "title": "Leofwine Godwinson - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "the fifth son of Earl Godwin"
+   }
+  ]
+ },
+ {
+  "id": "edith-swanneck",
+  "name": "Edith Swanneck",
+  "fullName": "Edith Swannesha",
+  "epithet": "the Fair",
+  "monarch": false,
+  "birth": {
+   "date": "1025",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Edith_Swannesha",
+     "title": "Edith Swannesha - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "c. 1025 – c. 1086"
+    }
+   ]
+  },
+  "death": {
+   "date": "1086",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Edith_Swannesha",
+     "title": "Edith Swannesha - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "c. 1025 – c. 1086"
+    }
+   ]
+  },
+  "parents": [],
+  "spouses": [
+   {
+    "id": "harold-godwinson",
+    "married": "1046",
+    "ended": "1066-10-14",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Edith_Swannesha",
+      "title": "Edith Swannesha - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "his long-time common-law marriage with Edith the Fair"
+     }
+    ]
+   }
+  ],
+  "summary": "Edith Swanneck (Edith the Fair) had a decades-long customary union with Harold Godwinson, the future Harold II, and is traditionally credited with several of his children. According to legend, she identified Harold's mutilated body on the battlefield of Hastings by marks known only to her, allowing him a Christian burial.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Edith_Swannesha",
+    "title": "Edith Swannesha - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "Edith the Fair walked through the carnage of the battle so that she might identify Harold by markings on his chest, known only to her"
+   }
+  ],
+  "uncertain": "Whether Edith was Harold's first wife or an unmarried consort is disputed; her union with him was a customary (more danico) relationship, not a church-sanctioned marriage, and even the identity of the mother of some of Harold's children (Edith versus others) is not settled in the sources. Her death date is approximate and her later life poorly documented."
+ },
+ {
+  "id": "ealdgyth-mercia",
+  "name": "Ealdgyth of Mercia",
+  "fullName": "Ealdgyth of Mercia",
+  "monarch": false,
+  "parents": [],
+  "spouses": [
+   {
+    "id": "gruffydd-ap-llywelyn",
+    "married": "1057",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Ealdgyth_of_Mercia",
+      "title": "Ealdgyth of Mercia - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "It was presumably in the year of her father's appointment (c. 1057) that Ealdgyth married his political ally, King Gruffudd ap Llywelyn."
+     }
+    ],
+    "precision": "circa"
+   },
+   {
+    "id": "harold-godwinson",
+    "married": "1066",
+    "ended": "1066-10-14",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Ealdgyth_of_Mercia",
+      "title": "Ealdgyth of Mercia - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Ealdgyth later became the wife and queen consort of her late husband's enemy Harold."
+     }
+    ]
+   }
+  ],
+  "summary": "Ealdgyth of Mercia, daughter of Ælfgar, Earl of Mercia, was first married to the Welsh king Gruffudd ap Llywelyn, and after his death in 1063 married Harold Godwinson, becoming queen consort in early 1066. After Harold's death at Hastings her brothers took her to Chester for safety, and her subsequent fate is unrecorded.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Ealdgyth_of_Mercia",
+    "title": "Ealdgyth of Mercia - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "Ealdgyth was the daughter of Ælfgar, who had been earl of East Anglia a number of times in the 1050s and was appointed earl of Mercia in c. 1057"
+   }
+  ],
+  "uncertain": "Ealdgyth's birth and death dates are unknown. Whether her marriage to Harold produced any children is disputed; a suggestion that she was the mother of Harold's son Harold is not universally accepted. Her fate after October 1066 is unrecorded."
+ },
+ {
+  "id": "edward-exile",
+  "name": "Edward the Exile",
+  "fullName": "Edward the Exile",
+  "house": "Wessex",
+  "monarch": false,
+  "birth": {
+   "date": "1016",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Edward_the_Exile",
+     "title": "Edward the Exile - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Edward the Exile (c. 1016 – 19 April 1057), also called Edward Ætheling, was the son of King Edmund Ironside and of Ealdgyth"
+    }
+   ]
+  },
+  "death": {
+   "date": "1057-04-19",
+   "place": "England",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Edward_the_Exile",
+     "title": "Edward the Exile - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "The Exile finally arrived in England in 1057 with his wife and children, but died within a few days, on 19 April, without meeting the King."
+    }
+   ]
+  },
+  "parents": [],
+  "spouses": [
+   {
+    "id": "agatha-exile",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Edward_the_Exile",
+      "title": "Edward the Exile - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Edward's wife was named Agatha; her origins are disputed."
+     }
+    ]
+   }
+  ],
+  "summary": "Edward the Exile, son of King Edmund Ironside, was sent from England as an infant after the Danish conquest of 1016 and spent decades in exile in Hungary and Kievan lands. Recalled to England in 1057 as a potential heir to Edward the Confessor, he died within days of his arrival without meeting the king. His son was Edgar Ætheling.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Edward_the_Exile",
+    "title": "Edward the Exile - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "Edgar Ætheling (c. 1051 – c. 1126)"
+   }
+  ],
+  "uncertain": "Edward's birth year is approximate (c. 1016). His wife Agatha's origins are disputed among modern historians (German, Hungarian, Kievan Rus, Bulgarian, and Polish ancestries have all been proposed)."
+ },
+ {
+  "id": "agatha-exile",
+  "name": "Agatha",
+  "fullName": "Agatha, wife of Edward the Exile",
+  "monarch": false,
+  "birth": {
+   "date": "1030",
+   "precision": "before",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Agatha_(wife_of_Edward_the_Exile)",
+     "title": "Agatha (wife of Edward the Exile) - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Agatha (before 1030 – after 1070)"
+    }
+   ]
+  },
+  "death": {
+   "date": "1070",
+   "precision": "after",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Agatha_(wife_of_Edward_the_Exile)",
+     "title": "Agatha (wife of Edward the Exile) - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Agatha (before 1030 – after 1070)"
+    }
+   ]
+  },
+  "parents": [],
+  "spouses": [
+   {
+    "id": "edward-exile",
+    "ended": "1057-04-19",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Agatha_(wife_of_Edward_the_Exile)",
+      "title": "Agatha (wife of Edward the Exile) - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "she was married to Edward the Exile, a candidate for the throne of England"
+     }
+    ]
+   }
+  ],
+  "summary": "Agatha, wife of Edward the Exile, came to England with her husband and children in 1057 but was widowed within days of arrival. Her own parentage is unresolved: theories connect her variously to the German imperial house, the Hungarian royal line, the Kievan Rurikids, Bulgaria, or Poland. Her children were Edgar Ætheling, Margaret of Scotland, and Cristina.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Agatha_(wife_of_Edward_the_Exile)",
+    "title": "Agatha (wife of Edward the Exile) - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "Her antecedents are unclear and the subject of much speculation."
+   }
+  ],
+  "uncertain": "Agatha's parentage and ethnic origin are unresolved; this is one of the most disputed genealogical questions of the period, with German, Hungarian, Kievan Rus, Bulgarian, and Polish theories all having scholarly advocates. Her birth and death dates are only loosely bounded (before 1030; after 1070)."
+ },
+ {
+  "id": "margaret-scotland",
+  "name": "Margaret of Scotland",
+  "fullName": "Saint Margaret of Scotland",
+  "monarch": false,
+  "birth": {
+   "date": "1045",
+   "place": "Kingdom of Hungary",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Saint_Margaret_of_Scotland",
+     "title": "Saint Margaret of Scotland - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "c. 1045"
+    }
+   ]
+  },
+  "death": {
+   "date": "1093-11-16",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Saint_Margaret_of_Scotland",
+     "title": "Saint Margaret of Scotland - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "16 November 1093"
+    }
+   ]
+  },
+  "parents": [
+   "edward-exile",
+   "agatha-exile"
+  ],
+  "spouses": [
+   {
+    "id": "malcolm-iii-scotland",
+    "married": "1070",
+    "ended": "1093-11-13",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Saint_Margaret_of_Scotland",
+      "title": "Saint Margaret of Scotland - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "The marriage of Malcolm and Margaret occurred in 1070"
+     }
+    ]
+   }
+  ],
+  "summary": "Margaret of Scotland, daughter of Edward the Exile and Agatha and sister of Edgar Ætheling, fled to Scotland after the Norman Conquest and married King Malcolm III in 1070. Her daughter Edith, renamed Matilda, became queen consort of Henry I of England. Margaret died on 16 November 1093, days after her husband and eldest son were killed at the Battle of Alnwick.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Saint_Margaret_of_Scotland",
+    "title": "Saint Margaret of Scotland - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "renamed Matilda, queen of England"
+   }
+  ]
+ },
+ {
+  "id": "robert-i-normandy",
+  "name": "Robert I, Duke of Normandy",
+  "fullName": "Robert the Magnificent",
+  "house": "Normandy",
+  "monarch": false,
+  "birth": {
+   "date": "1000-06-22",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Robert_I,_Duke_of_Normandy",
+     "title": "Robert I, Duke of Normandy - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Born 22 June 1000"
+    }
+   ]
+  },
+  "death": {
+   "date": "1035-07-02",
+   "place": "Nicaea",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Robert_I,_Duke_of_Normandy",
+     "title": "Robert I, Duke of Normandy - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "died on the return journey at Nicaea on 2 July 1035"
+    }
+   ]
+  },
+  "parents": [],
+  "spouses": [
+   {
+    "id": "herleva",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Robert_I,_Duke_of_Normandy",
+      "title": "Robert I, Duke of Normandy - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "By his mistress or concubine, Herleva of Falaise, he was father of: William the Conqueror (c. 1028–1087)."
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Duke of Normandy",
+    "from": "1027",
+    "to": "1035",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Robert_I,_Duke_of_Normandy",
+      "title": "Robert I, Duke of Normandy - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Duke of Normandy from 1027 to 1035"
+     }
+    ]
+   }
+  ],
+  "summary": "Robert I, Duke of Normandy, was the father of William the Conqueror by his mistress Herleva. He named William his heir before departing on pilgrimage to Jerusalem, and died on the return journey at Nicaea on 2 July 1035.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Robert_I,_Duke_of_Normandy",
+    "title": "Robert I, Duke of Normandy - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "Robert was the son of Richard II of Normandy and Judith, daughter of Conan I, Duke of Brittany"
+   }
+  ]
+ },
+ {
+  "id": "herleva",
+  "name": "Herleva",
+  "fullName": "Herleva of Falaise",
+  "monarch": false,
+  "birth": {
+   "date": "1005",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Herleva",
+     "title": "Herleva - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Herleva (c. 1005 – c. 1050) was an 11th-century Norman woman"
+    }
+   ]
+  },
+  "death": {
+   "date": "1050",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Herleva",
+     "title": "Herleva - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Herleva (c. 1005 – c. 1050) was an 11th-century Norman woman"
+    }
+   ]
+  },
+  "parents": [],
+  "spouses": [
+   {
+    "id": "robert-i-normandy",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Herleva",
+      "title": "Herleva - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "she had an extramarital relationship with Robert I, Duke of Normandy"
+     }
+    ]
+   },
+   {
+    "id": "herluin-conteville",
+    "married": "1031",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Herleva",
+      "title": "Herleva - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Herleva later married Herluin de Conteville in 1031."
+     }
+    ]
+   }
+  ],
+  "summary": "Herleva, the mother of William the Conqueror, bore him to an extramarital relationship with Robert I, Duke of Normandy. She later married Herluin de Conteville, with whom she had further children including Odo, Bishop of Bayeux, and Robert, Count of Mortain.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Herleva",
+    "title": "Herleva - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "the mother of William the Conqueror, born to an extramarital relationship with Robert I, Duke of Normandy"
+   }
+  ],
+  "uncertain": "Herleva's father's occupation is disputed by sources, with tanner, furrier, embalmer, and apothecary all proposed; some scholars argue circumstantial evidence points to a burgher-class rather than lowly origin. Her birth and death dates are approximate."
+ },
+ {
+  "id": "matilda-flanders",
+  "name": "Matilda of Flanders",
+  "fullName": "Matilda of Flanders",
+  "house": "Flanders",
+  "monarch": false,
+  "birth": {
+   "date": "1031",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Matilda_of_Flanders",
+     "title": "Matilda of Flanders - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "c. 1031"
+    }
+   ]
+  },
+  "death": {
+   "date": "1083-11-02",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Matilda_of_Flanders",
+     "title": "Matilda of Flanders - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "2 November 1083"
+    }
+   ]
+  },
+  "parents": [],
+  "spouses": [
+   {
+    "id": "william-i",
+    "married": "1051",
+    "ended": "1083-11-02",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Matilda_of_Flanders",
+      "title": "Matilda of Flanders - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "William and Matilda were married after a delay in c. 1051–2"
+     }
+    ]
+   }
+  ],
+  "summary": "Matilda of Flanders, daughter of Count Baldwin V of Flanders and Adela of France, married William the Conqueror around 1051–1052. Their children included Robert Curthose, William II, Henry I, and Adela of Normandy. She died on 2 November 1083.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Matilda_of_Flanders",
+    "title": "Matilda of Flanders - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "Count Baldwin V of Flanders and Adela of France"
+   }
+  ]
+ },
+ {
+  "id": "robert-curthose",
+  "name": "Robert Curthose",
+  "fullName": "Robert II, Duke of Normandy",
+  "epithet": "Curthose",
+  "house": "Normandy",
+  "monarch": false,
+  "birth": {
+   "date": "1052",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Robert_Curthose",
+     "title": "Robert Curthose - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "His birth has been dated to between 1051 and 1053."
+    }
+   ]
+  },
+  "death": {
+   "date": "1134-02-03",
+   "place": "Cardiff Castle",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Robert_Curthose",
+     "title": "Robert Curthose - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Robert died in Cardiff Castle, probably on 3 February 1134."
+    }
+   ]
+  },
+  "parents": [
+   "william-i",
+   "matilda-flanders"
+  ],
+  "spouses": [
+   {
+    "id": "sybilla-conversano",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Robert_Curthose",
+      "title": "Robert Curthose - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Robert married Sybilla of Conversano"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Duke of Normandy",
+    "from": "1087",
+    "to": "1106",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Robert_Curthose",
+      "title": "Robert Curthose - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Duke of Normandy as Robert II from 1087 to 1106."
+     }
+    ]
+   }
+  ],
+  "summary": "Robert Curthose, eldest son of William the Conqueror and Matilda of Flanders, inherited Normandy on his father's death in 1087 while his brother William Rufus took England. He repeatedly clashed with his brothers, and in 1106 was defeated and captured by his youngest brother Henry I at the Battle of Tinchebray, spending the rest of his life imprisoned until his death in 1134.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Robert_Curthose",
+    "title": "Robert Curthose - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "In 1106, Henry defeated Robert's army decisively at the Battle of Tinchebray and claimed Normandy as a possession of the English crown."
+   }
+  ],
+  "uncertain": "Robert's birth year is uncertain, dated by sources to somewhere between 1051 and 1053. His date of death, 3 February 1134, is qualified by sources as 'probably' correct."
+ },
+ {
+  "id": "adela-normandy",
+  "name": "Adela of Normandy",
+  "fullName": "Adela of Normandy, Countess of Blois",
+  "house": "Normandy",
+  "monarch": false,
+  "birth": {
+   "date": "1068",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Adela_of_Normandy",
+     "title": "Adela of Normandy - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "It is generally believed that Adela was born between 1066 and 1070"
+    }
+   ]
+  },
+  "death": {
+   "date": "1137-03-08",
+   "place": "Marcigny-sur-Loire",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Adela_of_Normandy",
+     "title": "Adela of Normandy - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Died 8 March 1137 (aged 69–70) Marcigny-sur-Loire, Kingdom of France"
+    }
+   ]
+  },
+  "parents": [
+   "william-i",
+   "matilda-flanders"
+  ],
+  "spouses": [
+   {
+    "id": "stephen-blois",
+    "married": "1090",
+    "ended": "1102-05-19",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Adela_of_Normandy",
+      "title": "Adela of Normandy - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Adela married Stephen Henry, son and heir to the count of Blois, between 1080 and 1083"
+     }
+    ]
+   }
+  ],
+  "summary": "Adela of Normandy, daughter of William the Conqueror and Matilda of Flanders, married Stephen-Henry, Count of Blois. Their sons included Stephen, King of England, and Henry of Blois, Bishop of Winchester. She died at the priory of Marcigny-sur-Loire on 8 March 1137.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Adela_of_Normandy",
+    "title": "Adela of Normandy - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "Stephen, King of England"
+   }
+  ],
+  "uncertain": "Adela's birth year is only loosely bounded, between 1066 and 1070, and her marriage date to Stephen-Henry is likewise given as a range (1080–1083). She is also referred to in some sources as Adela of Blois; this dataset treats that as the same person under the id adela-normandy, reflecting her natal house."
+ },
+ {
+  "id": "matilda-scotland",
+  "name": "Matilda of Scotland",
+  "fullName": "Edith of Scotland",
+  "house": "Scotland",
+  "monarch": false,
+  "birth": {
+   "date": "1080",
+   "place": "Dunfermline, Scotland",
+   "precision": "year",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Matilda_of_Scotland",
+     "title": "Matilda of Scotland - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Born in 1080, in Dunfermline, Scotland"
+    }
+   ]
+  },
+  "death": {
+   "date": "1118-05-01",
+   "place": "Westminster Palace",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Matilda_of_Scotland",
+     "title": "Matilda of Scotland - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "On 1 May 1118, Matilda died at Westminster Palace."
+    }
+   ]
+  },
+  "parents": [
+   "malcolm-iii-scotland",
+   "margaret-scotland"
+  ],
+  "spouses": [
+   {
+    "id": "henry-i",
+    "married": "1100-11-11",
+    "ended": "1118-05-01",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Matilda_of_Scotland",
+      "title": "Matilda of Scotland - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Edith and Henry were married on 11 November 1100 at Westminster Abbey"
+     }
+    ]
+   }
+  ],
+  "summary": "Matilda of Scotland, born Edith, daughter of King Malcolm III of Scotland and Margaret of Scotland, married Henry I of England in 1100. Their children who reached adulthood were Empress Matilda and William Adelin. She died at Westminster Palace on 1 May 1118.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Matilda_of_Scotland",
+    "title": "Matilda of Scotland - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "two children who reached adulthood: Matilda (7 February 1102 – 10 September 1167)"
+   }
+  ]
+ },
+ {
+  "id": "william-adelin",
+  "name": "William Adelin",
+  "fullName": "William Adelin",
+  "house": "Normandy",
+  "monarch": false,
+  "birth": {
+   "date": "1103-08-05",
+   "place": "Winchester, Hampshire",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/William_Adelin",
+     "title": "William Adelin - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "5 August 1103"
+    }
+   ]
+  },
+  "death": {
+   "date": "1120-11-25",
+   "place": "near Barfleur, Normandy",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/William_Adelin",
+     "title": "William Adelin - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "William died in the White Ship tragedy of 25 November 1120"
+    }
+   ]
+  },
+  "parents": [
+   "henry-i",
+   "matilda-scotland"
+  ],
+  "spouses": [
+   {
+    "id": "matilda-anjou",
+    "married": "1119-06",
+    "ended": "1120-11-25",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/William_Adelin",
+      "title": "William Adelin - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Their marriage took place in June 1119 in Lisieux"
+     }
+    ]
+   }
+  ],
+  "summary": "William Adelin, the only legitimate son of Henry I of England and Matilda of Scotland, was heir apparent to the English throne. He drowned in the wreck of the White Ship off Barfleur on 25 November 1120, a disaster that left Henry without a male heir and precipitated the succession crisis that became the Anarchy.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/William_Adelin",
+    "title": "William Adelin - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "the son of Henry I of England by his wife Matilda of Scotland"
+   }
+  ]
+ },
+ {
+  "id": "robert-gloucester",
+  "name": "Robert of Gloucester",
+  "fullName": "Robert FitzRoy, 1st Earl of Gloucester",
+  "house": "Normandy",
+  "monarch": false,
+  "birth": {
+   "date": "1090",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Robert,_1st_Earl_of_Gloucester",
+     "title": "Robert, 1st Earl of Gloucester - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Robert FitzRoy, 1st Earl of Gloucester (c. 1090 – 31 October 1147)"
+    }
+   ]
+  },
+  "death": {
+   "date": "1147-10-31",
+   "place": "Bristol Castle",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Robert,_1st_Earl_of_Gloucester",
+     "title": "Robert, 1st Earl of Gloucester - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Robert of Gloucester died in 1147 at Bristol Castle"
+    }
+   ]
+  },
+  "parents": [
+   "henry-i"
+  ],
+  "spouses": [],
+  "titles": [
+   {
+    "title": "Earl of Gloucester",
+    "from": "1121",
+    "to": "1147",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Robert,_1st_Earl_of_Gloucester",
+      "title": "Robert, 1st Earl of Gloucester - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "In either 1121 or 1122, his father created him the 1st Earl of Gloucester."
+     }
+    ]
+   }
+  ],
+  "summary": "Robert of Gloucester was an illegitimate son of Henry I of England. Created Earl of Gloucester by his father, he became the chief military supporter of his half-sister Empress Matilda during the civil war known as the Anarchy. He died at Bristol Castle on 31 October 1147.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Robert,_1st_Earl_of_Gloucester",
+    "title": "Robert, 1st Earl of Gloucester - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "he was the half-brother of the Empress Matilda, and her chief military supporter during the civil war known as the Anarchy"
+   }
+  ],
+  "uncertain": "Robert's mother is not securely identified in the sources; he is sometimes, likely erroneously, said to be a son of Nest ferch Rhys."
+ },
+ {
+  "id": "geoffrey-anjou",
+  "name": "Geoffrey of Anjou",
+  "fullName": "Geoffrey V, Count of Anjou",
+  "epithet": "Plantagenet",
+  "house": "Anjou",
+  "monarch": false,
+  "birth": {
+   "date": "1113-08-24",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Geoffrey_of_Anjou",
+     "title": "Geoffrey V, Count of Anjou - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Geoffrey V (24 August 1113 – 7 September 1151)"
+    }
+   ]
+  },
+  "death": {
+   "date": "1151-09-07",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Geoffrey_of_Anjou",
+     "title": "Geoffrey V, Count of Anjou - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Geoffrey died suddenly on 7 September 1151"
+    }
+   ]
+  },
+  "parents": [],
+  "spouses": [
+   {
+    "id": "matilda-empress",
+    "married": "1128-06-17",
+    "ended": "1151-09-07",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Geoffrey_of_Anjou",
+      "title": "Geoffrey V, Count of Anjou - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Geoffrey and Matilda's marriage took place in 1128"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Count of Anjou",
+    "from": "1129",
+    "to": "1151",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Geoffrey_of_Anjou",
+      "title": "Geoffrey V, Count of Anjou - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "count of Anjou and Maine by inheritance from 1129"
+     }
+    ]
+   }
+  ],
+  "summary": "Geoffrey of Anjou, son of Fulk V of Anjou, married Empress Matilda in 1128 and became Count of Anjou in 1129. Their eldest son, Henry, became King Henry II of England. Geoffrey conquered Normandy in the early 1140s and died suddenly on 7 September 1151.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Geoffrey_of_Anjou",
+    "title": "Geoffrey V, Count of Anjou - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "Henry II, King of England (1133–1189)"
+   }
+  ]
+ },
+ {
+  "id": "stephen-blois",
+  "name": "Stephen II, Count of Blois",
+  "fullName": "Stephen-Henry, Count of Blois and Chartres",
+  "house": "Blois",
+  "monarch": false,
+  "birth": {
+   "date": "1045",
+   "place": "Blois, Kingdom of France",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Stephen_II,_Count_of_Blois",
+     "title": "Stephen II, Count of Blois - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "c. 1045"
+    }
+   ]
+  },
+  "death": {
+   "date": "1102-05-19",
+   "place": "Ascalon",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Stephen_II,_Count_of_Blois",
+     "title": "Stephen II, Count of Blois - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "taken prisoner and executed, probably in Ascalon on 19 May"
+    }
+   ]
+  },
+  "parents": [],
+  "spouses": [
+   {
+    "id": "adela-normandy",
+    "married": "1090",
+    "ended": "1102-05-19",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Stephen_II,_Count_of_Blois",
+      "title": "Stephen II, Count of Blois - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "He married Adela of Normandy around 1090 in Chartres, daughter of William the Conqueror."
+     }
+    ]
+   }
+  ],
+  "summary": "Stephen-Henry, Count of Blois and Chartres, married Adela of Normandy, daughter of William the Conqueror, around 1090. Their sons included Stephen, King of England, and Henry of Blois, Bishop of Winchester. Stephen-Henry led a major contingent on the First Crusade and was killed fighting the Fatimids at the Second Battle of Ramla in 1102.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Stephen_II,_Count_of_Blois",
+    "title": "Stephen II, Count of Blois - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "Stephen, King of England"
+   }
+  ],
+  "uncertain": "The exact date and place of Stephen-Henry's death are hedged by sources as 'probably' 19 May 1102 at Ascalon."
+ },
+ {
+  "id": "matilda-boulogne",
+  "name": "Matilda of Boulogne",
+  "fullName": "Matilda I, Countess of Boulogne",
+  "house": "Boulogne",
+  "monarch": false,
+  "birth": {
+   "date": "1105",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Matilda_I,_Countess_of_Boulogne",
+     "title": "Matilda I, Countess of Boulogne - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Matilda of Boulogne (c. 1105 – 3 May 1152)"
+    }
+   ]
+  },
+  "death": {
+   "date": "1152-05-03",
+   "place": "Hedingham Castle, Essex",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Matilda_I,_Countess_of_Boulogne",
+     "title": "Matilda I, Countess of Boulogne - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "she died on 3 May"
+    }
+   ]
+  },
+  "parents": [],
+  "spouses": [
+   {
+    "id": "stephen",
+    "married": "1125",
+    "ended": "1152-05-03",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Matilda_I,_Countess_of_Boulogne",
+      "title": "Matilda I, Countess of Boulogne - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Around 1125, Count Eustace and King Henry arranged for Matilda to marry Henry's nephew Stephen of Blois."
+     }
+    ]
+   }
+  ],
+  "summary": "Matilda of Boulogne, daughter of Eustace III, Count of Boulogne, and Mary of Scotland, married Stephen of Blois around 1125. As queen consort she was a vigorous supporter of Stephen's cause during the Anarchy, notably after his capture in 1141. Her children included Eustace IV, William, and Marie of Boulogne. She died at Hedingham Castle on 3 May 1152.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Matilda_I,_Countess_of_Boulogne",
+    "title": "Matilda I, Countess of Boulogne - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "daughter of the count of Boulogne, Eustace III, and Mary of Scotland"
+   }
+  ]
+ },
+ {
+  "id": "eustace-boulogne",
+  "name": "Eustace IV of Boulogne",
+  "fullName": "Eustace IV, Count of Boulogne",
+  "house": "Blois",
+  "monarch": false,
+  "birth": {
+   "date": "1130",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Eustace_IV,_Count_of_Boulogne",
+     "title": "Eustace IV, Count of Boulogne - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Eustace IV (c. 1129/1131 – 17 August 1153) ruled the County of Boulogne from 1146 until his death."
+    }
+   ]
+  },
+  "death": {
+   "date": "1153-08-17",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Eustace_IV,_Count_of_Boulogne",
+     "title": "Eustace IV, Count of Boulogne - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Eustace died suddenly that same year, in mid-August 1153, struck down (so it was said) by the wrath of God while plundering church lands near Bury St Edmunds."
+    }
+   ]
+  },
+  "parents": [
+   "stephen",
+   "matilda-boulogne"
+  ],
+  "spouses": [
+   {
+    "id": "constance-france",
+    "married": "1140",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Eustace_IV,_Count_of_Boulogne",
+      "title": "Eustace IV, Count of Boulogne - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "he was married to Louis's sister Constance in 1140 when she was 16 and he was about 10 or 12"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Count of Boulogne",
+    "from": "1146",
+    "to": "1153",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Eustace_IV,_Count_of_Boulogne",
+      "title": "Eustace IV, Count of Boulogne - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "ruled the County of Boulogne from 1146 until his death"
+     }
+    ]
+   }
+  ],
+  "summary": "Eustace IV, eldest son of King Stephen and Matilda of Boulogne, became heir apparent to the English throne when his father seized the crown in 1135. The Church refused to sanction his coronation as co-king, and he died suddenly in August 1153, clearing the way for the Treaty of Wallingford settling the succession on Henry of Anjou.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Eustace_IV,_Count_of_Boulogne",
+    "title": "Eustace IV, Count of Boulogne - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "When his father seized the English throne on Henry I's death in 1135, he became heir apparent to the English throne but predeceased his father."
+   }
+  ],
+  "uncertain": "Eustace's birth year is given only as a range, c. 1129/1131."
+ },
+ {
+  "id": "william-clito",
+  "name": "William Clito",
+  "fullName": "William Clito",
+  "house": "Normandy",
+  "monarch": false,
+  "birth": {
+   "date": "1102-10-25",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/William_Clito",
+     "title": "William Clito - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "William Clito (25 October 1102 – 28 July 1128)"
+    }
+   ]
+  },
+  "death": {
+   "date": "1128-07-28",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/William_Clito",
+     "title": "William Clito - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "William died at the age of twenty-five on 28 July 1128"
+    }
+   ]
+  },
+  "parents": [
+   "robert-curthose"
+  ],
+  "spouses": [
+   {
+    "id": "joanna-montferrat",
+    "married": "1127-01",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/William_Clito",
+      "title": "William Clito - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "In January of 1127, Louis married Clito to his wife's half-sister, Jeanne (or Joanna) of Montferrat."
+     }
+    ]
+   }
+  ],
+  "summary": "William Clito, son of Robert Curthose, Duke of Normandy, was raised as a rival claimant to Normandy and, by some reckonings, England after his father's defeat and imprisonment by Henry I in 1106. Backed at various times by the kings of France, he died of a wound sustained at the siege of Aalst on 28 July 1128, without having secured his inheritance.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/William_Clito",
+    "title": "William Clito - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "William was the son of Duke Robert Curthose of Normandy and Sibylla of Conversano."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/William_Clito",
+    "title": "William Clito - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "unsuccessfully claimed the Duchy of Normandy"
+   }
+  ]
+ },
+ {
+  "id": "henry-blois",
+  "name": "Henry of Blois",
+  "fullName": "Henry of Blois, Bishop of Winchester",
+  "house": "Blois",
+  "monarch": false,
+  "birth": {
+   "date": "1096",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Henry_of_Blois",
+     "title": "Henry of Blois - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "c. 1096"
+    }
+   ]
+  },
+  "death": {
+   "date": "1171-08-08",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Henry_of_Blois",
+     "title": "Henry of Blois - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "8 August 1171"
+    }
+   ]
+  },
+  "parents": [
+   "stephen-blois",
+   "adela-normandy"
+  ],
+  "spouses": [],
+  "titles": [
+   {
+    "title": "Bishop of Winchester",
+    "from": "1129",
+    "to": "1171",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Henry_of_Blois",
+      "title": "Henry of Blois - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Bishop of Winchester"
+     }
+    ]
+   }
+  ],
+  "summary": "Henry of Blois, younger brother of King Stephen and son of Stephen-Henry of Blois and Adela of Normandy, served as Bishop of Winchester from 1129 until his death. As papal legate he was one of the most powerful churchmen in England during the Anarchy, at times backing his brother Stephen and at times attempting to broker peace with Empress Matilda.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Henry_of_Blois",
+    "title": "Henry of Blois - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "a younger brother of Stephen, King of England"
+   }
+  ]
+ },
+ {
+  "id": "adeliza-louvain",
+  "name": "Adeliza of Louvain",
+  "fullName": "Adeliza of Louvain",
+  "house": "Louvain",
+  "monarch": false,
+  "birth": {
+   "date": "1103",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Adeliza_of_Louvain",
+     "title": "Adeliza of Louvain - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "c. 1103"
+    }
+   ]
+  },
+  "death": {
+   "date": "1151-03",
+   "precision": "month",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Adeliza_of_Louvain",
+     "title": "Adeliza of Louvain - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "March/April 1151"
+    }
+   ]
+  },
+  "parents": [],
+  "spouses": [
+   {
+    "id": "henry-i",
+    "married": "1121-01-24",
+    "ended": "1135-12-01",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Adeliza_of_Louvain",
+      "title": "Adeliza of Louvain - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "the couple wed on 24 January 1121"
+     }
+    ]
+   },
+   {
+    "id": "william-daubigny",
+    "married": "1138",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Adeliza_of_Louvain",
+      "title": "Adeliza of Louvain - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "In 1138, she married again to William d'Aubigny, 1st Earl of Arundel, by whom she had seven children."
+     }
+    ]
+   }
+  ],
+  "summary": "Adeliza of Louvain, daughter of Godfrey I, Count of Louvain, married the widowed Henry I of England in 1121. The marriage produced no children. After Henry's death she married William d'Aubigny, 1st Earl of Arundel, and had seven children with him.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Adeliza_of_Louvain",
+    "title": "Adeliza of Louvain - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "Adeliza and Henry never produced a child"
+   }
+  ]
+ }
+]

@@ -1,0 +1,1836 @@
+[
+ {
+  "id": "henry-ii",
+  "name": "Henry II",
+  "house": "Plantagenet",
+  "monarch": true,
+  "reign": {
+   "start": "1154-12-19",
+   "end": "1189-07-06",
+   "citations": [
+    {
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Henry_II",
+     "title": "Dictionary of National Biography, 1885-1900/Henry II",
+     "publisher": "Wikisource (Dictionary of National Biography)",
+     "quote": "on Sunday, 19 Dec., he was crowned at Westminster"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Henry_II_of_England",
+     "title": "Henry II of England - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Coronation 19 December 1154"
+    }
+   ]
+  },
+  "birth": {
+   "date": "1133-03-05",
+   "place": "Le Mans",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Henry_II",
+     "title": "Dictionary of National Biography, 1885-1900/Henry II",
+     "publisher": "Wikisource (Dictionary of National Biography)",
+     "quote": "their first child was born, at Le Mans on Mid-Lent Sunday, 5 March"
+    }
+   ]
+  },
+  "death": {
+   "date": "1189-07-06",
+   "place": "Chinon",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Henry_II",
+     "title": "Dictionary of National Biography, 1885-1900/Henry II",
+     "publisher": "Wikisource (Dictionary of National Biography)",
+     "quote": "on 6 July he passed quietly away"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Henry_II_of_England",
+     "title": "Henry II of England - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "6 July 1189 (aged 56) Chinon Castle"
+    }
+   ]
+  },
+  "parents": [
+   "geoffrey-anjou",
+   "matilda-empress"
+  ],
+  "spouses": [
+   {
+    "id": "eleanor-aquitaine",
+    "married": "1152-05-18",
+    "ended": "1189-07-06",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Henry_II",
+      "title": "Dictionary of National Biography, 1885-1900/Henry II",
+      "publisher": "Wikisource (Dictionary of National Biography)",
+      "quote": "Henry in May 1152 added the great duchy of Aquitaine by his marriage with its duchess Eleanor, the divorced wife of the French king."
+     }
+    ]
+   }
+  ],
+  "summary": "Henry II was the eldest child of Empress Matilda and Geoffrey Plantagenet, Count of Anjou, born at Le Mans on 5 March 1133. In May 1152 he added the duchy of Aquitaine to his domains by marrying its duchess, Eleanor, recently divorced from the French king, and on 19 December 1154 he was crowned king of England at Westminster. He died at Chinon on 6 July 1189.",
+  "citations": [
+   {
+    "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Henry_II",
+    "title": "Dictionary of National Biography, 1885-1900/Henry II",
+    "publisher": "Wikisource (Dictionary of National Biography)",
+    "quote": "Henry II (1133-1189), king of England, was the eldest child of Matilda, daughter of Henry I, and Geoffrey Plantagenet (1113-1150), count of Anjou."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Henry_II_of_England",
+    "title": "Henry II of England - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "Geoffrey Plantagenet, Count of Anjou and Empress Matilda"
+   }
+  ]
+ },
+ {
+  "id": "richard-i",
+  "name": "Richard I",
+  "epithet": "Coeur de Lion",
+  "house": "Plantagenet",
+  "monarch": true,
+  "reign": {
+   "start": "1189",
+   "end": "1199",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Richard_I_of_England",
+     "title": "Richard I of England - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "1189 - 1199"
+    }
+   ]
+  },
+  "birth": {
+   "date": "1157-09-08",
+   "place": "Oxford",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Richard_I",
+     "title": "Dictionary of National Biography, 1885-1900/Richard I",
+     "publisher": "Wikisource (Dictionary of National Biography)",
+     "quote": "born at Oxford 8 Sept. 1157"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Richard_I_of_England",
+     "title": "Richard I of England - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "8 September 1157 Beaumont Palace, Oxford, England"
+    }
+   ]
+  },
+  "death": {
+   "date": "1199-04-06",
+   "place": "Chalus, Aquitaine",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Richard_I",
+     "title": "Dictionary of National Biography, 1885-1900/Richard I",
+     "publisher": "Wikisource (Dictionary of National Biography)",
+     "quote": "Richard was slain by an arrow while laying siege to the castle of Chaluz"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Richard_I_of_England",
+     "title": "Richard I of England - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "6 April 1199 Chalus, Aquitaine"
+    }
+   ]
+  },
+  "parents": [
+   "henry-ii",
+   "eleanor-aquitaine"
+  ],
+  "spouses": [
+   {
+    "id": "berengaria-navarre",
+    "married": "1191-05-12",
+    "ended": "1199-04-06",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Richard_I",
+      "title": "Dictionary of National Biography, 1885-1900/Richard I",
+      "publisher": "Wikisource (Dictionary of National Biography)",
+      "quote": "On 12 May he married Berengaria"
+     }
+    ]
+   }
+  ],
+  "summary": "Richard I, called Richard Coeur-de-Lion, was the third son of Henry II and Eleanor of Aquitaine, born at Oxford on 8 September 1157. En route to the Third Crusade he married Berengaria of Navarre at Limassol, Cyprus, on 12 May 1191. He was killed by a crossbow bolt while besieging the castle of Chalus in 1199.",
+  "citations": [
+   {
+    "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Richard_I",
+    "title": "Dictionary of National Biography, 1885-1900/Richard I",
+    "publisher": "Wikisource (Dictionary of National Biography)",
+    "quote": "third son of Henry II and Eleanor of Poitou"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Richard_I_of_England",
+    "title": "Richard I of England - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "King of England from 1189 until his death in 1199"
+   }
+  ]
+ },
+ {
+  "id": "john",
+  "name": "John",
+  "epithet": "Lackland",
+  "house": "Plantagenet",
+  "monarch": true,
+  "reign": {
+   "start": "1199",
+   "end": "1216",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/John,_King_of_England",
+     "title": "John, King of England - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "reign = 1199 -1216"
+    }
+   ]
+  },
+  "birth": {
+   "date": "1167-12-24",
+   "place": "Oxford",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/John_(1167%3F-1216)",
+     "title": "Dictionary of National Biography, 1885-1900/John (1167?-1216)",
+     "publisher": "Wikisource (Dictionary of National Biography)",
+     "quote": "probably born at Oxford on 24 Dec. 1167"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/John,_King_of_England",
+     "title": "John, King of England - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "John was born in England around Christmastide in 1166 or 1167; the precise date is a subject of debate among historians."
+    }
+   ]
+  },
+  "death": {
+   "date": "1216-10-19",
+   "place": "Newark Castle, Nottinghamshire",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/John_(1167%3F-1216)",
+     "title": "Dictionary of National Biography, 1885-1900/John (1167?-1216)",
+     "publisher": "Wikisource (Dictionary of National Biography)",
+     "quote": "He died on the 19th"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/John,_King_of_England",
+     "title": "John, King of England - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Died 19 October 1216 (aged 49) Newark Castle, Nottinghamshire, England"
+    }
+   ]
+  },
+  "parents": [
+   "henry-ii",
+   "eleanor-aquitaine"
+  ],
+  "spouses": [
+   {
+    "id": "isabella-gloucester",
+    "married": "1189-08-29",
+    "ended": "1200",
+    "endedBy": "annulment",
+    "citations": [
+     {
+      "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/John_(1167%3F-1216)",
+      "title": "Dictionary of National Biography, 1885-1900/John (1167?-1216)",
+      "publisher": "Wikisource (Dictionary of National Biography)",
+      "quote": "His marriage with Avice of Gloucester took place at Marlborough on 29 Aug."
+     },
+     {
+      "url": "https://en.wikipedia.org/wiki/Isabella,_Countess_of_Gloucester",
+      "title": "Isabella, Countess of Gloucester - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "By the Spring of 1200, John had been granted permission to have their marriage annulled and a divorce on the grounds of consanguinity was granted"
+     }
+    ]
+   },
+   {
+    "id": "isabella-angouleme",
+    "married": "1200-08-24",
+    "ended": "1216-10-19",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Isabella_of_Angoul%C3%AAme",
+      "title": "Isabella of Angouleme - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Married on 24 August 1200, in Angouleme"
+     }
+    ]
+   }
+  ],
+  "summary": "John, youngest son of Henry II and Eleanor of Aquitaine, was probably born at Oxford on 24 December 1167, though the precise date is debated. He married Isabella, Countess of Gloucester in 1189 (a union annulled around 1200) and then Isabella of Angouleme in 1200. He was crowned king at Westminster in 1199 and, faced with baronial rebellion, sealed Magna Carta at Runnymede on 15 June 1215; he died at Newark Castle on 19 October 1216.",
+  "citations": [
+   {
+    "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/John_(1167%3F-1216)",
+    "title": "Dictionary of National Biography, 1885-1900/John (1167?-1216)",
+    "publisher": "Wikisource (Dictionary of National Biography)",
+    "quote": "on the 15th [June 1215], when John met the barons at Runnymede...He was...set his seal to the Great Charter (Magna Carta)."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/John,_King_of_England",
+    "title": "John, King of England - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "John's mother was Eleanor, the powerful duchess of Aquitaine."
+   }
+  ],
+  "uncertain": "Birth date disputed: DNB gives 'probably' 24 Dec. 1167 at Oxford, while modern sources hedge between Christmastide 1166 and 1167 and do not always confirm the birthplace. DNB's Henry III entry states John died 'on the 18th' of October 1216, whereas DNB's own John entry and Wikipedia give 19 October 1216; the marriage date/location of John and Isabella of Angouleme is also inconsistent between DNB ('probably' at Chinon, c. 30 July 1200) and modern sources (24 August 1200, Angouleme)."
+ },
+ {
+  "id": "henry-iii",
+  "name": "Henry III",
+  "house": "Plantagenet",
+  "monarch": true,
+  "reign": {
+   "start": "1216-10-28",
+   "end": "1272-11-16",
+   "citations": [
+    {
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Henry_III",
+     "title": "Dictionary of National Biography, 1885-1900/Henry III",
+     "publisher": "Wikisource (Dictionary of National Biography)",
+     "quote": "The ceremony took place at Gloucester on the 28th"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Henry_III_of_England",
+     "title": "Henry III of England - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "28 October 1216 Gloucester Abbey"
+    }
+   ]
+  },
+  "birth": {
+   "date": "1207-10-01",
+   "place": "Winchester",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Henry_III",
+     "title": "Dictionary of National Biography, 1885-1900/Henry III",
+     "publisher": "Wikisource (Dictionary of National Biography)",
+     "quote": "born at Winchester on 1 Oct. 1207, and was named after his grandfather, Henry II"
+    }
+   ]
+  },
+  "death": {
+   "date": "1272-11-16",
+   "place": "Westminster",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Henry_III",
+     "title": "Dictionary of National Biography, 1885-1900/Henry III",
+     "publisher": "Wikisource (Dictionary of National Biography)",
+     "quote": "he died on Wednesday the 16th, the day of St. Edmund of Canterbury, at Westminster"
+    },
+    {
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Henry_III",
+     "title": "Dictionary of National Biography, 1885-1900/Henry III",
+     "publisher": "Wikisource (Dictionary of National Biography)",
+     "quote": "He was in his sixty-sixth year, and had reigned fifty-six years and twenty days."
+    }
+   ]
+  },
+  "parents": [
+   "john",
+   "isabella-angouleme"
+  ],
+  "spouses": [
+   {
+    "id": "eleanor-provence",
+    "married": "1236-01-14",
+    "ended": "1272-11-16",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Henry_III",
+      "title": "Dictionary of National Biography, 1885-1900/Henry III",
+      "publisher": "Wikisource (Dictionary of National Biography)",
+      "quote": "was married to the king at Canterbury by Archbishop Edmund on 14 Jan. 1236"
+     }
+    ]
+   }
+  ],
+  "summary": "Henry III, elder son of King John and Isabella of Angouleme, was born at Winchester on 1 October 1207 and was crowned as a nine-year-old at Gloucester on 28 October 1216 amid civil war. He married Eleanor of Provence at Canterbury on 14 January 1236. Baronial opposition led by Simon de Montfort forced reforms and civil war in the 1260s, and Henry died at Westminster on 16 November 1272 after a reign of over fifty-six years, the longest in medieval English history.",
+  "citations": [
+   {
+    "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Henry_III",
+    "title": "Dictionary of National Biography, 1885-1900/Henry III",
+    "publisher": "Wikisource (Dictionary of National Biography)",
+    "quote": "elder son of John [q. v.] by his queen Isabella [q. v.] of Angouleme"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Henry_III_of_England",
+    "title": "Henry III of England - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "Eleanor was married to King Henry III of England on 14 January 1236"
+   }
+  ]
+ },
+ {
+  "id": "eleanor-aquitaine",
+  "name": "Eleanor of Aquitaine",
+  "house": "House of Poitiers",
+  "monarch": false,
+  "birth": {
+   "date": "1124",
+   "place": "Bordeaux, Aquitaine",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine",
+     "title": "Eleanor of Aquitaine - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "the date of her birth was once given as 1122 or 1124, the latter is now generally accepted"
+    }
+   ]
+  },
+  "death": {
+   "date": "1204-04-01",
+   "place": "Fontevraud Abbey, Anjou",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine",
+     "title": "Eleanor of Aquitaine - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "1 April 1204 (aged ~80) Fontevraud Abbey, Anjou"
+    }
+   ]
+  },
+  "parents": [
+   "william-x-aquitaine",
+   "aenor-chatellerault"
+  ],
+  "spouses": [
+   {
+    "id": "louis-vii-france",
+    "married": "1137-07-25",
+    "ended": "1152-03-21",
+    "endedBy": "annulment",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine",
+      "title": "Eleanor of Aquitaine - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "annulled on 21 March [1152] on grounds of consanguinity within the fourth degree"
+     }
+    ]
+   },
+   {
+    "id": "henry-ii",
+    "married": "1152-05-18",
+    "ended": "1189-07-06",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine",
+      "title": "Eleanor of Aquitaine - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "18 May 1152 at Poitiers Cathedral, a quiet private ceremony"
+     }
+    ]
+   }
+  ],
+  "summary": "Eleanor, daughter of Duke William X of Aquitaine and Aenor de Chatellerault, was born in Bordeaux around 1124. Her marriage to Louis VII of France was annulled in March 1152 on grounds of consanguinity, and weeks later, on 18 May 1152, she married Henry, duke of Normandy and soon king of England. She died at Fontevraud Abbey on 1 April 1204.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine",
+    "title": "Eleanor of Aquitaine - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "Duke William X of Aquitaine and his wife, Aenor de Chatellerault"
+   }
+  ],
+  "uncertain": "Birth year disputed among sources: earlier scholarship gave 1122, but 1124 is now generally accepted; the exact date is unknown."
+ },
+ {
+  "id": "william-ix-poitiers",
+  "name": "William, Count of Poitiers",
+  "house": "Plantagenet",
+  "monarch": false,
+  "birth": {
+   "date": "1153-08-17",
+   "place": "Normandy or Poitiers, Aquitaine",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/William_IX,_Count_of_Poitiers",
+     "title": "William IX, Count of Poitiers - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Born 17 August 1153 in Normandy or Poitiers, Aquitaine"
+    }
+   ]
+  },
+  "death": {
+   "date": "1156-04/1156-12",
+   "place": "Wallingford Castle",
+   "precision": "range",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/William_IX,_Count_of_Poitiers",
+     "title": "William IX, Count of Poitiers - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "William is reported to have died either at the age of 2 in April 1156, or at the age of 3 on 2 December 1156, after suffering a seizure at Wallingford Castle."
+    }
+   ]
+  },
+  "parents": [
+   "henry-ii",
+   "eleanor-aquitaine"
+  ],
+  "summary": "William, Count of Poitiers, was the first son of King Henry II and Duchess Eleanor of Aquitaine, born on 17 August 1153. He died as a young child at Wallingford Castle and was buried at Reading Abbey at the feet of his great-grandfather Henry I.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/William_IX,_Count_of_Poitiers",
+    "title": "William IX, Count of Poitiers - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "William, Count of Poitiers (17 August 1153 - 1156) was the first son of King Henry II of England and Duchess Eleanor of Aquitaine."
+   }
+  ],
+  "uncertain": "Sources disagree on his exact death date: either April 1156 (aged 2) or 2 December 1156 (aged 3, after a seizure at Wallingford Castle)."
+ },
+ {
+  "id": "henry-young-king",
+  "name": "Henry the Young King",
+  "house": "Plantagenet",
+  "monarch": false,
+  "titles": [
+   {
+    "title": "King of England (junior co-ruler, crowned during his father's lifetime)",
+    "from": "1170",
+    "to": "1183",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Henry_the_Young_King",
+      "title": "Henry the Young King - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "In 1170, he became titular King of England"
+     }
+    ]
+   }
+  ],
+  "birth": {
+   "date": "1155-02-28",
+   "place": "London",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Henry_the_Young_King",
+     "title": "Henry the Young King - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "28 February 1155 London, England"
+    }
+   ]
+  },
+  "death": {
+   "date": "1183-06-11",
+   "place": "Castle of Martel, Lot, France",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Henry_the_Young_King",
+     "title": "Henry the Young King - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "11 June 1183 (aged 28) Castle of Martel, Lot, France"
+    }
+   ]
+  },
+  "parents": [
+   "henry-ii",
+   "eleanor-aquitaine"
+  ],
+  "spouses": [
+   {
+    "id": "margaret-france",
+    "married": "1172-08-27",
+    "ended": "1183-06-11",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Henry_the_Young_King",
+      "title": "Henry the Young King - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Young Henry and Margaret were formally married on 27 August 1172 at Winchester Cathedral"
+     }
+    ]
+   }
+  ],
+  "summary": "Henry, the second son of Henry II and Eleanor of Aquitaine, was crowned junior King of England in 1170 during his father's lifetime, the only such coronation after the Norman Conquest, and is not counted in the regnal numbering. He married Margaret of France in 1172 and died in 1183 while in rebellion against his father.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Henry_the_Young_King",
+    "title": "Henry the Young King - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "the only English king since the Norman Conquest to be crowned during his father's reign"
+   }
+  ],
+  "uncertain": "Henry the Young King was crowned and titled King of England alongside his father but never reigned as sole monarch and predeceased Henry II; he is excluded from the standard regnal list, unlike his brothers Richard I and John."
+ },
+ {
+  "id": "matilda-saxony",
+  "name": "Matilda, Duchess of Saxony",
+  "house": "Plantagenet",
+  "monarch": false,
+  "birth": {
+   "date": "1156-06",
+   "place": "London",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Matilda,_Duchess_of_Saxony",
+     "title": "Matilda, Duchess of Saxony - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Matilda was born in or around June 1156 in London or, less likely, at Windsor Castle"
+    }
+   ]
+  },
+  "death": {
+   "date": "1189",
+   "place": "Brunswick, Duchy of Saxony",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Matilda,_Duchess_of_Saxony",
+     "title": "Matilda, Duchess of Saxony - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "she died, according to various sources, on 8 June, 20 June, 28 June, 3 July or 13 July 1189"
+    }
+   ]
+  },
+  "parents": [
+   "henry-ii",
+   "eleanor-aquitaine"
+  ],
+  "spouses": [
+   {
+    "id": "henry-lion-saxony",
+    "married": "1168-02-01",
+    "ended": "1189",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Matilda,_Duchess_of_Saxony",
+      "title": "Matilda, Duchess of Saxony - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Henry the Lion met his bride in Minden, where they were married in the local Cathedral by Bishop Werner on 1 February 1168"
+     }
+    ]
+   }
+  ],
+  "summary": "Matilda, third child and eldest daughter of Henry II and Eleanor of Aquitaine, was born in or around June 1156. She married Duke Henry the Lion of Saxony at Minden Cathedral on 1 February 1168 and died in Brunswick in 1189.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Matilda,_Duchess_of_Saxony",
+    "title": "Matilda, Duchess of Saxony - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "third child and eldest daughter of King Henry II of England and Eleanor of Aquitaine"
+   }
+  ],
+  "uncertain": "Sources give five different dates for her death in 1189 (8, 20, 28 June, 3 or 13 July)."
+ },
+ {
+  "id": "geoffrey-brittany",
+  "name": "Geoffrey II, Duke of Brittany",
+  "house": "Plantagenet",
+  "monarch": false,
+  "birth": {
+   "date": "1158-09-23",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Geoffrey_II,_Duke_of_Brittany",
+     "title": "Geoffrey II, Duke of Brittany - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "23 September 1158"
+    }
+   ]
+  },
+  "death": {
+   "date": "1186-08-19",
+   "place": "Paris",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Geoffrey_II,_Duke_of_Brittany",
+     "title": "Geoffrey II, Duke of Brittany - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "19 August 1186 (aged 27) Paris, France"
+    }
+   ]
+  },
+  "parents": [
+   "henry-ii",
+   "eleanor-aquitaine"
+  ],
+  "spouses": [
+   {
+    "id": "constance-brittany",
+    "married": "1181-07",
+    "ended": "1186-08-19",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Geoffrey_II,_Duke_of_Brittany",
+      "title": "Geoffrey II, Duke of Brittany - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Geoffrey and Constance eventually married, in July 1181"
+     }
+    ]
+   }
+  ],
+  "summary": "Geoffrey, son of Henry II and Eleanor of Aquitaine, was born on 23 September 1158 and became Duke of Brittany through his marriage to Constance in July 1181. He died in Paris in August 1186, leaving two daughters and a posthumous son, Arthur.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Geoffrey_II,_Duke_of_Brittany",
+    "title": "Geoffrey II, Duke of Brittany - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "Henry II, King of England and Eleanor, Duchess of Aquitaine"
+   }
+  ]
+ },
+ {
+  "id": "eleanor-castile-queen",
+  "name": "Eleanor of England, Queen of Castile",
+  "house": "Plantagenet",
+  "monarch": false,
+  "birth": {
+   "date": "1161",
+   "place": "Domfront, Normandy",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Eleanor_of_England,_Queen_of_Castile",
+     "title": "Eleanor of England, Queen of Castile - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Eleanor was born in the castle at Domfront, Normandy c. 1161"
+    }
+   ]
+  },
+  "death": {
+   "date": "1214-10-31",
+   "place": "Burgos, Castile",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Eleanor_of_England,_Queen_of_Castile",
+     "title": "Eleanor of England, Queen of Castile - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "31 October 1214 Burgos, Castile"
+    }
+   ]
+  },
+  "parents": [
+   "henry-ii",
+   "eleanor-aquitaine"
+  ],
+  "spouses": [
+   {
+    "id": "alfonso-viii-castile",
+    "married": "1170",
+    "ended": "1214-10-31",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Eleanor_of_England,_Queen_of_Castile",
+      "title": "Eleanor of England, Queen of Castile - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "In 1170 Eleanor married King Alfonso VIII of Castile in Burgos at the age of 9"
+     }
+    ]
+   }
+  ],
+  "summary": "Eleanor, second daughter of Henry II of England and Eleanor of Aquitaine, was born at Domfront in Normandy around 1161. She married King Alfonso VIII of Castile at Burgos in 1170 and died there in 1214. She is distinct from her great-granddaughter Eleanor of Castile, who married Edward I.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Eleanor_of_England,_Queen_of_Castile",
+    "title": "Eleanor of England, Queen of Castile - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "the second daughter of King Henry II of England and his wife Eleanor, Duchess of Aquitaine"
+   }
+  ]
+ },
+ {
+  "id": "joan-sicily",
+  "name": "Joan of England, Queen of Sicily",
+  "house": "Plantagenet",
+  "monarch": false,
+  "birth": {
+   "date": "1165-10",
+   "place": "Chateau d'Angers, Anjou",
+   "precision": "month",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Joan_of_England,_Queen_of_Sicily",
+     "title": "Joan of England, Queen of Sicily - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Joan was born in October 1165 at Chateau d'Angers in Anjou"
+    }
+   ]
+  },
+  "death": {
+   "date": "1199-09-24",
+   "place": "Rouen",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Joan_of_England,_Queen_of_Sicily",
+     "title": "Joan of England, Queen of Sicily - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "She died in childbirth on 24 September 1199"
+    }
+   ]
+  },
+  "parents": [
+   "henry-ii",
+   "eleanor-aquitaine"
+  ],
+  "spouses": [
+   {
+    "id": "william-ii-sicily",
+    "married": "1177-02-13",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Joan_of_England,_Queen_of_Sicily",
+      "title": "Joan of England, Queen of Sicily - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "on 13 February 1177, she married King William and was crowned Queen of Sicily"
+     }
+    ]
+   },
+   {
+    "id": "raymond-vi-toulouse",
+    "married": "1196-10",
+    "ended": "1199-09-24",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Joan_of_England,_Queen_of_Sicily",
+      "title": "Joan of England, Queen of Sicily - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Joan was married in October 1196, at Rouen to Raymond VI, Count of Toulouse"
+     }
+    ]
+   }
+  ],
+  "summary": "Joan, seventh child of Henry II and Eleanor of Aquitaine, was born in October 1165. She married King William II of Sicily in 1177, and after his death married Raymond VI of Toulouse in 1196. She died in childbirth at Rouen in September 1199.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Joan_of_England,_Queen_of_Sicily",
+    "title": "Joan of England, Queen of Sicily - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "seventh child of Henry II, King of England and his queen consort, Eleanor of Aquitaine"
+   }
+  ]
+ },
+ {
+  "id": "berengaria-navarre",
+  "name": "Berengaria of Navarre",
+  "house": "House of Jimenez",
+  "monarch": false,
+  "birth": {
+   "date": "1165/1170",
+   "place": "Navarre",
+   "precision": "range",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Berengaria_of_Navarre",
+     "title": "Berengaria of Navarre - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "c. 1165-1170"
+    }
+   ]
+  },
+  "death": {
+   "date": "1230-12-23",
+   "place": "L'Epau Abbey, Le Mans",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Berengaria_of_Navarre",
+     "title": "Berengaria of Navarre - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "23 December 1230"
+    }
+   ]
+  },
+  "parents": [
+   "sancho-vi-navarre",
+   "sancha-castile-navarre"
+  ],
+  "spouses": [
+   {
+    "id": "richard-i",
+    "married": "1191-05-12",
+    "ended": "1199-04-06",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Berengaria_of_Navarre",
+      "title": "Berengaria of Navarre - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Berengaria married Richard the Lionheart on 12 May 1191 in the Chapel of St. George at Limassol on Cyprus"
+     }
+    ]
+   }
+  ],
+  "summary": "Berengaria, daughter of Sancho VI of Navarre and Sancha of Castile, was born around 1165-1170. She married Richard I of England at Limassol, Cyprus, on 12 May 1191; the marriage produced no children. She died at L'Epau Abbey near Le Mans in 1230.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Berengaria_of_Navarre",
+    "title": "Berengaria of Navarre - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "Whether the marriage was ever even consummated is a matter for conjecture."
+   }
+  ],
+  "uncertain": "Her birth year is given only as a range, c. 1165-1170, by Wikipedia; no precise date is established."
+ },
+ {
+  "id": "isabella-gloucester",
+  "name": "Isabella, Countess of Gloucester",
+  "house": "House of Fitz Robert",
+  "monarch": false,
+  "birth": {
+   "date": "1160/1166",
+   "precision": "range",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Isabella,_Countess_of_Gloucester",
+     "title": "Isabella, Countess of Gloucester - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "c. 1160-1166"
+    }
+   ]
+  },
+  "death": {
+   "date": "1217-10-14",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Isabella,_Countess_of_Gloucester",
+     "title": "Isabella, Countess of Gloucester - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Isabella died on 14 October 1217"
+    }
+   ]
+  },
+  "parents": [
+   "william-fitz-robert-gloucester",
+   "hawise-beaumont"
+  ],
+  "spouses": [
+   {
+    "id": "john",
+    "married": "1189-08-29",
+    "ended": "1200",
+    "endedBy": "annulment",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Isabella,_Countess_of_Gloucester",
+      "title": "Isabella, Countess of Gloucester - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Isabella was removed from royal wardship and was married to John on 29 August at Marlborough Castle"
+     }
+    ]
+   }
+  ],
+  "summary": "Isabella, daughter of William Fitz Robert, 2nd Earl of Gloucester, was born around 1160-1166. She married the future King John at Marlborough Castle on 29 August 1189; the marriage, which produced no children, was annulled on grounds of consanguinity around 1200. She died in 1217.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Isabella,_Countess_of_Gloucester",
+    "title": "Isabella, Countess of Gloucester - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "William Fitz Robert, 2nd Earl of Gloucester"
+   }
+  ],
+  "uncertain": "Wikipedia gives only a range for her birth, c. 1160-1166. The Dictionary of National Biography calls her 'Avice of Gloucester' rather than Isabella."
+ },
+ {
+  "id": "isabella-angouleme",
+  "name": "Isabella of Angouleme",
+  "house": "House of Taillefer",
+  "monarch": false,
+  "birth": {
+   "date": "1188",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Isabella_of_Angoul%C3%AAme",
+     "title": "Isabella of Angouleme - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "c. 1186 / c. 1188"
+    }
+   ]
+  },
+  "death": {
+   "date": "1246-06-04",
+   "place": "Fontevraud Abbey",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Isabella_of_Angoul%C3%AAme",
+     "title": "Isabella of Angouleme - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "4 June 1246 Fontevraud Abbey, France"
+    }
+   ]
+  },
+  "parents": [
+   "aymer-angouleme",
+   "alice-courtenay"
+  ],
+  "spouses": [
+   {
+    "id": "john",
+    "married": "1200-08-24",
+    "ended": "1216-10-19",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Isabella_of_Angoul%C3%AAme",
+      "title": "Isabella of Angouleme - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Married on 24 August 1200, in Angouleme"
+     }
+    ]
+   }
+  ],
+  "summary": "Isabella, daughter of Aymer, Count of Angouleme, and Alice of Courtenay, married King John in 1200 while still very young. Their five children all survived to adulthood, including the future Henry III. She died at Fontevraud Abbey in 1246.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Isabella_of_Angoul%C3%AAme",
+    "title": "Isabella of Angouleme - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "when she was \"12 or 14\" years old"
+   }
+  ],
+  "uncertain": "Sources disagree on her exact birth year (c. 1186 or c. 1188) and therefore on her age at marriage to John in 1200, variously given as 12 or 14."
+ },
+ {
+  "id": "arthur-brittany",
+  "name": "Arthur I, Duke of Brittany",
+  "house": "Plantagenet",
+  "monarch": false,
+  "birth": {
+   "date": "1187-03-29",
+   "place": "Nantes, Brittany",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Arthur_I,_Duke_of_Brittany",
+     "title": "Arthur I, Duke of Brittany - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "29 March 1187 Nantes, Brittany"
+    }
+   ]
+  },
+  "death": {
+   "date": "1203",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Arthur_I,_Duke_of_Brittany",
+     "title": "Arthur I, Duke of Brittany - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Disappeared 1203 (aged 15-16)"
+    }
+   ]
+  },
+  "parents": [
+   "geoffrey-brittany",
+   "constance-brittany"
+  ],
+  "summary": "Arthur, posthumous son of Geoffrey II, Duke of Brittany, was proclaimed heir presumptive to Richard I in 1190. On Richard's death in 1199 the throne passed instead to Arthur's uncle John; Arthur, who continued to press his claim with French support, was captured in 1202 and vanished in April 1203 while a prisoner of John.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Arthur_I,_Duke_of_Brittany",
+    "title": "Arthur I, Duke of Brittany - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "the king proclaimed his brother John as his heir, fearing Arthur was too young"
+   }
+  ],
+  "uncertain": "Arthur was a rival claimant to the English throne against his uncle John; he never reigned and the circumstances and exact date of his death (he 'vanished in April 1203') remain unknown, with contemporary chroniclers alleging John killed him personally."
+ },
+ {
+  "id": "eleanor-brittany",
+  "name": "Eleanor, Fair Maid of Brittany",
+  "house": "Plantagenet",
+  "monarch": false,
+  "birth": {
+   "date": "1184",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Eleanor,_Fair_Maid_of_Brittany",
+     "title": "Eleanor, Fair Maid of Brittany - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Eleanor of Brittany (c. 1184 - 10 August 1241)"
+    }
+   ]
+  },
+  "death": {
+   "date": "1241-08-10",
+   "place": "Bristol Castle or Corfe Castle, Dorset",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Eleanor,_Fair_Maid_of_Brittany",
+     "title": "Eleanor, Fair Maid of Brittany - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "10 August 1241 (aged c. 57-59)"
+    }
+   ]
+  },
+  "parents": [
+   "geoffrey-brittany",
+   "constance-brittany"
+  ],
+  "summary": "Eleanor, daughter of Geoffrey II, Duke of Brittany, was held captive by her uncle King John from around 1199-1200 and remained imprisoned for the rest of her life on the orders of John and then Henry III, dying at Bristol or Corfe Castle in 1241 after decades of confinement.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Eleanor,_Fair_Maid_of_Brittany",
+    "title": "Eleanor, Fair Maid of Brittany - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "Before his death John stated that Eleanor should never be released."
+   }
+  ]
+ },
+ {
+  "id": "richard-cornwall",
+  "name": "Richard, 1st Earl of Cornwall",
+  "house": "Plantagenet",
+  "monarch": false,
+  "titles": [
+   {
+    "title": "King of the Romans",
+    "from": "1257",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Richard,_1st_Earl_of_Cornwall",
+      "title": "Richard, 1st Earl of Cornwall - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Richard was elected in 1257 as King of Germany by four of the seven German Electoral Princes"
+     }
+    ]
+   }
+  ],
+  "birth": {
+   "date": "1209-01-05",
+   "place": "Winchester Castle",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Richard,_1st_Earl_of_Cornwall",
+     "title": "Richard, 1st Earl of Cornwall - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "He was born 5 January 1209 at Winchester Castle, the second son of John, King of England, and Isabella, Countess of Angouleme."
+    }
+   ]
+  },
+  "death": {
+   "date": "1272-04-02",
+   "place": "Berkhamsted Castle",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Richard,_1st_Earl_of_Cornwall",
+     "title": "Richard, 1st Earl of Cornwall - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "On 2 April 1272, Richard died at Berkhamsted Castle in Hertfordshire."
+    }
+   ]
+  },
+  "parents": [
+   "john",
+   "isabella-angouleme"
+  ],
+  "spouses": [
+   {
+    "id": "isabel-marshal",
+    "married": "1231-03",
+    "ended": "1240",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Richard,_1st_Earl_of_Cornwall",
+      "title": "Richard, 1st Earl of Cornwall - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "In March 1231, he married Isabel Marshal, the wealthy widow of the Earl of Gloucester."
+     }
+    ]
+   },
+   {
+    "id": "sancha-provence",
+    "married": "1243-11",
+    "ended": "1261",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Richard,_1st_Earl_of_Cornwall",
+      "title": "Richard, 1st Earl of Cornwall - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Richard and Sanchia were married at Westminster in November 1243."
+     }
+    ]
+   },
+   {
+    "id": "beatrice-falkenburg",
+    "married": "1269-06-16",
+    "ended": "1272-04-02",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Richard,_1st_Earl_of_Cornwall",
+      "title": "Richard, 1st Earl of Cornwall - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "They married on 16 June 1269 at Kaiserslautern"
+     }
+    ]
+   }
+  ],
+  "summary": "Richard, second son of King John and Isabella of Angouleme, was born at Winchester Castle on 5 January 1209. Made Earl of Cornwall, he married three times and in 1257 was elected King of the Romans by German electoral princes. He died at Berkhamsted Castle in 1272.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Richard,_1st_Earl_of_Cornwall",
+    "title": "Richard, 1st Earl of Cornwall - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "He was crowned on 17 May 1257"
+   }
+  ]
+ },
+ {
+  "id": "joan-scotland",
+  "name": "Joan of England, Queen of Scotland",
+  "house": "Plantagenet",
+  "monarch": false,
+  "birth": {
+   "date": "1210-07-22",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Joan_of_England,_Queen_of_Scotland",
+     "title": "Joan of England, Queen of Scotland - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Born 22 July 1210"
+    }
+   ]
+  },
+  "death": {
+   "date": "1238-03-04",
+   "place": "Havering-atte-Bower, England",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Joan_of_England,_Queen_of_Scotland",
+     "title": "Joan of England, Queen of Scotland - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Died 4 March 1238 (aged 27) Havering-atte-Bower, England"
+    }
+   ]
+  },
+  "parents": [
+   "john",
+   "isabella-angouleme"
+  ],
+  "spouses": [
+   {
+    "id": "alexander-ii-scotland",
+    "married": "1221-06-21",
+    "ended": "1238-03-04",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Joan_of_England,_Queen_of_Scotland",
+      "title": "Joan of England, Queen of Scotland - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "She and Alexander married on 21 June 1221, at York Minster."
+     }
+    ]
+   }
+  ],
+  "summary": "Joan, third child of King John and Isabella of Angouleme, was born on 22 July 1210. She married King Alexander II of Scotland at York Minster on 21 June 1221 and died in 1238.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Joan_of_England,_Queen_of_Scotland",
+    "title": "Joan of England, Queen of Scotland - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "She was the third child of John, King of England, and Isabella of Angouleme."
+   }
+  ]
+ },
+ {
+  "id": "isabella-empress",
+  "name": "Isabella of England, Holy Roman Empress",
+  "house": "Plantagenet",
+  "monarch": false,
+  "titles": [
+   {
+    "title": "Holy Roman Empress",
+    "from": "1235",
+    "to": "1241",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Isabella_of_England",
+      "title": "Isabella of England - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "their official wedding took place and Isabella was crowned at Worms Cathedral"
+     }
+    ]
+   }
+  ],
+  "birth": {
+   "date": "1214",
+   "place": "Gloucester",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Isabella_of_England",
+     "title": "Isabella of England - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Isabella was born around 1214 in Gloucester, Kingdom of England."
+    }
+   ]
+  },
+  "death": {
+   "date": "1241-12-01",
+   "place": "Foggia, near Naples",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Isabella_of_England",
+     "title": "Isabella of England - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Isabella died in childbirth at Foggia near Naples in 1241 on 1 December."
+    }
+   ]
+  },
+  "parents": [
+   "john",
+   "isabella-angouleme"
+  ],
+  "spouses": [
+   {
+    "id": "frederick-ii-emperor",
+    "married": "1235-07",
+    "ended": "1241-12-01",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Isabella_of_England",
+      "title": "Isabella of England - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "their official wedding took place and Isabella was crowned at Worms Cathedral on either \"20 July 1235\" or \"Sunday 15 July\""
+     }
+    ]
+   }
+  ],
+  "summary": "Isabella, fourth child and second daughter of King John and Isabella of Angouleme, was born around 1214. She married Holy Roman Emperor Frederick II at Worms in July 1235, becoming Holy Roman Empress, and died in childbirth at Foggia in December 1241.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Isabella_of_England",
+    "title": "Isabella of England - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "fourth child and second daughter of John, King of England, and his second wife Isabella of Angouleme"
+   }
+  ],
+  "uncertain": "Sources vary on the exact day of her wedding at Worms Cathedral in July 1235 (15th or 20th)."
+ },
+ {
+  "id": "eleanor-leicester",
+  "name": "Eleanor of England, Countess of Leicester",
+  "house": "Plantagenet",
+  "monarch": false,
+  "birth": {
+   "date": "1215",
+   "place": "Gloucester",
+   "precision": "year",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Eleanor_of_England,_Countess_of_Leicester",
+     "title": "Eleanor of England, Countess of Leicester - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Born 1215 Gloucester, Gloucestershire, England"
+    }
+   ]
+  },
+  "death": {
+   "date": "1275-04-13",
+   "place": "Montargis Abbey, France",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Eleanor_of_England,_Countess_of_Leicester",
+     "title": "Eleanor of England, Countess of Leicester - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Died 13 April 1275 (aged 59-60) Montargis Abbey, France"
+    }
+   ]
+  },
+  "parents": [
+   "john",
+   "isabella-angouleme"
+  ],
+  "spouses": [
+   {
+    "id": "william-marshal-ii",
+    "married": "1224-04-23",
+    "ended": "1231-04-06",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Eleanor_of_England,_Countess_of_Leicester",
+      "title": "Eleanor of England, Countess of Leicester - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "They were married on 23 April 1224 at New Temple Church in London"
+     }
+    ]
+   },
+   {
+    "id": "simon-de-montfort",
+    "married": "1238-01-07",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Eleanor_of_England,_Countess_of_Leicester",
+      "title": "Eleanor of England, Countess of Leicester - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "married secretly on 7 January 1238 at the King's chapel in Westminster Palace"
+     }
+    ]
+   }
+  ],
+  "summary": "Eleanor, youngest child of King John and Isabella of Angouleme, was born in 1215 at Gloucester. Widowed by William Marshal, 2nd Earl of Pembroke, in 1231, she married Simon de Montfort, 6th Earl of Leicester, in a secret ceremony at Westminster in January 1238. She died at Montargis Abbey in France in 1275.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Eleanor_of_England,_Countess_of_Leicester",
+    "title": "Eleanor of England, Countess of Leicester - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "the youngest child of John, King of England and Isabella of Angouleme"
+   }
+  ]
+ },
+ {
+  "id": "eleanor-provence",
+  "name": "Eleanor of Provence",
+  "house": "House of Barcelona",
+  "monarch": false,
+  "birth": {
+   "date": "1223",
+   "place": "Aix-en-Provence",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Eleanor_of_Provence",
+     "title": "Eleanor of Provence - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Born in the city of Aix-en-Provence in southern France"
+    }
+   ]
+  },
+  "death": {
+   "date": "1291-06-24",
+   "place": "Amesbury, Wiltshire",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Eleanor_of_Provence",
+     "title": "Eleanor of Provence - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "24/25 June 1291 Amesbury"
+    }
+   ]
+  },
+  "parents": [
+   "raymond-berenguer-v-provence",
+   "beatrice-savoy"
+  ],
+  "spouses": [
+   {
+    "id": "henry-iii",
+    "married": "1236-01-14",
+    "ended": "1272-11-16",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Eleanor_of_Provence",
+      "title": "Eleanor of Provence - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Eleanor was married to King Henry III of England on 14 January 1236"
+     }
+    ]
+   }
+  ],
+  "summary": "Eleanor, daughter of Ramon Berenguer V, Count of Provence, and Beatrice of Savoy, was born at Aix-en-Provence around 1223. She married Henry III of England at Canterbury Cathedral on 14 January 1236, becoming the mother of Edward I among five children, and died at Amesbury in 1291.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Eleanor_of_Provence",
+    "title": "Eleanor of Provence - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "she was \"either 12 or 13 years old, while he was 28\""
+   }
+  ],
+  "uncertain": "Her exact birth year is not firmly established; Matthew Paris records her as 'already twelve' on arrival in England in late 1235/early 1236, and sources give her age at marriage as either 12 or 13."
+ },
+ {
+  "id": "edmund-crouchback",
+  "name": "Edmund Crouchback",
+  "house": "Plantagenet",
+  "monarch": false,
+  "titles": [
+   {
+    "title": "Earl of Lancaster",
+    "from": "1267",
+    "to": "1296",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Edmund_Crouchback",
+      "title": "Edmund Crouchback - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Earl of Lancaster (1267-1296)"
+     }
+    ]
+   }
+  ],
+  "birth": {
+   "date": "1245-01-16",
+   "place": "London",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Edmund_Crouchback",
+     "title": "Edmund Crouchback - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Born 16 January 1245 London, England"
+    }
+   ]
+  },
+  "death": {
+   "date": "1296-06-05",
+   "place": "Bayonne, Duchy of Aquitaine",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Edmund_Crouchback",
+     "title": "Edmund Crouchback - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Died 5 June 1296 (aged 51) Bayonne, Duchy of Aquitaine"
+    }
+   ]
+  },
+  "parents": [
+   "henry-iii",
+   "eleanor-provence"
+  ],
+  "spouses": [
+   {
+    "id": "aveline-forz",
+    "married": "1269-04-08",
+    "ended": "1274-11-10",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Edmund_Crouchback",
+      "title": "Edmund Crouchback - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "On 8 or 9 April 1269, Edmund married 10-year-old Aveline"
+     }
+    ]
+   },
+   {
+    "id": "blanche-artois",
+    "married": "1276",
+    "ended": "1296-06-05",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Edmund_Crouchback",
+      "title": "Edmund Crouchback - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Between December 1275 and January 1276 in Paris, Edmund married Blanche"
+     }
+    ]
+   }
+  ],
+  "summary": "Edmund, son of Henry III and Eleanor of Provence, was born in London on 16 January 1245 and made Earl of Lancaster in 1267. He married Aveline de Forz in 1269 and, after her death, Blanche of Artois around the end of 1275. He died at Bayonne in 1296.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Edmund_Crouchback",
+    "title": "Edmund Crouchback - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "King Henry III of England"
+   }
+  ],
+  "uncertain": "The exact day of his first marriage to Aveline de Forz is given as either 8 or 9 April 1269; the second marriage to Blanche of Artois is dated only to between December 1275 and January 1276."
+ },
+ {
+  "id": "margaret-england",
+  "name": "Margaret of England, Queen of Scotland",
+  "house": "Plantagenet",
+  "monarch": false,
+  "birth": {
+   "date": "1240-09-29",
+   "place": "Windsor Castle",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Margaret_of_England,_Queen_of_Scotland",
+     "title": "Margaret of England, Queen of Scotland - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "29 September 1240 Windsor Castle"
+    }
+   ]
+  },
+  "death": {
+   "date": "1275-02-26",
+   "place": "Cupar Castle",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Margaret_of_England,_Queen_of_Scotland",
+     "title": "Margaret of England, Queen of Scotland - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "26 February 1275 (aged 34) Cupar Castle"
+    }
+   ]
+  },
+  "parents": [
+   "henry-iii",
+   "eleanor-provence"
+  ],
+  "spouses": [
+   {
+    "id": "alexander-iii-scotland",
+    "married": "1251-12-25",
+    "ended": "1275-02-26",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Margaret_of_England,_Queen_of_Scotland",
+      "title": "Margaret of England, Queen of Scotland - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "Married to Alexander III of Scotland on \"25 December 1251\" at \"York Minster\""
+     }
+    ]
+   }
+  ],
+  "summary": "Margaret, daughter of Henry III and Eleanor of Provence, was born at Windsor Castle on 29 September 1240. She married King Alexander III of Scotland at York Minster on Christmas Day 1251, aged eleven, and died at Cupar Castle in 1275.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Margaret_of_England,_Queen_of_Scotland",
+    "title": "Margaret of England, Queen of Scotland - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "King Henry III of England and Eleanor of Provence"
+   }
+  ]
+ },
+ {
+  "id": "beatrice-england",
+  "name": "Beatrice of England",
+  "house": "Plantagenet",
+  "monarch": false,
+  "birth": {
+   "date": "1242-06-25",
+   "place": "Bordeaux",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Beatrice_of_England",
+     "title": "Beatrice of England - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Born 25 June 1242 in Bordeaux, France"
+    }
+   ]
+  },
+  "death": {
+   "date": "1275-03-24",
+   "place": "London",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Beatrice_of_England",
+     "title": "Beatrice of England - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Died on 24 March 1275 in London, England"
+    }
+   ]
+  },
+  "parents": [
+   "henry-iii",
+   "eleanor-provence"
+  ],
+  "spouses": [
+   {
+    "id": "john-ii-brittany",
+    "married": "1260-01-22",
+    "ended": "1275-03-24",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Beatrice_of_England",
+      "title": "Beatrice of England - Wikipedia",
+      "publisher": "Wikipedia",
+      "quote": "On 22 January 1260, when she was seventeen, she married John de Dreux, heir to the duchy of Brittany, at Saint-Denis"
+     }
+    ]
+   }
+  ],
+  "summary": "Beatrice, daughter of Henry III and Eleanor of Provence, was born at Bordeaux on 25 June 1242. She married John de Dreux, heir to the duchy of Brittany, at Saint-Denis in January 1260 and died in London in 1275.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Beatrice_of_England",
+    "title": "Beatrice of England - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "Daughter of Henry III of England and Eleanor of Provence"
+   }
+  ]
+ },
+ {
+  "id": "katherine-england",
+  "name": "Katherine of England",
+  "house": "Plantagenet",
+  "monarch": false,
+  "birth": {
+   "date": "1253-11-25",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Katherine_of_England",
+     "title": "Katherine of England - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "25 November 1253"
+    }
+   ]
+  },
+  "death": {
+   "date": "1257-05-03",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Katherine_of_England",
+     "title": "Katherine of England - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "3 May 1257 (aged 3)"
+    }
+   ]
+  },
+  "parents": [
+   "henry-iii",
+   "eleanor-provence"
+  ],
+  "summary": "Katherine, daughter of Henry III and Eleanor of Provence, was born on 25 November 1253 and died aged three on 3 May 1257. The chronicler Matthew Paris described her as unable to speak, and historians have long debated what disability or illness she may have had.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Katherine_of_England",
+    "title": "Katherine of England - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "the most beautiful girl, but mute and useless"
+   }
+  ]
+ },
+ {
+  "id": "geoffrey-nantes",
+  "name": "Geoffrey, Count of Nantes",
+  "house": "Plantagenet",
+  "monarch": false,
+  "birth": {
+   "date": "1134-06-01",
+   "place": "Rouen or Argentan, Normandy",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Geoffrey,_Count_of_Nantes",
+     "title": "Geoffrey, Count of Nantes - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Born 1 June 1134"
+    }
+   ]
+  },
+  "death": {
+   "date": "1158-07-27",
+   "place": "Nantes",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Geoffrey,_Count_of_Nantes",
+     "title": "Geoffrey, Count of Nantes - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Died 27 July 1158"
+    }
+   ]
+  },
+  "parents": [
+   "geoffrey-anjou",
+   "matilda-empress"
+  ],
+  "summary": "Geoffrey, younger brother of Henry II, was the second son of Geoffrey Plantagenet, Count of Anjou, and Empress Matilda. He held the title Count of Nantes from 1156 until his death in 1158.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Geoffrey,_Count_of_Nantes",
+    "title": "Geoffrey, Count of Nantes - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "Count of Nantes from 1156 to 1158"
+   }
+  ]
+ },
+ {
+  "id": "william-fitzempress",
+  "name": "William FitzEmpress",
+  "house": "Plantagenet",
+  "monarch": false,
+  "birth": {
+   "date": "1136-07-22",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/William_FitzEmpress",
+     "title": "William FitzEmpress - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "William FitzEmpress (22 July 1136 - 30 January 1164) was the youngest of the three sons"
+    }
+   ]
+  },
+  "death": {
+   "date": "1164-01-30",
+   "place": "Rouen, Normandy",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/William_FitzEmpress",
+     "title": "William FitzEmpress - Wikipedia",
+     "publisher": "Wikipedia",
+     "quote": "Died 30 January 1164 (aged 27) Rouen, Normandy"
+    }
+   ]
+  },
+  "parents": [
+   "geoffrey-anjou",
+   "matilda-empress"
+  ],
+  "summary": "William, youngest of the three sons of Empress Matilda and Geoffrey Plantagenet, Count of Anjou, was the youngest brother of Henry II. He died at Rouen in 1164.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/William_FitzEmpress",
+    "title": "William FitzEmpress - Wikipedia",
+    "publisher": "Wikipedia",
+    "quote": "the youngest of the three sons of Empress Matilda and Geoffrey Plantagenet, Count of Anjou"
+   }
+  ]
+ }
+]

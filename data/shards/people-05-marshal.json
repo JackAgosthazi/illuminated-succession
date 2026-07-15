@@ -1,0 +1,1140 @@
+[
+ {
+  "id": "william-marshal",
+  "name": "William Marshal",
+  "fullName": "William Marshal, 1st Earl of Pembroke",
+  "epithet": null,
+  "house": "Marshal",
+  "role": "Earl of Pembroke; Regent of England",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1146",
+   "place": null,
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/William_Marshal,_1st_Earl_of_Pembroke",
+     "title": "William Marshal, 1st Earl of Pembroke",
+     "publisher": "Wikipedia",
+     "quote": "William Marshal, 1st Earl of Pembroke (1146 or 1147 – 14 May 1219)"
+    },
+    {
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Marshal,_William_(d.1219)",
+     "title": "Dictionary of National Biography, 1885-1900/Marshal, William (d.1219)",
+     "publisher": "Wikisource (Dictionary of National Biography, 1885-1900)",
+     "quote": "1146 is a more likely date for his birth"
+    }
+   ]
+  },
+  "death": {
+   "date": "1219-05-14",
+   "place": "Caversham, near Reading",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Marshal,_William_(d.1219)",
+     "title": "Dictionary of National Biography, 1885-1900/Marshal, William (d.1219)",
+     "publisher": "Wikisource (Dictionary of National Biography, 1885-1900)",
+     "quote": "On 14 May 1219 Marshal died at Caversham, near Reading."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/William_Marshal,_1st_Earl_of_Pembroke",
+     "title": "William Marshal, 1st Earl of Pembroke",
+     "publisher": "Wikipedia",
+     "quote": "He died peacefully on 14 May 1219 at Caversham, surrounded by his friends and family."
+    }
+   ]
+  },
+  "parents": [
+   "john-marshal-fitzgilbert",
+   "sibyl-salisbury"
+  ],
+  "spouses": [
+   {
+    "id": "isabel-de-clare",
+    "married": "1189-08",
+    "ended": "1219-05-14",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Marshal,_William_(d.1219)",
+      "title": "Dictionary of National Biography, 1885-1900/Marshal, William (d.1219)",
+      "publisher": "Wikisource (Dictionary of National Biography, 1885-1900)",
+      "quote": "Marshal himself remained with Richard in England...at once married his bride Isabella, daughter of Richard de Clare, earl of Pembroke and Striguil"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Marshal of England",
+    "from": "1194",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/William_Marshal,_1st_Earl_of_Pembroke",
+      "title": "William Marshal, 1st Earl of Pembroke",
+      "publisher": "Wikipedia",
+      "quote": "Richard allowed William to succeed his brother in the hereditary marshalship and his paternal honour of Hamstead Marshall."
+     }
+    ]
+   },
+   {
+    "title": "Earl of Pembroke",
+    "from": "1199",
+    "to": "1219-05-14",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/William_Marshal,_1st_Earl_of_Pembroke",
+      "title": "William Marshal, 1st Earl of Pembroke",
+      "publisher": "Wikipedia",
+      "quote": "Marshal did not obtain Pembroke and the title of earl, which his father-in-law had enjoyed, until 1199, as it had been taken into the king's hand in 1154."
+     }
+    ]
+   },
+   {
+    "title": "Regent of England (rector regis et regni)",
+    "from": "1216-11-11",
+    "to": "1219-05-14",
+    "citations": [
+     {
+      "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Marshal,_William_(d.1219)",
+      "title": "Dictionary of National Biography, 1885-1900/Marshal, William (d.1219)",
+      "publisher": "Wikisource (Dictionary of National Biography, 1885-1900)",
+      "quote": "Marshal was formally chosen by the common consent to be 'rector regis et regni'"
+     }
+    ]
+   }
+  ],
+  "summary": "William Marshal rose from a landless younger son of a minor Anglo-Norman baron to become one of the most powerful magnates in England, serving Henry II, Richard I, John, and Henry III across more than four decades. His 1189 marriage to Isabel de Clare, heiress of Pembroke and Leinster, made him one of the richest men in the realm. Named among King John's counsellors in the preamble of Magna Carta in 1215, he was chosen regent and protector of the boy king Henry III on John's death in 1216, led the royalist victory at the Battle of Lincoln in 1217, and reissued Magna Carta to secure the peace that ended the First Barons' War.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/William_Marshal,_1st_Earl_of_Pembroke",
+    "title": "William Marshal, 1st Earl of Pembroke",
+    "publisher": "Wikipedia",
+    "quote": "William Marshal, 1st Earl of Pembroke (1146 or 1147 – 14 May 1219)"
+   },
+   {
+    "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Marshal,_William_(d.1219)",
+    "title": "Dictionary of National Biography, 1885-1900/Marshal, William (d.1219)",
+    "publisher": "Wikisource (Dictionary of National Biography, 1885-1900)",
+    "quote": "Marshal was formally chosen by the common consent to be 'rector regis et regni'"
+   }
+  ],
+  "uncertain": "Sources disagree on William Marshal's exact birth year: Wikipedia gives '1146 or 1147', while the Dictionary of National Biography argues 1146 is more likely despite Marshal's own reported claim to be over eighty years old in 1216."
+ },
+ {
+  "id": "john-marshal-fitzgilbert",
+  "name": "John Marshal",
+  "fullName": "John FitzGilbert, Marshal of England",
+  "epithet": null,
+  "house": "Marshal",
+  "role": "Royal Marshal",
+  "monarch": false,
+  "reign": null,
+  "death": {
+   "date": "1165-07-22",
+   "place": null,
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/John_Marshal_(Marshal_of_England)",
+     "title": "John Marshal (died 1165)",
+     "publisher": "Wikipedia",
+     "quote": "John Marshal died on 22 July 1165"
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "sibyl-salisbury",
+    "married": "1141",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Patrick,_1st_Earl_of_Salisbury",
+      "title": "Patrick, 1st Earl of Salisbury",
+      "publisher": "Wikipedia",
+      "quote": "That year, Patrick married his sister, Sibyl, to John fitzGilbert the Marshal, who had been a local rival of his, and transferred his allegiance from King Stephen to the Empress Matilda."
+     },
+     {
+      "url": "https://en.wikipedia.org/wiki/John_Marshal_(Marshal_of_England)",
+      "title": "John Marshal (died 1165)",
+      "publisher": "Wikipedia",
+      "quote": "He later married \"Sybil, sister of Patrick of Salisbury\" after being forced to annul his first marriage on consanguinity grounds."
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Marshal of England",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/John_Marshal_(Marshal_of_England)",
+      "title": "John Marshal (died 1165)",
+      "publisher": "Wikipedia",
+      "quote": "He served as marshal of England, inheriting the position from his father Gilbert Giffard, who held it under King Henry I."
+     }
+    ]
+   }
+  ],
+  "summary": "John Marshal was a minor Anglo-Norman baron who served as marshal of England and fought for the Empress Matilda during the civil war of Stephen's reign known as the Anarchy. When King Stephen besieged him at Newbury Castle in 1152, John surrendered his young son William as a hostage to secure a truce but had no intention of honouring its terms; according to William's biographer, when Stephen threatened to hang the boy, John replied that he still had the means to father more sons. Stephen spared William. John died on 22 July 1165.",
+  "citations": [
+   {
+    "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Marshal,_William_(d.1219)",
+    "title": "Dictionary of National Biography, 1885-1900/Marshal, William (d.1219)",
+    "publisher": "Wikisource (Dictionary of National Biography, 1885-1900)",
+    "quote": "the young William was given as hostage for a truce and the surrender of the castle. John Marshal refused to keep the terms, and his son's life would have been sacrificed had not Stephen...protected him."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/John_Marshal_(Marshal_of_England)",
+    "title": "John Marshal (died 1165)",
+    "publisher": "Wikipedia",
+    "quote": "Though Stephen threatened to execute the boy, he ultimately took pity on William, keeping him at court until after the civil war ended in 1153."
+   }
+  ],
+  "uncertain": "The anecdote of John's 'hammer and anvil' reply to Stephen's threat to hang William is preserved by the Dictionary of National Biography as coming from 'William's biographer' — i.e. the History of William Marshal, a 13th-century verse biography commissioned by the family after his death — and is reported here as that source's account rather than settled fact."
+ },
+ {
+  "id": "sibyl-salisbury",
+  "name": "Sibyl of Salisbury",
+  "fullName": "Sibyl of Salisbury",
+  "epithet": null,
+  "house": "Marshal",
+  "role": null,
+  "monarch": false,
+  "reign": null,
+  "spouses": [
+   {
+    "id": "john-marshal-fitzgilbert",
+    "married": "1141",
+    "endedBy": "death",
+    "ended": "1165-07-22",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Patrick,_1st_Earl_of_Salisbury",
+      "title": "Patrick, 1st Earl of Salisbury",
+      "publisher": "Wikipedia",
+      "quote": "That year, Patrick married his sister, Sibyl, to John fitzGilbert the Marshal, who had been a local rival of his, and transferred his allegiance from King Stephen to the Empress Matilda."
+     }
+    ]
+   }
+  ],
+  "summary": "Sibyl was the sister of Patrick, Earl of Salisbury. In 1141 her brother married her to John FitzGilbert the Marshal, a local rival he was reconciling to the Empress Matilda's cause during the Anarchy. She was the mother of William Marshal, later Earl of Pembroke and regent of England.",
+  "citations": [
+   {
+    "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Marshal,_William_(d.1219)",
+    "title": "Dictionary of National Biography, 1885-1900/Marshal, William (d.1219)",
+    "publisher": "Wikisource (Dictionary of National Biography, 1885-1900)",
+    "quote": "second son of John Marshal (d. 1164?) [q. v.], by his second wife, Sibyl, sister of Patrick, earl of Salisbury."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Patrick,_1st_Earl_of_Salisbury",
+    "title": "Patrick, 1st Earl of Salisbury",
+    "publisher": "Wikipedia",
+    "quote": "That year, Patrick married his sister, Sibyl, to John fitzGilbert the Marshal, who had been a local rival of his, and transferred his allegiance from King Stephen to the Empress Matilda."
+   }
+  ],
+  "uncertain": "No reliable primary or reference source consulted gives Sibyl of Salisbury's birth or death date; both are omitted rather than guessed."
+ },
+ {
+  "id": "isabel-de-clare",
+  "name": "Isabel de Clare",
+  "fullName": "Isabel de Clare, 4th Countess of Pembroke",
+  "epithet": null,
+  "house": "de Clare",
+  "role": "Countess of Pembroke",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1172",
+   "place": "Leinster",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Isabel_de_Clare,_4th_Countess_of_Pembroke",
+     "title": "Isabel de Clare, 4th Countess of Pembroke",
+     "publisher": "Wikipedia",
+     "quote": "c. 1172 Leinster"
+    }
+   ]
+  },
+  "death": {
+   "date": "1220-03-11",
+   "place": "Chepstow, Wales",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Isabel_de_Clare,_4th_Countess_of_Pembroke",
+     "title": "Isabel de Clare, 4th Countess of Pembroke",
+     "publisher": "Wikipedia",
+     "quote": "11 March 1220 Chepstow, Wales"
+    }
+   ]
+  },
+  "parents": [
+   "richard-strongbow",
+   "aoife-macmurrough"
+  ],
+  "spouses": [
+   {
+    "id": "william-marshal",
+    "married": "1189-08",
+    "ended": "1219-05-14",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Isabel_de_Clare,_4th_Countess_of_Pembroke",
+      "title": "Isabel de Clare, 4th Countess of Pembroke",
+      "publisher": "Wikipedia",
+      "quote": "her marriage in August 1189 to William Marshal"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "4th Countess of Pembroke and Striguil (suo jure)",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Isabel_de_Clare,_4th_Countess_of_Pembroke",
+      "title": "Isabel de Clare, 4th Countess of Pembroke",
+      "publisher": "Wikipedia",
+      "quote": "suo jure 4th Countess of Pembroke and Striguil"
+     }
+    ]
+   }
+  ],
+  "summary": "Isabel de Clare, born about 1172 in Leinster, was the daughter and heiress of Richard 'Strongbow' de Clare and Aoife of Leinster. Her 1189 marriage to the household knight William Marshal transferred to him the vast de Clare lordships of Pembroke, Striguil, and Leinster, making him one of the greatest magnates in the realm. She bore William ten children and died on 11 March 1220 at Chepstow.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Isabel_de_Clare,_4th_Countess_of_Pembroke",
+    "title": "Isabel de Clare, 4th Countess of Pembroke",
+    "publisher": "Wikipedia",
+    "quote": "suo jure 4th Countess of Pembroke and Striguil"
+   }
+  ],
+  "uncertain": null
+ },
+ {
+  "id": "richard-strongbow",
+  "name": "Richard de Clare",
+  "fullName": "Richard de Clare, 2nd Earl of Pembroke",
+  "epithet": "Strongbow",
+  "house": "de Clare",
+  "role": "Earl of Pembroke; Lord of Leinster; Justiciar of Ireland",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1130",
+   "place": "Tonbridge, Kent, England",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Richard_de_Clare,_2nd_Earl_of_Pembroke",
+     "title": "Richard de Clare, 2nd Earl of Pembroke",
+     "publisher": "Wikipedia",
+     "quote": "Born c. 1130 Tonbridge, Kent, England"
+    }
+   ]
+  },
+  "death": {
+   "date": "1176-04-20",
+   "place": "Dublin, Ireland",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Richard_de_Clare,_2nd_Earl_of_Pembroke",
+     "title": "Richard de Clare, 2nd Earl of Pembroke",
+     "publisher": "Wikipedia",
+     "quote": "Died (1176-04-20)20 April 1176 (aged 45 or 46) Dublin, Ireland"
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "aoife-macmurrough",
+    "married": "1170-08-25",
+    "ended": "1176-04-20",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Aoife_of_Leinster",
+      "title": "Aoife of Leinster",
+      "publisher": "Wikipedia",
+      "quote": "Aoife married Richard almost immediately after on 25 August in Christchurch Cathedral in Waterford."
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Justiciar of Ireland",
+    "from": "1173",
+    "to": "1176",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Richard_de_Clare,_2nd_Earl_of_Pembroke",
+      "title": "Richard de Clare, 2nd Earl of Pembroke",
+      "publisher": "Wikipedia",
+      "quote": "Justiciar of Ireland"
+     }
+    ]
+   },
+   {
+    "title": "Lord of Leinster",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Richard_de_Clare,_2nd_Earl_of_Pembroke",
+      "title": "Richard de Clare, 2nd Earl of Pembroke",
+      "publisher": "Wikipedia",
+      "quote": "also Lord of Leinster and Justiciar of Ireland"
+     }
+    ]
+   }
+  ],
+  "summary": "Richard de Clare, known as Strongbow, was the second Earl of Pembroke. Recruited by the deposed King of Leinster, Diarmait Mac Murchada, to help retake his kingdom in exchange for marriage to Mac Murchada's daughter Aoife and succession to Leinster, Strongbow led Anglo-Norman forces that seized Waterford and Dublin in 1169-70. He married Aoife at Waterford in August 1170 and served as Justiciar of Ireland under Henry II until his death in Dublin in 1176. His daughter Isabel de Clare inherited his lordships and later married William Marshal.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Richard_de_Clare,_2nd_Earl_of_Pembroke",
+    "title": "Richard de Clare, 2nd Earl of Pembroke",
+    "publisher": "Wikipedia",
+    "quote": "Dermot came to an agreement with Richard: If the latter helped the deposed king in the retaking of Leinster, he could have Aoife, Dermot's eldest daughter, in marriage, along with the succession to the crown if it was regained."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Anglo-Norman_invasion_of_Ireland",
+    "title": "Anglo-Norman invasion of Ireland",
+    "publisher": "Wikipedia",
+    "quote": "In 1170, there were further Norman landings, led by the Earl of Pembroke, Richard 'Strongbow' de Clare."
+   }
+  ],
+  "uncertain": "Wikipedia's Richard de Clare article dates the marriage to Aoife to 'about 26 August 1171' at Reginald's Tower, while its Aoife of Leinster article dates it to 25 August 1170 at Christchurch Cathedral, Waterford, immediately after the fall of the city; this record follows the 1170/Christchurch Cathedral account, which aligns with the wider chronology of the 1169-71 invasion."
+ },
+ {
+  "id": "aoife-macmurrough",
+  "name": "Aoife of Leinster",
+  "fullName": "Aoife MacMurrough, Countess of Pembroke",
+  "epithet": "Red Eva",
+  "house": "de Clare",
+  "role": "Countess of Pembroke; Lady of Leinster",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1153",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Aoife_of_Leinster",
+     "title": "Aoife of Leinster",
+     "publisher": "Wikipedia",
+     "quote": "Aoife MacMurrough (Irish: Aoife Nic Murchada; c. 1153 – c. 1188), also known as Eva of Leinster or Red Eva, was an Irish noblewoman."
+    }
+   ]
+  },
+  "death": {
+   "date": "1188",
+   "place": "Monmouthshire, Wales",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Aoife_of_Leinster",
+     "title": "Aoife of Leinster",
+     "publisher": "Wikipedia",
+     "quote": "Died c. 1188 (aged about 35) Monmouthshire, Wales"
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "richard-strongbow",
+    "married": "1170-08-25",
+    "ended": "1176-04-20",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Aoife_of_Leinster",
+      "title": "Aoife of Leinster",
+      "publisher": "Wikipedia",
+      "quote": "Aoife married Richard almost immediately after on 25 August in Christchurch Cathedral in Waterford."
+     }
+    ]
+   }
+  ],
+  "summary": "Aoife MacMurrough, also called Eva of Leinster, was the daughter of Diarmait Mac Murchada, King of Leinster. Under an agreement between her father and the Anglo-Norman lord Richard 'Strongbow' de Clare, she married Strongbow at Waterford in August 1170, shortly after his forces captured the city during the invasion of Ireland. She bore two children, Gilbert and Isabel de Clare, and died around 1188, being buried at Tintern Abbey in Monmouthshire.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Aoife_of_Leinster",
+    "title": "Aoife of Leinster",
+    "publisher": "Wikipedia",
+    "quote": "Aoife MacMurrough was the daughter of Dermot MacMurrough, King of Leinster"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Aoife_of_Leinster",
+    "title": "Aoife of Leinster",
+    "publisher": "Wikipedia",
+    "quote": "At some point between her marriage in 1170 and Richard's death in 1176, Aoife gave birth to two children: Gilbert (born c. 1173) and Isabel."
+   }
+  ],
+  "uncertain": "Wikipedia's Richard de Clare article dates the marriage to 'about 26 August 1171' at Reginald's Tower, while the Aoife of Leinster article dates it to 25 August 1170 at Christchurch Cathedral, Waterford; this record follows the 1170 account, consistent with the chronology of Waterford's capture."
+ },
+ {
+  "id": "william-marshal-ii",
+  "name": "William Marshal",
+  "fullName": "William Marshal, 2nd Earl of Pembroke",
+  "epithet": null,
+  "house": "Marshal",
+  "role": "2nd Earl of Pembroke",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1190",
+   "place": "Normandy",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/William_Marshal,_2nd_Earl_of_Pembroke",
+     "title": "William Marshal, 2nd Earl of Pembroke",
+     "publisher": "Wikipedia",
+     "quote": "William was born in Normandy probably during the spring of 1190"
+    }
+   ]
+  },
+  "death": {
+   "date": "1231-04-06",
+   "place": null,
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/William_Marshal,_2nd_Earl_of_Pembroke",
+     "title": "William Marshal, 2nd Earl of Pembroke",
+     "publisher": "Wikipedia",
+     "quote": "William died on 6 April 1231"
+    }
+   ]
+  },
+  "parents": [
+   "william-marshal",
+   "isabel-de-clare"
+  ],
+  "spouses": [
+   {
+    "id": "eleanor-leicester",
+    "married": "1224-04-23",
+    "ended": "1231-04-06",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/William_Marshal,_2nd_Earl_of_Pembroke",
+      "title": "William Marshal, 2nd Earl of Pembroke",
+      "publisher": "Wikipedia",
+      "quote": "On 23 April 1224, William was married to Eleanor, sister of the King"
+     },
+     {
+      "url": "https://en.wikipedia.org/wiki/Eleanor_of_England,_Countess_of_Leicester",
+      "title": "Eleanor of England, Countess of Leicester",
+      "publisher": "Wikipedia",
+      "quote": "They were married on 23 April 1224 at New Temple Church in London"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Earl of Pembroke",
+    "from": "1219",
+    "to": "1231-04-06",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/William_Marshal,_2nd_Earl_of_Pembroke",
+      "title": "William Marshal, 2nd Earl of Pembroke",
+      "publisher": "Wikipedia",
+      "quote": "William died on 6 April 1231"
+     }
+    ]
+   }
+  ],
+  "summary": "William Marshal, eldest son of William Marshal and Isabel de Clare, was born in Normandy around 1190. He was one of the twenty-five baronial executors named to enforce Magna Carta in 1215 and fought alongside his father at the Battle of Lincoln in 1217. He succeeded as 2nd Earl of Pembroke in 1219, married Eleanor, sister of Henry III, in 1224, and died in 1231.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/William_Marshal,_2nd_Earl_of_Pembroke",
+    "title": "William Marshal, 2nd Earl of Pembroke",
+    "publisher": "Wikipedia",
+    "quote": "one of the twenty-five executors of Magna Carta"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/William_Marshal,_2nd_Earl_of_Pembroke",
+    "title": "William Marshal, 2nd Earl of Pembroke",
+    "publisher": "Wikipedia",
+    "quote": "was present at the Battle of Lincoln (1217) alongside his father"
+   }
+  ],
+  "uncertain": null
+ },
+ {
+  "id": "richard-marshal",
+  "name": "Richard Marshal",
+  "fullName": "Richard Marshal, 3rd Earl of Pembroke",
+  "epithet": null,
+  "house": "Marshal",
+  "role": "3rd Earl of Pembroke",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1191",
+   "place": null,
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Richard_Marshal,_3rd_Earl_of_Pembroke",
+     "title": "Richard Marshal, 3rd Earl of Pembroke",
+     "publisher": "Wikipedia",
+     "quote": "c. 1191"
+    }
+   ]
+  },
+  "death": {
+   "date": "1234-04-15",
+   "place": "Kilkenny Castle",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Richard_Marshal,_3rd_Earl_of_Pembroke",
+     "title": "Richard Marshal, 3rd Earl of Pembroke",
+     "publisher": "Wikipedia",
+     "quote": "15 April 1234 Kilkenny Castle"
+    }
+   ]
+  },
+  "parents": [
+   "william-marshal",
+   "isabel-de-clare"
+  ],
+  "titles": [
+   {
+    "title": "Earl of Pembroke",
+    "from": "1231",
+    "to": "1234",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Richard_Marshal,_3rd_Earl_of_Pembroke",
+      "title": "Richard Marshal, 3rd Earl of Pembroke",
+      "publisher": "Wikipedia",
+      "quote": "Earl of Pembroke 1231-1234"
+     }
+    ]
+   }
+  ],
+  "summary": "Richard Marshal, son of William Marshal and Isabel de Clare, was born around 1191. He succeeded his brother William as 3rd Earl of Pembroke in 1231 and died at Kilkenny Castle in 1234.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Richard_Marshal,_3rd_Earl_of_Pembroke",
+    "title": "Richard Marshal, 3rd Earl of Pembroke",
+    "publisher": "Wikipedia",
+    "quote": "His father was William Marshal, 1st Earl of Pembroke"
+   }
+  ],
+  "uncertain": null
+ },
+ {
+  "id": "gilbert-marshal",
+  "name": "Gilbert Marshal",
+  "fullName": "Gilbert Marshal, 4th Earl of Pembroke",
+  "epithet": null,
+  "house": "Marshal",
+  "role": "4th Earl of Pembroke",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1194/1207",
+   "place": "Leinster, Ireland",
+   "precision": "range",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Gilbert_Marshal,_4th_Earl_of_Pembroke",
+     "title": "Gilbert Marshal, 4th Earl of Pembroke",
+     "publisher": "Wikipedia",
+     "quote": "c. 1194/1207"
+    }
+   ]
+  },
+  "death": {
+   "date": "1241-06-27",
+   "place": "Ware Priory",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Gilbert_Marshal,_4th_Earl_of_Pembroke",
+     "title": "Gilbert Marshal, 4th Earl of Pembroke",
+     "publisher": "Wikipedia",
+     "quote": "his inability to manage the magnificent but wild Spanish stallion he had selected for the day's sport led to his being thrown from his horse and dragged for some distance on the ground. He died later that evening from the injuries received."
+    }
+   ]
+  },
+  "parents": [
+   "william-marshal",
+   "isabel-de-clare"
+  ],
+  "titles": [
+   {
+    "title": "Earl of Pembroke",
+    "from": "1234",
+    "to": "1241",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Gilbert_Marshal,_4th_Earl_of_Pembroke",
+      "title": "Gilbert Marshal, 4th Earl of Pembroke",
+      "publisher": "Wikipedia",
+      "quote": "Earl of Pembroke and Lord Marshal from 1234-1241"
+     }
+    ]
+   }
+  ],
+  "summary": "Gilbert Marshal, son of William Marshal and Isabel de Clare, succeeded his brother Richard as 4th Earl of Pembroke in 1234. He died on 27 June 1241 from injuries sustained after being thrown and dragged by his horse during a tournament at Ware.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Gilbert_Marshal,_4th_Earl_of_Pembroke",
+    "title": "Gilbert Marshal, 4th Earl of Pembroke",
+    "publisher": "Wikipedia",
+    "quote": "His father was William Marshal, 1st Earl of Pembroke; his mother was Countess Isabel"
+   }
+  ],
+  "uncertain": "Wikipedia's infobox gives his birth only as the wide estimate 'c. 1194/1207'."
+ },
+ {
+  "id": "walter-marshal",
+  "name": "Walter Marshal",
+  "fullName": "Walter Marshal, 5th Earl of Pembroke",
+  "epithet": null,
+  "house": "Marshal",
+  "role": "5th Earl of Pembroke",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1199",
+   "place": "Leinster",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Walter_Marshal,_5th_Earl_of_Pembroke",
+     "title": "Walter Marshal, 5th Earl of Pembroke",
+     "publisher": "Wikipedia",
+     "quote": "Walter was born in 1199 (or early in 1200)"
+    }
+   ]
+  },
+  "death": {
+   "date": "1245-11-27",
+   "place": "Goodrich Castle",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Walter_Marshal,_5th_Earl_of_Pembroke",
+     "title": "Walter Marshal, 5th Earl of Pembroke",
+     "publisher": "Wikipedia",
+     "quote": "Died 27 November 1245(1245-11-27) (aged 45-46) Goodrich Castle"
+    }
+   ]
+  },
+  "parents": [
+   "william-marshal",
+   "isabel-de-clare"
+  ],
+  "titles": [
+   {
+    "title": "Earl of Pembroke",
+    "from": "1242",
+    "to": "1245",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Walter_Marshal,_5th_Earl_of_Pembroke",
+      "title": "Walter Marshal, 5th Earl of Pembroke",
+      "publisher": "Wikipedia",
+      "quote": "Earl of Pembroke 1242-1245"
+     }
+    ]
+   }
+  ],
+  "summary": "Walter Marshal, son of William Marshal and Isabel de Clare, was born in Leinster around 1199. He succeeded his brother Gilbert as 5th Earl of Pembroke in 1242 and died at Goodrich Castle on 27 November 1245.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Walter_Marshal,_5th_Earl_of_Pembroke",
+    "title": "Walter Marshal, 5th Earl of Pembroke",
+    "publisher": "Wikipedia",
+    "quote": "his father was \"William Marshal, 1st Earl of Pembroke\" and his mother was \"Isabel de Clare, 4th Countess of Pembroke\""
+   }
+  ],
+  "uncertain": null
+ },
+ {
+  "id": "anselm-marshal",
+  "name": "Anselm Marshal",
+  "fullName": "Anselm Marshal, 6th Earl of Pembroke",
+  "epithet": null,
+  "house": "Marshal",
+  "role": "6th Earl of Pembroke",
+  "monarch": false,
+  "reign": null,
+  "death": {
+   "date": "1245-12-23",
+   "place": "Chepstow Castle, Monmouthshire, Wales",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Anselm_Marshal,_6th_Earl_of_Pembroke",
+     "title": "Anselm Marshal, 6th Earl of Pembroke",
+     "publisher": "Wikipedia",
+     "quote": "died 23 December 1245 Chepstow Castle, Monmouthshire, Wales"
+    }
+   ]
+  },
+  "parents": [
+   "william-marshal",
+   "isabel-de-clare"
+  ],
+  "titles": [
+   {
+    "title": "Earl of Pembroke",
+    "from": "1245-11-27",
+    "to": "1245-12-23",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Anselm_Marshal,_6th_Earl_of_Pembroke",
+      "title": "Anselm Marshal, 6th Earl of Pembroke",
+      "publisher": "Wikipedia",
+      "quote": "he succeeded as Earl of Pembroke on 27 November 1245 but \"never received the inheritance\" before his death approximately 26 days later"
+     }
+    ]
+   }
+  ],
+  "summary": "Anselm Marshal, youngest son of William Marshal and Isabel de Clare, was said to have been born during his father's exile in Ireland when William was in his mid-sixties. He briefly succeeded as 6th Earl of Pembroke on the death of his brother Walter in November 1245 but died himself only weeks later, on 23 December 1245, without formally receiving the inheritance, ending the male Marshal line.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Anselm_Marshal,_6th_Earl_of_Pembroke",
+    "title": "Anselm Marshal, 6th Earl of Pembroke",
+    "publisher": "Wikipedia",
+    "quote": "was reportedly born when his father was in his mid sixties, during his Irish exile"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Anselm_Marshal,_6th_Earl_of_Pembroke",
+    "title": "Anselm Marshal, 6th Earl of Pembroke",
+    "publisher": "Wikipedia",
+    "quote": "William Marshal, 1st Earl of Pembroke\" and \"Isabel de Clare, 4th Countess of Pembroke"
+   }
+  ],
+  "uncertain": "No firm birth date is given in the source consulted; it is described only as during his father's Irish exile when William was in his mid-sixties, which is itself imprecise."
+ },
+ {
+  "id": "matilda-marshal",
+  "name": "Maud Marshal",
+  "fullName": "Matilda (Maud) Marshal, Countess of Norfolk and Surrey",
+  "epithet": null,
+  "house": "Marshal",
+  "role": "Countess of Norfolk; Countess of Surrey",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1192",
+   "place": null,
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Maud_Marshal",
+     "title": "Maud Marshal",
+     "publisher": "Wikipedia",
+     "quote": "Maud's exact birthdate is unknown, but at the latest she was born in the year 1192."
+    }
+   ]
+  },
+  "death": {
+   "date": "1248-03-27",
+   "place": null,
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Maud_Marshal",
+     "title": "Maud Marshal",
+     "publisher": "Wikipedia",
+     "quote": "Maud died on 27 March 1248 at the age of about fifty-six years"
+    }
+   ]
+  },
+  "parents": [
+   "william-marshal",
+   "isabel-de-clare"
+  ],
+  "spouses": [
+   {
+    "id": "hugh-bigod-norfolk",
+    "married": "1207",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Maud_Marshal",
+      "title": "Maud Marshal",
+      "publisher": "Wikipedia",
+      "quote": "Sometime before Lent in 1207, Maud married her first husband, Hugh Bigod, 3rd Earl of Norfolk."
+     }
+    ]
+   },
+   {
+    "id": "william-warenne-surrey",
+    "married": "1225",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Maud_Marshal",
+      "title": "Maud Marshal",
+      "publisher": "Wikipedia",
+      "quote": "Maud married her second husband, William de Warenne, 5th Earl of Surrey before 13 October that same year"
+     }
+    ]
+   }
+  ],
+  "summary": "Maud (Matilda) Marshal, eldest daughter of William Marshal and Isabel de Clare, was born by 1192 at the latest. She married Hugh Bigod, 3rd Earl of Norfolk, before Lent 1207, and after his death married William de Warenne, 5th Earl of Surrey, in 1225. She died on 27 March 1248.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Maud_Marshal",
+    "title": "Maud Marshal",
+    "publisher": "Wikipedia",
+    "quote": "She was the eldest daughter of William Marshal, 1st Earl of Pembroke and Isabel de Clare, 4th Countess of Pembroke"
+   }
+  ],
+  "uncertain": null
+ },
+ {
+  "id": "isabel-marshal",
+  "name": "Isabel Marshal",
+  "fullName": "Isabel Marshal, Countess of Gloucester and Cornwall",
+  "epithet": null,
+  "house": "Marshal",
+  "role": "Countess of Gloucester; Countess of Cornwall",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1200-10-09",
+   "place": null,
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Isabel_Marshal",
+     "title": "Isabel Marshal",
+     "publisher": "Wikipedia",
+     "quote": "9 October 1200"
+    }
+   ]
+  },
+  "death": {
+   "date": "1240-01-17",
+   "place": "Berkhamsted Castle",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Isabel_Marshal",
+     "title": "Isabel Marshal",
+     "publisher": "Wikipedia",
+     "quote": "17 January 1240 Berkhamsted Castle"
+    }
+   ]
+  },
+  "parents": [
+   "william-marshal",
+   "isabel-de-clare"
+  ],
+  "spouses": [
+   {
+    "id": "gilbert-clare-gloucester",
+    "married": "1217-10-09",
+    "ended": "1230",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Isabel_Marshal",
+      "title": "Isabel Marshal",
+      "publisher": "Wikipedia",
+      "quote": "She wed Gilbert de Clare, 4th Earl of Hertford on her 17th birthday in 1217 at Tewkesbury Abbey."
+     }
+    ]
+   },
+   {
+    "id": "richard-cornwall",
+    "married": "1231-03-30",
+    "ended": "1240-01-17",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Isabel_Marshal",
+      "title": "Isabel Marshal",
+      "publisher": "Wikipedia",
+      "quote": "She married Richard, 1st Earl of Cornwall on \"30 March 1231\" at Fawley Church in Buckinghamshire."
+     },
+     {
+      "url": "https://en.wikipedia.org/wiki/Richard,_1st_Earl_of_Cornwall",
+      "title": "Richard, 1st Earl of Cornwall",
+      "publisher": "Wikipedia",
+      "quote": "In March 1231, he married Isabel Marshal, the wealthy widow of the Earl of Gloucester."
+     }
+    ]
+   }
+  ],
+  "summary": "Isabel Marshal, daughter of William Marshal and Isabel de Clare, was born on 9 October 1200. She married Gilbert de Clare, Earl of Gloucester and Hertford, in 1217, and after his death in 1230 married Richard, Earl of Cornwall, brother of Henry III, in March 1231. She died on 17 January 1240 at Berkhamsted Castle.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Isabel_Marshal",
+    "title": "Isabel Marshal",
+    "publisher": "Wikipedia",
+    "quote": "Her father was \"William Marshal, 1st Earl of Pembroke\" and her mother was \"Isabel de Clare, 3rd Countess of Pembroke\""
+   }
+  ],
+  "uncertain": null
+ },
+ {
+  "id": "sibyl-marshal-daughter",
+  "name": "Sibyl Marshal",
+  "fullName": "Sibyl Marshal, Countess of Derby",
+  "epithet": null,
+  "house": "Marshal",
+  "role": "Countess of Derby",
+  "monarch": false,
+  "reign": null,
+  "parents": [
+   "william-marshal",
+   "isabel-de-clare"
+  ],
+  "spouses": [
+   {
+    "id": "william-ferrers-derby",
+    "married": "1238",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/William_de_Ferrers,_5th_Earl_of_Derby",
+      "title": "William de Ferrers, 5th Earl of Derby",
+      "publisher": "Wikipedia",
+      "quote": "He married (1st) Sibyl Marshal, a daughter of William Marshal, 1st Earl of Pembroke, by his wife Isabel de Clare, 4th Countess of Pembroke, by whom he had seven daughters"
+     }
+    ]
+   }
+  ],
+  "summary": "Sibyl Marshal, daughter of William Marshal and Isabel de Clare, married William de Ferrers, 5th Earl of Derby, by whom she had seven daughters.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/William_de_Ferrers,_5th_Earl_of_Derby",
+    "title": "William de Ferrers, 5th Earl of Derby",
+    "publisher": "Wikipedia",
+    "quote": "He married (1st) Sibyl Marshal, a daughter of William Marshal, 1st Earl of Pembroke, by his wife Isabel de Clare, 4th Countess of Pembroke, by whom he had seven daughters"
+   }
+  ],
+  "uncertain": "No reliable source consulted gives Sibyl Marshal's own birth or death date; the William de Ferrers article gives the marriage only as 'before 1238', with no more precise date, so 'married' here is recorded as 1238."
+ },
+ {
+  "id": "eva-marshal",
+  "name": "Eva Marshal",
+  "fullName": "Eva Marshal, Lady of Abergavenny",
+  "epithet": null,
+  "house": "Marshal",
+  "role": "Lady of Abergavenny",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1203",
+   "place": null,
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Eva_Marshal",
+     "title": "Eva Marshal",
+     "publisher": "Wikipedia",
+     "quote": "1203"
+    }
+   ]
+  },
+  "death": {
+   "date": "1246",
+   "place": null,
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Eva_Marshal",
+     "title": "Eva Marshal",
+     "publisher": "Wikipedia",
+     "quote": "1246 (aged 42-43)"
+    }
+   ]
+  },
+  "parents": [
+   "william-marshal",
+   "isabel-de-clare"
+  ],
+  "spouses": [
+   {
+    "id": "william-de-braose-abergavenny",
+    "married": "1220",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Eva_Marshal",
+      "title": "Eva Marshal",
+      "publisher": "Wikipedia",
+      "quote": "Sometime between 1219 and 1221"
+     }
+    ]
+   }
+  ],
+  "summary": "Eva Marshal, daughter of William Marshal and Isabel de Clare, was born around 1203. She married William de Braose, lord of Abergavenny, between 1219 and 1221, and died around 1246.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Eva_Marshal",
+    "title": "Eva Marshal",
+    "publisher": "Wikipedia",
+    "quote": "Her father was \"William Marshal, 1st Earl of Pembroke\" and her mother was \"Isabel de Clare, 4th Countess of Pembroke\""
+   }
+  ],
+  "uncertain": "Her marriage to William de Braose is dated only to a window of 'Sometime between 1219 and 1221'; this record records it as 1220."
+ },
+ {
+  "id": "joan-marshal",
+  "name": "Joan Marshal",
+  "fullName": "Joan Marshal",
+  "epithet": null,
+  "house": "Marshal",
+  "role": "Wife of Warin de Munchensi",
+  "monarch": false,
+  "reign": null,
+  "death": {
+   "date": "1234",
+   "place": null,
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Joan_de_Munchensi",
+     "title": "Joan de Munchensi",
+     "publisher": "Wikipedia",
+     "quote": "Joan Marshal (died 1234), daughter of William Marshal (died 1219), Earl of Pembroke, and his wife Isabel Clare (died 1220)"
+    }
+   ]
+  },
+  "parents": [
+   "william-marshal",
+   "isabel-de-clare"
+  ],
+  "spouses": [
+   {
+    "id": "warin-de-munchensi",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Joan_de_Munchensi",
+      "title": "Joan de Munchensi",
+      "publisher": "Wikipedia",
+      "quote": "daughter of Warin de Munchensi (died 1255), of Swanscombe in Kent, and his first wife Joan Marshal (died 1234)"
+     }
+    ]
+   }
+  ],
+  "summary": "Joan Marshal, daughter of William Marshal and Isabel de Clare, married Warin de Munchensi of Swanscombe, Kent. She died in 1234, leaving a young daughter, also named Joan, who later married William de Valence, half-brother of Henry III.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Joan_de_Munchensi",
+    "title": "Joan de Munchensi",
+    "publisher": "Wikipedia",
+    "quote": "Joan Marshal (died 1234), daughter of William Marshal (died 1219), Earl of Pembroke, and his wife Isabel Clare (died 1220)"
+   }
+  ],
+  "uncertain": "No source consulted gives Joan Marshal's own birth date or the precise date of her marriage to Warin de Munchensi, only that her death fell in 1234."
+ }
+]

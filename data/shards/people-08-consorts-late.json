@@ -1,0 +1,1790 @@
+[
+  {
+    "id": "hugh-swynford",
+    "name": "Hugh Swynford",
+    "fullName": "Sir Hugh Swynford",
+    "epithet": null,
+    "house": null,
+    "role": "Knight; of Kettlethorpe and Coleby, Lincolnshire",
+    "monarch": false,
+    "reign": null,
+    "birth": {
+      "date": "1340",
+      "place": null,
+      "precision": "year",
+      "citations": [
+        {
+          "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Swynford,_Catherine",
+          "title": "Dictionary of National Biography, 1885-1900/Swynford, Catherine",
+          "publisher": "Wikisource (Dictionary of National Biography)",
+          "quote": "Sir Hugh Swynford (1340–1372) of Coleby and Ketelthorp, Lincolnshire"
+        }
+      ]
+    },
+    "death": {
+      "date": "1372",
+      "place": null,
+      "precision": "year",
+      "citations": [
+        {
+          "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Swynford,_Catherine",
+          "title": "Dictionary of National Biography, 1885-1900/Swynford, Catherine",
+          "publisher": "Wikisource (Dictionary of National Biography)",
+          "quote": "Sir Hugh Swynford (1340–1372) of Coleby and Ketelthorp, Lincolnshire"
+        }
+      ]
+    },
+    "parents": [],
+    "spouses": [
+      {
+        "id": "katherine-swynford",
+        "married": "1367",
+        "ended": "1372",
+        "endedBy": "death",
+        "citations": [
+          {
+            "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Swynford,_Catherine",
+            "title": "Dictionary of National Biography, 1885-1900/Swynford, Catherine",
+            "publisher": "Wikisource (Dictionary of National Biography)",
+            "quote": "in or shortly before 1367 married Sir Hugh Swynford (1340–1372) of Coleby and Ketelthorp, Lincolnshire"
+          }
+        ]
+      }
+    ],
+    "titles": [],
+    "summary": "Hugh Swynford was an English knight holding the Lincolnshire manors of Kettlethorpe and Coleby, and served in the retinue of John of Gaunt in Gascony in 1366. He married Katherine de Roet in or shortly before 1367; their son Thomas Swynford was born soon after. Hugh died in 1372, after which Katherine became governess to John of Gaunt's daughters, his long-term mistress, and eventually his third wife.",
+    "citations": [
+      {
+        "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Swynford,_Catherine",
+        "title": "Dictionary of National Biography, 1885-1900/Swynford, Catherine",
+        "publisher": "Wikisource (Dictionary of National Biography)",
+        "quote": "Hugh Swynford was in the retinue of John of Gaunt in Gascony in February 1366"
+      }
+    ],
+    "uncertain": "The DNB gives only bare years (1340–1372) for Hugh Swynford's birth and death; no day- or month-level date, nor place of death, is established in the sources consulted."
+  },
+  {
+    "id": "constance-castile",
+    "name": "Constance of Castile",
+    "fullName": "Constance of Castile, Duchess of Lancaster",
+    "epithet": null,
+    "house": "Ivrea",
+    "role": "Duchess of Lancaster; claimant to the throne of Castile",
+    "monarch": false,
+    "reign": null,
+    "birth": {
+      "date": "1354",
+      "place": null,
+      "precision": "year",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Constance_of_Castile,_Duchess_of_Lancaster",
+          "title": "Constance of Castile, Duchess of Lancaster",
+          "publisher": "Wikipedia",
+          "quote": "Born 1354"
+        }
+      ]
+    },
+    "death": {
+      "date": "1394-03-24",
+      "place": "Leicester Castle",
+      "precision": "day",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Constance_of_Castile,_Duchess_of_Lancaster",
+          "title": "Constance of Castile, Duchess of Lancaster",
+          "publisher": "Wikipedia",
+          "quote": "Died 24 March 1394 (aged 39–40)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Constance_of_Castile,_Duchess_of_Lancaster",
+          "title": "Constance of Castile, Duchess of Lancaster",
+          "publisher": "Wikipedia",
+          "quote": "She died at Leicester Castle"
+        }
+      ]
+    },
+    "parents": [],
+    "spouses": [
+      {
+        "id": "john-of-gaunt",
+        "married": "1371-09-21",
+        "ended": "1394-03-24",
+        "endedBy": "death",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Constance_of_Castile,_Duchess_of_Lancaster",
+            "title": "Constance of Castile, Duchess of Lancaster",
+            "publisher": "Wikipedia",
+            "quote": "On 21 September, at Roquefort, near Bordeaux, Guienne, she married the English prince John of Gaunt, 1st Duke of Lancaster"
+          },
+          {
+            "url": "https://en.wikipedia.org/wiki/John_of_Gaunt",
+            "title": "John of Gaunt",
+            "publisher": "Wikipedia",
+            "quote": "Just before leaving Aquitaine, he married the Infanta Constance of Castile in September 1371 at Roquefort, near Bordeaux."
+          }
+        ]
+      }
+    ],
+    "titles": [
+      {
+        "title": "Duchess of Lancaster",
+        "from": "1371",
+        "to": "1394-03-24",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Constance_of_Castile,_Duchess_of_Lancaster",
+            "title": "Constance of Castile, Duchess of Lancaster",
+            "publisher": "Wikipedia",
+            "quote": "Duchess consort of Lancaster"
+          }
+        ]
+      }
+    ],
+    "summary": "Constance of Castile was a daughter of King Peter of Castile, deposed and killed by his half-brother Henry of Trastamara. She married John of Gaunt, Duke of Lancaster, at Roquefort near Bordeaux in September 1371, becoming his second wife; Gaunt subsequently pursued her claim to the Castilian crown by right of his wife. Their marriage produced a daughter, Catherine, who later married the Castilian king Henry III, uniting the rival lines. Constance died at Leicester Castle in 1394.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Constance_of_Castile,_Duchess_of_Lancaster",
+        "title": "Constance of Castile, Duchess of Lancaster",
+        "publisher": "Wikipedia",
+        "quote": "Constance was the daughter of King Peter"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Constance_of_Castile,_Duchess_of_Lancaster",
+        "title": "Constance of Castile, Duchess of Lancaster",
+        "publisher": "Wikipedia",
+        "quote": "and María de Padilla"
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "violante-visconti",
+    "name": "Violante Visconti",
+    "fullName": "Violante Visconti",
+    "epithet": null,
+    "house": "Visconti",
+    "role": "Duchess of Clarence",
+    "monarch": false,
+    "reign": null,
+    "birth": {
+      "date": "1354",
+      "place": null,
+      "precision": "year",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Violante_Visconti",
+          "title": "Violante Visconti",
+          "publisher": "Wikipedia",
+          "quote": "Violante Visconti (1354 – November 1386)"
+        }
+      ]
+    },
+    "death": {
+      "date": "1386-11",
+      "place": null,
+      "precision": "month",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Violante_Visconti",
+          "title": "Violante Visconti",
+          "publisher": "Wikipedia",
+          "quote": "Violante Visconti (1354 – November 1386)"
+        }
+      ]
+    },
+    "parents": [],
+    "spouses": [
+      {
+        "id": "lionel-antwerp",
+        "married": "1368-05-28",
+        "ended": "1368-10-17",
+        "endedBy": "death",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Violante_Visconti",
+            "title": "Violante Visconti",
+            "publisher": "Wikipedia",
+            "quote": "the church of Santa Maria Maggiore, the predecessor of the Cathedral of Santa Maria Nascente, Milan"
+          },
+          {
+            "url": "https://en.wikipedia.org/wiki/Violante_Visconti",
+            "title": "Violante Visconti",
+            "publisher": "Wikipedia",
+            "quote": "died in Alba on 17 October that year, just five months after the wedding"
+          }
+        ]
+      }
+    ],
+    "titles": [],
+    "summary": "Violante Visconti was the daughter of Galeazzo II Visconti, Lord of Milan and Pavia, and Bianca of Savoy. On 28 May 1368 she married Lionel of Antwerp, Duke of Clarence, second surviving son of Edward III, at a lavish wedding in Milan attended by guests including Geoffrey Chaucer and Petrarch. Lionel died at Alba only five months later, in October 1368, possibly of food poisoning, leaving the marriage childless.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Violante_Visconti",
+        "title": "Violante Visconti",
+        "publisher": "Wikipedia",
+        "quote": "Galeazzo II Visconti, Lord of Milan and Pavia"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Violante_Visconti",
+        "title": "Violante Visconti",
+        "publisher": "Wikipedia",
+        "quote": "death may have been due to food poisoning"
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "eleanor-bohun",
+    "name": "Eleanor de Bohun",
+    "fullName": "Eleanor de Bohun, Duchess of Gloucester",
+    "epithet": null,
+    "house": "Bohun",
+    "role": "Duchess of Gloucester",
+    "monarch": false,
+    "reign": null,
+    "birth": {
+      "date": "1366",
+      "place": null,
+      "precision": "circa",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Eleanor_de_Bohun",
+          "title": "Eleanor de Bohun",
+          "publisher": "Wikipedia",
+          "quote": "Born 1365 or 1366"
+        }
+      ]
+    },
+    "death": {
+      "date": "1399-10-03",
+      "place": null,
+      "precision": "day",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Eleanor_de_Bohun",
+          "title": "Eleanor de Bohun",
+          "publisher": "Wikipedia",
+          "quote": "3 October 1399 (aged 32 or 33)"
+        }
+      ]
+    },
+    "parents": [],
+    "spouses": [
+      {
+        "id": "thomas-woodstock",
+        "married": "1376",
+        "ended": "1397-09",
+        "endedBy": "death",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Eleanor_de_Bohun",
+            "title": "Eleanor de Bohun",
+            "publisher": "Wikipedia",
+            "quote": "In 1376, Eleanor married Thomas of Woodstock, 1st Duke of Gloucester."
+          }
+        ]
+      }
+    ],
+    "titles": [
+      {
+        "title": "Duchess of Gloucester",
+        "from": "1385",
+        "to": "1397-09",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Eleanor_de_Bohun",
+            "title": "Eleanor de Bohun",
+            "publisher": "Wikipedia",
+            "quote": "Duchess of Gloucester, Duchess of Aumale, Countess of Buckingham and Countess of Essex"
+          }
+        ]
+      }
+    ],
+    "summary": "Eleanor de Bohun was the elder daughter of Humphrey de Bohun, 7th Earl of Hereford, and Joan Fitzalan. She married Thomas of Woodstock, youngest son of Edward III, becoming Duchess of Gloucester; the couple had five children, including Humphrey, 2nd Earl of Buckingham, and Anne of Gloucester. After Thomas's murder in 1397 she retired to Barking Abbey, where she died in October 1399.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Eleanor_de_Bohun",
+        "title": "Eleanor de Bohun",
+        "publisher": "Wikipedia",
+        "quote": "Humphrey de Bohun, 7th Earl of Hereford"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Eleanor_de_Bohun",
+        "title": "Eleanor de Bohun",
+        "publisher": "Wikipedia",
+        "quote": "Joan Fitzalan"
+      }
+    ],
+    "uncertain": "The year of the marriage to Thomas of Woodstock is not firmly recorded: this Wikipedia article gives 1376, while other sources point to a grant made in anticipation of the marriage on 3 April 1374; the couple were certainly married by 24 August 1376."
+  },
+  {
+    "id": "joan-holland-york",
+    "name": "Joan Holland",
+    "fullName": "Joan Holland, Duchess of York",
+    "epithet": null,
+    "house": "Holland",
+    "role": "Duchess of York",
+    "monarch": false,
+    "reign": null,
+    "birth": {
+      "date": "1380",
+      "place": "Upholland, Lancashire",
+      "precision": "circa",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Joan_Holland",
+          "title": "Joan Holland",
+          "publisher": "Wikipedia",
+          "quote": "ca. 1380"
+        }
+      ]
+    },
+    "death": {
+      "date": "1434-04-12",
+      "place": null,
+      "precision": "day",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Joan_Holland",
+          "title": "Joan Holland",
+          "publisher": "Wikipedia",
+          "quote": "12 April 1434"
+        }
+      ]
+    },
+    "parents": [],
+    "spouses": [
+      {
+        "id": "edmund-langley",
+        "married": "1393-11-04",
+        "ended": "1402-08-01",
+        "endedBy": "death",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Joan_Holland",
+            "title": "Joan Holland",
+            "publisher": "Wikipedia",
+            "quote": "ca. 4 November 1393"
+          }
+        ]
+      }
+    ],
+    "titles": [
+      {
+        "title": "Duchess of York",
+        "from": "1393",
+        "to": "1402-08-01",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Joan_Holland",
+            "title": "Joan Holland",
+            "publisher": "Wikipedia",
+            "quote": "As a result of this marriage, she was styled Duchess of York"
+          }
+        ]
+      }
+    ],
+    "summary": "Joan Holland was the third daughter of Thomas Holland, 2nd Earl of Kent, and Alice FitzAlan. Around 4 November 1393 she became the second wife of Edmund of Langley, 1st Duke of York, whose grandfather Edward II was the half-brother of her own great-grandfather; the marriage was childless. Widowed in 1402, she remarried three more times, to William Willoughby, Henry Scrope, and Henry Bromflete, none of these unions producing children either.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Joan_Holland",
+        "title": "Joan Holland",
+        "publisher": "Wikipedia",
+        "quote": "Thomas Holland, 2nd Earl of Kent"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Joan_Holland",
+        "title": "Joan Holland",
+        "publisher": "Wikipedia",
+        "quote": "Alice FitzAlan"
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "john-iv-brittany",
+    "name": "John IV, Duke of Brittany",
+    "fullName": "John IV, Duke of Brittany",
+    "epithet": null,
+    "house": "Montfort",
+    "role": "Duke of Brittany",
+    "monarch": false,
+    "reign": null,
+    "birth": {
+      "date": "1339",
+      "place": null,
+      "precision": "year",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_IV,_Duke_of_Brittany",
+          "title": "John IV, Duke of Brittany",
+          "publisher": "Wikipedia",
+          "quote": "September–December 1339"
+        }
+      ]
+    },
+    "death": {
+      "date": "1399-11-01",
+      "place": null,
+      "precision": "day",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/John_IV,_Duke_of_Brittany",
+          "title": "John IV, Duke of Brittany",
+          "publisher": "Wikipedia",
+          "quote": "1 November 1399 (aged 59–60)"
+        }
+      ]
+    },
+    "parents": [],
+    "spouses": [
+      {
+        "id": "mary-waltham",
+        "married": "1361-07-03",
+        "ended": "1361-09",
+        "endedBy": "death",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/John_IV,_Duke_of_Brittany",
+            "title": "John IV, Duke of Brittany",
+            "publisher": "Wikipedia",
+            "quote": "m. 1361; died 1361"
+          }
+        ]
+      }
+    ],
+    "titles": [
+      {
+        "title": "Duke of Brittany",
+        "from": "1365-04-12",
+        "to": "1399-11-01",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/John_IV,_Duke_of_Brittany",
+            "title": "John IV, Duke of Brittany",
+            "publisher": "Wikipedia",
+            "quote": "12 April 1365 – 1 November 1399"
+          }
+        ]
+      }
+    ],
+    "summary": "John IV, Duke of Brittany, was the son of John of Montfort and Joanna of Flanders, and won the Breton War of Succession to secure his duchy. His first wife, Mary of Waltham, daughter of Edward III and Philippa of Hainault, died within months of their 1361 marriage. He went on to marry Joan Holland in 1366 and, after her death, Joan of Navarre in 1386, and ruled Brittany until his death in 1399.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/John_IV,_Duke_of_Brittany",
+        "title": "John IV, Duke of Brittany",
+        "publisher": "Wikipedia",
+        "quote": "John of Montfort"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/John_IV,_Duke_of_Brittany",
+        "title": "John IV, Duke of Brittany",
+        "publisher": "Wikipedia",
+        "quote": "Joanna of Flanders"
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "louis-palatine",
+    "name": "Louis III, Elector Palatine",
+    "fullName": "Louis III, Elector Palatine",
+    "epithet": null,
+    "house": "Wittelsbach",
+    "role": "Elector Palatine",
+    "monarch": false,
+    "reign": null,
+    "birth": {
+      "date": "1378-01-23",
+      "place": null,
+      "precision": "day",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Louis_III,_Elector_Palatine",
+          "title": "Louis III, Elector Palatine",
+          "publisher": "Wikipedia",
+          "quote": "23 January 1378"
+        }
+      ]
+    },
+    "death": {
+      "date": "1436-12-30",
+      "place": null,
+      "precision": "day",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Louis_III,_Elector_Palatine",
+          "title": "Louis III, Elector Palatine",
+          "publisher": "Wikipedia",
+          "quote": "30 December 1436 (aged 58)"
+        }
+      ]
+    },
+    "parents": [],
+    "spouses": [
+      {
+        "id": "blanche-england",
+        "married": "1402-07-06",
+        "ended": "1409-05-22",
+        "endedBy": "death",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Louis_III,_Elector_Palatine",
+            "title": "Louis III, Elector Palatine",
+            "publisher": "Wikipedia",
+            "quote": "6 July 1402"
+          }
+        ]
+      }
+    ],
+    "titles": [
+      {
+        "title": "Elector Palatine",
+        "from": "1410-05-18",
+        "to": "1436-12-30",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Louis_III,_Elector_Palatine",
+            "title": "Louis III, Elector Palatine",
+            "publisher": "Wikipedia",
+            "quote": "18 May 1410 – 30 December 1436"
+          }
+        ]
+      }
+    ],
+    "summary": "Louis III, Elector Palatine, was the son of King Rupert of Germany and Elisabeth of Nuremberg. He married Blanche of England, eldest daughter of Henry IV, at Cologne Cathedral on 6 July 1402; she died in 1409 without surviving the marriage long. Louis became Elector Palatine in 1410 and later married Matilda of Savoy in 1417, having earlier served as imperial vicar during his father's Italian campaign of 1401–1402.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Louis_III,_Elector_Palatine",
+        "title": "Louis III, Elector Palatine",
+        "publisher": "Wikipedia",
+        "quote": "Rupert of Germany"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Louis_III,_Elector_Palatine",
+        "title": "Louis III, Elector Palatine",
+        "publisher": "Wikipedia",
+        "quote": "Elisabeth of Nuremberg"
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "erik-pomerania",
+    "name": "Erik of Pomerania",
+    "fullName": "Erik of Pomerania",
+    "epithet": null,
+    "house": "Griffin",
+    "role": "King of Denmark, Norway and Sweden (Kalmar Union); Duke of Pomerania",
+    "monarch": false,
+    "reign": null,
+    "birth": {
+      "date": "1381/1382",
+      "place": "Darlowo Castle, Pomerania",
+      "precision": "range",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Eric_of_Pomerania",
+          "title": "Eric of Pomerania",
+          "publisher": "Wikipedia",
+          "quote": "1381 or 1382"
+        }
+      ]
+    },
+    "death": {
+      "date": "1459-09-24",
+      "place": "Darlowo Castle, Pomerania",
+      "precision": "day",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Eric_of_Pomerania",
+          "title": "Eric of Pomerania",
+          "publisher": "Wikipedia",
+          "quote": "24 September 1459"
+        }
+      ]
+    },
+    "parents": [],
+    "spouses": [
+      {
+        "id": "philippa-england",
+        "married": "1406-10-26",
+        "ended": "1430-01-05",
+        "endedBy": "death",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Eric_of_Pomerania",
+            "title": "Eric of Pomerania",
+            "publisher": "Wikipedia",
+            "quote": "On 26 October 1406, he married the 12-year-old Philippa in Lund"
+          }
+        ]
+      }
+    ],
+    "titles": [
+      {
+        "title": "King of Denmark, Norway and Sweden (Kalmar Union)",
+        "from": "1396",
+        "to": "1439",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Eric_of_Pomerania",
+            "title": "Eric of Pomerania",
+            "publisher": "Wikipedia",
+            "quote": "ruled over the Kalmar Union from 1396 until 1439"
+          }
+        ]
+      }
+    ],
+    "summary": "Erik of Pomerania, son of Wartislaw VII, Duke of Pomerania, and Maria of Mecklenburg-Schwerin, was elected to rule the Kalmar Union of Denmark, Norway and Sweden, initially as co-ruler with his great-aunt Margaret I until her death in 1412. On 26 October 1406 he married the twelve-year-old Philippa of England, daughter of Henry IV, at Lund Cathedral; she died in 1430 without children. Erik was deposed from the union kingdoms between 1439 and 1442 and later ruled as Duke of Pomerania until his death in 1459.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Eric_of_Pomerania",
+        "title": "Eric of Pomerania",
+        "publisher": "Wikipedia",
+        "quote": "Wartislaw VII, Duke of Pomerania"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Eric_of_Pomerania",
+        "title": "Eric of Pomerania",
+        "publisher": "Wikipedia",
+        "quote": "ruled over the Kalmar Union from 1396 until 1439"
+      }
+    ],
+    "uncertain": "Erik's birth year is given only as 1381 or 1382 by the source consulted."
+  },
+  {
+    "id": "owen-tudor",
+    "name": "Owen Tudor",
+    "fullName": "Owain ap Maredudd ap Tudur",
+    "epithet": null,
+    "house": "Tudor",
+    "role": "Welsh courtier and soldier; second husband of Catherine of Valois",
+    "monarch": false,
+    "reign": null,
+    "birth": {
+      "date": "1400",
+      "place": "Anglesey, Wales",
+      "precision": "circa",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Owen_Tudor",
+          "title": "Owen Tudor",
+          "publisher": "Wikipedia",
+          "quote": "c. 1400"
+        }
+      ]
+    },
+    "death": {
+      "date": "1461-02-02",
+      "place": "Hereford",
+      "precision": "day",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Owen_Tudor",
+          "title": "Owen Tudor",
+          "publisher": "Wikipedia",
+          "quote": "2 February 1461"
+        }
+      ]
+    },
+    "parents": [],
+    "spouses": [
+      {
+        "id": "catherine-valois",
+        "married": null,
+        "ended": null,
+        "endedBy": null,
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Catherine_of_Valois",
+            "title": "Catherine of Valois",
+            "publisher": "Wikipedia",
+            "quote": "There is no known date of Catherine's marriage to Owen."
+          },
+          {
+            "url": "https://en.wikipedia.org/wiki/Owen_Tudor",
+            "title": "Owen Tudor",
+            "publisher": "Wikipedia",
+            "quote": "the second husband of Queen Catherine of Valois (1401–1437)"
+          }
+        ]
+      }
+    ],
+    "titles": [],
+    "summary": "Owen Tudor was a Welsh courtier and soldier from Penmynydd, Anglesey, descended from Ednyfed Fychan, seneschal of Gwynedd, and served as an officer of the household of Catherine of Valois, widow of Henry V. He entered a relationship with Catherine after Parliament restricted her remarriage without royal consent in 1427–28; no date or clear record of a formal marriage survives, though contemporaries do not appear to have contested the legitimacy of the children. Their sons Edmund and Jasper Tudor were later ennobled by their half-brother Henry VI, and Edmund's son became Henry VII, founder of the Tudor dynasty. Owen Tudor was captured fighting for the Lancastrian cause and executed at Hereford in 1461.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Owen_Tudor",
+        "title": "Owen Tudor",
+        "publisher": "Wikipedia",
+        "quote": "Welsh courtier and soldier"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Catherine_of_Valois",
+        "title": "Catherine of Valois",
+        "publisher": "Wikipedia",
+        "quote": "there is no contemporaneous evidence that the validity of the marriage and the legitimacy of her children were questioned in secular or canon law"
+      }
+    ],
+    "uncertain": "Whether Owen Tudor and Catherine of Valois ever contracted a legally valid marriage, and when, is not established by the sources: no date is recorded, Parliament had barred her remarriage without consent in 1427–28, and the union is known mainly through its consequences (the birth of Edmund and Jasper Tudor) rather than direct record of a ceremony."
+  },
+  {
+    "id": "eleanor-cobham",
+    "name": "Eleanor Cobham",
+    "fullName": "Eleanor Cobham, Duchess of Gloucester",
+    "epithet": null,
+    "house": null,
+    "role": "Duchess of Gloucester",
+    "monarch": false,
+    "reign": null,
+    "birth": {
+      "date": "1400",
+      "place": "Sterborough Castle, Surrey",
+      "precision": "circa",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Eleanor_Cobham",
+          "title": "Eleanor Cobham",
+          "publisher": "Wikipedia",
+          "quote": "c. 1400"
+        }
+      ]
+    },
+    "death": {
+      "date": "1452-07-07",
+      "place": "Beaumaris Castle, Anglesey",
+      "precision": "day",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Eleanor_Cobham",
+          "title": "Eleanor Cobham",
+          "publisher": "Wikipedia",
+          "quote": "7 July 1452 (aged c. 52)"
+        }
+      ]
+    },
+    "parents": [],
+    "spouses": [
+      {
+        "id": "humphrey-lancaster-gloucester",
+        "married": "1428",
+        "ended": "1441",
+        "endedBy": "annulment",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Eleanor_Cobham",
+            "title": "Eleanor Cobham",
+            "publisher": "Wikipedia",
+            "quote": "second wife of Humphrey, Duke of Gloucester"
+          }
+        ]
+      }
+    ],
+    "titles": [],
+    "summary": "Eleanor Cobham was the daughter of Sir Reynold Cobham of Sterborough Castle, Surrey. She entered the household of Jacqueline of Hainaut, first wife of Humphrey, Duke of Gloucester, and by 1428 had become Humphrey's second wife. In 1441, after she had reportedly consulted astrologers about the king's fortunes, she was tried and convicted of treasonable necromancy; the marriage was annulled and she was sentenced to life imprisonment, dying in custody at Beaumaris Castle in 1452.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Eleanor_Cobham",
+        "title": "Eleanor Cobham",
+        "publisher": "Wikipedia",
+        "quote": "Sir Reynold Cobham (d. 1445)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Eleanor_Cobham",
+        "title": "Eleanor Cobham",
+        "publisher": "Wikipedia",
+        "quote": "In 1441, she was forcibly divorced and sentenced to life imprisonment for treasonable necromancy, a punishment likely to have been politically motivated."
+      }
+    ],
+    "uncertain": "The exact date of the marriage to Humphrey of Gloucester is given only as between 1428 and 1431 in the source consulted. The 1441 sorcery conviction falls after this dataset's 1042-1422 scope and is noted here only insofar as it is directly sourced."
+  },
+  {
+    "id": "jacqueline-hainaut",
+    "name": "Jacqueline, Countess of Hainaut",
+    "fullName": "Jacqueline, Countess of Hainaut, Holland and Zeeland",
+    "epithet": null,
+    "house": "Wittelsbach",
+    "role": "Countess of Hainaut, Holland and Zeeland; first wife of Humphrey, Duke of Gloucester",
+    "monarch": false,
+    "reign": null,
+    "birth": {
+      "date": "1401-07-15",
+      "place": "Le Quesnoy, Nord",
+      "precision": "day",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jacqueline,_Countess_of_Hainaut",
+          "title": "Jacqueline, Countess of Hainaut",
+          "publisher": "Wikipedia",
+          "quote": "15 July 1401"
+        }
+      ]
+    },
+    "death": {
+      "date": "1436-10-08",
+      "place": "Voorhout, Teylingen",
+      "precision": "day",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jacqueline,_Countess_of_Hainaut",
+          "title": "Jacqueline, Countess of Hainaut",
+          "publisher": "Wikipedia",
+          "quote": "8 October 1436"
+        }
+      ]
+    },
+    "parents": [],
+    "spouses": [
+      {
+        "id": "humphrey-lancaster-gloucester",
+        "married": "1423-03",
+        "ended": "1428-07-03",
+        "endedBy": "annulment",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Jacqueline,_Countess_of_Hainaut",
+            "title": "Jacqueline, Countess of Hainaut",
+            "publisher": "Wikipedia",
+            "quote": "sometime between February and 7 March 1423"
+          },
+          {
+            "url": "https://en.wikipedia.org/wiki/Jacqueline,_Countess_of_Hainaut",
+            "title": "Jacqueline, Countess of Hainaut",
+            "publisher": "Wikipedia",
+            "quote": "On 3 July 1428 Jacqueline had to agree to a peace treaty"
+          }
+        ]
+      }
+    ],
+    "titles": [
+      {
+        "title": "Countess of Hainaut, Holland and Zeeland",
+        "from": "1417-05-30",
+        "to": "1433-04-12",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Jacqueline,_Countess_of_Hainaut",
+            "title": "Jacqueline, Countess of Hainaut",
+            "publisher": "Wikipedia",
+            "quote": "30 May 1417 – 12 April 1433"
+          }
+        ]
+      }
+    ],
+    "summary": "Jacqueline of Hainaut was the daughter of William II, Duke of Bavaria and Count of Hainaut, Holland and Zeeland, and Margaret of Burgundy. Widowed young from her first marriage to the Dauphin John of France, she married Humphrey, Duke of Gloucester, in 1423 while contesting her uncle John of Bavaria's seizure of her lands, but the papacy regarded the union as illegitimate and by treaty in July 1428 it was effectively annulled. She married twice more, finally to Frank van Borssele, and died in 1436.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Jacqueline,_Countess_of_Hainaut",
+        "title": "Jacqueline, Countess of Hainaut",
+        "publisher": "Wikipedia",
+        "quote": "William II, Duke of Bavaria"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Jacqueline,_Countess_of_Hainaut",
+        "title": "Jacqueline, Countess of Hainaut",
+        "publisher": "Wikipedia",
+        "quote": "The Pope had also decreed the marriage illegitimate."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "anne-burgundy",
+    "name": "Anne of Burgundy",
+    "fullName": "Anne of Burgundy, Duchess of Bedford",
+    "epithet": null,
+    "house": "Burgundy",
+    "role": "Duchess of Bedford",
+    "monarch": false,
+    "reign": null,
+    "birth": {
+      "date": "1404-09-30",
+      "place": null,
+      "precision": "day",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Anne_of_Burgundy",
+          "title": "Anne of Burgundy",
+          "publisher": "Wikipedia",
+          "quote": "30 September 1404"
+        }
+      ]
+    },
+    "death": {
+      "date": "1432-11-13",
+      "place": "Paris",
+      "precision": "day",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Anne_of_Burgundy",
+          "title": "Anne of Burgundy",
+          "publisher": "Wikipedia",
+          "quote": "Anne died on 13 November 1432 in Paris, at the Hôtel de Bourbon, adjoining the Louvre Palace"
+        }
+      ]
+    },
+    "parents": [],
+    "spouses": [
+      {
+        "id": "john-lancaster-bedford",
+        "married": "1423-05-13",
+        "ended": "1432-11-13",
+        "endedBy": "death",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/John,_Duke_of_Bedford",
+            "title": "John, Duke of Bedford",
+            "publisher": "Wikipedia",
+            "quote": "John's first marriage was to Anne of Burgundy (d. 1432), daughter of John the Fearless, on 13 May 1423 in Troyes."
+          }
+        ]
+      }
+    ],
+    "titles": [
+      {
+        "title": "Duchess of Bedford",
+        "from": "1423-05-13",
+        "to": "1432-11-13",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Anne_of_Burgundy",
+            "title": "Anne of Burgundy",
+            "publisher": "Wikipedia",
+            "quote": "Duchess of Bedford"
+          }
+        ]
+      }
+    ],
+    "summary": "Anne of Burgundy was the daughter of John the Fearless, Duke of Burgundy, and Margaret of Bavaria. Her marriage to John, Duke of Bedford, regent of France for the infant Henry VI, was agreed under the 1423 Treaty of Amiens and celebrated at Troyes on 13 May 1423, cementing the Anglo-Burgundian alliance against the Dauphinist French. She died childless in Paris in November 1432, and her death is generally reckoned to have weakened the alliance between Bedford and her brother, Philip the Good.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Anne_of_Burgundy",
+        "title": "Anne of Burgundy",
+        "publisher": "Wikipedia",
+        "quote": "John the Fearless, Duke of Burgundy (1371–1419)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Anne_of_Burgundy",
+        "title": "Anne of Burgundy",
+        "publisher": "Wikipedia",
+        "quote": "Margaret of Bavaria (1363–1423)"
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "jacquetta-luxembourg",
+    "name": "Jacquetta of Luxembourg",
+    "fullName": "Jacquetta of Luxembourg, Duchess of Bedford",
+    "epithet": null,
+    "house": "Luxembourg",
+    "role": "Duchess of Bedford",
+    "monarch": false,
+    "reign": null,
+    "birth": {
+      "date": "1415/1416",
+      "place": null,
+      "precision": "range",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jacquetta_of_Luxembourg",
+          "title": "Jacquetta of Luxembourg",
+          "publisher": "Wikipedia",
+          "quote": "Born 1415/1416"
+        }
+      ]
+    },
+    "death": {
+      "date": "1472-05-30",
+      "place": null,
+      "precision": "day",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jacquetta_of_Luxembourg",
+          "title": "Jacquetta of Luxembourg",
+          "publisher": "Wikipedia",
+          "quote": "30 May 1472"
+        }
+      ]
+    },
+    "parents": [],
+    "spouses": [
+      {
+        "id": "john-lancaster-bedford",
+        "married": "1433-04-20",
+        "ended": "1435-09-14",
+        "endedBy": "death",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/John,_Duke_of_Bedford",
+            "title": "John, Duke of Bedford",
+            "publisher": "Wikipedia",
+            "quote": "The marriage was performed by the bishop at Therouanne on 20 April 1433."
+          }
+        ]
+      }
+    ],
+    "titles": [
+      {
+        "title": "Duchess of Bedford",
+        "from": "1433-04-20",
+        "to": "1435-09-14",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Jacquetta_of_Luxembourg",
+            "title": "Jacquetta of Luxembourg",
+            "publisher": "Wikipedia",
+            "quote": "Duchess of Bedford"
+          }
+        ]
+      }
+    ],
+    "summary": "Jacquetta of Luxembourg was the daughter of Peter I, Count of Saint-Pol, and Margaret of Baux. In 1433 she married John, Duke of Bedford, regent of English France, at Thérouanne; the marriage was childless and ended with Bedford's death at Rouen in 1435. She later married Richard Woodville in secret, without royal permission, and their daughter Elizabeth Woodville became queen of England as wife of Edward IV.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Jacquetta_of_Luxembourg",
+        "title": "Jacquetta of Luxembourg",
+        "publisher": "Wikipedia",
+        "quote": "Peter I, Count of Saint-Pol"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Jacquetta_of_Luxembourg",
+        "title": "Jacquetta of Luxembourg",
+        "publisher": "Wikipedia",
+        "quote": "Margaret of Baux"
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "margaret-holland",
+    "name": "Margaret Holland",
+    "fullName": "Margaret Holland, Duchess of Clarence",
+    "epithet": null,
+    "house": "Holland",
+    "role": "Countess of Somerset; Duchess of Clarence",
+    "monarch": false,
+    "reign": null,
+    "birth": {
+      "date": "1385",
+      "place": null,
+      "precision": "year",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Margaret_Holland,_Duchess_of_Clarence",
+          "title": "Margaret Holland, Duchess of Clarence",
+          "publisher": "Wikipedia",
+          "quote": "Born 1385"
+        }
+      ]
+    },
+    "death": {
+      "date": "1439-12-30",
+      "place": null,
+      "precision": "day",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Margaret_Holland,_Duchess_of_Clarence",
+          "title": "Margaret Holland, Duchess of Clarence",
+          "publisher": "Wikipedia",
+          "quote": "Died 30 December 1439 (aged 54)"
+        }
+      ]
+    },
+    "parents": [],
+    "spouses": [
+      {
+        "id": "john-beaufort",
+        "married": "1397-09-27",
+        "ended": "1410-03-16",
+        "endedBy": "death",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/John_Beaufort,_1st_Earl_of_Somerset",
+            "title": "John Beaufort, 1st Earl of Somerset",
+            "publisher": "Wikipedia",
+            "quote": "he married the king's niece, Margaret Holland"
+          }
+        ]
+      },
+      {
+        "id": "thomas-lancaster-clarence",
+        "married": "1411-11",
+        "ended": "1421-03-22",
+        "endedBy": "death",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Thomas,_Duke_of_Clarence",
+            "title": "Thomas, Duke of Clarence",
+            "publisher": "Wikipedia",
+            "quote": "In November or December 1411, Thomas married Margaret Holland, widow of his uncle John Beaufort, 1st Earl of Somerset."
+          }
+        ]
+      }
+    ],
+    "titles": [
+      {
+        "title": "Countess of Somerset",
+        "from": "1397",
+        "to": "1410-03-16",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Margaret_Holland,_Duchess_of_Clarence",
+            "title": "Margaret Holland, Duchess of Clarence",
+            "publisher": "Wikipedia",
+            "quote": "Countess of Somerset"
+          }
+        ]
+      },
+      {
+        "title": "Duchess of Clarence",
+        "from": "1411",
+        "to": "1421-03-22",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Margaret_Holland,_Duchess_of_Clarence",
+            "title": "Margaret Holland, Duchess of Clarence",
+            "publisher": "Wikipedia",
+            "quote": "Duchess of Clarence"
+          }
+        ]
+      }
+    ],
+    "summary": "Margaret Holland was a daughter of Thomas Holland, 2nd Earl of Kent, and Alice FitzAlan. She married John Beaufort, 1st Earl of Somerset, eldest of the Beaufort children of John of Gaunt and Katherine Swynford, in 1397, and had six children by him, including Cardinal Henry Beaufort's nephew John, Duke of Somerset, and Joan Beaufort, later queen of Scots. Widowed in 1410, she married Thomas, Duke of Clarence, second son of Henry IV, in late 1411; he died at the Battle of Baugé in 1421, and Margaret survived him until 1439.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Margaret_Holland,_Duchess_of_Clarence",
+        "title": "Margaret Holland, Duchess of Clarence",
+        "publisher": "Wikipedia",
+        "quote": "Margaret was a daughter of Thomas Holland, 2nd Earl of Kent"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Margaret_Holland,_Duchess_of_Clarence",
+        "title": "Margaret Holland, Duchess of Clarence",
+        "publisher": "Wikipedia",
+        "quote": "They had six children"
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "margaret-neville",
+    "name": "Margaret Neville",
+    "fullName": "Margaret Neville, Duchess of Exeter",
+    "epithet": null,
+    "house": "Neville",
+    "role": "Duchess of Exeter; wife of Thomas Beaufort, Duke of Exeter",
+    "monarch": false,
+    "reign": null,
+    "birth": {
+      "date": "1384",
+      "place": null,
+      "precision": "circa",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Thomas_Beaufort,_Duke_of_Exeter",
+          "title": "Thomas Beaufort, Duke of Exeter",
+          "publisher": "Wikipedia",
+          "quote": "Margaret Neville (born c. 1384)"
+        }
+      ]
+    },
+    "death": null,
+    "parents": [],
+    "spouses": [
+      {
+        "id": "thomas-beaufort",
+        "married": null,
+        "ended": null,
+        "endedBy": null,
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Thomas_Beaufort,_Duke_of_Exeter",
+            "title": "Thomas Beaufort, Duke of Exeter",
+            "publisher": "Wikipedia",
+            "quote": "He married the daughter of Sir Thomas Neville (died 1387) of Hornby, Margaret Neville (born c. 1384)."
+          }
+        ]
+      }
+    ],
+    "titles": [],
+    "summary": "Margaret Neville was the daughter of Sir Thomas Neville of Hornby, who died in 1387. She married Thomas Beaufort, later Duke of Exeter and youngest of the Beaufort children of John of Gaunt and Katherine Swynford; the couple had one son, Henry, who died in infancy. No date is recorded for the marriage or for Margaret's death.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Thomas_Beaufort,_Duke_of_Exeter",
+        "title": "Thomas Beaufort, Duke of Exeter",
+        "publisher": "Wikipedia",
+        "quote": "He married the daughter of Sir Thomas Neville (died 1387) of Hornby, Margaret Neville (born c. 1384)."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Thomas_Beaufort,_Duke_of_Exeter",
+        "title": "Thomas Beaufort, Duke of Exeter",
+        "publisher": "Wikipedia",
+        "quote": "Henry Beaufort, who died young"
+      }
+    ],
+    "uncertain": "No marriage date or death date for Margaret Neville is given in the source consulted; the article provides minimal biographical detail beyond her parentage and her one son who died in infancy."
+  },
+  {
+    "id": "ralph-neville-westmorland",
+    "name": "Ralph Neville, 1st Earl of Westmorland",
+    "fullName": "Ralph de Neville, 1st Earl of Westmorland",
+    "epithet": null,
+    "house": "Neville",
+    "role": "Earl of Westmorland",
+    "monarch": false,
+    "reign": null,
+    "birth": {
+      "date": "1364",
+      "place": null,
+      "precision": "circa",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ralph_de_Neville,_1st_Earl_of_Westmorland",
+          "title": "Ralph de Neville, 1st Earl of Westmorland",
+          "publisher": "Wikipedia",
+          "quote": "c. 1364"
+        }
+      ]
+    },
+    "death": {
+      "date": "1425-10-21",
+      "place": null,
+      "precision": "day",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ralph_de_Neville,_1st_Earl_of_Westmorland",
+          "title": "Ralph de Neville, 1st Earl of Westmorland",
+          "publisher": "Wikipedia",
+          "quote": "21 October 1425"
+        }
+      ]
+    },
+    "parents": [],
+    "spouses": [
+      {
+        "id": "joan-beaufort",
+        "married": "1396-11",
+        "ended": "1425-10-21",
+        "endedBy": "death",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Ralph_de_Neville,_1st_Earl_of_Westmorland",
+            "title": "Ralph de Neville, 1st Earl of Westmorland",
+            "publisher": "Wikipedia",
+            "quote": "Neville married secondly, before 29 November 1396"
+          }
+        ]
+      }
+    ],
+    "titles": [
+      {
+        "title": "Earl of Westmorland",
+        "from": "1397-09-29",
+        "to": "1425-10-21",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Ralph_de_Neville,_1st_Earl_of_Westmorland",
+            "title": "Ralph de Neville, 1st Earl of Westmorland",
+            "publisher": "Wikipedia",
+            "quote": "created Earl of Westmorland on 29 September"
+          }
+        ]
+      }
+    ],
+    "summary": "Ralph Neville, son of John Neville, 3rd Baron Neville, and Maud Percy, was created Earl of Westmorland in 1397. His first wife, Margaret Stafford, died in June 1396, and before the end of that November he married Joan Beaufort, daughter of John of Gaunt, becoming a royal kinsman by marriage. He held high offices including Earl Marshal and played a leading role in northern politics and border warfare with Scotland until his death in 1425.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Ralph_de_Neville,_1st_Earl_of_Westmorland",
+        "title": "Ralph de Neville, 1st Earl of Westmorland",
+        "publisher": "Wikipedia",
+        "quote": "John Neville, 3rd Baron Neville"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ralph_de_Neville,_1st_Earl_of_Westmorland",
+        "title": "Ralph de Neville, 1st Earl of Westmorland",
+        "publisher": "Wikipedia",
+        "quote": "As a royal kinsman through his marriage to Joan Beaufort, he was rewarded with high offices, including Earl Marshal, and played a central role in northern politics and border warfare with Scotland."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "robert-ferrers",
+    "name": "Robert Ferrers",
+    "fullName": "Robert Ferrers of Wem",
+    "epithet": null,
+    "house": null,
+    "role": "Of Wem, Shropshire; first husband of Joan Beaufort",
+    "monarch": false,
+    "reign": null,
+    "birth": {
+      "date": "1373",
+      "place": "Willisham",
+      "precision": "circa",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Robert_Ferrers,_5th_Baron_Boteler_of_Wem",
+          "title": "Robert Ferrers of Wem",
+          "publisher": "Wikipedia",
+          "quote": "Born c. 1373"
+        }
+      ]
+    },
+    "death": {
+      "date": "1396",
+      "place": null,
+      "precision": "circa",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Robert_Ferrers,_5th_Baron_Boteler_of_Wem",
+          "title": "Robert Ferrers of Wem",
+          "publisher": "Wikipedia",
+          "quote": "bef. 29 November 1396"
+        }
+      ]
+    },
+    "parents": [],
+    "spouses": [
+      {
+        "id": "joan-beaufort",
+        "married": "1391",
+        "ended": "1396",
+        "endedBy": "death",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Joan_Beaufort,_Countess_of_Westmorland",
+            "title": "Joan Beaufort, Countess of Westmorland",
+            "publisher": "Wikipedia",
+            "quote": "The marriage took place in 1391/2 at Beaufort-en-Vallée, Anjou"
+          }
+        ]
+      }
+    ],
+    "titles": [],
+    "summary": "Robert Ferrers of Wem, whose father had once been summoned to Parliament as Lord Ferrers of Wem though Robert himself never was, married Joan Beaufort, daughter of John of Gaunt, in 1391 at Beaufort-en-Vallée in Anjou. The marriage produced two daughters, Elizabeth and Mary, before Robert died young, before 29 November 1396.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Robert_Ferrers,_5th_Baron_Boteler_of_Wem",
+        "title": "Robert Ferrers of Wem",
+        "publisher": "Wikipedia",
+        "quote": "His father had been summoned to Parliament in 1375 as Robert Ferrers of Wem"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Robert_Ferrers,_5th_Baron_Boteler_of_Wem",
+        "title": "Robert Ferrers of Wem",
+        "publisher": "Wikipedia",
+        "quote": "Mary or Margery (1394 – 25 January 1457/1458)"
+      }
+    ],
+    "uncertain": "Robert Ferrers's claim to the barony of Ferrers of Wem is unresolved in the source: his father was summoned to Parliament under that style, but Robert himself was never so summoned."
+  },
+  {
+    "id": "anne-stafford",
+    "name": "Anne Stafford",
+    "fullName": "Anne Stafford, Countess of March",
+    "epithet": null,
+    "house": "Stafford",
+    "role": "Countess of March; later Duchess of Exeter",
+    "monarch": false,
+    "reign": null,
+    "birth": {
+      "date": "1400",
+      "place": null,
+      "precision": "circa",
+      "citations": [
+        {
+          "url": "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/stafford-anne-c-1400-1432",
+          "title": "Anne Stafford (c. 1400-1432)",
+          "publisher": "Encyclopedia.com",
+          "quote": "Born around 1400"
+        }
+      ]
+    },
+    "death": {
+      "date": "1432-09-20",
+      "place": null,
+      "precision": "circa",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Edmund_Mortimer,_5th_Earl_of_March",
+          "title": "Edmund Mortimer, 5th Earl of March",
+          "publisher": "Wikipedia",
+          "quote": "She died on 20 or 24 September 1432, and was buried in the church of St Katharine's by the Tower."
+        }
+      ]
+    },
+    "parents": [],
+    "spouses": [
+      {
+        "id": "edmund-mortimer",
+        "married": "1415",
+        "ended": "1425-01-18",
+        "endedBy": "death",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Edmund_Mortimer,_5th_Earl_of_March",
+            "title": "Edmund Mortimer, 5th Earl of March",
+            "publisher": "Wikipedia",
+            "quote": "On 17 January 1415 Edmund obtained a papal dispensation to marry \"a fit woman\" related to him in the third degree of kindred or affinity."
+          },
+          {
+            "url": "https://en.wikipedia.org/wiki/Edmund_Mortimer,_5th_Earl_of_March",
+            "title": "Edmund Mortimer, 5th Earl of March",
+            "publisher": "Wikipedia",
+            "quote": "This allowed him to marry his second cousin once removed, Anne Stafford (m. 1415)."
+          }
+        ]
+      }
+    ],
+    "titles": [],
+    "summary": "Anne Stafford was a daughter of Edmund Stafford, 5th Earl of Stafford, and Anne of Gloucester, herself a granddaughter of Edward III. In 1415, after a papal dispensation was obtained because the couple were related within the third degree, she married her second cousin once removed, Edmund Mortimer, 5th Earl of March; the marriage angered Henry V, who fined Mortimer 10,000 marks. The couple had no children, and after Edmund's death in 1425 Anne married John Holland, 2nd Duke of Exeter, before dying in September 1432.",
+    "citations": [
+      {
+        "url": "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/stafford-anne-c-1400-1432",
+        "title": "Anne Stafford (c. 1400-1432)",
+        "publisher": "Encyclopedia.com",
+        "quote": "daughter of Edmund Stafford, 5th earl of Stafford, and Anne Plantagenet (1383–1438)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Edmund_Mortimer,_5th_Earl_of_March",
+        "title": "Edmund Mortimer, 5th Earl of March",
+        "publisher": "Wikipedia",
+        "quote": "The King was displeased, and imposed an enormous fine of 10,000 marks."
+      }
+    ],
+    "uncertain": "Sources disagree on the day of Anne Stafford's death, giving either 20 or 24 September 1432."
+  },
+  {
+    "id": "eleanor-holland",
+    "name": "Eleanor Holland",
+    "fullName": "Eleanor (Alianore) Holland, Countess of March",
+    "epithet": null,
+    "house": "Holland",
+    "role": "Countess of March; mother of Anne Mortimer and Edmund Mortimer, 5th Earl of March",
+    "monarch": false,
+    "reign": null,
+    "birth": {
+      "date": "1370",
+      "place": null,
+      "precision": "circa",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Roger_Mortimer,_4th_Earl_of_March",
+          "title": "Roger Mortimer, 4th Earl of March",
+          "publisher": "Wikipedia",
+          "quote": "On or about 7 October 1388, at the age of 14, Mortimer was married off to his warder's 18-year-old daughter Eleanor Holland."
+        }
+      ]
+    },
+    "death": {
+      "date": "1405-10-06",
+      "place": null,
+      "precision": "circa",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Roger_Mortimer,_4th_Earl_of_March",
+          "title": "Roger Mortimer, 4th Earl of March",
+          "publisher": "Wikipedia",
+          "quote": "Alianor died on 6 or 18 October 1405."
+        }
+      ]
+    },
+    "parents": [],
+    "spouses": [
+      {
+        "id": "roger-mortimer",
+        "married": "1388-10-07",
+        "ended": "1398-07-20",
+        "endedBy": "death",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Roger_Mortimer,_4th_Earl_of_March",
+            "title": "Roger Mortimer, 4th Earl of March",
+            "publisher": "Wikipedia",
+            "quote": "On or about 7 October 1388, at the age of 14, Mortimer was married off to his warder's 18-year-old daughter Eleanor Holland."
+          }
+        ]
+      }
+    ],
+    "titles": [],
+    "summary": "Eleanor Holland, daughter of Thomas Holland, 2nd Earl of Kent, married Roger Mortimer, 4th Earl of March, on or about 7 October 1388, when she was about eighteen and he fourteen. Their children included Anne Mortimer and Edmund Mortimer, 5th Earl of March. After Roger's death in 1398 she remarried Edward Charleton, 5th Baron Cherleton, in June 1399, by whom she had two more daughters, and died in October 1405.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Roger_Mortimer,_4th_Earl_of_March",
+        "title": "Roger Mortimer, 4th Earl of March",
+        "publisher": "Wikipedia",
+        "quote": "In June 1399, Roger Mortimer's widow, Alianor, married Edward Charleton, 5th Baron Cherleton, by whom she had two daughters."
+      }
+    ],
+    "uncertain": "Sources disagree on the day of Eleanor Holland's death, giving either 6 or 18 October 1405; her birth year is inferred only from the statement that she was eighteen in October 1388."
+  },
+  {
+    "id": "edmund-mortimer-1352",
+    "name": "Edmund Mortimer, 3rd Earl of March",
+    "fullName": "Edmund Mortimer, 3rd Earl of March and Ulster",
+    "epithet": null,
+    "house": "Mortimer",
+    "role": "Earl of March and Earl of Ulster; Lord Lieutenant of Ireland",
+    "monarch": false,
+    "reign": null,
+    "birth": {
+      "date": "1352-02-01",
+      "place": "Llangoed, Llyswen, Brecknockshire, Wales",
+      "precision": "day",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Edmund_Mortimer,_3rd_Earl_of_March",
+          "title": "Edmund Mortimer, 3rd Earl of March",
+          "publisher": "Wikipedia",
+          "quote": "1 February 1352"
+        }
+      ]
+    },
+    "death": {
+      "date": "1381-12-27",
+      "place": "Cork, Ireland",
+      "precision": "day",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Edmund_Mortimer,_3rd_Earl_of_March",
+          "title": "Edmund Mortimer, 3rd Earl of March",
+          "publisher": "Wikipedia",
+          "quote": "27 December 1381"
+        }
+      ]
+    },
+    "parents": [],
+    "spouses": [
+      {
+        "id": "philippa-plantagenet",
+        "married": "1369-08-24",
+        "ended": "1377",
+        "endedBy": "death",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Edmund_Mortimer,_3rd_Earl_of_March",
+            "title": "Edmund Mortimer, 3rd Earl of March",
+            "publisher": "Wikipedia",
+            "quote": "married Philippa Plantagenet...on 24 August 1369"
+          }
+        ]
+      }
+    ],
+    "titles": [
+      {
+        "title": "Earl of March and Earl of Ulster",
+        "from": "1360",
+        "to": "1381-12-27",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Edmund_Mortimer,_3rd_Earl_of_March",
+            "title": "Edmund Mortimer, 3rd Earl of March",
+            "publisher": "Wikipedia",
+            "quote": "Earl of March and Earl of Ulster"
+          }
+        ]
+      },
+      {
+        "title": "Lord Lieutenant of Ireland",
+        "from": "1379",
+        "to": "1381-12-27",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Edmund_Mortimer,_3rd_Earl_of_March",
+            "title": "Edmund Mortimer, 3rd Earl of March",
+            "publisher": "Wikipedia",
+            "quote": "Appointed Lord Lieutenant of Ireland in 1379"
+          }
+        ]
+      }
+    ],
+    "summary": "Edmund Mortimer, 3rd Earl of March, was born at Llangoed in Brecknockshire on 1 February 1352. On 24 August 1369 he married Philippa, only child of Lionel of Antwerp, Duke of Clarence, uniting the Mortimer earldom of March with the Clarence claim descending from Edward III's second surviving son. Their son Roger succeeded as 4th Earl of March and Ulster. Edmund served as Lord Lieutenant of Ireland from 1379 until his death at Cork in December 1381.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Edmund_Mortimer,_3rd_Earl_of_March",
+        "title": "Edmund Mortimer, 3rd Earl of March",
+        "publisher": "Wikipedia",
+        "quote": "Roger Mortimer, 2nd Earl of March"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Edmund_Mortimer,_3rd_Earl_of_March",
+        "title": "Edmund Mortimer, 3rd Earl of March",
+        "publisher": "Wikipedia",
+        "quote": "Roger\" (1374–1398), who \"succeeded him as 4th Earl of March and Ulster"
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "isabella-castile-york",
+    "name": "Isabella of Castile",
+    "fullName": "Isabella of Castile, Duchess of York",
+    "epithet": null,
+    "house": "Ivrea",
+    "role": "Duchess of York",
+    "monarch": false,
+    "reign": null,
+    "birth": {
+      "date": "1355",
+      "place": null,
+      "precision": "year",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Isabella_of_Castile,_Duchess_of_York",
+          "title": "Isabella of Castile, Duchess of York",
+          "publisher": "Wikipedia",
+          "quote": "1355"
+        }
+      ]
+    },
+    "death": {
+      "date": "1392-12-23",
+      "place": null,
+      "precision": "day",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Isabella_of_Castile,_Duchess_of_York",
+          "title": "Isabella of Castile, Duchess of York",
+          "publisher": "Wikipedia",
+          "quote": "23 December 1392 (aged 36–37)"
+        }
+      ]
+    },
+    "parents": [],
+    "spouses": [
+      {
+        "id": "edmund-langley",
+        "married": "1372-07-11",
+        "ended": "1392-12-23",
+        "endedBy": "death",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Isabella_of_Castile,_Duchess_of_York",
+            "title": "Isabella of Castile, Duchess of York",
+            "publisher": "Wikipedia",
+            "quote": "on 11 July 1372, at about the age of 17, married John of Gaunt's younger brother, Edmund of Langley, 1st Duke of York"
+          }
+        ]
+      }
+    ],
+    "titles": [
+      {
+        "title": "Lady of the Garter",
+        "from": "1379",
+        "to": null,
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Isabella_of_Castile,_Duchess_of_York",
+            "title": "Isabella of Castile, Duchess of York",
+            "publisher": "Wikipedia",
+            "quote": "appointed a Lady of the Garter in 1379"
+          }
+        ]
+      }
+    ],
+    "summary": "Isabella of Castile was a daughter of King Peter of Castile and his mistress Maria de Padilla. On 11 July 1372 she married Edmund of Langley, 1st Duke of York, fourth surviving son of Edward III, becoming Duchess of York; their children included Edward of Norwich, 2nd Duke of York, Constance of York, and Richard of Conisburgh, 3rd Earl of Cambridge. Isabella's later life was clouded by rumours of an affair with Richard II's half-brother John Holland, and some scholars have suggested Holland rather than Edmund fathered her youngest son Richard; she died in December 1392.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Isabella_of_Castile,_Duchess_of_York",
+        "title": "Isabella of Castile, Duchess of York",
+        "publisher": "Wikipedia",
+        "quote": "daughter of King Peter and his mistress María de Padilla (d. 1361)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Isabella_of_Castile,_Duchess_of_York",
+        "title": "Isabella of Castile, Duchess of York",
+        "publisher": "Wikipedia",
+        "quote": "As a result of her indiscretions, including an affair with King Richard II's half-brother, John Holland, 1st Duke of Exeter...Isabella left behind a tarnished reputation"
+      }
+    ],
+    "uncertain": "Some historians have suggested the possibility that John Holland, rather than Edmund of Langley, was the father of Isabella's son Richard of Conisburgh; this cannot be dismissed but is not established as fact."
+  },
+  {
+    "id": "elizabeth-burgh-ulster",
+    "name": "Elizabeth de Burgh",
+    "fullName": "Elizabeth de Burgh, 4th Countess of Ulster",
+    "epithet": null,
+    "house": "Burgh",
+    "role": "4th Countess of Ulster, suo jure; Duchess of Clarence",
+    "monarch": false,
+    "reign": null,
+    "birth": {
+      "date": "1332-07-06",
+      "place": "Carrickfergus Castle, Ireland",
+      "precision": "day",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Elizabeth_de_Burgh,_4th_Countess_of_Ulster",
+          "title": "Elizabeth de Burgh, 4th Countess of Ulster",
+          "publisher": "Wikipedia",
+          "quote": "6 July 1332"
+        }
+      ]
+    },
+    "death": {
+      "date": "1363-12-10",
+      "place": "Dublin, Ireland",
+      "precision": "day",
+      "citations": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Elizabeth_de_Burgh,_4th_Countess_of_Ulster",
+          "title": "Elizabeth de Burgh, 4th Countess of Ulster",
+          "publisher": "Wikipedia",
+          "quote": "10 December 1363 (aged 31)"
+        }
+      ]
+    },
+    "parents": [],
+    "spouses": [
+      {
+        "id": "lionel-antwerp",
+        "married": "1352",
+        "ended": "1363-12-10",
+        "endedBy": "death",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Lionel_of_Antwerp,_1st_Duke_of_Clarence",
+            "title": "Lionel of Antwerp, 1st Duke of Clarence",
+            "publisher": "Wikipedia",
+            "quote": "Elizabeth de Burgh, 4th Countess of Ulster (m. 1352; died 1363)"
+          }
+        ]
+      }
+    ],
+    "titles": [
+      {
+        "title": "Countess of Ulster",
+        "from": null,
+        "to": "1363-12-10",
+        "citations": [
+          {
+            "url": "https://en.wikipedia.org/wiki/Elizabeth_de_Burgh,_4th_Countess_of_Ulster",
+            "title": "Elizabeth de Burgh, 4th Countess of Ulster",
+            "publisher": "Wikipedia",
+            "quote": "4th Countess of Ulster and 5th Baroness of Connaught"
+          }
+        ]
+      }
+    ],
+    "summary": "Elizabeth de Burgh, suo jure 4th Countess of Ulster, was the only child of William Donn de Burgh, 3rd Earl of Ulster, and Maud of Lancaster, born at Carrickfergus Castle in 1332. She was married to Lionel of Antwerp, second surviving son of Edward III, who became Duke of Clarence and Earl of Ulster in her right; their only child, Philippa, carried the Ulster and Clarence inheritance into the Mortimer family. Elizabeth died at Dublin in December 1363.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Elizabeth_de_Burgh,_4th_Countess_of_Ulster",
+        "title": "Elizabeth de Burgh, 4th Countess of Ulster",
+        "publisher": "Wikipedia",
+        "quote": "William Donn de Burgh, 3rd Earl of Ulster"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Elizabeth_de_Burgh,_4th_Countess_of_Ulster",
+        "title": "Elizabeth de Burgh, 4th Countess of Ulster",
+        "publisher": "Wikipedia",
+        "quote": "Philippa Plantagenet, 5th Countess of Ulster"
+      }
+    ],
+    "uncertain": "Sources disagree on the date of the marriage to Lionel of Antwerp: Lionel's own Wikipedia article (and the infobox figure used here) gives 1352, matching the mainstream historical dating; Elizabeth's own Wikipedia article instead states the wedding took place on 9 September 1342, which cannot be correct since Lionel was not born until November 1338 (so would have been under four), and appears to be an error, possibly for a childhood betrothal or a slip for 1352."
+  }
+]

@@ -1,0 +1,460 @@
+[
+  {
+    "id": null,
+    "from": { "kind": "edge", "id": "godwin-wessex--edith-wessex" },
+    "to": { "kind": "event", "id": "evt-1051-godwin-exile" },
+    "relation": "family-disgrace-triggered",
+    "claim": "When her father Godwin's family was outlawed and fled into exile in 1051, Edith was removed from court and sent to a nunnery.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Edith_of_Wessex",
+        "title": "Edith of Wessex",
+        "publisher": "Wikipedia",
+        "quote": "In 1051, Godwin and his sons fell out with Edward and fled the country. Edith was sent to a nunnery, possibly because she was childless and Edward hoped to divorce her."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "edge", "id": "godwin-wessex--harold-godwinson" },
+    "to": { "kind": "event", "id": "evt-1052-godwin-return" },
+    "relation": "family-alliance-enabled",
+    "claim": "Godwin's 1052 return from exile was a coordinated family operation timed to link up with his sons Harold and Leofwine, and the combined force compelled Edward to restore him.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Godwin_(d.1053)",
+        "title": "Dictionary of National Biography, 1885-1900/Godwin (d.1053)",
+        "publisher": "Wikisource",
+        "quote": "he gathered his ships together in the Yser and set sail on the 22nd, intending to fall in with his sons Harold and Leofwine"
+      },
+      {
+        "url": "https://avalon.law.yale.edu/medieval/ang11.asp",
+        "title": "The Anglo-Saxon Chronicle: Eleventh Century",
+        "publisher": "Avalon Project, Yale Law School",
+        "quote": "There took up Earl Godwin his burthen, and cleared himself there before his lord King Edward, and before all the nation; proving that he was innocent of the crime laid to his charge."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "edge", "id": "edith-wessex~edward-confessor" },
+    "to": { "kind": "event", "id": "evt-1066-hastings" },
+    "relation": "childlessness-enabled-claim",
+    "claim": "Edward's marriage to Edith produced no heir, and it was in this context that Edward appears to have named William of Normandy as his successor, the basis for William's later claim.",
+    "strength": "attributed",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/William_the_Conqueror",
+        "title": "William the Conqueror",
+        "publisher": "Wikipedia",
+        "quote": "In 1051 the childless King Edward of England appears to have chosen William as his successor."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Edith_of_Wessex",
+        "title": "Edith of Wessex",
+        "publisher": "Wikipedia",
+        "quote": "The marriage produced no children."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "edward-confessor" },
+    "to": { "kind": "event", "id": "evt-1066-hastings" },
+    "relation": "claim-asserted-via",
+    "claim": "Norman chroniclers held that the childless Edward had earlier sent Archbishop Robert to Normandy to name William his heir, making this the chronicle basis of William's claim to the throne.",
+    "strength": "attributed",
+    "citations": [
+      {
+        "url": "https://penelope.uchicago.edu/encyclopaedia_romana/britannia/anglo-saxon/hastings/forsworn.html",
+        "title": "Harold and William",
+        "publisher": "Encyclopaedia Romana (University of Chicago)",
+        "quote": "Edward, king of the English, by the will of God having no heir, had in the past sent Robert, archbishop of Canterbury to the duke, to appoint him heir to the kingdom given to him by God."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "emma-normandy" },
+    "to": { "kind": "event", "id": "evt-1066-hastings" },
+    "relation": "kinship-claim-enabled",
+    "claim": "Emma of Normandy's marriage to Æthelred and motherhood of Edward the Confessor gave the English royal line a Norman family connection, the kinship William's claim to the throne was built on.",
+    "strength": "attributed",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Norman_Conquest",
+        "title": "Norman Conquest",
+        "publisher": "Wikipedia",
+        "quote": "In 1002, English king Æthelred the Unready married Emma of Normandy, the sister of Richard II, Duke of Normandy. Their son Edward the Confessor, who spent many years in exile in Normandy, succeeded to the English throne in 1042."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "harold-godwinson" },
+    "to": { "kind": "event", "id": "evt-1066-hastings" },
+    "relation": "oath-disputed",
+    "claim": "William claimed Harold had sworn an oath supporting William's succession, and treated Harold's accession as a betrayal of that oath, justifying his invasion.",
+    "strength": "attributed",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Norman_Conquest",
+        "title": "Norman Conquest",
+        "publisher": "Wikipedia",
+        "quote": "William claimed that he had been promised the throne by his cousin King Edward and that Harold had sworn an oath in agreement to this."
+      },
+      {
+        "url": "https://penelope.uchicago.edu/encyclopaedia_romana/britannia/anglo-saxon/hastings/forsworn.html",
+        "title": "Harold and William",
+        "publisher": "Encyclopaedia Romana (University of Chicago)",
+        "quote": "swear fealty to the duke concerning his crown and, according to the Christian custom, pledge it with oaths"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "edge", "id": "edward-exile--edgar-atheling" },
+    "to": { "kind": "event", "id": "evt-1066-harold-accession" },
+    "relation": "claim-passed-over",
+    "claim": "Edgar Ætheling, son of Edward the Exile and grandson of Edmund Ironside, had a hereditary claim to succeed Edward the Confessor, but historians hold he was passed over for Harold in January 1066 because he was thought too young.",
+    "strength": "attributed",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Edgar_Atheling",
+        "title": "Edgar Ætheling",
+        "publisher": "Wikipedia",
+        "quote": "Modern historians have conjectured that Edgar was considered too young to be an effective military leader."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Edgar_Atheling",
+        "title": "Edgar Ætheling",
+        "publisher": "Wikipedia",
+        "quote": "Accordingly, Harold Godwinson succeeded Edward, as he was the man best placed to defend the country against foreign claimants to the throne."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "tostig-godwinson" },
+    "to": { "kind": "event", "id": "evt-1066-fulford-stamford-bridge" },
+    "relation": "alliance-provoked-invasion",
+    "claim": "Exiled from Northumbria, Tostig allied with Harald Hardrada of Norway, submitting to him as his man, and their combined invasion led to the battles of Fulford and Stamford Bridge.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikisource.org/wiki/Page:The_Anglo-Saxon_Chronicle_(Giles).djvu/156",
+        "title": "The Anglo-Saxon Chronicle (Giles), p.156",
+        "publisher": "Wikisource",
+        "quote": "Harold king of Norway with three hundred ships... [Tostig] submitted to him and became his man."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "edward-confessor" },
+    "to": { "kind": "event", "id": "evt-1066-harold-accession" },
+    "relation": "succession-designated",
+    "claim": "The Anglo-Saxon Chronicle states that on his deathbed Edward committed the realm to Harold.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikisource.org/wiki/Page:The_Anglo-Saxon_Chronicle_(Giles).djvu/155",
+        "title": "The Anglo-Saxon Chronicle (Giles), p.155",
+        "publisher": "Wikisource",
+        "quote": "the sage ne'ertheless, the realm committed to a highly-born man, Harold's self, the noble earl!"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "event", "id": "evt-1120-white-ship" },
+    "to": { "kind": "event", "id": "evt-1127-oath-for-matilda" },
+    "relation": "death-precipitated",
+    "claim": "William Adelin's drowning in the White Ship left Henry I without a legitimate male heir and threw the succession into doubt, leading Henry to have his barons swear at Christmas 1126/January 1127 to recognize Matilda.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Empress_Matilda",
+        "title": "Empress Matilda",
+        "publisher": "Wikipedia",
+        "quote": "With William dead, the succession to the English throne was thrown into doubt."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Empress_Matilda",
+        "title": "Empress Matilda",
+        "publisher": "Wikipedia",
+        "quote": "The Anglo-Norman barons were gathered together at Westminster on Christmas 1126, where they swore in January to recognise Matilda and any future legitimate heir she might have."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "event", "id": "evt-1127-oath-for-matilda" },
+    "to": { "kind": "event", "id": "evt-1135-stephen-accession" },
+    "relation": "oath-breach-justified",
+    "claim": "Stephen had sworn the 1127 oath to recognize Matilda, but on Henry I's death his brother Henry of Blois argued the oath need not bind him, clearing the way for Stephen's seizure of the throne.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Stephen,_King_of_England",
+        "title": "Stephen, King of England",
+        "publisher": "Wikipedia",
+        "quote": "Stephen was amongst those who took this oath in 1127."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Stephen,_King_of_England",
+        "title": "Stephen, King of England",
+        "publisher": "Wikipedia",
+        "quote": "Henry of Blois argued that the late king had only insisted on that oath to protect the stability of the kingdom, and in light of the chaos that might now ensue, Stephen would be justified in ignoring it."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "henry-blois" },
+    "to": { "kind": "event", "id": "evt-1135-stephen-accession" },
+    "relation": "alliance-sealed",
+    "claim": "Henry of Blois delivered the Church's support to his brother Stephen, securing the royal treasury and clergy backing that let Stephen take the throne.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/The_Anarchy",
+        "title": "The Anarchy",
+        "publisher": "Wikipedia",
+        "quote": "Henry of Blois delivered the support of the church to Stephen: Stephen was able to advance to Winchester, where Roger...instructed the royal treasury to be handed over to Stephen."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/The_Anarchy",
+        "title": "The Anarchy",
+        "publisher": "Wikipedia",
+        "quote": "On 15 December, Henry delivered an agreement under which Stephen would grant extensive freedoms and liberties to the church"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "robert-gloucester" },
+    "to": { "kind": "event", "id": "evt-1141-battle-lincoln" },
+    "relation": "rebellion-provoked",
+    "claim": "Robert of Gloucester commanded the relief force at Lincoln and was recorded as one of the two commanders who surrounded and captured Stephen.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://deremilitari.org/2014/03/the-battle-of-lincoln-1141-from-five-sources/",
+        "title": "The Battle of Lincoln (1141) from Five Sources",
+        "publisher": "De Re Militari: The Society for Medieval Military History",
+        "quote": "was at length by the just judgement of God surrounded and captured at the siege of Lincoln castle, by Robert, earl of Gloucester, his uncle's son"
+      },
+      {
+        "url": "https://deremilitari.org/2014/03/the-battle-of-lincoln-1141-from-five-sources/",
+        "title": "The Battle of Lincoln (1141) from Five Sources",
+        "publisher": "De Re Militari: The Society for Medieval Military History",
+        "quote": "Robert, earl of Gloucester, who was the greatest in the army, commanded the men of the Bessin and other disinherited men to strike the first blow"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "matilda-boulogne" },
+    "to": { "kind": "event", "id": "evt-1141-rout-winchester" },
+    "relation": "siege-orchestrated",
+    "claim": "Queen Matilda of Boulogne directed the operations that encircled the Angevin forces at Winchester, leading to Robert of Gloucester's capture and the later exchange of the two leaders.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/The_Anarchy",
+        "title": "The Anarchy",
+        "publisher": "Wikipedia",
+        "quote": "Queen Matilda was using Winchester Castle as a base for her operations, but shortly afterwards she and William of Ypres encircled the Angevin forces"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/The_Anarchy",
+        "title": "The Anarchy",
+        "publisher": "Wikipedia",
+        "quote": "in November the two sides exchanged the two leaders"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "robert-gloucester" },
+    "to": { "kind": "event", "id": "evt-1141-rout-winchester" },
+    "relation": "rout-captured",
+    "claim": "Robert of Gloucester commanded the Angevin rearguard covering Empress Matilda's retreat from Winchester and was surrounded and captured at the River Test crossing.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Rout_of_Winchester",
+        "title": "Rout of Winchester",
+        "publisher": "Wikipedia",
+        "quote": "Robert commanded the rearguard"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rout_of_Winchester",
+        "title": "Rout of Winchester",
+        "publisher": "Wikipedia",
+        "quote": "Robert surrendered with his men"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "matilda-empress" },
+    "to": { "kind": "event", "id": "evt-1138-battle-standard" },
+    "relation": "claim-invoked",
+    "claim": "David I of Scotland invaded northern England in 1138 explicitly announcing he was supporting the claim of his niece, the Empress Matilda, to the English throne.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/The_Anarchy",
+        "title": "The Anarchy",
+        "publisher": "Wikipedia",
+        "quote": "David of Scotland also invaded the north of England once again, announcing that he was supporting the claim of his niece the Empress Matilda to the throne"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "edge", "id": "geoffrey-anjou~matilda-empress" },
+    "to": { "kind": "event", "id": "evt-1153-treaty-wallingford" },
+    "relation": "marriage-enabled",
+    "claim": "Matilda's 1128 marriage to Geoffrey of Anjou produced Henry, whose claim through both parents was confirmed as Stephen's heir at the Treaty of Wallingford, founding the Plantagenet line.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Geoffrey_Plantagenet,_Count_of_Anjou",
+        "title": "Geoffrey Plantagenet, Count of Anjou",
+        "publisher": "Wikipedia",
+        "quote": "Geoffrey and Matilda's marriage led, through their son Henry II, to the 300-year long reign of the Plantagenet dynasty in England."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Geoffrey_Plantagenet,_Count_of_Anjou",
+        "title": "Geoffrey Plantagenet, Count of Anjou",
+        "publisher": "Wikipedia",
+        "quote": "In 1153, the Treaty of Wallingford stipulated that Stephen should remain King of England for life and that Henry, the son of Geoffrey and Matilda should succeed him, beginning the Plantagenet era in English history."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "eustace-boulogne" },
+    "to": { "kind": "event", "id": "evt-1153-treaty-wallingford" },
+    "relation": "death-precipitated",
+    "claim": "Stephen's son and heir Eustace died suddenly in August 1153, removing the chief obstacle to peace and opening the way to the settlement recognizing Henry as Stephen's successor.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Eustace_IV,_Count_of_Boulogne",
+        "title": "Eustace IV, Count of Boulogne",
+        "publisher": "Wikipedia",
+        "quote": "Eustace died suddenly that same year, in mid-August 1153, struck down (so it was said) by the wrath of God while plundering church lands near Bury St Edmunds."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Eustace_IV,_Count_of_Boulogne",
+        "title": "Eustace IV, Count of Boulogne",
+        "publisher": "Wikipedia",
+        "quote": "The death of Eustace was hailed with general satisfaction as opening the possibility of a peaceful settlement between Stephen and his rival, the young Henry Plantagenet."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "robert-curthose" },
+    "to": { "kind": "event", "id": "evt-1100-william-ii-death" },
+    "relation": "absence-enabled",
+    "claim": "Robert was still on his return journey from the First Crusade when William II died suddenly in 1100, which let his brother Henry seize the English crown ahead of him.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Robert_Curthose",
+        "title": "Robert Curthose",
+        "publisher": "Wikipedia",
+        "quote": "When William II died on 2 August 1100, Robert was still on the return journey and absent from Normandy."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Robert_Curthose",
+        "title": "Robert Curthose",
+        "publisher": "Wikipedia",
+        "quote": "allowing his other brother Henry to seize the crown of England for himself"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "robert-curthose" },
+    "to": { "kind": "event", "id": "evt-1101-treaty-alton" },
+    "relation": "inheritance-disputed",
+    "claim": "Robert assembled a fleet and invaded England in 1101 to press his claim to the throne against Henry I; the dispute was settled by the Treaty of Alton.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Robert_Curthose",
+        "title": "Robert Curthose",
+        "publisher": "Wikipedia",
+        "quote": "Robert began preparations and assembled a fleet at Tréport."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Robert_Curthose",
+        "title": "Robert Curthose",
+        "publisher": "Wikipedia",
+        "quote": "after a tense confrontation, Robert and Henry agreed to the Treaty of Alton"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "robert-curthose" },
+    "to": { "kind": "event", "id": "evt-1106-tinchebray" },
+    "relation": "rivalry-culminated",
+    "claim": "Henry defeated and captured Robert at the Battle of Tinchebray in 1106, ending Robert's rule and annexing Normandy to the English crown for almost a century.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Robert_Curthose",
+        "title": "Robert Curthose",
+        "publisher": "Wikipedia",
+        "quote": "In 1106, Henry defeated Robert's army decisively at the Battle of Tinchebray and claimed Normandy as a possession of the English crown, a situation that endured for almost a century. Captured after the battle, Robert would be briefly imprisoned at Corfe Castle."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "edge", "id": "adeliza-louvain~henry-i" },
+    "to": { "kind": "event", "id": "evt-1120-white-ship" },
+    "relation": "remarriage-prompted",
+    "claim": "William Adelin's death in the White Ship disaster prompted Henry I to remarry, taking Adeliza of Louvain as his wife in hopes of fathering a new male heir.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Adeliza_of_Louvain",
+        "title": "Adeliza of Louvain",
+        "publisher": "Wikipedia",
+        "quote": "Henry's only legitimate son, William Adelin, had died in 1120, which had prompted Henry to marry again. He hoped to have another son with Adeliza"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Adeliza_of_Louvain",
+        "title": "Adeliza of Louvain",
+        "publisher": "Wikipedia",
+        "quote": "Henry's need for a new male heir expedited the marriage plans and the couple wed on 24 January 1121."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "edge", "id": "robert-curthose--william-clito" },
+    "to": { "kind": "event", "id": "evt-1120-white-ship" },
+    "relation": "claim-elevated",
+    "claim": "The White Ship disaster, which drowned Henry I's only legitimate son, transformed the fortunes of Robert Curthose's son William Clito, making him the most plausible alternative heir to the English throne.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/William_Clito",
+        "title": "William Clito",
+        "publisher": "Wikipedia",
+        "quote": "The event transformed William Clito's fortunes. At the state of events after the White Ship, William was the most plausible heir to the English throne."
+      }
+    ]
+  }
+]

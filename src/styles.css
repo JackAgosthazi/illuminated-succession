@@ -1,0 +1,464 @@
+/* The Illuminated Succession — scriptorium palette.
+ *
+ * Pigments, not a generic "parchment" theme: vellum ground, iron-gall ink
+ * (brown-black, as it actually oxidises), lapis lazuli ultramarine, vermilion
+ * (cinnabar), gold leaf, verdigris. The neutrals are ochre-biased so nothing
+ * reads as an untouched default grey.
+ *
+ * Dark theme is a candlelit scriptorium: smoke-darkened ground, vellum-coloured
+ * text, gold brightened to hold up against it. Tokens redefine; components never
+ * restyle inside a media query.
+ */
+
+:root {
+  --vellum:      #e8dec4;
+  --vellum-deep: #ded0ac;
+  --vellum-edge: #cdbc92;
+  --ink:         #2a211a;
+  --ink-soft:    #5c4b3a;
+  --ink-faint:   #8a7659;
+  --lapis:       #1f3a73;
+  --lapis-bright:#3159a8;
+  --vermilion:   #b02e1a;
+  --gold:        #b8912b;
+  --gold-bright: #d9b44a;
+  --verdigris:   #4a6b4f;
+  --murex:       #6b3a5b;
+
+  --ground:      var(--vellum);
+  --panel:       #efe7d3;
+  --panel-deep:  var(--vellum-deep);
+  --rule:        #c3b28c;
+  --rule-faint:  #d5c7a5;
+  --text:        var(--ink);
+  --text-soft:   var(--ink-soft);
+  --text-faint:  var(--ink-faint);
+  --accent:      var(--lapis);
+  --link-hue:    var(--vermilion);
+  --reign:       var(--gold);
+  --shadow:      rgba(42, 33, 26, .16);
+  --glow:        rgba(184, 145, 43, .22);
+
+  --display: 'UnifrakturMaguntia', 'Old English Text MT', serif;
+  --body: 'Cardo', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, serif;
+
+  --s1: .25rem; --s2: .5rem; --s3: .75rem; --s4: 1rem;
+  --s5: 1.5rem; --s6: 2rem; --s7: 3rem;
+  --gloss-w: 27rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --ground:     #17120e;
+    --panel:      #201913;
+    --panel-deep: #2b2119;
+    --rule:       #4a3c2c;
+    --rule-faint: #352a1f;
+    --text:       #e3d7b8;
+    --text-soft:  #a8967b;
+    --text-faint: #7d6c53;
+    --accent:     #6b8fd4;
+    --link-hue:   #e05a3f;
+    --reign:      var(--gold-bright);
+    --lapis:      #6b8fd4;
+    --lapis-bright: #8fabe0;
+    --vermilion:  #e05a3f;
+    --gold:       #d9b44a;
+    --verdigris:  #7fa383;
+    --murex:      #b07496;
+    --shadow:     rgba(0, 0, 0, .5);
+    --glow:       rgba(217, 180, 74, .3);
+  }
+}
+
+/* The viewer's toggle stamps data-theme on :root and must beat the media
+   query in both directions. */
+:root[data-theme="light"] {
+  --ground: var(--vellum); --panel: #efe7d3; --panel-deep: var(--vellum-deep);
+  --rule: #c3b28c; --rule-faint: #d5c7a5;
+  --text: var(--ink); --text-soft: var(--ink-soft); --text-faint: var(--ink-faint);
+  --accent: #1f3a73; --link-hue: #b02e1a; --reign: #b8912b;
+  --lapis: #1f3a73; --lapis-bright: #3159a8; --vermilion: #b02e1a;
+  --gold: #b8912b; --verdigris: #4a6b4f; --murex: #6b3a5b;
+  --shadow: rgba(42, 33, 26, .16); --glow: rgba(184, 145, 43, .22);
+}
+:root[data-theme="dark"] {
+  --ground: #17120e; --panel: #201913; --panel-deep: #2b2119;
+  --rule: #4a3c2c; --rule-faint: #352a1f;
+  --text: #e3d7b8; --text-soft: #a8967b; --text-faint: #7d6c53;
+  --accent: #6b8fd4; --link-hue: #e05a3f; --reign: #d9b44a;
+  --lapis: #6b8fd4; --lapis-bright: #8fabe0; --vermilion: #e05a3f;
+  --gold: #d9b44a; --verdigris: #7fa383; --murex: #b07496;
+  --shadow: rgba(0, 0, 0, .5); --glow: rgba(217, 180, 74, .3);
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--ground);
+  color: var(--text);
+  font-family: var(--body);
+  font-size: 17px;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+  overflow: hidden;
+}
+
+/* Vellum tooth. Two offset radial fields plus a fibre streak — cheap, and it
+   keeps the ground from reading as flat #hex. Hidden in dark mode where the
+   ground is meant to fall away into candle-shadow. */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  opacity: .5;
+  background:
+    radial-gradient(circle at 18% 12%, rgba(184,145,43,.10), transparent 42%),
+    radial-gradient(circle at 82% 78%, rgba(107,58,91,.07), transparent 46%),
+    repeating-linear-gradient(94deg, transparent 0 3px, rgba(90,70,40,.028) 3px 4px);
+}
+@media (prefers-color-scheme: dark) { body::before { opacity: .3; } }
+:root[data-theme="dark"] body::before { opacity: .3; }
+:root[data-theme="light"] body::before { opacity: .5; }
+
+a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 2px; }
+a:hover { color: var(--link-hue); }
+
+:focus-visible {
+  outline: 2px solid var(--link-hue);
+  outline-offset: 2px;
+  border-radius: 1px;
+}
+
+.u-caps {
+  font-variant: small-caps;
+  letter-spacing: .09em;
+  font-size: .8rem;
+  color: var(--text-faint);
+}
+.nums { font-variant-numeric: tabular-nums lining-nums; }
+
+/* ─────────────────────────────── shell ─────────────────────────────── */
+
+#app {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  grid-template-rows: auto 1fr;
+  height: 100vh;
+  height: 100dvh;
+}
+
+header.codex-head {
+  display: flex;
+  align-items: baseline;
+  gap: var(--s5);
+  padding: var(--s3) var(--s5);
+  border-bottom: 1px solid var(--rule);
+  background: linear-gradient(var(--panel), var(--panel-deep));
+  box-shadow: 0 1px 0 var(--rule-faint), 0 6px 18px -14px var(--shadow);
+  flex-wrap: wrap;
+}
+
+h1 {
+  font-family: var(--display);
+  font-weight: 400;
+  font-size: clamp(1.5rem, 2.6vw, 2.1rem);
+  margin: 0;
+  line-height: 1;
+  color: var(--text);
+  text-wrap: balance;
+}
+h1 .rubric { color: var(--vermilion); }
+
+.head-sub {
+  font-variant: small-caps;
+  letter-spacing: .1em;
+  font-size: .78rem;
+  color: var(--text-faint);
+  margin: 0;
+}
+
+.head-tools { margin-left: auto; display: flex; gap: var(--s2); align-items: center; flex-wrap: wrap; }
+
+.control {
+  font-family: var(--body);
+  font-size: .84rem;
+  background: var(--ground);
+  color: var(--text);
+  border: 1px solid var(--rule);
+  padding: .3rem .55rem;
+  border-radius: 2px;
+}
+.control:hover { border-color: var(--accent); }
+
+button.control { cursor: pointer; }
+button.control[aria-pressed="true"] {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: var(--ground);
+}
+
+#search { min-width: 12rem; }
+
+/* ──────────────────────────── main split ──────────────────────────── */
+
+main {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr var(--gloss-w);
+  min-height: 0;
+}
+@media (max-width: 900px) {
+  main { grid-template-columns: 1fr; }
+  aside.gloss { position: absolute; inset: auto 0 0 0; max-height: 62%; border-left: 0; border-top: 2px solid var(--rule); }
+  aside.gloss[hidden] { display: none; }
+}
+
+#stage {
+  position: relative;
+  overflow: hidden;
+  cursor: grab;
+  min-height: 0;
+}
+#stage.dragging { cursor: grabbing; }
+#stage:focus-visible { outline: 2px solid var(--link-hue); outline-offset: -2px; }
+
+svg#codex { display: block; width: 100%; height: 100%; touch-action: none; }
+
+/* ── SVG furniture ── */
+
+.year-rule { stroke: var(--rule-faint); stroke-width: 1; }
+.year-rule.decade { stroke: var(--rule); }
+.year-label {
+  font-family: var(--body);
+  font-size: 11px;
+  fill: var(--text-faint);
+  font-variant-numeric: tabular-nums;
+}
+.century-band { fill: var(--text); opacity: .028; }
+.gutter-rule { stroke: var(--rule); stroke-width: 1; }
+
+.rail-title {
+  font-family: var(--display);
+  font-size: 15px;
+  fill: var(--text-faint);
+}
+
+/* lifespan bars */
+.life { stroke: var(--text-soft); stroke-width: 5; stroke-linecap: butt; opacity: .5; }
+.life.is-monarch { stroke: var(--text); opacity: .75; }
+.life.is-magnate { stroke: var(--verdigris); opacity: .8; stroke-width: 6; }
+.reign-bar { stroke: var(--reign); stroke-width: 9; stroke-linecap: butt; }
+.reign-bar.disputed { stroke-dasharray: 5 4; }
+
+.person-hit { fill: transparent; cursor: pointer; }
+
+.pname {
+  font-family: var(--body);
+  font-size: 12px;
+  fill: var(--text-soft);
+  pointer-events: none;
+  paint-order: stroke;
+  stroke: var(--ground);
+  stroke-width: 3px;
+  stroke-linejoin: round;
+}
+.pname.is-monarch { fill: var(--text); font-size: 13px; font-weight: 700; }
+.pname.is-magnate { fill: var(--verdigris); font-style: italic; }
+
+/* genealogy edges */
+.edge {
+  fill: none;
+  stroke: var(--text-faint);
+  stroke-width: 1.1;
+  opacity: .55;
+}
+.edge.spouse { stroke: var(--murex); stroke-dasharray: 4 3; opacity: .7; }
+.edge-hit { fill: none; stroke: transparent; stroke-width: 11; cursor: pointer; }
+
+/* the gold succession thread */
+.succession { fill: none; stroke: var(--reign); stroke-width: 2; opacity: .75; }
+
+/* events */
+.evt-tick { stroke: var(--rule); stroke-width: 1; }
+.evt-dot { cursor: pointer; stroke: var(--ground); stroke-width: 1.5; }
+.evt-label {
+  font-family: var(--body);
+  font-size: 12px;
+  fill: var(--text-soft);
+  cursor: pointer;
+}
+.evt-leader { stroke: var(--rule); stroke-width: .8; fill: none; }
+.evt-year { fill: var(--text-faint); font-size: 11px; font-variant-numeric: tabular-nums; }
+
+/* correlations */
+.corr {
+  fill: none;
+  stroke: var(--link-hue);
+  stroke-width: 1.4;
+  opacity: .5;
+}
+.corr.attributed { stroke-dasharray: 5 3; opacity: .42; }
+.corr-hit { fill: none; stroke: transparent; stroke-width: 12; cursor: pointer; }
+
+/* selection + dimming */
+svg#codex.has-focus .dimmable { opacity: .1; }
+svg#codex.has-focus .lit { opacity: 1; }
+.corr.lit { stroke-width: 2.4; opacity: 1; }
+.life.lit { opacity: 1; stroke: var(--accent); }
+.edge.lit { stroke: var(--accent); stroke-width: 2.2; opacity: 1; }
+.evt-dot.lit { stroke: var(--accent); stroke-width: 2.5; }
+.pname.lit { fill: var(--text); }
+.sel-ring { fill: none; stroke: var(--accent); stroke-width: 2; }
+
+/* ─────────────────────────── gloss (margin) ─────────────────────────── */
+
+aside.gloss {
+  border-left: 1px solid var(--rule);
+  background: linear-gradient(var(--panel), var(--panel-deep));
+  overflow-y: auto;
+  padding: var(--s5) var(--s5) var(--s7);
+  box-shadow: -8px 0 24px -20px var(--shadow);
+  min-height: 0;
+}
+
+.gloss-empty { color: var(--text-faint); }
+.gloss-empty h2 { font-family: var(--display); font-weight: 400; font-size: 1.3rem; color: var(--text-soft); margin: 0 0 var(--s3); }
+.gloss-empty ul { padding-left: 1.1rem; margin: var(--s2) 0 var(--s5); }
+.gloss-empty li { margin-bottom: var(--s2); font-size: .92rem; }
+
+.gloss h2.gl-title {
+  font-family: var(--display);
+  font-weight: 400;
+  font-size: 1.55rem;
+  line-height: 1.15;
+  margin: 0 0 var(--s1);
+  text-wrap: balance;
+}
+.gl-kicker { margin: 0 0 var(--s4); }
+.gl-close { float: right; margin-left: var(--s3); }
+
+/* Historiated initial: the first letter of the summary, in the manuscript
+   manner — blackletter, gold, set into the text block. */
+.gl-body { font-size: .97rem; }
+.gl-body > p:first-of-type::first-letter {
+  font-family: var(--display);
+  font-size: 3.1em;
+  float: left;
+  line-height: .78;
+  padding: .06em .12em 0 0;
+  color: var(--reign);
+  text-shadow: 0 1px 0 var(--shadow);
+}
+
+dl.gl-facts {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: var(--s1) var(--s3);
+  margin: var(--s4) 0;
+  font-size: .89rem;
+  border-top: 1px solid var(--rule-faint);
+  border-bottom: 1px solid var(--rule-faint);
+  padding: var(--s3) 0;
+}
+dl.gl-facts dt { font-variant: small-caps; letter-spacing: .06em; color: var(--text-faint); }
+dl.gl-facts dd { margin: 0; font-variant-numeric: tabular-nums; }
+
+.gl-sect {
+  font-variant: small-caps;
+  letter-spacing: .09em;
+  font-size: .78rem;
+  color: var(--text-faint);
+  margin: var(--s5) 0 var(--s2);
+  border-bottom: 1px solid var(--rule-faint);
+  padding-bottom: 2px;
+}
+
+.rel-list { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 2px; }
+.rel-list button {
+  all: unset;
+  cursor: pointer;
+  font-family: var(--body);
+  font-size: .9rem;
+  padding: .18rem .3rem;
+  border-radius: 2px;
+  color: var(--accent);
+  display: flex;
+  gap: var(--s2);
+  align-items: baseline;
+  width: 100%;
+}
+.rel-list button:hover { background: var(--glow); color: var(--link-hue); }
+.rel-list button:focus-visible { outline: 2px solid var(--link-hue); }
+.rel-list .rel-year { color: var(--text-faint); font-size: .8rem; font-variant-numeric: tabular-nums; margin-left: auto; }
+
+/* citations — the audit trail */
+.cite {
+  border-left: 2px solid var(--reign);
+  padding: var(--s1) 0 var(--s1) var(--s3);
+  margin-bottom: var(--s3);
+  font-size: .84rem;
+}
+.cite blockquote {
+  margin: 0 0 var(--s1);
+  font-style: italic;
+  color: var(--text-soft);
+  quotes: '\201C' '\201D';
+}
+.cite blockquote::before { content: open-quote; }
+.cite blockquote::after { content: close-quote; }
+.cite .cite-src { color: var(--text-faint); font-size: .8rem; }
+.cite .cite-src a { font-style: normal; }
+
+.uncertain {
+  background: var(--glow);
+  border-left: 2px solid var(--murex);
+  padding: var(--s2) var(--s3);
+  font-size: .85rem;
+  margin: var(--s4) 0;
+  color: var(--text-soft);
+}
+.uncertain strong { color: var(--murex); font-variant: small-caps; letter-spacing: .05em; }
+
+.pill {
+  display: inline-block;
+  font-variant: small-caps;
+  letter-spacing: .06em;
+  font-size: .72rem;
+  padding: .05rem .4rem;
+  border: 1px solid currentColor;
+  border-radius: 2px;
+  vertical-align: .1em;
+}
+.pill.explicit { color: var(--verdigris); }
+.pill.attributed { color: var(--murex); }
+.pill.editorial { color: var(--text-faint); }
+
+.claim {
+  font-size: 1rem;
+  line-height: 1.45;
+  margin: 0 0 var(--s3);
+  padding-left: var(--s3);
+  border-left: 2px solid var(--link-hue);
+}
+
+/* legend */
+.legend { display: flex; gap: var(--s4); flex-wrap: wrap; font-size: .76rem; color: var(--text-faint); padding: var(--s2) var(--s5); border-top: 1px solid var(--rule-faint); background: var(--panel); }
+.legend span { display: inline-flex; align-items: center; gap: .35rem; }
+.legend i { width: 15px; height: 0; border-top-width: 3px; border-top-style: solid; display: inline-block; }
+
+.hint { position: absolute; bottom: var(--s3); left: var(--s4); font-size: .74rem; color: var(--text-faint); pointer-events: none; background: var(--ground); padding: 2px 6px; border-radius: 2px; opacity: .85; }
+
+@media (prefers-reduced-motion: no-preference) {
+  .corr, .life, .edge, .evt-dot, .dimmable { transition: opacity .22s ease, stroke-width .22s ease, stroke .22s ease; }
+  aside.gloss { scroll-behavior: smooth; }
+}
+
+.sr-only {
+  position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0;
+}

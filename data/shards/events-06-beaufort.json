@@ -1,0 +1,100 @@
+[
+  {
+    "id": "evt-1397-beaufort-legitimation",
+    "title": "Legitimation of the Beauforts",
+    "date": "1397-02",
+    "endDate": null,
+    "precision": "month",
+    "category": "dynastic",
+    "actors": [
+      "richard-ii",
+      "john-of-gaunt",
+      "katherine-swynford",
+      "john-beaufort",
+      "henry-beaufort",
+      "thomas-beaufort",
+      "joan-beaufort"
+    ],
+    "place": null,
+    "significance": 3,
+    "summary": "John of Gaunt's four children by Katherine Swynford — the Beauforts — were born before their parents married at Lincoln Cathedral on 13 January 1396, and were legitimated in the wake of that marriage. Pope Boniface IX declared the marriage valid by a bull of 1 September 1396 and legitimised the children born before it. In February 1397 Richard II confirmed the Beauforts' legitimation by decree during a meeting of the English Parliament; the Dictionary of National Biography records that the king's patent of legitimation was confirmed by parliament.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Katherine_Swynford",
+        "title": "Katherine Swynford",
+        "publisher": "Wikipedia",
+        "quote": "In February 1397, King Richard II confirmed the Beauforts' legitimation by a decree during a meeting of the English Parliament."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Katherine_Swynford",
+        "title": "Katherine Swynford",
+        "publisher": "Wikipedia",
+        "quote": "On 1 September 1396 Pope Boniface IX declared the marriage of John of Gaunt and Katherine Swynford as valid by a bull. In addition, he legitimized their children born before marriage –the Beauforts."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Katherine_Swynford",
+        "title": "Katherine Swynford",
+        "publisher": "Wikipedia",
+        "quote": "The marriage itself took place at Lincoln Cathedral on 13 January 1396."
+      },
+      {
+        "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Beaufort,_Henry",
+        "title": "Dictionary of National Biography, 1885-1900/Beaufort, Henry",
+        "publisher": "Wikisource",
+        "quote": "His parents having been married in 1396, their children were the next year declared legitimate by Richard II, and the king's patent of legitimation was confirmed by parliament."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1407-beaufort-exclusion",
+    "title": "The Beauforts barred from the succession ('excepta regali dignitate')",
+    "date": "1407-02",
+    "endDate": null,
+    "precision": "month",
+    "category": "dynastic",
+    "actors": [
+      "henry-iv",
+      "john-beaufort",
+      "henry-beaufort",
+      "thomas-beaufort",
+      "joan-beaufort"
+    ],
+    "place": "Westminster",
+    "significance": 4,
+    "summary": "In February 1407 Henry IV confirmed the legitimation of his Beaufort half-siblings that Richard II had granted, but the letters patent carried a clause — 'excepta regali dignitate' — stipulating that they had no right to the English throne. The Dictionary of National Biography records that when the king exemplified and confirmed Richard's patent he inserted words expressly excluding them from the succession. The exception's authority has been contested ever since, because the words do not appear in the document parliament confirmed in the previous reign.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Katherine_Swynford",
+        "title": "Katherine Swynford",
+        "publisher": "Wikipedia",
+        "quote": "On 9 February 1407, the King confirmed the legitimation of his half-sibilings the Beauforts, but specifically stipulated by a clause ('excepta dignitate regali') that they did not have any rights to the English throne."
+      },
+      {
+        "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Beaufort,_Henry",
+        "title": "Dictionary of National Biography, 1885-1900/Beaufort, Henry",
+        "publisher": "Wikisource",
+        "quote": "when in that year the king exemplified and confirmed the patent of their legitimation granted by Richard, he inserted in it words ('excepta regali dignitate') which expressly excluded them from the succession."
+      },
+      {
+        "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Beaufort,_Henry",
+        "title": "Dictionary of National Biography, 1885-1900/Beaufort, Henry",
+        "publisher": "Wikisource",
+        "quote": "As, however, these words do not occur in the document confirmed by parliament in the preceding reign, they have no legal value."
+      },
+      {
+        "url": "https://www.lovebritishhistory.co.uk/2024/12/investigating-beauforts-exclusion-from.html",
+        "title": "Investigating The Beaufort's Exclusion from the Throne in 1407",
+        "publisher": "Love British History",
+        "quote": "The document at the centre of all this was created on 10 February 1407 at Westminster during Henry IV's reign."
+      },
+      {
+        "url": "https://www.lovebritishhistory.co.uk/2024/12/investigating-beauforts-exclusion-from.html",
+        "title": "Investigating The Beaufort's Exclusion from the Throne in 1407",
+        "publisher": "Love British History",
+        "quote": "Pollard, before his transcript of the original document, notes that the words 'excepta dignitate regali' were clearly added in a later hand, bringing into question whether Henry IV issued this command at all."
+      }
+    ],
+    "uncertain": "Both the day and the authority of this act are disputed. On the date, sources disagree within February 1407: Wikipedia's Katherine Swynford gives 9 February, while Love British History gives 10 February at Westminster; the Dictionary of National Biography supplies no day at all, so only the month is asserted here. On the substance, the DNB holds that because the words 'excepta regali dignitate' do not occur in the document parliament confirmed under Richard II, 'they have no legal value'; Pollard, transcribing the original, observed that the words were 'clearly added in a later hand', which puts in question whether Henry IV issued the command at all. The bar is therefore reported rather than settled — a point that matters because the Beaufort line's eligibility became the hinge of the later Tudor claim to the throne."
+  }
+]

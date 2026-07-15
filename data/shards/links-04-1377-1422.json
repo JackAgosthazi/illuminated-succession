@@ -1,0 +1,750 @@
+[
+  {
+    "id": null,
+    "from": { "kind": "edge", "id": "john-of-gaunt~katherine-swynford" },
+    "to": { "kind": "event", "id": "evt-1397-beaufort-legitimation" },
+    "relation": "marriage-enabled",
+    "claim": "It was John of Gaunt's marriage to Katherine Swynford in 1396 that enabled the legitimation of their children the following year, the papal bull declaring the marriage valid and legitimising the children born before it.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Beaufort,_Henry",
+        "title": "Dictionary of National Biography, 1885-1900/Beaufort, Henry",
+        "publisher": "Wikisource",
+        "quote": "His parents having been married in 1396, their children were the next year declared legitimate by Richard II, and the king's patent of legitimation was confirmed by parliament."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Katherine_Swynford",
+        "title": "Katherine Swynford",
+        "publisher": "Wikipedia",
+        "quote": "On 1 September 1396 Pope Boniface IX declared the marriage of John of Gaunt and Katherine Swynford as valid by a bull. In addition, he legitimized their children born before marriage –the Beauforts."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "richard-ii" },
+    "to": { "kind": "event", "id": "evt-1397-beaufort-legitimation" },
+    "relation": "legitimation-granted",
+    "claim": "Richard II confirmed the Beauforts' legitimation by decree during a meeting of the English Parliament in February 1397, his patent of legitimation being confirmed by parliament.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Katherine_Swynford",
+        "title": "Katherine Swynford",
+        "publisher": "Wikipedia",
+        "quote": "In February 1397, King Richard II confirmed the Beauforts' legitimation by a decree during a meeting of the English Parliament."
+      },
+      {
+        "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Beaufort,_Henry",
+        "title": "Dictionary of National Biography, 1885-1900/Beaufort, Henry",
+        "publisher": "Wikisource",
+        "quote": "their children were the next year declared legitimate by Richard II, and the king's patent of legitimation was confirmed by parliament."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "event", "id": "evt-1397-beaufort-legitimation" },
+    "to": { "kind": "event", "id": "evt-1407-beaufort-exclusion" },
+    "relation": "confirmation-restricted",
+    "claim": "The 1407 letters patent were an exemplification and confirmation of Richard II's earlier patent of legitimation, into which words expressly excluding the Beauforts from the succession were inserted.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Beaufort,_Henry",
+        "title": "Dictionary of National Biography, 1885-1900/Beaufort, Henry",
+        "publisher": "Wikisource",
+        "quote": "when in that year the king exemplified and confirmed the patent of their legitimation granted by Richard, he inserted in it words ('excepta regali dignitate') which expressly excluded them from the succession."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "henry-iv" },
+    "to": { "kind": "event", "id": "evt-1407-beaufort-exclusion" },
+    "relation": "exclusion-imposed",
+    "claim": "The Dictionary of National Biography states that Henry IV, exemplifying and confirming Richard II's patent of legitimation, inserted into it the words 'excepta regali dignitate', which expressly excluded the Beauforts from the succession.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Beaufort,_Henry",
+        "title": "Dictionary of National Biography, 1885-1900/Beaufort, Henry",
+        "publisher": "Wikisource",
+        "quote": "when in that year the king exemplified and confirmed the patent of their legitimation granted by Richard, he inserted in it words ('excepta regali dignitate') which expressly excluded them from the succession."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "henry-iv" },
+    "to": { "kind": "event", "id": "evt-1407-beaufort-exclusion" },
+    "relation": "exclusion-validity-contested",
+    "claim": "Whether Henry IV's bar on the Beauforts had any force is contested: the words do not occur in the document parliament confirmed in the previous reign and so are held to have no legal value, and Pollard found them clearly added in a later hand.",
+    "strength": "attributed",
+    "citations": [
+      {
+        "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Beaufort,_Henry",
+        "title": "Dictionary of National Biography, 1885-1900/Beaufort, Henry",
+        "publisher": "Wikisource",
+        "quote": "As, however, these words do not occur in the document confirmed by parliament in the preceding reign, they have no legal value."
+      },
+      {
+        "url": "https://www.lovebritishhistory.co.uk/2024/12/investigating-beauforts-exclusion-from.html",
+        "title": "Investigating The Beaufort's Exclusion from the Throne in 1407",
+        "publisher": "Love British History",
+        "quote": "Pollard, before his transcript of the original document, notes that the words 'excepta dignitate regali' were clearly added in a later hand, bringing into question whether Henry IV issued this command at all."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "john-beaufort" },
+    "to": { "kind": "event", "id": "evt-1407-beaufort-exclusion" },
+    "relation": "succession-barred",
+    "claim": "The 1407 confirmation left the Beauforts legitimate but stipulated by its clause that they had no rights to the English throne.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Katherine_Swynford",
+        "title": "Katherine Swynford",
+        "publisher": "Wikipedia",
+        "quote": "the King confirmed the legitimation of his half-sibilings the Beauforts, but specifically stipulated by a clause ('excepta dignitate regali') that they did not have any rights to the English throne."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "edge", "id": "edward-black-prince--richard-ii" },
+    "to": { "kind": "event", "id": "evt-1377-richard-ii-accession" },
+    "relation": "succession-triggered",
+    "claim": "Because Edward the Black Prince died in 1376, before his father Edward III, the crown passed to the Black Prince's young son Richard rather than to a surviving adult son of Edward III.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_II_of_England",
+        "title": "Richard II of England",
+        "publisher": "Wikipedia",
+        "quote": "The Black Prince died in 1376, leaving Richard as heir apparent to his grandfather, King Edward III."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "john-of-gaunt" },
+    "to": { "kind": "event", "id": "evt-1377-richard-ii-accession" },
+    "relation": "minority-caused",
+    "claim": "John of Gaunt had already been effectively head of the English government before 1377, a position of dominance that carried over into his nephew Richard II's minority.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/John_of_Gaunt",
+        "title": "John of Gaunt",
+        "publisher": "Wikipedia",
+        "quote": "From then until 1377, he was effectively the head of the English government owing to the illness of his father and elder brother."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "john-of-gaunt" },
+    "to": { "kind": "event", "id": "evt-1381-peasants-revolt" },
+    "relation": "grievance-targeted",
+    "claim": "Rebels in the Peasants' Revolt blamed John of Gaunt for the poll tax, named him a traitor to be beheaded, and destroyed his Savoy Palace.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/John_of_Gaunt",
+        "title": "John of Gaunt",
+        "publisher": "Wikipedia",
+        "quote": "During the Peasants' Revolt of 1381, John of Gaunt … was among those named by the rebels as a traitor to be beheaded as soon as he could be found. The Savoy Palace was systematically destroyed by the mob and burned to the ground."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Savoy_Palace",
+        "title": "Savoy Palace",
+        "publisher": "Wikipedia",
+        "quote": "the rioters from the surrounding rural areas, who blamed John of Gaunt for the introduction of the poll tax that had precipitated the revolt, systematically demolished the Savoy and everything in it."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "richard-ii" },
+    "to": { "kind": "event", "id": "evt-1381-peasants-revolt" },
+    "relation": "revolt-quelled",
+    "claim": "After Wat Tyler was killed at Smithfield, the young Richard II personally rode forward and persuaded the rebel crowd to disperse, a decisive act that helped collapse the revolt.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Peasants%27_Revolt",
+        "title": "Peasants' Revolt",
+        "publisher": "Wikipedia",
+        "quote": "Richard rode forward towards the crowd and persuaded them to follow him away from Smithfield, to Clerkenwell Fields, defusing the situation."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "thomas-woodstock" },
+    "to": { "kind": "event", "id": "evt-1388-merciless-parliament" },
+    "relation": "purge-orchestrated",
+    "claim": "Thomas of Woodstock, Duke of Gloucester, led the Lords Appellant in the Merciless Parliament of February 1388, which was packed with his supporters and took revenge on Richard II's allies.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Thomas_of_Woodstock,_Duke_of_Gloucester",
+        "title": "Thomas of Woodstock, Duke of Gloucester",
+        "publisher": "Wikipedia",
+        "quote": "as the leader of the \"Lords Appellant\" in the \"Merciless Parliament,\" which met in February 1388 and was packed with his supporters, he took revenge upon his enemies"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "thomas-woodstock" },
+    "to": { "kind": "event", "id": "evt-1397-revenge-parliament" },
+    "relation": "revenge-enacted",
+    "claim": "Richard II had Thomas of Woodstock arrested in 1397 and murdered at Calais; contemporaries and the Dictionary of National Biography attribute this to the king's long-nursed desire for revenge for his humiliation in 1388.",
+    "strength": "attributed",
+    "citations": [
+      {
+        "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Richard_II",
+        "title": "Dictionary of National Biography, 1885-1900/Richard II",
+        "publisher": "Wikisource",
+        "quote": "Richard was too often reminded that he had injuries unavenged."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Thomas_of_Woodstock,_Duke_of_Gloucester",
+        "title": "Thomas of Woodstock, Duke of Gloucester",
+        "publisher": "Wikipedia",
+        "quote": "On 9 September 1397, he was murdered by being smothered between two feather beds, probably by a group of men led by Thomas de Mowbray, 1st Duke of Norfolk, and the knight Sir Nicholas Colfox, presumably on behalf of Richard II"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "edge", "id": "anne-bohemia~richard-ii" },
+    "to": { "kind": "event", "id": "evt-1397-revenge-parliament" },
+    "relation": "temperament-embittered",
+    "claim": "The Dictionary of National Biography attributes Richard II's deteriorating relations with Arundel, which culminated in the 1397 purge, in part to the shock of his queen Anne of Bohemia's sudden death in 1394.",
+    "strength": "attributed",
+    "citations": [
+      {
+        "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Richard_II",
+        "title": "Dictionary of National Biography, 1885-1900/Richard II",
+        "publisher": "Wikisource",
+        "quote": "The sudden death of the young queen on 7 June proved a doubly unfortunate event, for it not only removed an influence which constantly made for peace, but indirectly aggravated the quarrel with Arundel."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "henry-iv" },
+    "to": { "kind": "event", "id": "evt-1398-bolingbroke-banishment" },
+    "relation": "banishment-imposed",
+    "claim": "Richard II banished Henry Bolingbroke (the future Henry IV) for ten years following his quarrel with Thomas Mowbray, Duke of Norfolk.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Richard_II",
+        "title": "Dictionary of National Biography, 1885-1900/Richard II",
+        "publisher": "Wikisource",
+        "quote": "the king banished Hereford for ten years, and with more equanimity that the unpopular Norfolk was to go into exile for a 'hundred wynter.'"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "edge", "id": "blanche-lancaster~john-of-gaunt" },
+    "to": { "kind": "event", "id": "evt-1399-gaunt-death-inheritance" },
+    "relation": "inheritance-source",
+    "claim": "John of Gaunt's marriage to Blanche of Lancaster was the foundation of the Lancastrian fortune and titles that Richard II confiscated on Gaunt's death in 1399.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Blanche_of_Lancaster",
+        "title": "Blanche of Lancaster",
+        "publisher": "Wikipedia",
+        "quote": "The wealth she brought to the marriage was the foundation of John's fortune."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "john-of-gaunt" },
+    "to": { "kind": "event", "id": "evt-1399-gaunt-death-inheritance" },
+    "relation": "death-precipitated",
+    "claim": "John of Gaunt's death on 3 February 1399 was the immediate trigger for Richard II's seizure of the Lancastrian inheritance from the exiled Bolingbroke.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Richard_II",
+        "title": "Dictionary of National Biography, 1885-1900/Richard II",
+        "publisher": "Wikisource",
+        "quote": "On the death of John of Gaunt (3 Feb. 1399) Richard and the parliamentary committee took the fatal step (18 March) of quashing the letters patent granted to Hereford"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "edge", "id": "john-of-gaunt--henry-iv" },
+    "to": { "kind": "event", "id": "evt-1399-henry-iv-usurpation" },
+    "relation": "usurpation-enabled",
+    "claim": "Richard II's confiscation of Bolingbroke's inheritance as John of Gaunt's son and heir to the Duchy of Lancaster prompted Bolingbroke's return from exile, which culminated in Richard's deposition and Henry's accession as Henry IV.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Richard_II",
+        "title": "Dictionary of National Biography, 1885-1900/Richard II",
+        "publisher": "Wikisource",
+        "quote": "On the death of John of Gaunt (3 Feb. 1399) Richard and the parliamentary committee took the fatal step (18 March) of quashing the letters patent granted to Hereford"
+      },
+      {
+        "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Richard_II",
+        "title": "Dictionary of National Biography, 1885-1900/Richard II",
+        "publisher": "Wikisource",
+        "quote": "Henry then seated himself in the vacant throne."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "lionel-antwerp" },
+    "to": { "kind": "event", "id": "evt-1399-henry-iv-usurpation" },
+    "relation": "claim-asserted-via",
+    "claim": "Because Henry IV's father John of Gaunt was Edward III's third surviving son while the Mortimer earls of March descended from the second surviving son, Lionel of Antwerp, the new Lancastrian king's title was vulnerable to a senior rival claim from the outset.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Edmund_Mortimer,_5th_Earl_of_March",
+        "title": "Edmund Mortimer, 5th Earl of March",
+        "publisher": "Wikipedia",
+        "quote": "Thus, in terms of male primogeniture Edmund was heir-presumptive to the throne over and above the house of Lancaster, the children of Edward III's third son John of Gaunt, Duke of Lancaster."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Edmund_Mortimer,_5th_Earl_of_March",
+        "title": "Edmund Mortimer, 5th Earl of March",
+        "publisher": "Wikipedia",
+        "quote": "a descendant of King Edward III through his paternal grandmother Philippa of Clarence, only child of King Edward III's second surviving son, Lionel of Antwerp, Duke of Clarence."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "edmund-langley" },
+    "to": { "kind": "event", "id": "evt-1399-henry-iv-usurpation" },
+    "relation": "defection-enabled",
+    "claim": "Left in charge of England as Custodian of the Realm while Richard II campaigned in Ireland in 1399, Edmund of Langley raised an army against the returning Henry Bolingbroke but abandoned resistance and joined him instead, easing Bolingbroke's path to the throne.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Edmund_of_Langley,_1st_Duke_of_York",
+        "title": "Edmund of Langley, 1st Duke of York",
+        "publisher": "Wikipedia",
+        "quote": "The duke was left as Custodian of the Realm in the summer of 1399 when Richard II departed for another extended campaign in Ireland."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Edmund_of_Langley,_1st_Duke_of_York",
+        "title": "Edmund of Langley, 1st Duke of York",
+        "publisher": "Wikipedia",
+        "quote": "Edmund raised an army to resist Bolingbroke, then decided instead to join him, for which he was well rewarded."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "richard-ii" },
+    "to": { "kind": "event", "id": "evt-1400-epiphany-rising" },
+    "relation": "restoration-attempted",
+    "claim": "The Epiphany Rising was a plot by former courtiers of the deposed Richard II to seize and kill Henry IV and restore Richard to the throne.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Epiphany_Rising",
+        "title": "Epiphany Rising",
+        "publisher": "Wikipedia",
+        "quote": "The Epiphany Rising was a failed rebellion against King Henry IV of England in early January 1400."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Epiphany_Rising",
+        "title": "Epiphany Rising",
+        "publisher": "Wikipedia",
+        "quote": "hoped to seize the king during a tournament, kill him, and restore Richard II to the throne."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "henry-iv" },
+    "to": { "kind": "event", "id": "evt-1400-richard-ii-death" },
+    "relation": "threat-eliminated",
+    "claim": "The Epiphany Rising, which sought to restore Richard II, is said to have convinced Henry IV that the deposed king was too dangerous to leave alive; Richard died at Pontefract Castle weeks later.",
+    "strength": "attributed",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Epiphany_Rising",
+        "title": "Epiphany Rising",
+        "publisher": "Wikipedia",
+        "quote": "The rebellion also convinced Henry IV that a deposed, imprisoned and alive King Richard was a very dangerous liability for him."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "lionel-antwerp" },
+    "to": { "kind": "event", "id": "evt-1415-southampton-plot" },
+    "relation": "claim-asserted-via",
+    "claim": "The Southampton Plot sought to depose Henry V in favour of Edmund Mortimer, Earl of March, whose claim to the throne, as a descendant of Lionel of Antwerp, Edward III's second surviving son, was considered superior to the Lancastrian kings' claim through the third son, John of Gaunt.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Southampton_Plot",
+        "title": "Southampton Plot",
+        "publisher": "Wikipedia",
+        "quote": "Edmund Mortimer, 5th Earl of March, was the great-grandson of Lionel of Antwerp, Duke of Clarence, second surviving son of King Edward III, and his claim to the throne was thus superior"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "henry-v" },
+    "to": { "kind": "event", "id": "evt-1415-southampton-plot" },
+    "relation": "plot-foiled-before-departure",
+    "claim": "The Southampton Plot to depose Henry V was uncovered just as he was about to sail for France on the Agincourt campaign.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Southampton_Plot",
+        "title": "Southampton Plot",
+        "publisher": "Wikipedia",
+        "quote": "The Southampton Plot was a conspiracy to depose King Henry V of England, revealed in 1415 just as the King was about to sail on campaign to France as part of the Hundred Years' War."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "henry-v" },
+    "to": { "kind": "event", "id": "evt-1420-treaty-troyes" },
+    "relation": "military-success-enabled",
+    "claim": "Under the Treaty of Troyes, Charles VI agreed that the French crown would pass not to his own son the Dauphin but to Henry V, who would marry Charles's daughter Catherine, following Henry's military campaigns in France.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://historyofparliament.com/2016/07/20/treaty-of-troyes/",
+        "title": "European diplomacy: the 'double monarchy' of England and France envisaged in the treaty of Troyes of 1420",
+        "publisher": "The History of Parliament",
+        "quote": "Charles VI of France … agreed that, on his death, the kingdom of France would not be inherited by his son and heir, the Dauphin, Charles … but would pass instead to Henry V, who would take as his wife the Dauphin's sister, Katherine."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "edge", "id": "henry-iv--henry-v" },
+    "to": { "kind": "event", "id": "evt-1413-henry-v-accession" },
+    "relation": "succession-triggered",
+    "claim": "Henry V acceded to the throne immediately upon his father Henry IV's death on 20 March 1413.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Henry_V_of_England",
+        "title": "Henry V of England",
+        "publisher": "Wikipedia",
+        "quote": "Henry acceded to the throne after his father Henry IV's death on 20 March 1413; the new king was twenty-six years old."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "john-lancaster-bedford" },
+    "to": { "kind": "event", "id": "evt-1422-henry-v-death" },
+    "relation": "regency-appointed",
+    "claim": "On Henry V's death, arrangements were made naming John, Duke of Bedford, guardian of the kingdom and, when Burgundy declined the office, regent in France for the infant Henry VI.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/John_of_Lancaster,_Duke_of_Bedford",
+        "title": "John of Lancaster, Duke of Bedford",
+        "publisher": "Wikipedia",
+        "quote": "Henry V's last wish was that Bedford should be guardian of the kingdom and of the young king, and that Philip the Good, Duke of Burgundy, should act as regent in France."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/John_of_Lancaster,_Duke_of_Bedford",
+        "title": "John of Lancaster, Duke of Bedford",
+        "publisher": "Wikipedia",
+        "quote": "the English parliament had decided that Bedford should be Lord Protector of the kingdom, and that in his absence the office should devolve upon his brother Humphrey, Duke of Gloucester."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "humphrey-lancaster-gloucester" },
+    "to": { "kind": "event", "id": "evt-1422-henry-v-death" },
+    "relation": "regency-appointed",
+    "claim": "Following Henry V's death, Parliament arranged that Humphrey, Duke of Gloucester, would act as Lord Protector of the realm in England whenever his brother Bedford was absent, ruling for the infant Henry VI.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/John_of_Lancaster,_Duke_of_Bedford",
+        "title": "John of Lancaster, Duke of Bedford",
+        "publisher": "Wikipedia",
+        "quote": "the English parliament had decided that Bedford should be Lord Protector of the kingdom, and that in his absence the office should devolve upon his brother Humphrey, Duke of Gloucester."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Humphrey,_Duke_of_Gloucester",
+        "title": "Humphrey, Duke of Gloucester",
+        "publisher": "Wikipedia",
+        "quote": "Upon the death of his brother in 1422, Humphrey became Lord Protector to his young nephew Henry VI, then a baby."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "thomas-beaufort" },
+    "to": { "kind": "event", "id": "evt-1422-henry-v-death" },
+    "relation": "executor-appointed",
+    "claim": "Thomas Beaufort, Duke of Exeter, was an executor of Henry V's will and returned to England on the king's death to serve on the governing council of the infant Henry VI.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Thomas_Beaufort,_Duke_of_Exeter",
+        "title": "Thomas Beaufort, Duke of Exeter",
+        "publisher": "Wikipedia",
+        "quote": "Beaufort was one of the executors of Henry V's will, and so returned to England in 1422 after the latter's death. He served on the governing council for the infant King Henry VI."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "edge", "id": "henry-v--henry-vi" },
+    "to": { "kind": "event", "id": "evt-1422-henry-v-death" },
+    "relation": "succession-triggered",
+    "claim": "Henry V's death passed the English crown to his only son, Henry VI, who succeeded at the age of eight months.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Henry_VI_of_England",
+        "title": "Henry VI of England",
+        "publisher": "Wikipedia",
+        "quote": "He succeeded to the throne as King of England at the age of eight months on 1 September 1422, the day after his father's death"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "edge", "id": "catherine-valois~henry-v" },
+    "to": { "kind": "event", "id": "evt-1420-treaty-troyes" },
+    "relation": "marriage-sealed",
+    "claim": "The Treaty of Troyes was sealed by the marriage of Henry V to Charles VI's daughter Catherine of Valois, the settlement by which Henry was made regent of France and acknowledged as successor to the French throne in place of the disinherited Dauphin.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Treaty_of_Troyes",
+        "title": "Treaty of Troyes",
+        "publisher": "Wikipedia",
+        "quote": "The treaty arranged for the marriage of Charles VI's daughter Catherine of Valois to Henry V, who was made regent of France and acknowledged … as successor to the French throne. The Dauphin Charles was disinherited from the succession."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Catherine_of_Valois",
+        "title": "Catherine of Valois",
+        "publisher": "Wikipedia",
+        "quote": "On 21 May 1420, a peace agreement was made between England and France, the Treaty of Troyes, and Charles acknowledged Henry of England as his heir."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "henry-vi" },
+    "to": { "kind": "event", "id": "evt-1420-treaty-troyes" },
+    "relation": "claim-inherited-via",
+    "claim": "It was in accordance with the Treaty of Troyes that Henry VI became titular King of France on his grandfather Charles VI's death, creating the dual monarchy.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Henry_VI_of_England",
+        "title": "Henry VI of England",
+        "publisher": "Wikipedia",
+        "quote": "On 21 October 1422, in accordance with the Treaty of Troyes of 1420, he became titular King of France upon his grandfather Charles VI's death."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "henry-iv" },
+    "to": { "kind": "event", "id": "evt-1406-long-parliament" },
+    "relation": "succession-settled-by-statute",
+    "claim": "Two statutes of June and December 1406 laid down an order of succession including four named lives, the June act settling the crown in the male line on terms at odds with custom and common law.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://www.cambridge.org/core/books/abs/reign-of-henry-iv/henry-iv-the-royal-succession-and-the-crisis-of-1406/1B36E77C192015BCC6571ECCDCC2907C",
+        "title": "Henry IV, the Royal Succession and the Crisis of 1406 (Chapter 1) — The Reign of Henry IV",
+        "publisher": "Cambridge University Press",
+        "quote": "The two statutes of June and December 1406, whose terms were well-publicized, laid down an order of succession including four named lives."
+      },
+      {
+        "url": "https://www.cambridge.org/core/books/abs/reign-of-henry-iv/henry-iv-the-royal-succession-and-the-crisis-of-1406/1B36E77C192015BCC6571ECCDCC2907C",
+        "title": "Henry IV, the Royal Succession and the Crisis of 1406 (Chapter 1) — The Reign of Henry IV",
+        "publisher": "Cambridge University Press",
+        "quote": "in settling the crown in the male line, the act of June 1406 laid down an order of succession at odds with custom and common law."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "richard-conisburgh" },
+    "to": { "kind": "event", "id": "evt-1415-southampton-plot" },
+    "relation": "conspiracy-led",
+    "claim": "Richard of Conisburgh conspired with Lord Scrope and Sir Thomas Grey to depose Henry V and enthrone his late wife's brother Edmund Mortimer, and was beheaded for it on 5 August 1415.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_of_Conisburgh,_3rd_Earl_of_Cambridge",
+        "title": "Richard of Conisburgh, 3rd Earl of Cambridge",
+        "publisher": "Wikipedia",
+        "quote": "Richard conspired with Lord Scrope and Sir Thomas Grey to depose Henry V of England and place his late wife Anne's brother Edmund Mortimer, 5th Earl of March, on the throne."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_of_Conisburgh,_3rd_Earl_of_Cambridge",
+        "title": "Richard of Conisburgh, 3rd Earl of Cambridge",
+        "publisher": "Wikipedia",
+        "quote": "He was beheaded on 5 August 1415 and buried in the chapel of God's House at Southampton."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "edge", "id": "anne-mortimer~richard-conisburgh" },
+    "to": { "kind": "event", "id": "evt-1415-southampton-plot" },
+    "relation": "marriage-linked-claim",
+    "claim": "Richard of Conisburgh's marriage to Anne Mortimer is what tied him to the rival Mortimer claim he conspired to enforce, the plot aiming to enthrone his late wife's brother Edmund Mortimer.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_of_Conisburgh,_3rd_Earl_of_Cambridge",
+        "title": "Richard of Conisburgh, 3rd Earl of Cambridge",
+        "publisher": "Wikipedia",
+        "quote": "Richard conspired with Lord Scrope and Sir Thomas Grey to depose Henry V of England and place his late wife Anne's brother Edmund Mortimer, 5th Earl of March, on the throne."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "edmund-mortimer" },
+    "to": { "kind": "event", "id": "evt-1415-southampton-plot" },
+    "relation": "plot-revealed",
+    "claim": "The Southampton plotters intended to take Edmund Mortimer to Wales and proclaim him king, but on being made privy to the plan he revealed the conspiracy to Henry V and was afterwards pardoned.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Edmund_Mortimer,_5th_Earl_of_March",
+        "title": "Edmund Mortimer, 5th Earl of March",
+        "publisher": "Wikipedia",
+        "quote": "While preparations for the invasion were underway, some discontented nobles launched the Southampton Plot, to take Mortimer to Wales and proclaim him king."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Edmund_Mortimer,_5th_Earl_of_March",
+        "title": "Edmund Mortimer, 5th Earl of March",
+        "publisher": "Wikipedia",
+        "quote": "When Mortimer was made privy to this plan, he revealed the conspiracy to the King at Portchester on 31 July. … On 7 August, the King formally pardoned Mortimer for any nominal involvement in the plot."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "edward-norwich" },
+    "to": { "kind": "event", "id": "evt-1400-epiphany-rising" },
+    "relation": "betrayal-alleged",
+    "claim": "A French chronicler alleged that Edward of Norwich betrayed the Epiphany conspiracy to Henry IV, though contemporary English sources do not mention him and his role is questioned.",
+    "strength": "attributed",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Edward_of_Norwich,_2nd_Duke_of_York",
+        "title": "Edward of Norwich, 2nd Duke of York",
+        "publisher": "Wikipedia",
+        "quote": "Edward is alleged by a French chronicler to have betrayed to the King a conspiracy at the end of 1399"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Edward_of_Norwich,_2nd_Duke_of_York",
+        "title": "Edward of Norwich, 2nd Duke of York",
+        "publisher": "Wikipedia",
+        "quote": "But according to James Tait, contemporary English sources that describe the conspiracy make no mention of Edward, and his role in it is open to question."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "edward-norwich" },
+    "to": { "kind": "event", "id": "evt-1415-agincourt" },
+    "relation": "death-in-battle",
+    "claim": "Edward of Norwich commanded the English right wing at Agincourt and became the highest-ranking English casualty of the battle.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Edward_of_Norwich,_2nd_Duke_of_York",
+        "title": "Edward of Norwich, 2nd Duke of York",
+        "publisher": "Wikipedia",
+        "quote": "He commanded the right wing at the Battle of Agincourt on 25 October 1415, during which he became the highest-ranking English casualty."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "humphrey-lancaster-gloucester" },
+    "to": { "kind": "event", "id": "evt-1415-agincourt" },
+    "relation": "rescued-by-king",
+    "claim": "Humphrey was wounded at Agincourt and, as he fell, his brother Henry V sheltered him and withstood a determined assault from French knights.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Humphrey,_Duke_of_Gloucester",
+        "title": "Humphrey, Duke of Gloucester",
+        "publisher": "Wikipedia",
+        "quote": "During the Battle of Agincourt Humphrey was wounded; as he fell, the king sheltered him and withstood a determined assault from French knights."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "henry-v" },
+    "to": { "kind": "event", "id": "evt-1414-oldcastle-revolt" },
+    "relation": "friendship-betrayed",
+    "claim": "Sir John Oldcastle, a trusted comrade of Henry V from his time as Prince of Wales, escaped the Tower after Henry tried to spare him a heresy sentence, and then led the Lollard uprising against him in January 1414.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/John_Oldcastle",
+        "title": "John Oldcastle",
+        "publisher": "Wikipedia",
+        "quote": "At some point in his military career, Oldcastle became a trusted supporter of Henry, Prince of Wales, later to become King Henry V, who regarded Sir John as 'one of his most trustworthy soldiers'."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/John_Oldcastle",
+        "title": "John Oldcastle",
+        "publisher": "Wikipedia",
+        "quote": "King Henry V was still anxious to find a means of sparing the life of his old comrade, and ordered a reprieve of forty days in the hopes that Oldcastle might repent his views."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "thomas-lancaster-clarence" },
+    "to": { "kind": "event", "id": "evt-1421-bauge" },
+    "relation": "rashness-caused-defeat",
+    "claim": "The English defeat at Baugé is attributed to Thomas, Duke of Clarence's decision to charge the larger Franco-Scottish force immediately, against his lieutenants' advice and without waiting for his archers.",
+    "strength": "attributed",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Baug%C3%A9",
+        "title": "Battle of Baugé",
+        "publisher": "Wikipedia",
+        "quote": "most agree that principal factor in the Franco-Scottish victory was the rashness of the Duke of Clarence."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Baug%C3%A9",
+        "title": "Battle of Baugé",
+        "publisher": "Wikipedia",
+        "quote": "He discounted the advice of his lieutenants, the Earl of Huntingdon and Gilbert Umfraville, to consolidate his own force and position; instead he ordered the Earl of Salisbury to round up all the archers and follow him as soon as possible."
+      }
+    ]
+  }
+]

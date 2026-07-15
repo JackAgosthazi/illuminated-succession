@@ -1,0 +1,789 @@
+[
+  {
+    "id": "evt-1154-henry-ii-coronation",
+    "title": "Coronation of Henry II",
+    "date": "1154-12-19",
+    "endDate": null,
+    "precision": "day",
+    "category": "succession",
+    "actors": [
+      "henry-ii",
+      "eleanor-aquitaine"
+    ],
+    "place": "Westminster Abbey, London",
+    "significance": 4,
+    "summary": "Henry II landed in England on 8 December 1154 and, after receiving oaths of loyalty from barons, was crowned King of England alongside his wife Eleanor of Aquitaine at Westminster Abbey on 19 December 1154. His accession, following the civil war of Stephen's reign, founded Angevin (Plantagenet) rule in England.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Henry_II_of_England",
+        "title": "Henry II of England",
+        "publisher": "Wikipedia",
+        "quote": "On landing in England on 8 December 1154, Henry quickly took oaths of loyalty from some of the barons and was then crowned alongside Eleanor at Westminster Abbey on 19 December."
+      },
+      {
+        "url": "https://www.westminster-abbey.org/abbey-commemorations/royals/henry-ii",
+        "title": "Henry II | Westminster Abbey",
+        "publisher": "Westminster Abbey",
+        "quote": "Henry and his queen Eleanor of Aquitaine were crowned in Westminster Abbey on Sunday 19th December 1154 by Theobald, Archbishop of Canterbury."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1164-constitutions-clarendon",
+    "title": "Constitutions of Clarendon",
+    "date": "1164",
+    "endDate": null,
+    "precision": "year",
+    "category": "church",
+    "actors": [
+      "henry-ii"
+    ],
+    "place": "Clarendon Palace, Wiltshire",
+    "significance": 4,
+    "summary": "In 1164 Henry II issued the Constitutions of Clarendon, a set of articles asserting royal authority over disputes between crown and church, including limits on appeals to Rome and on the trial of clergy accused of crimes. The document, intended to restore royal customs from the reign of Henry I, provoked fierce resistance from Archbishop Thomas Becket and became a central grievance in his conflict with the king.",
+    "citations": [
+      {
+        "url": "https://avalon.law.yale.edu/medieval/constcla.asp",
+        "title": "The Avalon Project : Constitutions of Clarendon. 1164.",
+        "publisher": "Yale Law School Avalon Project",
+        "quote": "In the year 1164 from the Incarnation of our Lord, in the fourth year of the papacy of Alexander, in the tenth year of the most illustrious king of the English, Henry II"
+      },
+      {
+        "url": "https://sourcebooks.web.fordham.edu/source/cclarendon.asp",
+        "title": "Constitutions of Clarendon, 1164",
+        "publisher": "Internet History Sourcebooks Project, Fordham University",
+        "quote": "Representative of the initial stages of the epic battle between Henry II and archbishop Thomas a Becket, the Constitutions were an attempt by Henry II to define the royal prerogatives as they existed before the anarchy of Stephen's reign."
+      }
+    ],
+    "uncertain": "The Avalon Project text dates the Constitutions to Clarendon in 1164 by a liturgical formula ('the fourth day before the Purification of the blessed Mary'), which implies late January, but converting that formula to a modern calendar day is interpretive and the secondary sources consulted (including Wikipedia) give only the year. Year-level precision is therefore used rather than upgrading on a reconstructed date."
+  },
+  {
+    "id": "evt-1166-assize-clarendon",
+    "title": "Assize of Clarendon",
+    "date": "1166",
+    "endDate": null,
+    "precision": "year",
+    "category": "law",
+    "actors": [
+      "henry-ii"
+    ],
+    "place": "Clarendon Palace, Wiltshire",
+    "significance": 4,
+    "summary": "The Assize of Clarendon (1166) was a set of legal reforms issued by Henry II establishing a jury of presentment — twelve men from each hundred sworn to report accusations of serious crimes — and instituting itinerant royal justices to try the accused. It was a foundational step toward the common-law jury system and toward greater royal, rather than baronial or ecclesiastical, control of criminal justice.",
+    "citations": [
+      {
+        "url": "https://avalon.law.yale.edu/medieval/assizecl.asp",
+        "title": "The Avalon Project : Assize of Clarendon, 1166.",
+        "publisher": "Yale Law School Avalon Project",
+        "quote": "In the first place the aforesaid king Henry...has decreed that an inquest shall be made throughout the separate counties...through twelve of the more lawful men of the hundred...upon oath that they will speak the truth"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Assize_of_Clarendon",
+        "title": "Assize of Clarendon",
+        "publisher": "Wikipedia",
+        "quote": "The Assize of Clarendon was an act of Henry II of England in 1166 that began a transformation of English law."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1169-anglo-norman-invasion-ireland",
+    "title": "Anglo-Norman Invasion of Ireland",
+    "date": "1169-05",
+    "endDate": "1171-10-17",
+    "precision": "range",
+    "category": "battle",
+    "actors": [
+      "henry-ii"
+    ],
+    "place": "Ireland (Wexford, Waterford, Dublin)",
+    "significance": 4,
+    "summary": "Beginning in May 1169, Anglo-Norman mercenaries invited by the deposed King of Leinster, Diarmait Mac Murchada, landed in Ireland and rapidly seized Waterford and Dublin under Richard \"Strongbow\" de Clare. Concerned that his vassals might carve out an independent Norman lordship, Henry II landed at Waterford on 17 October 1171 with a large army, becoming the first English king to set foot in Ireland and beginning centuries of English involvement there.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Anglo-Norman_invasion_of_Ireland",
+        "title": "Anglo-Norman invasion of Ireland",
+        "publisher": "Wikipedia",
+        "quote": "In May 1169, Anglo-Norman mercenaries landed in Ireland at the request of Diarmait mac Murchada (Dermot MacMurragh), the deposed King of Leinster."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Diarmait_Mac_Murchada",
+        "title": "Diarmait Mac Murchada",
+        "publisher": "Wikipedia",
+        "quote": "After Strongbow's successful invasion, Henry II mounted a second and larger invasion in 1171 to ensure his control over his subjects, which succeeded."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1170-murder-thomas-becket",
+    "title": "Murder of Thomas Becket",
+    "date": "1170-12-29",
+    "endDate": null,
+    "precision": "day",
+    "category": "church",
+    "actors": [
+      "henry-ii"
+    ],
+    "place": "Canterbury Cathedral",
+    "significance": 5,
+    "summary": "On 29 December 1170, four knights of Henry II's household — Reginald FitzUrse, Hugh de Morville, William de Tracy, and Richard le Breton — confronted and murdered Archbishop Thomas Becket inside Canterbury Cathedral, the culmination of his years-long conflict with the king over the rights of the church. Becket was canonised in 1173, and Henry performed public penance at his tomb in 1174.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Thomas_Becket",
+        "title": "Thomas Becket",
+        "publisher": "Wikipedia",
+        "quote": "The four knights, wielding drawn swords, ran into the room crying, 'Where is Thomas Becket, traitor to the king and country?'"
+      },
+      {
+        "url": "https://www.historic-uk.com/HistoryUK/HistoryofEngland/Thomas-Becket/",
+        "title": "The Death of Thomas Becket in Canterbury Cathedral",
+        "publisher": "Historic UK",
+        "quote": "They reached Canterbury Cathedral on December 29th, where they found Becket before the High Altar, as he had gone there to hear Vespers."
+      }
+    ],
+    "uncertain": "The famous line attributed to Henry II, 'Will no one rid me of this turbulent priest?', is not a verified contemporary quotation. Per Wikipedia's article on Thomas Becket, the exact wording of Henry's outburst is disputed and several versions were reported by contemporaries; the popularly quoted phrasing is a later embellishment first recorded centuries after the murder, so it is not treated as fact here."
+  },
+  {
+    "id": "evt-1173-great-revolt",
+    "title": "Great Revolt of 1173–74",
+    "date": "1173-04",
+    "endDate": "1174-09-30",
+    "precision": "range",
+    "category": "rebellion",
+    "actors": [
+      "henry-ii",
+      "eleanor-aquitaine",
+      "henry-young-king",
+      "richard-i",
+      "geoffrey-brittany"
+    ],
+    "place": "England, Normandy, Anjou, Brittany, Scotland",
+    "significance": 4,
+    "summary": "From April 1173 to September 1174, Henry II's eldest sons — Henry the Young King, Richard, and Geoffrey — rebelled against him with the support of their mother, Eleanor of Aquitaine, and King Louis VII of France, after Henry granted three castles intended for the Young King's inheritance to his youngest son John. Henry II defeated the eighteen-month rebellion, capturing and imprisoning Eleanor and forcing his sons to submit by 30 September 1174.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Revolt_of_1173%E2%80%931174",
+        "title": "Revolt of 1173–1174",
+        "publisher": "Wikipedia",
+        "quote": "Henry the Young King was therefore anxious to take control of some of his ancestral inheritances to rule in his own right."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Revolt_of_1173%E2%80%931174",
+        "title": "Revolt of 1173–1174",
+        "publisher": "Wikipedia",
+        "quote": "King Henry, the king's son, and his brothers, returned to their father and to his service, as their lord."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1189-death-henry-ii",
+    "title": "Death of Henry II",
+    "date": "1189-07-06",
+    "endDate": null,
+    "precision": "day",
+    "category": "succession",
+    "actors": [
+      "henry-ii",
+      "richard-i"
+    ],
+    "place": "Chinon Castle, Anjou",
+    "significance": 4,
+    "summary": "Henry II died at Chinon Castle on 6 July 1189, having been decisively defeated in his final campaign by his son Richard, allied with King Philip II of France. He was buried at Fontevraud Abbey and was succeeded as King of England by Richard I.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Henry_II_of_England",
+        "title": "Henry II of England",
+        "publisher": "Wikipedia",
+        "quote": "decisively defeated by Philip and Richard"
+      },
+      {
+        "url": "https://www.worldhistory.org/Henry_II_of_England/",
+        "title": "Henry II of England",
+        "publisher": "World History Encyclopedia",
+        "quote": "Henry died of natural causes on 6 July 1189 CE at Chinon Castle, Anjou."
+      }
+    ],
+    "uncertain": "A purported deathbed remark ('Shame, shame on a vanquished king') appears in some secondary accounts as legend; it is not treated as a verified quotation here."
+  },
+  {
+    "id": "evt-1189-siege-of-acre",
+    "title": "Siege of Acre",
+    "date": "1189-08-28",
+    "endDate": "1191-07-12",
+    "precision": "day",
+    "category": "crusade",
+    "actors": [
+      "richard-i"
+    ],
+    "place": "Acre, Kingdom of Jerusalem",
+    "significance": 4,
+    "summary": "Crusader forces under Guy of Lusignan besieged the port of Acre from August 1189, with Saladin's relief army encircling the besiegers in turn. Richard I arrived in June 1191 with a large fleet and reinvigorated the siege; the city's garrison surrendered on 12 July 1191. Richard subsequently had roughly 2,700 Muslim prisoners from the garrison executed after ransom negotiations stalled, an act that hardened the conflict with Saladin.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Siege_of_Acre_(1189%E2%80%931191)",
+        "title": "Siege of Acre (1189–1191)",
+        "publisher": "Wikipedia",
+        "quote": "28 August 1189 – 12 July 1191"
+      },
+      {
+        "url": "https://www.worldhistory.org/article/1263/the-siege-of-acre-1189-91-ce/",
+        "title": "The Siege of Acre, 1189-91 CE",
+        "publisher": "World History Encyclopedia",
+        "quote": "The city capitulated on 12 July 1191 CE."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1189-coronation-richard-i",
+    "title": "Coronation of Richard I and the London Massacre of the Jews",
+    "date": "1189-09-03",
+    "endDate": null,
+    "precision": "day",
+    "category": "succession",
+    "actors": [
+      "richard-i"
+    ],
+    "place": "Westminster Abbey, London",
+    "significance": 3,
+    "summary": "Richard I was crowned king of England at Westminster Abbey on 3 September 1189. Jewish leaders who arrived to present gifts were flogged and expelled from the ceremony, and when a false rumour spread that Richard had ordered the killing of all Jews, mobs attacked London's Jewish population, burning homes and killing an estimated 30 people. Richard, keen to secure order before departing on crusade, ordered the execution of some of those responsible and issued a writ for the Jews' protection, but the violence spread to other English towns in the following months.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_I_of_England",
+        "title": "Richard I of England",
+        "publisher": "Wikipedia",
+        "quote": "When a rumour spread that Richard had ordered all Jews to be killed, the people of London attacked the Jewish population."
+      },
+      {
+        "url": "https://www.english-heritage.org.uk/visit/places/cliffords-tower-york/history-and-stories/massacre-of-the-jews/",
+        "title": "The Massacre of the Jews at Clifford's Tower",
+        "publisher": "English Heritage",
+        "quote": "Resentment about the presence of Jews at the coronation was fuelled by anger about taxes to fund the Crusades, leading to riots at the ceremony itself and in Norwich, Stamford, York and Lincoln."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1190-york-massacre",
+    "title": "Massacre of the Jews of York at Clifford's Tower",
+    "date": "1190-03-16",
+    "endDate": null,
+    "precision": "day",
+    "category": "church",
+    "actors": [],
+    "place": "York Castle (Clifford's Tower), York",
+    "significance": 3,
+    "summary": "On 16 March 1190, coinciding with the Jewish Sabbath before Passover, York's Jewish community, besieged in the royal castle by a mob stirred by anti-Jewish feeling and local debtors seeking to escape their debts, chose mass suicide over surrender; those who did not kill themselves were killed when the mob broke in. It was the culmination of anti-Jewish rioting that had spread across England since Richard I's coronation the previous September.",
+    "citations": [
+      {
+        "url": "https://www.english-heritage.org.uk/visit/places/cliffords-tower-york/history-and-stories/massacre-of-the-jews/",
+        "title": "The Massacre of the Jews at Clifford's Tower",
+        "publisher": "English Heritage",
+        "quote": "Friday 16 March coincided with Shabbat Hagadol, the 'Great Sabbath' before the Jewish festival of Pesach or Passover."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_I_of_England",
+        "title": "Richard I of England",
+        "publisher": "Wikipedia",
+        "quote": "Subsequent antisemitic violence occurred the following March, including a massacre at York."
+      }
+    ],
+    "uncertain": "Sources disagree on the number killed: English Heritage notes estimates range from 20-40 families, while a later Hebrew account suggests about 150 people."
+  },
+  {
+    "id": "evt-1192-richard-captivity-ransom",
+    "title": "Capture, imprisonment, and ransom of Richard I",
+    "date": "1192-12",
+    "endDate": "1194-02-04",
+    "precision": "month",
+    "category": "dynastic",
+    "actors": [
+      "richard-i",
+      "eleanor-aquitaine"
+    ],
+    "place": "Vienna and imperial castles, Germany",
+    "significance": 4,
+    "summary": "Returning from the Third Crusade in December 1192, Richard I was seized near Vienna by Duke Leopold of Austria, who resented an earlier slight at Acre, and was handed over to Holy Roman Emperor Henry VI. Henry demanded a ransom of 150,000 marks, an enormous sum that Richard's mother Eleanor of Aquitaine worked to raise through taxation across England. Richard was released on 4 February 1194 once the ransom was paid and he had done homage to the emperor.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_I_of_England",
+        "title": "Richard I of England",
+        "publisher": "Wikipedia",
+        "quote": "150,000 marks (100,000 pounds of silver)"
+      },
+      {
+        "url": "https://www.medievalists.net/2014/08/kidnapped-king-richard-germany-1192-1194/",
+        "title": "The Kidnapped King: Richard I in Germany, 1192-1194",
+        "publisher": "Medievalists.net",
+        "quote": "Not until February 1194, when he did homage to Henry and a king's ransom had been paid, was he released."
+      }
+    ],
+    "uncertain": "The exact date of Richard's capture is not precisely fixed by sources beyond 'shortly before Christmas' / 'December 1192'."
+  },
+  {
+    "id": "evt-1199-death-of-richard-i",
+    "title": "Death of Richard I at Châlus-Chabrol",
+    "date": "1199-04-06",
+    "endDate": null,
+    "precision": "day",
+    "category": "dynastic",
+    "actors": [
+      "richard-i"
+    ],
+    "place": "Châlus-Chabrol, Limousin",
+    "significance": 4,
+    "summary": "While besieging the small castle of Châlus-Chabrol to suppress a revolt in Limousin, Richard I was struck in the shoulder by a crossbow bolt on 26 March 1199. The wound turned gangrenous and Richard died on 6 April 1199, passing the throne to his brother John. Chroniclers give conflicting names for the crossbowman and disagree on his fate and motive.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_I_of_England",
+        "title": "Richard I of England",
+        "publisher": "Wikipedia",
+        "quote": "Richard was hit in the shoulder by a crossbow bolt, and the wound turned gangrenous."
+      },
+      {
+        "url": "https://www.worldhistory.org/Richard_I_of_England/",
+        "title": "Richard I of England",
+        "publisher": "World History Encyclopedia",
+        "quote": "Richard was mortally wounded in Aquitaine during his siege of the castle of Chalus in 1199. The king, hit in the neck by a crossbow bolt, died on 6 April after the wound had become gangrenous."
+      }
+    ],
+    "uncertain": "Sources disagree on where the bolt struck: Wikipedia says the shoulder, World History Encyclopedia says the neck. Chroniclers also disagree on the crossbowman's identity, variously naming him Pierre (or Peter) Basile, John Sabroz, Dudo, and Bertrand de Gourdon, and accounts of his motive and ultimate fate (including a story of vengeance for slain relatives and reports of his being flayed alive by the mercenary Mercadier) are not consistently corroborated."
+  },
+  {
+    "id": "evt-1199-john-accession",
+    "title": "Accession and Coronation of King John",
+    "date": "1199-05-27",
+    "endDate": null,
+    "precision": "day",
+    "category": "succession",
+    "actors": [
+      "john",
+      "richard-i",
+      "eleanor-aquitaine"
+    ],
+    "place": "Westminster Abbey, London",
+    "significance": 3,
+    "summary": "After Richard I died on 6 April 1199 without a legitimate son, the Angevin succession was contested between John, Henry II's surviving son, and his nephew Arthur of Brittany. John secured the throne and was crowned king of England at Westminster Abbey on 27 May 1199, with the backing of his mother, Eleanor of Aquitaine.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/John,_King_of_England",
+        "title": "John, King of England",
+        "publisher": "Wikipedia",
+        "quote": "After Richard's death on 6 April 1199 there were two potential claimants to the Angevin throne: John... and young Arthur I of Brittany"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/John,_King_of_England",
+        "title": "John, King of England",
+        "publisher": "Wikipedia",
+        "quote": "John was crowned at Westminster Abbey, backed by his mother, Eleanor."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1203-arthur-brittany-death",
+    "title": "Disappearance and Death of Arthur of Brittany",
+    "date": "1203-04",
+    "endDate": null,
+    "precision": "month",
+    "category": "dynastic",
+    "actors": [
+      "john",
+      "arthur-brittany"
+    ],
+    "place": "Rouen, Normandy",
+    "significance": 4,
+    "summary": "Arthur of Brittany, John's rival claimant to the Angevin throne, was captured at the Battle of Mirebeau in 1202 and held prisoner, latterly at Rouen. He vanished in April 1203 and was never seen again; contemporary chroniclers offered conflicting accounts of his fate, including one alleging John killed him personally and disposed of the body in the Seine.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Arthur_I,_Duke_of_Brittany",
+        "title": "Arthur I, Duke of Brittany",
+        "publisher": "Wikipedia",
+        "quote": "Arthur vanished in April 1203, in the background of several military victories by Philip II of France against King John."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Arthur_I,_Duke_of_Brittany",
+        "title": "Arthur I, Duke of Brittany",
+        "publisher": "Wikipedia",
+        "quote": "he slew him with his own hand, and tying a heavy stone to the body cast it into the Seine"
+      }
+    ],
+    "uncertain": "John's direct responsibility for Arthur's death is not established by contemporary sources. Chroniclers give conflicting accounts (the Margam Annals allege John personally killed Arthur; other accounts describe a failed order to blind and castrate him, or claims of natural death); Wikipedia's synthesis notes only that it is 'generally believed John killed him,' not that this is settled fact."
+  },
+  {
+    "id": "evt-1204-loss-of-normandy",
+    "title": "Fall of Château Gaillard and Loss of Normandy",
+    "date": "1204-03-06",
+    "endDate": "1204-08",
+    "precision": "range",
+    "category": "battle",
+    "actors": [
+      "john"
+    ],
+    "place": "Château Gaillard, Les Andelys, Normandy",
+    "significance": 5,
+    "summary": "Philip II of France besieged Richard I's fortress of Château Gaillard from August 1203, capturing it on 6 March 1204 after undermining its defenses. Its fall opened the route to Rouen, and by August 1204 Philip had conquered all of Normandy and pushed south into Anjou and Poitou, ending nearly a century of Angevin rule in Normandy.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Siege_of_Ch%C3%A2teau_Gaillard",
+        "title": "Siege of Château Gaillard",
+        "publisher": "Wikipedia",
+        "quote": "August 1203 – 6 March 1204"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Siege_of_Ch%C3%A2teau_Gaillard",
+        "title": "Siege of Château Gaillard",
+        "publisher": "Wikipedia",
+        "quote": "Normandy is formally annexed to the crown lands of France."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/John,_King_of_England",
+        "title": "John, King of England",
+        "publisher": "Wikipedia",
+        "quote": "In March 1204, Gaillard fell... By August, Philip had taken Normandy and advanced south to occupy Anjou and Poitou as well."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1208-interdict-excommunication",
+    "title": "Papal Interdict on England and Excommunication of John",
+    "date": "1208-03-23",
+    "endDate": "1209-11",
+    "precision": "range",
+    "category": "church",
+    "actors": [
+      "john"
+    ],
+    "place": "England",
+    "significance": 3,
+    "summary": "After John refused to accept Pope Innocent III's appointee Stephen Langton as Archbishop of Canterbury, the pope placed England under an interdict on 23 March 1208, closing churches and suspending most sacraments and burials. John was personally excommunicated in November 1209; the dispute was not resolved until 1213, by which time John had profited substantially from seized church revenues.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Papal_Interdict_of_1208",
+        "title": "Papal Interdict of 1208",
+        "publisher": "Wikipedia",
+        "quote": "Pope Innocent III placed the Kingdom of England under an interdict after King John refused to accept the pope's appointee, Stephen Langton, as Archbishop of Canterbury."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Papal_Interdict_of_1208",
+        "title": "Papal Interdict of 1208",
+        "publisher": "Wikipedia",
+        "quote": "generally enforced the closure of the churches, forbade the administration of the Catholic sacraments, and prohibited the use of churchyards for burials"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/John,_King_of_England",
+        "title": "John, King of England",
+        "publisher": "Wikipedia",
+        "quote": "ban church services in England from 1208 until 1214 and excommunicate John from 1209 until 1213."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1214-bouvines",
+    "title": "Battle of Bouvines",
+    "date": "1214-07-27",
+    "endDate": null,
+    "precision": "day",
+    "category": "battle",
+    "actors": [
+      "john"
+    ],
+    "place": "Bouvines, County of Flanders",
+    "significance": 4,
+    "summary": "John organized a coalition with Holy Roman Emperor Otto IV and the counts of Flanders and Boulogne to reclaim his lost French territories, planning a pincer attack on Philip II. After John's own force was checked at La Roche-aux-Moines, Philip won a decisive victory over the coalition at Bouvines on 27 July 1214. The defeat left John financially and politically weakened, emboldening the baronial opposition that produced Magna Carta the following year.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Bouvines",
+        "title": "Battle of Bouvines",
+        "publisher": "Wikipedia",
+        "quote": "27 July 1214 near the town of Bouvines in the County of Flanders"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Bouvines",
+        "title": "Battle of Bouvines",
+        "publisher": "Wikipedia",
+        "quote": "the disaster at Bouvines forever altered the political situation in England, as John was so weakened that his discontented barons forced him to agree to Magna Carta in 1215."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1215-magna-carta",
+    "title": "Sealing of Magna Carta",
+    "date": "1215-06-15",
+    "endDate": null,
+    "precision": "day",
+    "category": "law",
+    "actors": [
+      "john"
+    ],
+    "place": "Runnymede, near Windsor",
+    "significance": 5,
+    "summary": "Facing baronial rebellion after years of military failure and financial exaction, John sealed Magna Carta at Runnymede on 15 June 1215. The charter bound the king to observe the law of the land, guaranteed that free men could not be imprisoned or dispossessed except by lawful judgment, and established a council of twenty-five barons to enforce its terms. Though annulled by the pope within weeks and reissued in modified form by later kings, it became a foundational reference point for constitutional limits on royal power.",
+    "citations": [
+      {
+        "url": "https://avalon.law.yale.edu/medieval/magna.asp",
+        "title": "Magna Carta (1215)",
+        "publisher": "The Avalon Project, Yale Law School",
+        "quote": "John, by the grace of God, king of England, lord of Ireland, duke of Normandy and Aquitaine, and count of Anjou, to the archbishop, bishops, abbots, earls, barons, justiciaries, foresters, sheriffs, stewards, servants… greetings."
+      },
+      {
+        "url": "https://avalon.law.yale.edu/medieval/magna.asp",
+        "title": "Magna Carta (1215)",
+        "publisher": "The Avalon Project, Yale Law School",
+        "quote": "No freemen shall be taken or imprisoned or disseised or exiled or in any way destroyed, nor will we go upon him nor send upon him, except by the lawful judgment of his peers or by the law of the land."
+      },
+      {
+        "url": "https://www.nationalarchives.gov.uk/education/resources/magna-carta/british-library-magna-carta-1215-runnymede/",
+        "title": "Magna Carta, 1215",
+        "publisher": "The National Archives (British Library translation)",
+        "quote": "Given by our hand in the meadow that is called Runnymede, between Windsor and Staines, on the fifteenth day of June in the seventeenth year of our reign (i.e. 1215)."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1216-death-of-john",
+    "title": "Death of King John",
+    "date": "1216-10-19",
+    "endDate": null,
+    "precision": "day",
+    "category": "dynastic",
+    "actors": [
+      "john",
+      "henry-iii"
+    ],
+    "place": "Newark Castle, Nottinghamshire",
+    "significance": 4,
+    "summary": "Amid the civil war with rebel barons and Prince Louis's invading forces, John contracted dysentery during a retreat through eastern England and died at Newark Castle on 19 October 1216. His death, and the accession of his nine-year-old son Henry III, drained support from Louis's cause and turned the tide of the First Barons' War.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/John,_King_of_England",
+        "title": "John, King of England",
+        "publisher": "Wikipedia",
+        "quote": "In October 1216 John contracted dysentery, and he died at Newark Castle, Nottinghamshire."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/First_Barons%27_War",
+        "title": "First Barons' War",
+        "publisher": "Wikipedia",
+        "quote": "In October 1216 John contracted dysentery, and he died at Newark Castle, Nottinghamshire."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1217-battle-of-lincoln",
+    "title": "Battle of Lincoln",
+    "date": "1217-05-20",
+    "endDate": null,
+    "precision": "day",
+    "category": "battle",
+    "actors": [
+      "henry-iii"
+    ],
+    "place": "Lincoln, England",
+    "significance": 3,
+    "summary": "During the First Barons' War, a royalist relief force led by William Marshal, regent for the young Henry III, attacked and routed the army of Prince Louis of France at Lincoln, killing the French commander Thomas, Count of Perche. The victory was the turning point of the war, breaking the baronial rebellion that had invited Louis to claim the English throne, and it was followed by widespread looting of the city known as the 'Lincoln Fair'.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Lincoln_(1217)",
+        "title": "Battle of Lincoln (1217)",
+        "publisher": "Wikipedia",
+        "quote": "was the turning point in the First Barons' War"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Lincoln_(1217)",
+        "title": "Battle of Lincoln (1217)",
+        "publisher": "Wikipedia",
+        "quote": "was pillaged by Marshal's victorious army, on the pretence that it was loyal to Louis, later euphemistically called the 'Lincoln Fair'"
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1258-provisions-of-oxford",
+    "title": "Provisions of Oxford",
+    "date": "1258-06",
+    "endDate": null,
+    "precision": "month",
+    "category": "law",
+    "actors": [
+      "henry-iii"
+    ],
+    "place": "Oxford, England",
+    "significance": 4,
+    "summary": "At a parliament held in Oxford in June 1258, barons led by Simon de Montfort forced Henry III to accept sweeping reforms subordinating royal authority to a Council of Fifteen and requiring parliaments to meet three times a year. The office of justiciar, independent of the king, was revived to oversee the judiciary. Henry repudiated the Provisions in 1261, a reversal that helped trigger the Second Barons' War.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Provisions_of_Oxford",
+        "title": "Provisions of Oxford",
+        "publisher": "Wikipedia",
+        "quote": "there be three parliaments a year ... to treat of the common wants of the kingdom, and of the king"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Provisions_of_Oxford",
+        "title": "Provisions of Oxford",
+        "publisher": "Wikipedia",
+        "quote": "This was a most serious departure from previous practice, for it placed at the head of the judiciary a minister virtually independent of the king"
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1264-battle-of-lewes",
+    "title": "Battle of Lewes",
+    "date": "1264-05-14",
+    "endDate": null,
+    "precision": "day",
+    "category": "battle",
+    "actors": [
+      "henry-iii",
+      "edward-i",
+      "richard-cornwall"
+    ],
+    "place": "Lewes, Sussex",
+    "significance": 4,
+    "summary": "Simon de Montfort's baronial army defeated the royalist forces of Henry III at Lewes, capturing the king, his brother Richard of Cornwall, and Prince Edward. Henry was forced to accept the Mise of Lewes, and de Montfort became the effective ruler of England until Edward's escape and victory at Evesham the following year.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Lewes",
+        "title": "Battle of Lewes",
+        "publisher": "Wikipedia",
+        "quote": "The Earl of Cornwall was captured by the barons when he was unable to reach the safety of the priory"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Lewes",
+        "title": "Battle of Lewes",
+        "publisher": "Wikipedia",
+        "quote": "The King was forced by the barons to sign the so-called Mise of Lewes"
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1265-montfort-parliament",
+    "title": "Simon de Montfort's Parliament",
+    "date": "1265-01-20",
+    "endDate": "1265-03",
+    "precision": "day",
+    "category": "law",
+    "actors": [
+      "henry-iii"
+    ],
+    "place": "Westminster, London",
+    "significance": 4,
+    "summary": "Ruling England after his victory at Lewes, Simon de Montfort summoned a parliament that, for the first time, included not only barons, senior churchmen and two knights from each county but also two burgesses from each of the major towns. Held to broaden support for his regime, it is regarded by many historians as a landmark in the development of representative parliament and of the later House of Commons, though others stress its partisan purpose rather than any democratic intent.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Simon_de_Montfort%27s_Parliament",
+        "title": "Simon de Montfort's Parliament",
+        "publisher": "Wikipedia",
+        "quote": "not only the nobility, senior churchmen and two knights from each county, but also two burgesses from each of the major towns such as York, Lincoln, Sandwich, and the Cinque Ports, the first time this had been done"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Simon_de_Montfort%27s_Parliament",
+        "title": "Simon de Montfort's Parliament",
+        "publisher": "Wikipedia",
+        "quote": "a very partisan assembly, not some sort of proto-democratic representative body"
+      }
+    ],
+    "uncertain": "Historians dispute how far this parliament should be seen as a genuine forerunner of representative government versus a partisan tactic by Montfort to shore up his regime; both readings are noted in the summary."
+  },
+  {
+    "id": "evt-1265-battle-of-evesham",
+    "title": "Battle of Evesham",
+    "date": "1265-08-04",
+    "endDate": null,
+    "precision": "day",
+    "category": "battle",
+    "actors": [
+      "henry-iii",
+      "edward-i"
+    ],
+    "place": "Evesham, Worcestershire",
+    "significance": 4,
+    "summary": "Prince Edward trapped Simon de Montfort's smaller baronial army in a loop of the River Avon at Evesham, deceiving him with captured banners before destroying his force. De Montfort and his son Henry were killed and his body mutilated, ending the Second Barons' War and restoring royal authority to Henry III, who had been held as de Montfort's captive since Lewes.",
+    "citations": [
+      {
+        "url": "https://www.nationalarchives.gov.uk/education/resources/magna-carta/battle-of-evesham/",
+        "title": "Battle of Evesham, 1265",
+        "publisher": "The National Archives",
+        "quote": "Prince Edward and the earl of Gloucester gained the victory, and the earl of Leicester [Simon de Montfort] and his eldest son, Henry, were slain."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Evesham",
+        "title": "Battle of Evesham",
+        "publisher": "Wikipedia",
+        "quote": "His body was mutilated; his head, hands, feet and testicles cut off."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1267-statute-of-marlborough",
+    "title": "Statute of Marlborough",
+    "date": "1267-11",
+    "endDate": null,
+    "precision": "month",
+    "category": "law",
+    "actors": [
+      "henry-iii",
+      "edward-i",
+      "richard-cornwall"
+    ],
+    "place": "Marlborough, England",
+    "significance": 3,
+    "summary": "Issued in the fifty-second year of Henry III's reign, in the presence of the king, Richard of Cornwall (King of the Romans), and Prince Edward, the Statute of Marlborough re-enacted many of the reforming principles of the Provisions of Oxford as royal law, ending the disorder of the Second Barons' War. It restricted lords from taking distresses without recourse to the king's courts and regulated waste by tenants; several of its chapters remain in force in English law, making it the oldest statute still partly in effect.",
+    "citations": [
+      {
+        "url": "https://www.legislation.gov.uk/aep/Hen3cc1415/52/1",
+        "title": "The Statute of Marlborough 1267 [Distress]",
+        "publisher": "legislation.gov.uk",
+        "quote": "all Persons, as well of high as of low Estate, shall receive Justice in the King's Court; and none from henceforth shall take any such Revenge or Distress of his own Authority, without Award of the King's Court"
+      },
+      {
+        "url": "https://www.legislation.gov.uk/aep/Hen3c23/52/23",
+        "title": "Statute of Marlborough 1267 [Waste]",
+        "publisher": "legislation.gov.uk",
+        "quote": "Fermors, during their Terms, shall not make Waste, Sale, nor Exile of House, Woods, Men, nor of any Thing belonging to the Tenements that they have to ferm"
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1272-death-of-henry-iii",
+    "title": "Death of Henry III",
+    "date": "1272-11-16",
+    "endDate": null,
+    "precision": "day",
+    "category": "succession",
+    "actors": [
+      "henry-iii",
+      "edward-i"
+    ],
+    "place": "Westminster, London",
+    "significance": 4,
+    "summary": "Henry III died at Westminster after a reign of 56 years, the longest of any English king to that point, and was buried in the abbey he had rebuilt. His son Edward, then away on crusade, succeeded him as Edward I without contest, the first time in over a century the English crown passed peacefully to an adult, undisputed heir.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Henry_III_of_England",
+        "title": "Henry III of England",
+        "publisher": "Wikipedia",
+        "quote": "His body was buried in Westminster Abbey, which he had rebuilt in the second half of his reign, and was moved to his current tomb in 1290."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Henry_III_of_England",
+        "title": "Henry III of England",
+        "publisher": "Wikipedia",
+        "quote": "He died in 1272, leaving Edward as his successor."
+      }
+    ],
+    "uncertain": null
+  }
+]

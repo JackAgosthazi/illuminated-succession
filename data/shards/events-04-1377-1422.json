@@ -1,0 +1,859 @@
+[
+  {
+    "id": "evt-1377-richard-ii-accession",
+    "title": "Richard II's accession",
+    "date": "1377-06-21",
+    "endDate": null,
+    "precision": "day",
+    "category": "succession",
+    "actors": [
+      "richard-ii",
+      "john-of-gaunt"
+    ],
+    "place": "England",
+    "significance": 4,
+    "summary": "On 21 June 1377 the ten-year-old Richard II succeeded his grandfather Edward III as King of England, his father Edward the Black Prince having predeceased Edward III in 1376. Because of his minority, government was carried on through a series of 'continual councils' rather than a single regent, a structure from which his powerful uncle John of Gaunt was pointedly excluded.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_II_of_England",
+        "title": "Richard II of England - Wikipedia",
+        "publisher": "Wikipedia",
+        "quote": "On 21 June 1377, King Edward III, who was for some years frail and decrepit, died after a 50-year reign. This resulted in the 10-year-old Richard succeeding to the throne."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_II_of_England",
+        "title": "Richard II of England - Wikipedia",
+        "publisher": "Wikipedia",
+        "quote": "Instead, the King was nominally to exercise kingship with the help of a series of 'continual councils', from which Gaunt was excluded."
+      },
+      {
+        "url": "https://www.royal.uk/richard-ii",
+        "title": "Richard II (r. 1377-1399) | The Royal Family",
+        "publisher": "The Royal Household",
+        "quote": "The king's grandson, Richard II, succeeded to the throne aged 10, on his grandfather's death in 1377."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1382-wycliffe-condemnation",
+    "title": "Blackfriars Council condemns Wycliffe's teachings",
+    "date": "1382-05-21",
+    "endDate": null,
+    "precision": "day",
+    "category": "church",
+    "actors": [],
+    "place": "Blackfriars, London",
+    "significance": 4,
+    "summary": "On 21 May 1382 Archbishop of Canterbury William Courtenay convened a council at the Blackfriars in London to examine the teachings of John Wycliffe. The synod condemned twenty-four of Wycliffe's theses, ten as heretical and the remainder as erroneous, several of which had already been condemned at a synod at St Paul's in February 1377, formalising a campaign against his followers that would become known as Lollardy. The session became known as the 'Earthquake Synod' after a strong earthquake was felt in London during its sitting, which both sides interpreted as a sign of divine judgment on the other.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Earthquake_Synod",
+        "title": "Earthquake Synod - Wikipedia",
+        "publisher": "Wikipedia",
+        "quote": "The Earthquake Synod was an English synod that took place on 21 May 1382 in the Blackfriars area of London, England... the synod condemned John Wycliffe's twenty-four theses"
+      },
+      {
+        "url": "https://christianhistoryinstitute.org/magazine/article/john-wycliffe-and-the-dawn-of-the-reformation",
+        "title": "John Wycliffe and the Dawn of the Reformation",
+        "publisher": "Christian History Institute",
+        "quote": "Courtenay asked for the judgment of the Blackfriars Synod on twenty-four of Wycliffe's conclusions. Ten of them were condemned as heretical, four of these relating to the Mass; and the rest were condemned as erroneous."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1381-peasants-revolt",
+    "title": "Peasants' Revolt",
+    "date": "1381-05",
+    "endDate": "1381-06",
+    "precision": "range",
+    "category": "rebellion",
+    "actors": [
+      "richard-ii"
+    ],
+    "place": "Essex, Kent, and London, England",
+    "significance": 5,
+    "summary": "In May and June 1381 a mass uprising swept south-east England, triggered by a third poll tax since 1377 imposed on all peasants irrespective of wealth. Rebel bands from Kent and Essex, led by Wat Tyler among others, marched on London, and the 14-year-old Richard II met them first at Mile End and then at Smithfield. At Smithfield, after Tyler behaved disrespectfully toward the king, the Mayor of London, William Walworth, struck him down; Richard then rode forward to calm the rebels and lead them away, and, their leader dead, the revolt collapsed. Richard's promises of pardon and reform were revoked once order was restored.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Peasants'_Revolt",
+        "title": "Peasants' Revolt - Wikipedia",
+        "publisher": "Wikipedia",
+        "quote": "Richard rode forward towards the crowd and persuaded them to follow him away from Smithfield, to Clerkenwell Fields, defusing the situation... Tyler's head was cut off and displayed on a pole and... the rebel movement began to collapse."
+      },
+      {
+        "url": "https://www.worldhistory.org/Peasants'_Revolt/",
+        "title": "Peasants' Revolt - World History Encyclopedia",
+        "publisher": "World History Encyclopedia",
+        "quote": "a new poll tax imposed on all peasants irrespective of wealth (the third such tax since 1377)."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1388-merciless-parliament",
+    "title": "The Merciless Parliament",
+    "date": "1388-02-03",
+    "endDate": "1388-06-04",
+    "precision": "range",
+    "category": "law",
+    "actors": [
+      "richard-ii",
+      "henry-iv"
+    ],
+    "place": "Westminster, London",
+    "significance": 4,
+    "summary": "Between 3 February and 4 June 1388 the 'Merciless Parliament' sat in judgment on the associates of Richard II, following the Lords Appellant's seizure of power the previous winter. Five lords — Gloucester, Arundel, Warwick, Nottingham, and Henry Bolingbroke, Earl of Derby — had appealed several of the king's favourites of treason; the parliament convicted and executed figures including Chief Justice Robert Tresilian and the former mayor Nicholas Brembre, while others such as Alexander Neville were exiled, in a purge contemporaries judged to have shown little mercy to Richard's circle.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Merciless_Parliament",
+        "title": "Merciless Parliament - Wikipedia",
+        "publisher": "Wikipedia",
+        "quote": "The Merciless Parliament was an English parliamentary session lasting from 3 February to 4 June 1388, at which many members of King Richard II's court were convicted of treason."
+      },
+      {
+        "url": "https://historyofparliament.com/2023/02/16/the-capture-and-execution-of-sir-robert-tresilian-chief-justice-of-kings-bench-and-the-merciless-parliament-of-1388/",
+        "title": "The capture and execution of Sir Robert Tresilian, chief justice of King's bench, and the 'Merciless Parliament' of 1388",
+        "publisher": "The History of Parliament",
+        "quote": "The appropriately and contemporaneously named 'Merciless' Parliament of 1388 was among the most dramatic of medieval Parliaments"
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1389-richard-ii-majority",
+    "title": "Richard II asserts his majority",
+    "date": "1389-05-03",
+    "endDate": null,
+    "precision": "day",
+    "category": "dynastic",
+    "actors": [
+      "richard-ii",
+      "john-of-gaunt"
+    ],
+    "place": "England",
+    "significance": 3,
+    "summary": "On 3 May 1389 Richard II, now twenty-two, announced to his council that he was assuming full personal control of government, declaring that the troubles of the preceding years had stemmed from bad councillors rather than any fault of his own. The reconciliation that year of his uncle John of Gaunt, who returned to England and settled his differences with the king, helped stabilise Richard's renewed authority after the upheavals of the Lords Appellant and the Merciless Parliament.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_II_of_England",
+        "title": "Richard II of England - Wikipedia",
+        "publisher": "Wikipedia",
+        "quote": "Richard assumed full control of the government on 3 May 1389, claiming that the difficulties of the past years had been due solely to bad councillors."
+      },
+      {
+        "url": "https://www.historic-uk.com/HistoryUK/HistoryofEngland/King-Richard-II/",
+        "title": "King Richard II",
+        "publisher": "Historic UK",
+        "quote": "By 1389, Richard had come of age and blamed past mistakes on his councillors."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1393-statute-praemunire",
+    "title": "Statute of Praemunire",
+    "date": "1393",
+    "endDate": null,
+    "precision": "year",
+    "category": "law",
+    "actors": [
+      "richard-ii"
+    ],
+    "place": "England",
+    "significance": 3,
+    "summary": "In 1393 Richard II's parliament passed the Statute of Praemunire, the most sweeping of a series of fourteenth-century statutes restricting papal authority in England. It made it illegal to appeal an English court case to the pope if the king objected, or otherwise to act in a way that recognised papal authority over the king's own, reinforcing the principle that presentments to churches and benefices belonged to the king's court rather than Rome.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Statute_of_Praemunire",
+        "title": "Statute of Praemunire - Wikipedia",
+        "publisher": "Wikipedia",
+        "quote": "Its intention was to limit the powers of the papacy in England, by making it illegal to appeal an English court case to the pope if the king objected"
+      },
+      {
+        "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Praemunire",
+        "title": "1911 Encyclopædia Britannica/Praemunire",
+        "publisher": "Wikisource",
+        "quote": "that the right of recovering the presentments to churches, prebends, and other benefices . . . belongeth only to the king's court"
+      }
+    ],
+    "uncertain": "Sources differ on whether to date the statute 1392 or 1393: it fell within the 16th regnal year of Richard II (22 June 1392 - 21 June 1393); the Statutes Project catalogues it as 1392, while it is more commonly called the 'Statute of Praemunire, 1393' in secondary accounts."
+  },
+  {
+    "id": "evt-1397-revenge-parliament",
+    "title": "The 'Revenge Parliament' and Richard II's purge of the Lords Appellant",
+    "date": "1397-09",
+    "endDate": "1398-01",
+    "precision": "range",
+    "category": "law",
+    "actors": [
+      "richard-ii"
+    ],
+    "place": "Westminster and Shrewsbury, England",
+    "significance": 4,
+    "summary": "In July 1397 Richard II had the three senior Lords Appellant of 1388 arrested. Arundel was tried and executed at the parliament held at Westminster in September 1397; Gloucester, held prisoner at Calais awaiting trial, was killed on the king's orders to avoid the disgrace of publicly executing a prince of the blood; and Warwick's death sentence was commuted to life imprisonment. The adjourned session at Shrewsbury in January 1398, remembered as the 'Revenge Parliament,' annulled the acts of the 1388 Merciless Parliament and declared that no legal restraint could be placed on the king.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_II_of_England",
+        "title": "Richard II of England - Wikipedia",
+        "publisher": "Wikipedia",
+        "quote": "Arundel was the first of the three to be brought to trial, at the parliament of September 1397. After a heated quarrel with the King, he was condemned and executed."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_II_of_England",
+        "title": "Richard II of England - Wikipedia",
+        "publisher": "Wikipedia",
+        "quote": "The 1398 Parliament of Shrewsbury, styled the \"Revenge Parliament,\" declared all the acts of the Merciless Parliament to be null and void, and announced that no restraint could legally be put on the King."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1398-bolingbroke-banishment",
+    "title": "Banishment of Henry Bolingbroke and Thomas Mowbray",
+    "date": "1398-09-16",
+    "endDate": null,
+    "precision": "day",
+    "category": "dynastic",
+    "actors": [
+      "richard-ii",
+      "henry-iv"
+    ],
+    "place": "Gosford Green, Coventry",
+    "significance": 3,
+    "summary": "At Coventry on 16 September 1398, Richard II halted a scheduled trial by combat between Henry Bolingbroke, Duke of Hereford, and Thomas Mowbray, Duke of Norfolk, arising from Bolingbroke's accusation that Mowbray had spoken treasonously. Instead of letting the duel proceed, Richard banished both men: Mowbray for life, and Bolingbroke for ten years, later reduced to six out of stated sympathy for Bolingbroke's aging father, John of Gaunt.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Thomas_de_Mowbray,_1st_Duke_of_Norfolk",
+        "title": "Thomas de Mowbray, 1st Duke of Norfolk - Wikipedia",
+        "publisher": "Wikipedia",
+        "quote": "Instead of fighting, the two men were exiled: Mowbray for life, Bolingbroke for 10 years."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Henry_IV_of_England",
+        "title": "Henry IV of England - Wikipedia",
+        "publisher": "Wikipedia",
+        "quote": "Richard decided to banish Henry from the kingdom (with the approval of Henry's father, John of Gaunt), although it is unknown where he spent his exile, to avoid further bloodshed."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1399-gaunt-death-inheritance",
+    "title": "Death of John of Gaunt and seizure of the Lancastrian inheritance",
+    "date": "1399-02-03",
+    "endDate": null,
+    "precision": "day",
+    "category": "dynastic",
+    "actors": [
+      "john-of-gaunt",
+      "richard-ii",
+      "henry-iv"
+    ],
+    "place": "Leicester Castle",
+    "significance": 4,
+    "summary": "John of Gaunt, Duke of Lancaster, died of natural causes at Leicester Castle on 3 February 1399. Rather than allowing the exiled Henry Bolingbroke to inherit his father's vast Lancastrian estates and titles, Richard II declared them forfeit to the Crown and extended Bolingbroke's exile to life, a confiscation that stripped Bolingbroke of his inheritance and alienated many of the Lancastrian affinity.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/John_of_Gaunt",
+        "title": "John of Gaunt - Wikipedia",
+        "publisher": "Wikipedia",
+        "quote": "John of Gaunt died of natural causes on 3 February 1399 at Leicester Castle, with his third wife Katherine by his side."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/John_of_Gaunt",
+        "title": "John of Gaunt - Wikipedia",
+        "publisher": "Wikipedia",
+        "quote": "Following Gaunt's death in 1399, the Lancastrian estates and titles were declared forfeit to the Crown"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_II_of_England",
+        "title": "Richard II of England - Wikipedia",
+        "publisher": "Wikipedia",
+        "quote": "Richard extended the term of his exile to life and expropriated his properties."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1399-henry-iv-usurpation",
+    "title": "Bolingbroke's return, Richard II's deposition, and Henry IV's accession",
+    "date": "1399-06",
+    "endDate": "1399-10-13",
+    "precision": "range",
+    "category": "succession",
+    "actors": [
+      "richard-ii",
+      "henry-iv"
+    ],
+    "place": "Ravenspurn to Westminster, England",
+    "significance": 5,
+    "summary": "While Richard II was on his second expedition to Ireland, the disinherited Henry Bolingbroke landed at Ravenspurn in Yorkshire, insisting his only aim was to recover his own patrimony; he rapidly gathered support from northern magnates and others alienated by Richard's rule. Richard returned too late to save his throne, and on 30 September 1399 he was deposed by an assembly that recorded him as having 'absolved his lieges and made renunciation and cession' of the crown, which Bolingbroke then claimed as his own right; he was crowned Henry IV at Westminster Abbey on 13 October 1399, founding the Lancastrian dynasty.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_II_of_England",
+        "title": "Richard II of England - Wikipedia",
+        "publisher": "Wikipedia",
+        "quote": "Bolingbroke landed at Ravenspurn in Yorkshire towards the end of June 1399... Insisting that his only object was to regain his own patrimony, Bolingbroke received the support of both of the preeminent northern magnates."
+      },
+      {
+        "url": "https://www.medievalists.net/2014/12/usurpation-henry-iv-quest-legitimacy-english-throne/",
+        "title": "The Usurpation of Henry IV: His Quest for Legitimacy on the English Throne",
+        "publisher": "Medievalists.net",
+        "quote": "Richard is said to have read out his own deposition and 'absolved his lieges and made renunciation and cession'... Henry 'seeing the throne to be vacant,' did take upon himself the crown as by his right"
+      }
+    ],
+    "uncertain": "Chroniclers differ on the exact date of Bolingbroke's landing at Ravenspurn: some accounts place it towards the end of June 1399, others give 4 July 1399."
+  },
+  {
+    "id": "evt-1400-epiphany-rising",
+    "title": "The Epiphany Rising",
+    "date": "1400-01-06",
+    "endDate": "1400-01-16",
+    "precision": "range",
+    "category": "rebellion",
+    "actors": [
+      "henry-iv",
+      "richard-ii",
+      "edward-norwich"
+    ],
+    "place": "Windsor and Cirencester, England",
+    "significance": 3,
+    "summary": "A group of earls loyal to the deposed Richard II — including the earls of Salisbury, Kent, and Huntingdon, and Lord Despenser — conspired to seize and kill the newly crowned Henry IV during festivities at Windsor Castle for Epiphany (6 January 1400) and restore Richard to the throne. Forewarned, Henry escaped Windsor and raised forces; the rebels fled westward, where they were captured and summarily beheaded by local crowds and authorities between 7 and 16 January 1400. The rising convinced Henry that Richard, alive, remained a dangerous rallying point for his enemies.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Epiphany_Rising",
+        "title": "Epiphany Rising - Wikipedia",
+        "publisher": "Wikipedia",
+        "quote": "They hoped to seize the king during a tournament, kill him, and restore Richard II to the throne."
+      },
+      {
+        "url": "https://murreyandblue.wordpress.com/2017/01/06/the-epiphany-plot-of-1400/",
+        "title": "The Epiphany Plot of 1400",
+        "publisher": "murreyandblue (WordPress)",
+        "quote": "when the townsfolk of Cirencester grasped the measure of the damage done to their town by the fire, they dragged the two lords out again, and summarily executed them."
+      }
+    ],
+    "uncertain": "Whether Edward of Norwich, Earl of Rutland, actually betrayed the plot to Henry IV in advance is disputed among contemporary chroniclers."
+  },
+  {
+    "id": "evt-1400-richard-ii-death",
+    "title": "Death of Richard II at Pontefract Castle",
+    "date": "1400-02-14",
+    "endDate": null,
+    "precision": "day",
+    "category": "dynastic",
+    "actors": [
+      "richard-ii",
+      "henry-iv"
+    ],
+    "place": "Pontefract Castle, Yorkshire",
+    "significance": 4,
+    "summary": "Richard II, deposed the previous autumn, died in captivity at Pontefract Castle on or around 14 February 1400. The Lancastrian government's account held that he starved himself to death in despair; other chroniclers held he was deliberately starved by his captors, while a French tradition, now discounted, claimed he was violently killed.",
+    "citations": [
+      {
+        "url": "https://www.unofficialroyalty.com/death-of-richard-ii-king-of-england-1400/",
+        "title": "Death of Richard II, King of England (1400)",
+        "publisher": "Unofficial Royalty",
+        "quote": "Richard is thought to have starved to death and died on or around February 14, 1400."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pontefract_Castle",
+        "title": "Pontefract Castle - Wikipedia",
+        "publisher": "Wikipedia",
+        "quote": "Various chroniclers suggest that Richard was starved to death by his captors, and others suggest he starved himself. A contemporary French chronicler suggested that Richard II had been hacked to death, but this is... 'fictitious'."
+      }
+    ],
+    "uncertain": "The manner of Richard II's death is not settled: contemporary and modern sources disagree on whether he starved himself, was deliberately starved by his gaolers, or (per a since-discredited French account) was violently killed. This entry does not adopt one version."
+  },
+  {
+    "id": "evt-1400-glyndwr-rising",
+    "title": "Glyndŵr Rising begins",
+    "date": "1400-09-16",
+    "endDate": "1400-09-18",
+    "precision": "range",
+    "category": "rebellion",
+    "actors": [
+      "henry-iv"
+    ],
+    "place": "Sycharth and Ruthin, Wales",
+    "significance": 4,
+    "summary": "On 16 September 1400 Owain Glyndŵr was proclaimed Prince of Wales by a small band of followers at Sycharth, and two days later his men attacked the town of Ruthin and the castle of his rival Reginald de Grey, opening a rebellion against Henry IV's rule in Wales that would last for over a decade.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Glynd%C5%B5r_rebellion",
+        "title": "Glyndŵr rebellion - Wikipedia",
+        "publisher": "Wikipedia",
+        "quote": "On 16 September 1400, Owain acted, and was proclaimed Prince of Wales by a small band of followers who included his eldest son, his brothers-in-law, and the Dean of St Asaph"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Owain_Glynd%C5%B5r",
+        "title": "Owain Glyndŵr - Wikipedia",
+        "publisher": "Wikipedia",
+        "quote": "Owain was immediately proclaimed Prince of Wales by his followers and subsequently launched an assault on Lord Grey's territories, burning Ruthin."
+      }
+    ],
+    "uncertain": "Glyndŵr's ultimate fate is unknown: per this source he disappears from the historical record around 1412 and was never captured; later Welsh tradition offers competing, unverified accounts of his death."
+  },
+  {
+    "id": "evt-1401-de-heretico-comburendo",
+    "title": "De heretico comburendo",
+    "date": "1401",
+    "endDate": null,
+    "precision": "year",
+    "category": "law",
+    "actors": [
+      "henry-iv"
+    ],
+    "place": "England",
+    "significance": 4,
+    "summary": "In 1401 Henry IV's parliament passed De heretico comburendo, the first English statute explicitly authorising the burning of convicted heretics who refused to recant or relapsed after abjuration, aimed at suppressing the Lollard followers of John Wycliffe. William Sawtrey was burned that March, the first person executed under English statute law for heresy.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/De_heretico_comburendo",
+        "title": "De heretico comburendo - Wikipedia",
+        "publisher": "Wikipedia",
+        "quote": "De heretico comburendo or the Suppression of Heresy Act 1400 (2 Hen. 4. c. 15) was an act of the Parliament of England passed under King Henry IV of England in 1401... for the suppression of the Lollards"
+      },
+      {
+        "url": "https://www.umsl.edu/~gradyf/medieval/dhc.htm",
+        "title": "De Hæretico Comburendo (1401)",
+        "publisher": "University of Missouri-St. Louis",
+        "quote": "them before the people in an high place cause to be burnt, that such punishment may strike fear into the minds of others"
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1402-homildon-hill",
+    "title": "Battle of Homildon Hill",
+    "date": "1402-09-14",
+    "endDate": null,
+    "precision": "day",
+    "category": "battle",
+    "actors": [],
+    "place": "Homildon Hill, Northumberland",
+    "significance": 3,
+    "summary": "On 14 September 1402 an English force under Henry Percy, Earl of Northumberland, and his son Henry 'Hotspur' Percy destroyed a Scottish raiding army under Archibald, Earl of Douglas, at Homildon Hill in Northumberland, inflicting heavy losses and capturing Douglas along with many other Scottish nobles. Henry IV's subsequent demand that the Percies surrender their prisoners and ransoms, rather than profit from them, fed the grievances that drove the family into rebellion the following year.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Homildon_Hill",
+        "title": "Battle of Homildon Hill - Wikipedia",
+        "publisher": "Wikipedia",
+        "quote": "14 September 1402"
+      },
+      {
+        "url": "https://www.britishbattles.com/one-hundred-years-war/battle-of-homildon-hill/",
+        "title": "Battle of Homildon Hill",
+        "publisher": "British Battles",
+        "quote": "A decisive victory for the English... it ended the threat from Scotland to the north of England for a generation."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1403-shrewsbury",
+    "title": "Battle of Shrewsbury",
+    "date": "1403-07-21",
+    "endDate": null,
+    "precision": "day",
+    "category": "battle",
+    "actors": [
+      "henry-iv",
+      "henry-v"
+    ],
+    "place": "Shrewsbury, Shropshire",
+    "significance": 4,
+    "summary": "On 21 July 1403 Henry IV's royal army met a rebel force led by Henry 'Hotspur' Percy at Shrewsbury, in the first battle on English soil where massed longbowmen faced each other. Hotspur was killed by an arrow, apparently after opening his visor, and the rebel line collapsed once news of his death spread. The king's sixteen-year-old son and heir, Prince Henry (later Henry V), fought in the battle and was struck in the face by an arrow that penetrated six inches deep, a wound he survived. The victory ended the Percy challenge to Henry IV's throne.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Shrewsbury",
+        "title": "Battle of Shrewsbury - Wikipedia",
+        "publisher": "Wikipedia",
+        "quote": "At around the same time Hotspur was killed by an arrow. When the news of Hotspurs death spread through the rebel ranks the whole enemy line collapsed"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Shrewsbury",
+        "title": "Battle of Shrewsbury - Wikipedia",
+        "publisher": "Wikipedia",
+        "quote": "the Prince was hit by an arrow in the face, six inches deep"
+      },
+      {
+        "url": "https://www.historic-uk.com/HistoryUK/HistoryofEngland/The-Battle-of-Shrewsbury/",
+        "title": "The Battle of Shrewsbury, 1403",
+        "publisher": "Historic UK",
+        "quote": "Hotspur was killed, apparently shot in the face when he opened his visor."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1405-tripartite-indenture",
+    "title": "Tripartite Indenture",
+    "date": "1405-02",
+    "endDate": null,
+    "precision": "month",
+    "category": "treaty",
+    "actors": [],
+    "place": null,
+    "significance": 3,
+    "summary": "In February 1405 the Welsh rebel leader Owain Glyndŵr, Sir Edmund Mortimer (uncle of the young Edmund Mortimer, 5th Earl of March, and brother-in-law of Henry 'Hotspur' Percy), and Henry Percy, 1st Earl of Northumberland agreed to a threefold partition of England and Wales at Henry IV's expense, Mortimer taking most of the south. The scheme was never realised: Percy was killed at Bramham Moor in 1408, Mortimer died at the siege of Harlech in 1409, and Glyndŵr's revolt was eventually broken.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Tripartite_Indenture",
+        "title": "Tripartite Indenture",
+        "publisher": "Wikipedia",
+        "quote": "The Tripartite Indenture was an agreement made between Owain Glyndŵr, Edmund Mortimer, and Henry Percy, 1st Earl of Northumberland in February 1405"
+      },
+      {
+        "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Glendower,_Owen",
+        "title": "1911 Encyclopædia Britannica/Glendower, Owen",
+        "publisher": "Encyclopædia Britannica (1911), via Wikisource",
+        "quote": "the tripartite alliance of Owen with Percy and Mortimer (transferred by Shakespeare to an earlier occasion)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Edmund_Mortimer_(rebel)",
+        "title": "Edmund Mortimer (rebel)",
+        "publisher": "Wikipedia",
+        "quote": "In February 1405, Glyndŵr, Mortimer, and Northumberland entered into the Tripartite Indenture, which proposed a threefold division of the kingdom. Mortimer was to have most of the south of England."
+      }
+    ],
+    "uncertain": "The sources cited here establish only the month, February 1405; the precise day and the signing location are not established by them. The 'Edmund Mortimer' party to the indenture was Sir Edmund Mortimer, a distinct person from Edmund Mortimer, 5th Earl of March, who carries the edmund-mortimer id elsewhere in this dataset; no person id is asserted as an actor here to avoid conflating the two."
+  },
+  {
+    "id": "evt-1405-scrope-execution",
+    "title": "Execution of Archbishop Richard Scrope",
+    "date": "1405-06-08",
+    "endDate": null,
+    "precision": "day",
+    "category": "rebellion",
+    "actors": [
+      "henry-iv"
+    ],
+    "place": "Clementhorpe, York",
+    "significance": 4,
+    "summary": "Richard Scrope, Archbishop of York, joined the Percy rising against Henry IV in 1405. Deceived into disbanding his force on Shipton Moor, he was arrested and, denied trial by jury, condemned for treason by a special commission after the chief justice refused to take part. He was beheaded alongside Thomas Mowbray, Earl of Norfolk, on 8 June 1405 — the first execution of an English archbishop — and was widely venerated afterward as a martyr.",
+    "citations": [
+      {
+        "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Scrope",
+        "title": "1911 Encyclopædia Britannica/Scrope",
+        "publisher": "Encyclopædia Britannica (1911), via Wikisource",
+        "quote": "Richard Le Scrope (c. 1350–1405), archbishop of York, who took part with the Percies in opposition to Henry IV., and was beheaded for treason in June 1405."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_Scrope_(bishop)",
+        "title": "Richard Scrope (bishop)",
+        "publisher": "Wikipedia",
+        "quote": "The king denied the rebel leaders trial by jury, and a commission headed by the Earl of Arundel and Sir Thomas Beaufort sat in judgment… before a great crowd were beheaded on 8 June 1405."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1406-long-parliament",
+    "title": "The Long Parliament",
+    "date": "1406-03",
+    "endDate": "1406-12",
+    "precision": "month",
+    "category": "law",
+    "actors": [
+      "henry-iv"
+    ],
+    "place": "Westminster",
+    "significance": 3,
+    "summary": "Sitting from March to December 1406 with long recesses, this was the longest English parliament to that date, running about 23 weeks against a typical two or three. The Commons withheld new taxation over the king's finances, his household spending and the failures in Wales, and only granted revenue in exchange for Henry IV's unprecedented agreement to rely more heavily on his council. It is regarded as a step toward constraining royal authority through parliamentary consent.",
+    "citations": [
+      {
+        "url": "https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=muhonors1111087536&disposition=inline",
+        "title": "Dispute between the \"Usurper\" and his Commons: The Long Parliament of 1406",
+        "publisher": "Miami University Honors Thesis (OhioLINK ETD)",
+        "quote": "This parliament lasted from March 22 until December 22… It owed its length to the dispute between members of the Commons and the king over the granting of taxation."
+      },
+      {
+        "url": "https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=muhonors1111087536&disposition=inline",
+        "title": "Dispute between the \"Usurper\" and his Commons: The Long Parliament of 1406",
+        "publisher": "Miami University Honors Thesis (OhioLINK ETD)",
+        "quote": "The session lasted until the Commons granted additional revenue to the king in exchange for his agreement to rely more on his council for advice. The concessions made by the king were unique because they were unprecedented."
+      },
+      {
+        "url": "https://www.worldhistory.org/Henry_IV_of_England/",
+        "title": "Henry IV of England",
+        "publisher": "World History Encyclopedia",
+        "quote": "Parliament insisted that, at the very least, the king must listen to its concerns before endorsing a new round of taxes. Thus, the 'Long Parliament' was another small step on the long road to a constitutional monarchy."
+      }
+    ],
+    "uncertain": "The honors thesis cited here gives the sitting as 22 March to 22 December 1406, but no higher-tier source was reachable to confirm the exact days, so precision is held at month. The Parliament Rolls of Medieval England material on British History Online, which would settle this, is paywalled."
+  },
+  {
+    "id": "evt-1413-henry-v-accession",
+    "title": "Accession of Henry V",
+    "date": "1413-03-20",
+    "endDate": "1413-04-09",
+    "precision": "day",
+    "category": "succession",
+    "actors": [
+      "henry-iv",
+      "henry-v"
+    ],
+    "place": "Westminster",
+    "significance": 4,
+    "summary": "Henry IV died at Westminster on 20 March 1413 and his son acceded as Henry V at the age of twenty-six. Given the still-insecure Lancastrian claim, the coronation was deliberately held soon after, on 9 April 1413 at Westminster Abbey, and is remembered for its violent weather.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Henry_V_of_England",
+        "title": "Henry V of England",
+        "publisher": "Wikipedia",
+        "quote": "Henry acceded to the throne after his father Henry IV's death on 20 March 1413; the new king was twenty-six years old."
+      },
+      {
+        "url": "https://historyofparliament.com/2023/05/09/coronation-of-king-henry-v/",
+        "title": "Beast from the East or Song of Solomon? The Coronation of King Henry V, 9 April 1413",
+        "publisher": "The History of Parliament",
+        "quote": "King Henry IV had died in the third week of March, and in view of the as yet shaky claim of the Lancastrian dynasty, it was decided to hold the coronation sooner, rather than later, on 9 April."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1414-oldcastle-revolt",
+    "title": "Oldcastle's Lollard Revolt",
+    "date": "1414-01-09",
+    "endDate": "1414-01-10",
+    "precision": "day",
+    "category": "rebellion",
+    "actors": [
+      "henry-v"
+    ],
+    "place": "St Giles's Fields, London",
+    "significance": 3,
+    "summary": "Sir John Oldcastle, a Lollard knight and former associate of Henry V, escaped the Tower after conviction for heresy and plotted to seize the king and his brothers during a Twelfth-night entertainment at Eltham. Forewarned, Henry gathered troops and easily dispersed the Lollards who assembled at St Giles's Fields on the night of 9–10 January 1414. Most captured participants were hanged or burned; Oldcastle himself evaded capture until 1417.",
+    "citations": [
+      {
+        "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Oldcastle,_Sir_John",
+        "title": "1911 Encyclopædia Britannica/Oldcastle, Sir John",
+        "publisher": "Encyclopædia Britannica (1911), via Wikisource",
+        "quote": "The design was to seize the king and his brothers during a Twelfth-night mumming at Eltham, and perhaps, as was alleged, to establish some sort of commonwealth… When the Lollards assembled in force in St Giles's Fields on the 10th of January they were easily dispersed."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Oldcastle_Revolt",
+        "title": "Oldcastle Revolt",
+        "publisher": "Wikipedia",
+        "quote": "On the night of 9/10 January 1414, Henry gathered his troops at St. John's Priory, Clerkenwell, while sending patrols that would prevent insurgent reinforcements from reaching their main camp."
+      }
+    ],
+    "uncertain": "Sources differ slightly on the assembly date: Wikipedia gives the night of 9/10 January 1414 while the 1911 Encyclopædia Britannica says the Lollards assembled on 10 January; the span given here covers both."
+  },
+  {
+    "id": "evt-1415-southampton-plot",
+    "title": "The Southampton Plot",
+    "date": "1415-07-31",
+    "endDate": "1415-08-05",
+    "precision": "range",
+    "category": "rebellion",
+    "actors": [
+      "henry-v",
+      "richard-conisburgh",
+      "edmund-mortimer"
+    ],
+    "place": "Southampton",
+    "significance": 3,
+    "summary": "On the eve of Henry V's departure for France, a conspiracy came to light at Southampton in which Richard, Earl of Cambridge, Henry, Lord Scrope of Masham, and Sir Thomas Grey plotted to depose the king and place Edmund Mortimer, Earl of March — whose descent gave him a rival claim to the throne — in his place. Mortimer himself revealed the plot to Henry on 31 July 1415; Grey was beheaded on 2 August and Cambridge and Scrope on 5 August, all before the Bargate at Southampton, clearing the way for the king's invasion fleet to sail.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Southampton_Plot",
+        "title": "Southampton Plot - Wikipedia",
+        "publisher": "Wikipedia",
+        "quote": "The three ringleaders of the plot were Edmund Mortimer's brother-in-law, Richard of Conisburgh, 3rd Earl of Cambridge; Henry Scrope, 3rd Baron Scrope of Masham; and Sir Thomas Grey."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Southampton_Plot",
+        "title": "Southampton Plot - Wikipedia",
+        "publisher": "Wikipedia",
+        "quote": "Grey was beheaded on 2 August and the two peers on 5 August, both in front of the Bargate."
+      }
+    ],
+    "uncertain": "Some historians (e.g. Pugh) argue that the charge the plotters intended to assassinate Henry V and his brothers was fabricated to secure a capital conviction, rather than an accurate account of the conspiracy's aims."
+  },
+  {
+    "id": "evt-1415-harfleur",
+    "title": "Siege of Harfleur",
+    "date": "1415-08-18",
+    "endDate": "1415-09-22",
+    "precision": "range",
+    "category": "battle",
+    "actors": [
+      "henry-v"
+    ],
+    "place": "Harfleur, Normandy",
+    "significance": 4,
+    "summary": "From 18 August to 22 September 1415 Henry V's army besieged the Norman port of Harfleur, using gunpowder artillery in the first English siege of a large fortified town to rely significantly on it. The town yielded to the English on 22 September after a costly siege that reduced Henry's army through casualties and dysentery, but secured a base for the campaign that ended at Agincourt the following month.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Siege_of_Harfleur",
+        "title": "Siege of Harfleur - Wikipedia",
+        "publisher": "Wikipedia",
+        "quote": "18 August – 22 September 1415... Harfleur yielded to the invaders on 22 September."
+      },
+      {
+        "url": "https://www.britishbattles.com/one-hundred-years-war/siege-of-harfleur/",
+        "title": "Siege of Harfleur",
+        "publisher": "British Battles",
+        "quote": "The French garrison of Harfleur surrendered to the besieging English army."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1415-agincourt",
+    "title": "Battle of Agincourt",
+    "date": "1415-10-25",
+    "endDate": null,
+    "precision": "day",
+    "category": "battle",
+    "actors": [
+      "henry-v",
+      "edward-norwich",
+      "humphrey-lancaster-gloucester"
+    ],
+    "place": "Azincourt, Picardy, France",
+    "significance": 5,
+    "summary": "On 25 October 1415, Saint Crispin's Day, Henry V's army, marching for Calais after the siege of Harfleur, destroyed a much larger French force near the village of Azincourt in Picardy. Densely packed French men-at-arms were cut down by English and Welsh longbowmen and dismounted knights; Edward, Duke of York, commanding the English right wing, became the highest-ranking English casualty, while the king's youngest brother, Humphrey, Duke of Gloucester, was wounded and sheltered by Henry himself in the fighting. The victory became the defining triumph of Henry's reign and of English arms in the Hundred Years' War.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Agincourt",
+        "title": "Battle of Agincourt - Wikipedia",
+        "publisher": "Wikipedia",
+        "quote": "It took place on 25 October 1415 (Saint Crispin's Day) near Azincourt, in northern France."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Agincourt",
+        "title": "Battle of Agincourt - Wikipedia",
+        "publisher": "Wikipedia",
+        "quote": "record evidence identifies at least 112 Englishmen killed in the fighting... around 6,000 of their fighting men were killed"
+      },
+      {
+        "url": "https://www.britishbattles.com/one-hundred-years-war/battle-of-agincourt/",
+        "title": "Battle of Agincourt",
+        "publisher": "British Battles",
+        "quote": "Estimates of the size of the French army vary widely, from 30,000 to as high as 100,000."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Edward,_2nd_Duke_of_York",
+        "title": "Edward, 2nd Duke of York - Wikipedia",
+        "publisher": "Wikipedia",
+        "quote": "He commanded the right wing at the Battle of Agincourt on 25 October 1415, during which he became the highest-ranking English casualty."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Humphrey_of_Gloucester",
+        "title": "Humphrey, Duke of Gloucester - Wikipedia",
+        "publisher": "Wikipedia",
+        "quote": "During the Battle of Agincourt Humphrey was wounded; as he fell, the king sheltered him and withstood a determined assault from French knights."
+      }
+    ],
+    "uncertain": "Army sizes and casualties at Agincourt are heavily disputed across sources: French troop estimates range from roughly 12,000 in the most conservative modern analyses up to 30,000-100,000 in other accounts, and English estimates range from about 6,000 to 9,000; French dead are variously put between about 6,000 and 8,000-plus, English dead between just over 100 and several hundred. This entry does not adopt a single figure."
+  },
+  {
+    "id": "evt-1420-treaty-troyes",
+    "title": "Treaty of Troyes",
+    "date": "1420-05-21",
+    "endDate": null,
+    "precision": "day",
+    "category": "treaty",
+    "actors": [
+      "henry-v",
+      "catherine-valois"
+    ],
+    "place": "Troyes, France",
+    "significance": 5,
+    "summary": "Signed at Troyes on 21 May 1420, the treaty between Henry V and the incapacitated Charles VI of France recognised Henry as regent of France during Charles's lifetime and vested the French crown permanently in Henry and his heirs upon Charles's death, bypassing the Dauphin Charles, whom the treaty's parties agreed never to treat with over his role in the murder of John the Fearless, Duke of Burgundy. The settlement was sealed by Henry's marriage to Charles's daughter, Catherine of Valois.",
+    "citations": [
+      {
+        "url": "https://sourcebooks.web.fordham.edu/source/1420troyes.asp",
+        "title": "Treaty of Troyes, 1420 and Conditions in France in 1422",
+        "publisher": "Fordham Internet History Sourcebooks Project",
+        "quote": "the crown and kingdom of France, with all their rights and appurtenances, shall be vested permanently in our son [son-in-law], King Henry [of England], and his heirs."
+      },
+      {
+        "url": "https://sourcebooks.web.fordham.edu/source/1420troyes.asp",
+        "title": "Treaty of Troyes, 1420 and Conditions in France in 1422",
+        "publisher": "Fordham Internet History Sourcebooks Project",
+        "quote": "we, our son Henry, and also our very dear son Philip, duke of Burgundy, will never treat for peace or amity with the said Charles"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Treaty_of_Troyes",
+        "title": "Treaty of Troyes - Wikipedia",
+        "publisher": "Wikipedia",
+        "quote": "The treaty arranged for the marriage of Charles VI's daughter Catherine of Valois to Henry V"
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1421-bauge",
+    "title": "Battle of Baugé",
+    "date": "1421-03-22",
+    "endDate": null,
+    "precision": "day",
+    "category": "battle",
+    "actors": [
+      "thomas-lancaster-clarence"
+    ],
+    "place": "Baugé, Anjou, France",
+    "significance": 3,
+    "summary": "On 22 March 1421, while Henry V was in England, a Franco-Scottish force decisively defeated an English army at Baugé in Anjou. Thomas, Duke of Clarence, the king's brother and heir presumptive, attacked rashly without waiting for his archers and was among the first English casualties, a defeat that briefly emboldened the Dauphin's cause in France.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Baug%C3%A9",
+        "title": "Battle of Baugé - Wikipedia",
+        "publisher": "Wikipedia",
+        "quote": "22 March 1421... Thomas, Duke of Clarence... was killed in the action."
+      },
+      {
+        "url": "https://www.britishbattles.com/one-hundred-years-war/battle-of-bauge/",
+        "title": "Battle of Baugé",
+        "publisher": "British Battles",
+        "quote": "A decisive victory for the Franco-Scottish army of the Earl of Buchan."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1422-henry-v-death",
+    "title": "Death of Henry V",
+    "date": "1422-08-31",
+    "endDate": null,
+    "precision": "day",
+    "category": "dynastic",
+    "actors": [
+      "henry-v",
+      "henry-vi",
+      "john-lancaster-bedford",
+      "humphrey-lancaster-gloucester"
+    ],
+    "place": "Château de Vincennes, France",
+    "significance": 5,
+    "summary": "Henry V died in the early hours of 31 August 1422 at the Château de Vincennes near Paris, aged thirty-five, most probably of dysentery contracted during the siege of Meaux. He was succeeded by his nine-month-old son, Henry VI, who became titular king of both England and France weeks later on the death of Charles VI. Before dying, Henry named his brother John, Duke of Bedford, regent of France and his brother Humphrey, Duke of Gloucester, regent in England during the infant king's minority.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Henry_V_of_England",
+        "title": "Henry V of England - Wikipedia",
+        "publisher": "Wikipedia",
+        "quote": "Henry died in the early hours of 31 August 1422, aged 35; he had reigned for nine and a half years."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Henry_V_of_England",
+        "title": "Henry V of England - Wikipedia",
+        "publisher": "Wikipedia",
+        "quote": "the nine-month-old Henry VI became king of both England and France at least in name"
+      },
+      {
+        "url": "https://plantsandplantagenets.com/2021/09/05/this-week-in-history-the-death-of-henry-v/",
+        "title": "This Week in History: The Death of Henry V",
+        "publisher": "Plants and Plantagenets",
+        "quote": "Suddenly the old king was gone, and the new king of England and heir to France was a tiny boy, barely nine months old."
+      }
+    ],
+    "uncertain": null
+  }
+]

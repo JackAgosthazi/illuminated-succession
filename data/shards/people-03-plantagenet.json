@@ -1,0 +1,2703 @@
+[
+ {
+  "id": "edward-i",
+  "name": "Edward I",
+  "fullName": "Edward Longshanks",
+  "epithet": "Longshanks",
+  "house": "Plantagenet",
+  "monarch": true,
+  "reign": {
+   "start": "1272-11-20",
+   "end": "1307-07-07",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Edward_I_of_England",
+     "title": "Edward I of England",
+     "publisher": "Wikipedia",
+     "quote": "20 November 1272 – 7 July 1307"
+    },
+    {
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Edward_I",
+     "title": "Dictionary of National Biography, 1885-1900/Edward I",
+     "publisher": "Wikisource (Dictionary of National Biography, 1885–1900)",
+     "quote": "on the next day, Sunday, was crowned with Eleanor at Westminster by Archbishop Robert Kilwardby"
+    }
+   ]
+  },
+  "birth": {
+   "date": "1239-06-17/1239-06-18",
+   "place": "Palace of Westminster, London",
+   "precision": "range",
+   "citations": [
+    {
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Edward_I",
+     "title": "Dictionary of National Biography, 1885-1900/Edward I",
+     "publisher": "Wikisource (Dictionary of National Biography, 1885–1900)",
+     "quote": "EDWARD I (1239–1307), king, eldest son of Henry III and Eleanor of Provence, Was born at Westminster, 17-18 June 1239."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Edward_I_of_England",
+     "title": "Edward I of England",
+     "publisher": "Wikipedia",
+     "quote": "Edward I (17/18 June 1239 – 7 July 1307), also known as Edward Longshanks and the Hammer of the Scots"
+    }
+   ]
+  },
+  "death": {
+   "date": "1307-07-07",
+   "place": "Burgh by Sands, Cumberland",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Edward_I_of_England",
+     "title": "Edward I of England",
+     "publisher": "Wikipedia",
+     "quote": "Died: 7 July 1307 (aged 68) [at] Burgh by Sands, Cumberland, England"
+    },
+    {
+     "url": "https://www.historic-uk.com/HistoryUK/HistoryofEngland/Edward-I/",
+     "title": "Edward I",
+     "publisher": "Historic UK",
+     "quote": "Edward I continued to reign until 7th July 1307, when on his way to engage in conflict with Robert the Bruce in Scotland, he died."
+    }
+   ]
+  },
+  "parents": [
+   "henry-iii",
+   "eleanor-provence"
+  ],
+  "spouses": [
+   {
+    "id": "eleanor-castile",
+    "married": "1254-11-01",
+    "ended": "1290-11-28",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Edward_I_of_England",
+      "title": "Edward I of England",
+      "publisher": "Wikipedia",
+      "quote": "They were married on 1 November 1254 in the Abbey of Santa María la Real de Las Huelgas in Castile."
+     },
+     {
+      "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Edward_I",
+      "title": "Dictionary of National Biography, 1885-1900/Edward I",
+      "publisher": "Wikisource (Dictionary of National Biography, 1885–1900)",
+      "quote": "He was married to Eleanor at the end of October in the monastery of Las Huelgas"
+     }
+    ]
+   },
+   {
+    "id": "margaret-france",
+    "married": "1299-09-10",
+    "ended": "1307-07-07",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Margaret_of_France,_Queen_of_England",
+      "title": "Margaret of France, Queen of England",
+      "publisher": "Wikipedia",
+      "quote": "Edward was then 60 years old, at least 40 years older than his bride"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "King of England",
+    "from": "1272",
+    "to": "1307",
+    "citations": [
+     {
+      "url": "https://www.historic-uk.com/HistoryUK/HistoryofEngland/Edward-I/",
+      "title": "Edward I",
+      "publisher": "Historic UK",
+      "quote": "reigned as King of England from 1272 until 1307"
+     }
+    ]
+   }
+  ],
+  "summary": "Edward I, known as Longshanks for his height and as the Hammer of the Scots, was the eldest son of Henry III and Eleanor of Provence, and reigned from 1272 to 1307. He is credited with restoring royal authority after his father's troubled reign and with establishing Parliament as a permanent institution, and was regarded by the Victorian Dictionary of National Biography as a lawgiver by instinct. He died at Burgh by Sands in Cumberland on 7 July 1307 while marching against Robert the Bruce.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Edward_I_of_England",
+    "title": "Edward I of England",
+    "publisher": "Wikipedia",
+    "quote": "Edward is credited with many accomplishments, including restoring royal authority after the reign of Henry III and establishing Parliament as a permanent institution"
+   },
+   {
+    "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Edward_I",
+    "title": "Dictionary of National Biography, 1885-1900/Edward I",
+    "publisher": "Wikisource (Dictionary of National Biography, 1885–1900)",
+    "quote": "He was 'by instinct a lawgiver'"
+   },
+   {
+    "url": "https://www.historic-uk.com/HistoryUK/HistoryofEngland/Edward-I/",
+    "title": "Edward I",
+    "publisher": "Historic UK",
+    "quote": "'Longshanks', meaning 'long legs'"
+   }
+  ],
+  "uncertain": "Sources give his birth as 17/18 June 1239 without resolving the day; the DNB states \"17-18 June 1239\" and Wikipedia \"17/18 June 1239\". His marriage to Eleanor of Castile is dated 1 November 1254 by Wikipedia but placed \"at the end of October\" by the DNB."
+ },
+ {
+  "id": "eleanor-castile",
+  "name": "Eleanor of Castile",
+  "fullName": null,
+  "epithet": null,
+  "house": "Ivrea",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1241",
+   "place": "Burgos, Castile",
+   "precision": "year",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Eleanor_of_Castile",
+     "title": "Eleanor of Castile",
+     "publisher": "Wikipedia",
+     "quote": "Eleanor was born in Burgos to Ferdinand III of Castile and Joan, Countess of Ponthieu."
+    },
+    {
+     "url": "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/eleanor-castile-1241-1290",
+     "title": "Eleanor of Castile (1241–1290)",
+     "publisher": "Encyclopedia.com",
+     "quote": "Born in late 1241 in Castile"
+    }
+   ]
+  },
+  "death": {
+   "date": "1290-11-28",
+   "place": "Harby, Nottinghamshire",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Eleanor_of_Castile",
+     "title": "Eleanor of Castile",
+     "publisher": "Wikipedia",
+     "quote": "Died 28 November 1290 (aged 48–49) Harby, Nottinghamshire, England"
+    },
+    {
+     "url": "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/eleanor-castile-1241-1290",
+     "title": "Eleanor of Castile (1241–1290)",
+     "publisher": "Encyclopedia.com",
+     "quote": "In 1290, Eleanor of Castile died at the age of 49 at Harby in Nottinghamshire, and the king lost his most devoted and trusted partner."
+    }
+   ]
+  },
+  "parents": [],
+  "spouses": [
+   {
+    "id": "edward-i",
+    "married": "1254-11-01",
+    "ended": "1290-11-28",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Eleanor_of_Castile",
+      "title": "Eleanor of Castile",
+      "publisher": "Wikipedia",
+      "quote": "Eleanor and Edward were married at the monastery of Las Huelgas, Burgos, on 1 November 1254."
+     }
+    ]
+   }
+  ],
+  "titles": [],
+  "summary": "Eleanor of Castile was the daughter of Ferdinand III of Castile and Joan, Countess of Ponthieu, and became the first wife of Edward I of England. Married to Edward at the monastery of Las Huelgas in Burgos in 1254 when both were adolescents, she bore him a large family and accompanied him on crusade. Her death at Harby in Nottinghamshire in 1290 deprived Edward of his closest companion, and he commemorated her with the series of Eleanor crosses.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Eleanor_of_Castile",
+    "title": "Eleanor of Castile",
+    "publisher": "Wikipedia",
+    "quote": "Eleanor was born in Burgos to Ferdinand III of Castile and Joan, Countess of Ponthieu."
+   },
+   {
+    "url": "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/eleanor-castile-1241-1290",
+    "title": "Eleanor of Castile (1241–1290)",
+    "publisher": "Encyclopedia.com",
+    "quote": "In 1290, Eleanor of Castile died at the age of 49 at Harby in Nottinghamshire, and the king lost his most devoted and trusted partner."
+   }
+  ],
+  "uncertain": "Sources disagree on the number of her children: Historic UK gives sixteen while Encyclopedia.com states \"She gave birth to 15 in all\". The wedding is dated 1 November 1254 by Wikipedia but placed at the end of October 1254 by the Dictionary of National Biography."
+ },
+ {
+  "id": "margaret-france",
+  "name": "Margaret of France",
+  "fullName": null,
+  "epithet": null,
+  "house": "Capet",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1279",
+   "place": "Paris",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Margaret_of_France,_Queen_of_England",
+     "title": "Margaret of France, Queen of England",
+     "publisher": "Wikipedia",
+     "quote": "Margaret's year of birth is variously given as 1277, 1279, and 1282"
+    }
+   ]
+  },
+  "death": {
+   "date": "1318-02-14",
+   "place": "Marlborough Castle, Wiltshire",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Margaret_of_France,_Queen_of_England",
+     "title": "Margaret of France, Queen of England",
+     "publisher": "Wikipedia",
+     "quote": "14 February 1318 (aged 38–39)"
+    }
+   ]
+  },
+  "parents": [],
+  "spouses": [
+   {
+    "id": "edward-i",
+    "married": "1299-09-10",
+    "ended": "1307-07-07",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Margaret_of_France,_Queen_of_England",
+      "title": "Margaret of France, Queen of England",
+      "publisher": "Wikipedia",
+      "quote": "Edward was then 60 years old, at least 40 years older than his bride"
+     }
+    ]
+   }
+  ],
+  "titles": [],
+  "summary": "Margaret of France, daughter of Philip III of France and Maria of Brabant, became the second wife of Edward I of England when they married at Canterbury in September 1299. Edward was around sixty and Margaret at least forty years his junior, yet the marriage was reportedly a contented one. She bore Edward two sons who survived to adulthood, Thomas of Brotherton and Edmund of Woodstock, and outlived him by eleven years, dying at Marlborough Castle in 1318.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Margaret_of_France,_Queen_of_England",
+    "title": "Margaret of France, Queen of England",
+    "publisher": "Wikipedia",
+    "quote": "Edward was then 60 years old, at least 40 years older than his bride"
+   }
+  ],
+  "uncertain": "Her birth year is unsettled: Wikipedia notes it \"is variously given as 1277, 1279, and 1282\"."
+ },
+ {
+  "id": "joan-acre",
+  "name": "Joan of Acre",
+  "fullName": null,
+  "epithet": null,
+  "house": "Plantagenet",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1272-04",
+   "place": "Acre",
+   "precision": "month",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Joan_of_Acre",
+     "title": "Joan of Acre",
+     "publisher": "Wikipedia",
+     "quote": "Born April 1272 Acre, Kingdom of Acre"
+    }
+   ]
+  },
+  "death": {
+   "date": "1307-04-23",
+   "place": "Clare Castle, Clare, Suffolk",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Joan_of_Acre",
+     "title": "Joan of Acre",
+     "publisher": "Wikipedia",
+     "quote": "Died 23 April 1307 (aged 35) Clare Castle, Clare, Suffolk, England"
+    }
+   ]
+  },
+  "parents": [
+   "edward-i",
+   "eleanor-castile"
+  ],
+  "spouses": [
+   {
+    "id": "gilbert-clare-gloucester",
+    "married": "1290-04-30",
+    "ended": "1295-12-07",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Joan_of_Acre",
+      "title": "Joan of Acre",
+      "publisher": "Wikipedia",
+      "quote": "The couple were married 30 April 1290 at Westminster Abbey"
+     }
+    ]
+   },
+   {
+    "id": "ralph-monthermer",
+    "married": "1297-01",
+    "ended": "1307-04-23",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Joan_of_Acre",
+      "title": "Joan of Acre",
+      "publisher": "Wikipedia",
+      "quote": "Joan secretly married Ralph in January 1297"
+     }
+    ]
+   }
+  ],
+  "titles": [],
+  "summary": "Joan of Acre was a daughter of Edward I and Eleanor of Castile, born at Acre in the spring of 1272 while her parents were on crusade. She married Gilbert de Clare, 7th Earl of Gloucester, at Westminster Abbey in 1290, becoming Countess of Gloucester and Hertford, and bore him four children. After Gilbert's death she married Ralph de Monthermer in secret in January 1297, a match made without her father's consent that briefly provoked the king's anger.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Joan_of_Acre",
+    "title": "Joan of Acre",
+    "publisher": "Wikipedia",
+    "quote": "Joan (or Joanna, as she is sometimes called) of Acre was born in the spring of 1272"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Joan_of_Acre",
+    "title": "Joan of Acre",
+    "publisher": "Wikipedia",
+    "quote": "a daughter of Edward I of England and Eleanor of Castile"
+   }
+  ],
+  "uncertain": "Her death date is inconsistent across Wikipedia: her own article gives 23 April 1307, while the list of issue on the Eleanor of Castile article gives \"Joan (April 1272 – 7 April 1307)\"."
+ },
+ {
+  "id": "elizabeth-rhuddlan",
+  "name": "Elizabeth of Rhuddlan",
+  "fullName": null,
+  "epithet": null,
+  "house": "Plantagenet",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1282-08-07",
+   "place": "Rhuddlan Castle, Denbighshire",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Elizabeth_of_Rhuddlan",
+     "title": "Elizabeth of Rhuddlan",
+     "publisher": "Wikipedia",
+     "quote": "Born 7 August 1282 Rhuddlan Castle, Denbighshire"
+    }
+   ]
+  },
+  "death": {
+   "date": "1316-05-05",
+   "place": "Quendon, Essex",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Elizabeth_of_Rhuddlan",
+     "title": "Elizabeth of Rhuddlan",
+     "publisher": "Wikipedia",
+     "quote": "Died 5 May 1316 (aged 33) Quendon, Essex"
+    }
+   ]
+  },
+  "parents": [
+   "edward-i",
+   "eleanor-castile"
+  ],
+  "spouses": [
+   {
+    "id": "john-i-holland",
+    "married": "1297-01-08",
+    "ended": "1299",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Elizabeth_of_Rhuddlan",
+      "title": "Elizabeth of Rhuddlan",
+      "publisher": "Wikipedia",
+      "quote": "On 8 January 1297 Elizabeth was married to John at Ipswich."
+     }
+    ]
+   },
+   {
+    "id": "humphrey-bohun-hereford",
+    "married": "1302-11-14",
+    "ended": "1316-05-05",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Elizabeth_of_Rhuddlan",
+      "title": "Elizabeth of Rhuddlan",
+      "publisher": "Wikipedia",
+      "quote": "On 14 November 1302 Elizabeth was married to Humphrey de Bohun, 4th Earl of Hereford"
+     }
+    ]
+   }
+  ],
+  "titles": [],
+  "summary": "Elizabeth of Rhuddlan was the youngest daughter of Edward I and Eleanor of Castile, born at Rhuddlan Castle in North Wales in 1282 during her father's Welsh campaigns. Married first to John I, Count of Holland, in 1297, she was widowed at seventeen and returned to England. Her second marriage, to Humphrey de Bohun, 4th Earl of Hereford, in 1302, produced a large family including two successive Earls of Hereford and William de Bohun, 1st Earl of Northampton. She died in 1316 at Quendon in Essex.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Elizabeth_of_Rhuddlan",
+    "title": "Elizabeth of Rhuddlan",
+    "publisher": "Wikipedia",
+    "quote": "Father Edward I of England"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Elizabeth_of_Rhuddlan",
+    "title": "Elizabeth of Rhuddlan",
+    "publisher": "Wikipedia",
+    "quote": "Mother Eleanor of Castile"
+   }
+  ],
+  "uncertain": null
+ },
+ {
+  "id": "alfonso-chester",
+  "name": "Alphonso, Earl of Chester",
+  "fullName": "Alphonso",
+  "epithet": null,
+  "house": "Plantagenet",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1273-11-24",
+   "place": "Bayonne, Gascony",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Alphonso,_Earl_of_Chester",
+     "title": "Alphonso, Earl of Chester",
+     "publisher": "Wikipedia",
+     "quote": "Born 24 November 1273 Bayonne, Gascony, France"
+    }
+   ]
+  },
+  "death": {
+   "date": "1284-08-19",
+   "place": "Windsor Castle, Berkshire",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Alphonso,_Earl_of_Chester",
+     "title": "Alphonso, Earl of Chester",
+     "publisher": "Wikipedia",
+     "quote": "Died 19 August 1284 (aged 10) Windsor Castle, Berkshire, England"
+    }
+   ]
+  },
+  "parents": [
+   "edward-i",
+   "eleanor-castile"
+  ],
+  "spouses": [],
+  "titles": [
+   {
+    "title": "Earl of Chester",
+    "from": null,
+    "to": null,
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Alphonso,_Earl_of_Chester",
+      "title": "Alphonso, Earl of Chester",
+      "publisher": "Wikipedia",
+      "quote": "Alphonso or Alfonso (24 November 1273 – 19 August 1284), also called Alphonsus and Alphonse and styled Earl of Chester, was an heir apparent to the English throne who never became king."
+     }
+    ]
+   }
+  ],
+  "summary": "Alphonso, Earl of Chester, was the ninth child of Edward I and Eleanor of Castile, born at Bayonne in Gascony in 1273 and named after his godfather, Alfonso X of Castile. He became heir apparent to the English throne on the death of his elder brother Henry in 1274 and held that position for a decade. He died at Windsor Castle in August 1284 aged ten, a few months after the birth of his brother the future Edward II, who supplanted him as heir.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Alphonso,_Earl_of_Chester",
+    "title": "Alphonso, Earl of Chester",
+    "publisher": "Wikipedia",
+    "quote": "the ninth child of King Edward I of England and his Castilian wife Eleanor"
+   }
+  ],
+  "uncertain": "The source gives no dates for his tenure of the earldom of Chester, styling him \"Earl of Chester\" without stating when it was granted, so the title dates are left null. Modern sources spell his name variously: the cited article opens \"Alphonso or Alfonso\" and also records \"Alphonsus\" and \"Alphonse\"; the dataset id retains the \"alfonso\" spelling."
+ },
+ {
+  "id": "thomas-brotherton",
+  "name": "Thomas of Brotherton",
+  "fullName": "Thomas of Brotherton, 1st Earl of Norfolk",
+  "epithet": null,
+  "house": "Plantagenet",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1300-06-01",
+   "place": "Brotherton, Yorkshire",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Thomas_of_Brotherton,_1st_Earl_of_Norfolk",
+     "title": "Thomas of Brotherton, 1st Earl of Norfolk",
+     "publisher": "Wikipedia",
+     "quote": "Born 1 June 1300 at the manor house at Brotherton, Yorkshire"
+    }
+   ]
+  },
+  "death": {
+   "date": "1338-08",
+   "place": "Framlingham Castle, Suffolk",
+   "precision": "month",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Thomas_of_Brotherton,_1st_Earl_of_Norfolk",
+     "title": "Thomas of Brotherton, 1st Earl of Norfolk",
+     "publisher": "Wikipedia",
+     "quote": "Thomas died in August or September 1338"
+    }
+   ]
+  },
+  "parents": [
+   "edward-i",
+   "margaret-france"
+  ],
+  "spouses": [
+   {
+    "id": "alice-hales",
+    "married": "1326-01-08",
+    "ended": "1330-10-12",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Thomas_of_Brotherton,_1st_Earl_of_Norfolk",
+      "title": "Thomas of Brotherton, 1st Earl of Norfolk",
+      "publisher": "Wikipedia",
+      "quote": "Thomas married, firstly, before 8 January 1326, Alice de Hales (d. bef. 12 October 1330)"
+     }
+    ]
+   },
+   {
+    "id": "mary-brewes",
+    "married": "1336-04-04",
+    "ended": "1338-08",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Thomas_of_Brotherton,_1st_Earl_of_Norfolk",
+      "title": "Thomas of Brotherton, 1st Earl of Norfolk",
+      "publisher": "Wikipedia",
+      "quote": "Thomas married, secondly, before 4 April 1336, Mary de Brewes (died 11 June 1362)"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Earl of Norfolk",
+    "from": "1312",
+    "to": "1338",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Thomas_of_Brotherton,_1st_Earl_of_Norfolk",
+      "title": "Thomas of Brotherton, 1st Earl of Norfolk",
+      "publisher": "Wikipedia",
+      "quote": "In 1312, Thomas was created Earl of Norfolk by Edward II"
+     }
+    ]
+   },
+   {
+    "title": "Earl Marshal",
+    "from": "1316-02-10",
+    "to": "1338",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Thomas_of_Brotherton,_1st_Earl_of_Norfolk",
+      "title": "Thomas of Brotherton, 1st Earl of Norfolk",
+      "publisher": "Wikipedia",
+      "quote": "on 10 February 1316, he was appointed Earl Marshal"
+     }
+    ]
+   }
+  ],
+  "summary": "Thomas of Brotherton was the elder son of Edward I by his second wife Margaret of France, born at Brotherton in Yorkshire in 1300 and named for Thomas Becket. Created Earl of Norfolk as a boy and later Earl Marshal of England, he was a half-brother of Edward II and an uncle of Edward III. He sided with Queen Isabella and Roger Mortimer against Edward II in 1326. He died at Framlingham Castle in 1338, leaving his inheritance to pass eventually through his daughter Margaret, Duchess of Norfolk.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Thomas_of_Brotherton,_1st_Earl_of_Norfolk",
+    "title": "Thomas of Brotherton, 1st Earl of Norfolk",
+    "publisher": "Wikipedia",
+    "quote": "son of King Edward I of England and Margaret of France"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Thomas_of_Brotherton,_1st_Earl_of_Norfolk",
+    "title": "Thomas of Brotherton, 1st Earl of Norfolk",
+    "publisher": "Wikipedia",
+    "quote": "In 1312, Thomas was created Earl of Norfolk by Edward II"
+   }
+  ],
+  "uncertain": "The month of his death is not fixed: the cited article states only that \"Thomas died in August or September 1338\". Both marriage dates are upper bounds rather than attested days, the source giving only \"before 8 January 1326\" for Alice de Hales and \"before 4 April 1336\" for Mary de Brewes."
+ },
+ {
+  "id": "edmund-woodstock",
+  "name": "Edmund of Woodstock",
+  "fullName": "Edmund of Woodstock, 1st Earl of Kent",
+  "epithet": null,
+  "house": "Plantagenet",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1301-08-05",
+   "place": "Woodstock Palace, Oxfordshire",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Edmund_of_Woodstock,_1st_Earl_of_Kent",
+     "title": "Edmund of Woodstock, 1st Earl of Kent",
+     "publisher": "Wikipedia",
+     "quote": "Edmund of Woodstock, 1st Earl of Kent (5 August 1301 – 19 March 1330)"
+    }
+   ]
+  },
+  "death": {
+   "date": "1330-03-19",
+   "place": "Winchester Castle",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Edmund_of_Woodstock,_1st_Earl_of_Kent",
+     "title": "Edmund of Woodstock, 1st Earl of Kent",
+     "publisher": "Wikipedia",
+     "quote": "Edmund of Woodstock, 1st Earl of Kent (5 August 1301 – 19 March 1330)"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Edmund_of_Woodstock,_1st_Earl_of_Kent",
+     "title": "Edmund of Woodstock, 1st Earl of Kent",
+     "publisher": "Wikipedia",
+     "quote": "was indicted and condemned to death as a traitor"
+    }
+   ]
+  },
+  "parents": [
+   "edward-i",
+   "margaret-france"
+  ],
+  "spouses": [
+   {
+    "id": "margaret-wake",
+    "married": "1325",
+    "ended": "1330-03-19",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Edmund_of_Woodstock,_1st_Earl_of_Kent",
+      "title": "Edmund of Woodstock, 1st Earl of Kent",
+      "publisher": "Wikipedia",
+      "quote": "In late 1325, Edmund had married Margaret Wake, 3rd Baroness Wake of Liddell"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Earl of Kent",
+    "from": "1321-07-28",
+    "to": "1330-03-19",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Edmund_of_Woodstock,_1st_Earl_of_Kent",
+      "title": "Edmund of Woodstock, 1st Earl of Kent",
+      "publisher": "Wikipedia",
+      "quote": "further grants followed his creation as Earl of Kent on 28 July 1321"
+     }
+    ]
+   }
+  ],
+  "summary": "Edmund of Woodstock was the younger son of Edward I by Margaret of France and was created Earl of Kent in 1321. Half-brother to Edward II, he initially supported the king but joined Queen Isabella and Roger Mortimer in the coup of 1326, before turning against the new regime in the belief that Edward II was still alive. He was condemned as a traitor and beheaded at Winchester in March 1330, after Mortimer and the queen blocked any leniency. His daughter Joan, Countess of Kent, later married Edward the Black Prince.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Edmund_of_Woodstock,_1st_Earl_of_Kent",
+    "title": "Edmund of Woodstock, 1st Earl of Kent",
+    "publisher": "Wikipedia",
+    "quote": "a convicted murderer (who was said to be responsible 'for cleaning the latrines') eventually beheaded Edmund"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Joan_of_Kent",
+    "title": "Joan of Kent",
+    "publisher": "Wikipedia",
+    "quote": "She was the daughter of Edmund of Woodstock, 1st Earl of Kent, by his wife, Margaret Wake, 3rd Baroness Wake of Liddell."
+   }
+  ],
+  "uncertain": null
+ },
+ {
+  "id": "eleanor-england-1269",
+  "name": "Eleanor of England",
+  "fullName": "Eleanor of England, Countess of Bar",
+  "epithet": null,
+  "house": "Plantagenet",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1269-06-18",
+   "place": "Windsor Castle, Berkshire",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Eleanor_of_England,_Countess_of_Bar",
+     "title": "Eleanor of England, Countess of Bar",
+     "publisher": "Wikipedia",
+     "quote": "Eleanor of England (18 June 1269 – 29 August 1298) was the eldest surviving daughter of Edward I of England and his first wife, Eleanor of Castile."
+    },
+    {
+     "url": "https://www.westminster-abbey.org/abbey-commemorations/commemorations/eleanor-countess-of-bar",
+     "title": "Eleanor, Countess of Bar",
+     "publisher": "Westminster Abbey",
+     "quote": "She was born in June 1269"
+    }
+   ]
+  },
+  "death": {
+   "date": "1298-08-29",
+   "place": "Ghent, County of Flanders",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Eleanor_of_England,_Countess_of_Bar",
+     "title": "Eleanor of England, Countess of Bar",
+     "publisher": "Wikipedia",
+     "quote": "29 August 1298 (aged 29) Ghent, County of Flanders"
+    },
+    {
+     "url": "https://www.westminster-abbey.org/abbey-commemorations/commemorations/eleanor-countess-of-bar",
+     "title": "Eleanor, Countess of Bar",
+     "publisher": "Westminster Abbey",
+     "quote": "She died at Ghent in August 1298"
+    }
+   ]
+  },
+  "parents": [
+   "edward-i",
+   "eleanor-castile"
+  ],
+  "spouses": [
+   {
+    "id": "henry-iii-bar",
+    "married": "1293-09-20",
+    "ended": "1298-08-29",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Eleanor_of_England,_Countess_of_Bar",
+      "title": "Eleanor of England, Countess of Bar",
+      "publisher": "Wikipedia",
+      "quote": "Eleanor subsequently married Count Henry III of Bar on 20 September 1293"
+     },
+     {
+      "url": "https://www.westminster-abbey.org/abbey-commemorations/commemorations/eleanor-countess-of-bar",
+      "title": "Eleanor, Countess of Bar",
+      "publisher": "Westminster Abbey",
+      "quote": "in 1293 married in Bristol Henri III, Count of Bar"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Countess of Bar",
+    "from": "1293",
+    "to": "1298",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Eleanor_of_England,_Countess_of_Bar",
+      "title": "Eleanor of England, Countess of Bar",
+      "publisher": "Wikipedia",
+      "quote": "Eleanor subsequently married Count Henry III of Bar on 20 September 1293"
+     }
+    ]
+   }
+  ],
+  "summary": "Eleanor of England was the eldest surviving daughter of Edward I and Eleanor of Castile, born at Windsor Castle in 1269. For many years she was betrothed to Alfonso III of Aragon, but that match never came about and she instead married Henry III, Count of Bar, in 1293. She died at Ghent in 1298 aged twenty-nine and was buried in Westminster Abbey, where the site of her grave is no longer known.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Eleanor_of_England,_Countess_of_Bar",
+    "title": "Eleanor of England, Countess of Bar",
+    "publisher": "Wikipedia",
+    "quote": "For a long period Eleanor was betrothed to King Alfonso III of Aragon."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Eleanor_of_England,_Countess_of_Bar",
+    "title": "Eleanor of England, Countess of Bar",
+    "publisher": "Wikipedia",
+    "quote": "Eleanor was buried in Westminster Abbey, but the location of her grave in the Abbey is unknown."
+   }
+  ],
+  "uncertain": "Sources conflict substantially. Wikipedia and Westminster Abbey give birth 1269 and death 29 August 1298, but Encyclopedia.com states \"Born on June 17, 1264… died on October 12, 1297 (some sources cite 1298), at Ghent\" and treats the Aragon match as a marriage rather than only a betrothal."
+ },
+ {
+  "id": "margaret-brabant",
+  "name": "Margaret of England",
+  "fullName": "Margaret of England, Duchess of Brabant",
+  "epithet": null,
+  "house": "Plantagenet",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1275-03-15",
+   "place": "Windsor Castle, Berkshire",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Margaret_of_England,_Duchess_of_Brabant",
+     "title": "Margaret of England, Duchess of Brabant",
+     "publisher": "Wikipedia",
+     "quote": "Margaret of England (15 March 1275 – after 1333) was the tenth child and seventh daughter of King Edward I of England and his first wife, Eleanor of Castile."
+    }
+   ]
+  },
+  "death": {
+   "date": "1333",
+   "place": null,
+   "precision": "after",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Margaret_of_England,_Duchess_of_Brabant",
+     "title": "Margaret of England, Duchess of Brabant",
+     "publisher": "Wikipedia",
+     "quote": "Died: aft. 1333 (aged c. 58), Belgium"
+    }
+   ]
+  },
+  "parents": [
+   "edward-i",
+   "eleanor-castile"
+  ],
+  "spouses": [
+   {
+    "id": "john-ii-brabant",
+    "married": "1290-07-08",
+    "ended": "1312-10-27",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Margaret_of_England,_Duchess_of_Brabant",
+      "title": "Margaret of England, Duchess of Brabant",
+      "publisher": "Wikipedia",
+      "quote": "On 8 July 1290 Margaret married John II, Duke of Brabant in Westminster Abbey, London, becoming Duchess of Brabant less than four years later on 3 May 1294."
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Duchess consort of Brabant",
+    "from": "1294-05-03",
+    "to": "1312-10-27",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Margaret_of_England,_Duchess_of_Brabant",
+      "title": "Margaret of England, Duchess of Brabant",
+      "publisher": "Wikipedia",
+      "quote": "Duchess consort of Brabant, Lothier and Limburg. Tenure: 3 May 1294 – 27 October 1312"
+     }
+    ]
+   }
+  ],
+  "summary": "Margaret of England was the tenth child and seventh daughter of Edward I and Eleanor of Castile, born at Windsor Castle in 1275. She married John II, Duke of Brabant, at Westminster Abbey in 1290 and became Duchess consort of Brabant in 1294, holding that rank until her husband's death in 1312. Her only child, John III, succeeded his father as Duke of Brabant.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Margaret_of_England,_Duchess_of_Brabant",
+    "title": "Margaret of England, Duchess of Brabant",
+    "publisher": "Wikipedia",
+    "quote": "Their only child was John III, Duke of Brabant, successor to his father."
+   }
+  ],
+  "uncertain": "Her death year is genuinely unfixed. Wikipedia gives only an open lower bound, \"aft. 1333\", while Encyclopedia.com states a firm \"Margaret (1275–1318), duchess of Brabant\". The date recorded here is the lower bound, not an attested date of death."
+ },
+ {
+  "id": "mary-woodstock",
+  "name": "Mary of Woodstock",
+  "fullName": null,
+  "epithet": null,
+  "house": "Plantagenet",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1279-03-11",
+   "place": "Windsor Castle",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Mary_of_Woodstock",
+     "title": "Mary of Woodstock",
+     "publisher": "Wikipedia",
+     "quote": "Mary of Woodstock (11 March 1279 – before 8 July 1332) was the seventh named daughter of Edward I of England and Eleanor of Castile."
+    }
+   ]
+  },
+  "death": {
+   "date": "1332-07-08",
+   "place": "Amesbury Priory",
+   "precision": "before",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Mary_of_Woodstock",
+     "title": "Mary of Woodstock",
+     "publisher": "Wikipedia",
+     "quote": "Mary died before 8 July 1332, and was buried in Amesbury Priory."
+    }
+   ]
+  },
+  "parents": [
+   "edward-i",
+   "eleanor-castile"
+  ],
+  "spouses": [],
+  "titles": [],
+  "summary": "Mary of Woodstock was a daughter of Edward I and Eleanor of Castile, born at Windsor Castle in 1279. She was dedicated to the priory at Amesbury in 1285 at the age of six, alongside thirteen daughters of nobles, and was formally veiled as a nun in December 1291 when she reached twelve. Despite her vows she travelled widely and kept a substantial household at royal expense. She died before 8 July 1332 and was buried at Amesbury.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Mary_of_Woodstock",
+    "title": "Mary of Woodstock",
+    "publisher": "Wikipedia",
+    "quote": "Mary was dedicated at Amesbury in 1285, at the age of six, alongside thirteen daughters of nobles."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Mary_of_Woodstock",
+    "title": "Mary of Woodstock",
+    "publisher": "Wikipedia",
+    "quote": "She was not formally veiled as a nun until December 1291, when she had reached the age of twelve."
+   }
+  ],
+  "uncertain": "Her death date survives only as an upper bound, \"before 8 July 1332\"; the recorded date is that bound, not an attested day. Wikipedia contradicts itself across articles, the Eleanor of Castile issue list giving a precise \"Mary (11 March 1279 – 29 May 1332)\", while Encyclopedia.com gives her birth as 1278."
+ },
+ {
+  "id": "henry-england-1268",
+  "name": "Henry of England",
+  "fullName": null,
+  "epithet": null,
+  "house": "Plantagenet",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1268-05-06",
+   "place": "Windsor Castle, Berkshire",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Henry_(son_of_Edward_I)",
+     "title": "Henry (son of Edward I)",
+     "publisher": "Wikipedia",
+     "quote": "Henry of England (6 May 1268 – 16 October 1274) was the fourth child and second son of Edward I of England by his first wife, Eleanor of Castile."
+    }
+   ]
+  },
+  "death": {
+   "date": "1274-10-16",
+   "place": "Guildford",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Henry_(son_of_Edward_I)",
+     "title": "Henry (son of Edward I)",
+     "publisher": "Wikipedia",
+     "quote": "Died: 16 October 1274 (aged 6) Guildford, England"
+    }
+   ]
+  },
+  "parents": [
+   "edward-i",
+   "eleanor-castile"
+  ],
+  "spouses": [],
+  "titles": [],
+  "summary": "Henry of England was the fourth child and second son of Edward I and Eleanor of Castile, born at Windsor Castle in 1268. He became heir apparent to the English throne when his father acceded in 1272, his elder brother John having already died. He died at Guildford in October 1274 at the age of six, and the position of heir passed to his younger brother Alphonso.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Henry_(son_of_Edward_I)",
+    "title": "Henry (son of Edward I)",
+    "publisher": "Wikipedia",
+    "quote": "Edward became King of England and Henry his heir apparent."
+   }
+  ],
+  "uncertain": null
+ },
+ {
+  "id": "edward-ii",
+  "name": "Edward II",
+  "fullName": "Edward of Caernarfon",
+  "epithet": "of Caernarfon",
+  "house": "Plantagenet",
+  "monarch": true,
+  "reign": {
+   "start": "1307-07-07",
+   "end": "1327-01-21",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Edward_II_of_England",
+     "title": "Edward II of England",
+     "publisher": "Wikipedia",
+     "quote": "7 July 1307 – 21 January 1327"
+    },
+    {
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Edward_II",
+     "title": "Dictionary of National Biography, 1885-1900/Edward II",
+     "publisher": "Wikisource (Dictionary of National Biography, 1885–1900)",
+     "quote": "A parliament assembled at Westminster on 7 Jan. 1327...On 20 Jan. Edward, clothed in black, gave them audience...Edward II's reign was at an end."
+    }
+   ]
+  },
+  "birth": {
+   "date": "1284-04-25",
+   "place": "Caernarfon Castle, Wales",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Edward_II",
+     "title": "Dictionary of National Biography, 1885-1900/Edward II",
+     "publisher": "Wikisource (Dictionary of National Biography, 1885–1900)",
+     "quote": "(1284–1327), king of England, fourth son of Edward I by his first wife, Eleanor of Castile, was born at the newly erected castle of Carnarvon on St. Mark's day, 25 April 1284."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Edward_II_of_England",
+     "title": "Edward II of England",
+     "publisher": "Wikipedia",
+     "quote": "Edward II (25 April 1284 – 21 September 1327), also known as Edward of Caernarfon or Caernarvon, was King of England from 1307 until he was deposed in January 1327."
+    }
+   ]
+  },
+  "death": {
+   "date": "1327-09-21",
+   "place": "Berkeley Castle, Gloucestershire",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Edward_II_of_England",
+     "title": "Edward II of England",
+     "publisher": "Wikipedia",
+     "quote": "he died in Berkeley Castle on 21 September, probably murdered on the orders of the new regime."
+    },
+    {
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Edward_II",
+     "title": "Dictionary of National Biography, 1885-1900/Edward II",
+     "publisher": "Wikisource (Dictionary of National Biography, 1885–1900)",
+     "quote": "Edward was now removed to a pestilential chamber over a charnel-house in the hope that he would die of disease; but as his robust constitution still prevailed, he was barbarously murdered in his bed on 21 Sept."
+    },
+    {
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Edward_II",
+     "title": "Dictionary of National Biography, 1885-1900/Edward II",
+     "publisher": "Wikisource (Dictionary of National Biography, 1885–1900)",
+     "quote": "Edward's death was so mysterious that rumours were soon spread by the foes of the government that he was still alive"
+    }
+   ]
+  },
+  "parents": [
+   "edward-i",
+   "eleanor-castile"
+  ],
+  "spouses": [
+   {
+    "id": "isabella-france",
+    "married": "1308-01-25",
+    "ended": "1327-09-21",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Edward_II",
+      "title": "Dictionary of National Biography, 1885-1900/Edward II",
+      "publisher": "Wikisource (Dictionary of National Biography, 1885–1900)",
+      "quote": "on 25 Jan. his marriage with Isabella of France was celebrated with great pomp in the presence of Philip the Fair"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "King of England",
+    "from": "1307",
+    "to": "1327",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Edward_II_of_England",
+      "title": "Edward II of England",
+      "publisher": "Wikipedia",
+      "quote": "was King of England from 1307 until he was deposed in January 1327."
+     }
+    ]
+   }
+  ],
+  "summary": "Edward II, born at Caernarfon Castle in 1284, was the fourth son of Edward I by Eleanor of Castile and succeeded his father in 1307. His reliance on favourites, first Piers Gaveston and later the Despensers, alienated the baronage, and his defeat by Robert the Bruce at Bannockburn in 1314 shattered his military standing. He was deposed in January 1327 in favour of his son Edward III by his queen Isabella and her ally Roger Mortimer, and is recorded as having died at Berkeley Castle that September under circumstances historians still dispute. The Victorian Dictionary of National Biography judged that his only object in life was to gratify the whim of the moment.",
+  "citations": [
+   {
+    "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Edward_II",
+    "title": "Dictionary of National Biography, 1885-1900/Edward II",
+    "publisher": "Wikisource (Dictionary of National Biography, 1885–1900)",
+    "quote": "His only object in life was to gratify the whim of the moment, reckless of consequences."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Edward_II_of_England",
+    "title": "Edward II of England",
+    "publisher": "Wikipedia",
+    "quote": "Edward II (25 April 1284 – 21 September 1327), also known as Edward of Caernarfon or Caernarvon, was King of England from 1307 until he was deposed in January 1327."
+   },
+   {
+    "url": "https://www.worldhistory.org/Edward_II_of_England/",
+    "title": "Edward II of England",
+    "publisher": "World History Encyclopedia",
+    "quote": "Edward was born on 25 April 1284 CE at Caernarfon Castle in Wales"
+   },
+   {
+    "url": "https://www.lrb.co.uk/the-paper/v29/n11/david-carpenter/what-happened-to-edward-ii",
+    "title": "What happened to Edward II?",
+    "publisher": "London Review of Books",
+    "quote": "In urging his case, Mortimer is insistent, intriguing and ingenious. He is also, in my view, mistaken."
+   },
+   {
+    "url": "https://www.lrb.co.uk/the-paper/v29/n11/david-carpenter/what-happened-to-edward-ii",
+    "title": "What happened to Edward II?",
+    "publisher": "London Review of Books",
+    "quote": "there isn't even any convincing evidence for Edward's survival, let alone for it being the result of a Mortimer plot"
+   }
+  ],
+  "uncertain": "His death is genuinely contested and is recorded here as the official account rather than settled fact. The traditional narrative, given by the DNB, is that he was \"barbarously murdered in his bed on 21 Sept.\" at Berkeley Castle, yet the same article concedes that \"Edward's death was so mysterious that rumours were soon spread by the foes of the government that he was still alive\". Wikipedia hedges to \"probably murdered on the orders of the new regime.\" A minority scholarly position, argued by Ian Mortimer from the Fieschi Letter, holds that Edward escaped and died abroad; David Carpenter rejects it, writing of Mortimer that \"He is also, in my view, mistaken\" and that \"there isn't even any convincing evidence for Edward's survival\". The lurid red-hot-poker story is widely doubted by modern historians. The date of the end of his reign also varies: Wikipedia's infobox gives 21 January 1327 and the DNB places the decisive audience on 20 January, while World History Encyclopedia states \"Edward was obliged to formally abdicate on 24 January 1327 CE\"."
+ },
+ {
+  "id": "isabella-france",
+  "name": "Isabella of France",
+  "fullName": null,
+  "epithet": "the She-Wolf of France",
+  "house": "Capet",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1292",
+   "place": "Paris",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://www.worldhistory.org/Isabella_of_France/",
+     "title": "Isabella of France",
+     "publisher": "World History Encyclopedia",
+     "quote": "most historical sources agree that she was born in Paris c. 1292"
+    }
+   ]
+  },
+  "death": {
+   "date": "1358-08-22",
+   "place": "Hertford Castle",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://www.worldhistory.org/Isabella_of_France/",
+     "title": "Isabella of France",
+     "publisher": "World History Encyclopedia",
+     "quote": "Isabella died on August 22, 1358, aged about 63, in Hertford Castle"
+    }
+   ]
+  },
+  "parents": [],
+  "spouses": [
+   {
+    "id": "edward-ii",
+    "married": "1308-01-25",
+    "ended": "1327-09-21",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://www.worldhistory.org/Isabella_of_France/",
+      "title": "Isabella of France",
+      "publisher": "World History Encyclopedia",
+      "quote": "their marriage on 25 January 1308 at Boulogne-Sur-Mer"
+     }
+    ]
+   }
+  ],
+  "titles": [],
+  "summary": "Isabella of France was the daughter of Philip IV of France and Joan I of Navarre, and married Edward II of England at Boulogne in January 1308. Estranged from her husband by his favourites, she returned to England in 1326 with her ally and reputed lover Roger Mortimer and overthrew Edward, securing the throne for her son Edward III, who was crowned in January 1327. She and Mortimer effectively ruled England until Edward III seized power and executed Mortimer in 1330. She lived on until 1358, dying at Hertford Castle.",
+  "citations": [
+   {
+    "url": "https://www.worldhistory.org/Isabella_of_France/",
+    "title": "Isabella of France",
+    "publisher": "World History Encyclopedia",
+    "quote": "Isabella of France was the daughter of Philip IV of France (r. 1285-1314), also known as Philip the Fair, and Joan I of Navarre."
+   },
+   {
+    "url": "https://www.worldhistory.org/Isabella_of_France/",
+    "title": "Isabella of France",
+    "publisher": "World History Encyclopedia",
+    "quote": "In 1326, Isabella, Mortimer, and her son returned to England to overthrow Edward"
+   },
+   {
+    "url": "https://www.worldhistory.org/Isabella_of_France/",
+    "title": "Isabella of France",
+    "publisher": "World History Encyclopedia",
+    "quote": "her son was crowned Edward III at Westminster Abbey on 29 January 1327."
+   }
+  ],
+  "uncertain": "Her birth year is approximate; World History Encyclopedia states only that \"most historical sources agree that she was born in Paris c. 1292\". The day of her death is also not fully settled between sources: 22 August 1358 is recorded here from the source read, while other reference works give 23 August."
+ },
+ {
+  "id": "john-eltham",
+  "name": "John of Eltham",
+  "fullName": "John of Eltham, Earl of Cornwall",
+  "epithet": null,
+  "house": "Plantagenet",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1316-08-15",
+   "place": "Eltham Palace, Kent",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/John_of_Eltham",
+     "title": "John of Eltham",
+     "publisher": "Wikipedia",
+     "quote": "15 August 1316"
+    }
+   ]
+  },
+  "death": {
+   "date": "1336-09-13",
+   "place": "Perth, Scotland",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/John_of_Eltham",
+     "title": "John of Eltham",
+     "publisher": "Wikipedia",
+     "quote": "died at Perth, probably from a fever, shortly after turning 20"
+    }
+   ]
+  },
+  "parents": [
+   "edward-ii",
+   "isabella-france"
+  ],
+  "spouses": [],
+  "titles": [
+   {
+    "title": "Earl of Cornwall",
+    "from": "1328-10-06",
+    "to": "1336-09-13",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/John_of_Eltham",
+      "title": "John of Eltham",
+      "publisher": "Wikipedia",
+      "quote": "6 October 1328, at the age of twelve"
+     }
+    ]
+   }
+  ],
+  "summary": "John of Eltham was the second son of Edward II and Isabella of France, born at Eltham Palace in Kent in 1316 and thus the younger brother of Edward III. He was created Earl of Cornwall in 1328 at the age of twelve and served his brother in the Scottish campaigns, acting as guardian of the realm during Edward III's absences. He died at Perth in September 1336, shortly after turning twenty, probably of a fever, and was buried in Westminster Abbey. He left no wife or children.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/John_of_Eltham",
+    "title": "John of Eltham",
+    "publisher": "Wikipedia",
+    "quote": "died at Perth, probably from a fever, shortly after turning 20"
+   }
+  ],
+  "uncertain": "The cause of his death is not certain; the source says only that he died \"probably from a fever\". A Scottish legend that Edward III killed his brother in a rage over the burning of Lesmahagow Abbey is not accepted, the historian Tom Beaumont James being cited to the effect that such accounts blur \"the distinction between history and story\"."
+ },
+ {
+  "id": "eleanor-woodstock",
+  "name": "Eleanor of Woodstock",
+  "fullName": null,
+  "epithet": null,
+  "house": "Plantagenet",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1318-06-18",
+   "place": "Woodstock Palace, Oxfordshire",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Eleanor_of_Woodstock",
+     "title": "Eleanor of Woodstock",
+     "publisher": "Wikipedia",
+     "quote": "Eleanor of Woodstock (18 June 1318 – 22 April 1355) was an English princess"
+    }
+   ]
+  },
+  "death": {
+   "date": "1355-04-22",
+   "place": "Deventer",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Eleanor_of_Woodstock",
+     "title": "Eleanor of Woodstock",
+     "publisher": "Wikipedia",
+     "quote": "On 22 April 1355, twelve years after she became a widow, Eleanor died at age 36"
+    }
+   ]
+  },
+  "parents": [
+   "edward-ii",
+   "isabella-france"
+  ],
+  "spouses": [
+   {
+    "id": "reginald-ii-guelders",
+    "married": "1332-05",
+    "ended": "1343",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Eleanor_of_Woodstock",
+      "title": "Eleanor of Woodstock",
+      "publisher": "Wikipedia",
+      "quote": "In May 1332 Eleanor married the count of Guelders and Zutphen, Reinoud II 'the black' (English: Reginald)."
+     }
+    ]
+   }
+  ],
+  "titles": [],
+  "summary": "Eleanor of Woodstock was the elder daughter of Edward II and Isabella of France, born at Woodstock Palace in Oxfordshire in 1318. In May 1332 she married Reinoud II of Guelders, known as the Black, becoming Duchess of Guelders, and bore him two sons who each ruled the duchy in turn. Widowed in 1343, she died at the age of thirty-six in 1355 and was buried in the Franciscan church in Deventer.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Eleanor_of_Woodstock",
+    "title": "Eleanor of Woodstock",
+    "publisher": "Wikipedia",
+    "quote": "at Woodstock Palace in Oxfordshire to King Edward II of England and Isabella of France."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Eleanor_of_Woodstock",
+    "title": "Eleanor of Woodstock",
+    "publisher": "Wikipedia",
+    "quote": "was buried in the Franciscan church in Deventer."
+   }
+  ],
+  "uncertain": "The place of her death is not stated outright by the cited source; Deventer is recorded here as the place of her burial in the Franciscan church there. Her husband's death year is inferred from the source's statement that she died \"twelve years after she became a widow\"."
+ },
+ {
+  "id": "joan-of-the-tower",
+  "name": "Joan of the Tower",
+  "fullName": null,
+  "epithet": null,
+  "house": "Plantagenet",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1321-07-05",
+   "place": "Tower of London",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Joan_of_the_Tower",
+     "title": "Joan of the Tower",
+     "publisher": "Wikipedia",
+     "quote": "Joan was born in the Tower of London on 5 July 1321."
+    }
+   ]
+  },
+  "death": {
+   "date": "1362-09-07",
+   "place": "Hertford Castle, Hertfordshire",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Joan_of_the_Tower",
+     "title": "Joan of the Tower",
+     "publisher": "Wikipedia",
+     "quote": "Joan of the Tower (5 July 1321 – 7 September 1362), daughter of Edward II of England and Isabella of France"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Joan_of_the_Tower",
+     "title": "Joan of the Tower",
+     "publisher": "Wikipedia",
+     "quote": "Joan died in 1362, aged 41, at Hertford Castle, Hertfordshire."
+    }
+   ]
+  },
+  "parents": [
+   "edward-ii",
+   "isabella-france"
+  ],
+  "spouses": [
+   {
+    "id": "david-ii-scotland",
+    "married": "1328-07-17",
+    "ended": "1362-09-07",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Joan_of_the_Tower",
+      "title": "Joan of the Tower",
+      "publisher": "Wikipedia",
+      "quote": "Joan was married on 17 July 1328 to David, the son and heir of Robert the Bruce"
+     }
+    ]
+   }
+  ],
+  "titles": [],
+  "summary": "Joan of the Tower was the younger daughter of Edward II and Isabella of France, born in the Tower of London in 1321. At the age of seven she was married to David, son and heir of Robert the Bruce, under the terms of the Anglo-Scottish peace, and became Queen consort of Scots when he succeeded as David II in 1329. The marriage was childless and she spent her later years in England, dying at Hertford Castle in 1362.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Joan_of_the_Tower",
+    "title": "Joan of the Tower",
+    "publisher": "Wikipedia",
+    "quote": "Joan of the Tower (5 July 1321 – 7 September 1362), daughter of Edward II of England and Isabella of France"
+   }
+  ],
+  "uncertain": "The cited article gives the precise day of death, 7 September 1362, in its opening line while the body text states only the year: \"Joan died in 1362, aged 41, at Hertford Castle\"."
+ },
+ {
+  "id": "edward-iii",
+  "name": "Edward III",
+  "fullName": null,
+  "epithet": null,
+  "house": "Plantagenet",
+  "monarch": true,
+  "reign": {
+   "start": "1327-01-25",
+   "end": "1377-06-21",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Edward_III_of_England",
+     "title": "Edward III of England",
+     "publisher": "Wikipedia",
+     "quote": "25 January 1327 – 21 June 1377"
+    },
+    {
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Edward_III",
+     "title": "Dictionary of National Biography, 1885-1900/Edward III",
+     "publisher": "Wikisource (Dictionary of National Biography, 1885–1900)",
+     "quote": "The new king's peace was proclaimed on 24 Jan.; he was knighted by his cousin Henry, earl of Lancaster, and was crowned on Sunday, the 29th"
+    }
+   ]
+  },
+  "birth": {
+   "date": "1312-11-13",
+   "place": "Windsor Castle",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Edward_III",
+     "title": "Dictionary of National Biography, 1885-1900/Edward III",
+     "publisher": "Wikisource (Dictionary of National Biography, 1885–1900)",
+     "quote": "(1312–1377), king, eldest son of Edward II and Isabella, daughter of Philip IV of France, was born at Windsor Castle on 13 Nov. 1312"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Edward_III_of_England",
+     "title": "Edward III of England",
+     "publisher": "Wikipedia",
+     "quote": "Edward was born at Windsor Castle on 13 November 1312"
+    }
+   ]
+  },
+  "death": {
+   "date": "1377-06-21",
+   "place": "Sheen Palace, Surrey",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Edward_III_of_England",
+     "title": "Edward III of England",
+     "publisher": "Wikipedia",
+     "quote": "the King died of a stroke at Sheen on 21 June"
+    }
+   ]
+  },
+  "parents": [
+   "edward-ii",
+   "isabella-france"
+  ],
+  "spouses": [
+   {
+    "id": "philippa-hainault",
+    "married": "1328-01-24",
+    "ended": "1369-08-15",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Edward_III",
+      "title": "Dictionary of National Biography, 1885-1900/Edward III",
+      "publisher": "Wikisource (Dictionary of National Biography, 1885–1900)",
+      "quote": "the marriage was performed at York on 24 Jan. 1328 by William Melton, archbishop of York, the king being then little more than fifteen, and his bride still younger."
+     },
+     {
+      "url": "https://en.wikipedia.org/wiki/Edward_III_of_England",
+      "title": "Edward III of England",
+      "publisher": "Wikipedia",
+      "quote": "The King married Philippa of Hainault at York Minster on 24 January 1328"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Earl of Chester",
+    "from": "1312",
+    "to": "1327",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Edward_III_of_England",
+      "title": "Edward III of England",
+      "publisher": "Wikipedia",
+      "quote": "The young prince was created Earl of Chester at only twelve days old"
+     }
+    ]
+   },
+   {
+    "title": "Duke of Aquitaine",
+    "from": "1325",
+    "to": "1327",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Edward_III_of_England",
+      "title": "Edward III of England",
+      "publisher": "Wikipedia",
+      "quote": "he had his son Edward created Duke of Aquitaine in his place"
+     }
+    ]
+   }
+  ],
+  "summary": "Edward III was the eldest son of Edward II and Isabella of France, born at Windsor Castle in 1312 and made king in January 1327 after his father's deposition, ruling under his mother and Roger Mortimer until he seized power himself in 1330. His fifty-year reign restored royal authority after his father's disastrous rule and saw the opening of the Hundred Years' War against France, with victories including Crécy and Poitiers. He founded the Order of the Garter and presided over a period in which England was transformed by war, plague and the growing authority of Parliament. He died of a stroke at Sheen in June 1377, his heir the Black Prince having predeceased him.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Edward_III_of_England",
+    "title": "Edward III of England",
+    "publisher": "Wikipedia",
+    "quote": "He is noted for his military success and for restoring royal authority after the disastrous and unorthodox reign of his father"
+   },
+   {
+    "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Edward_III",
+    "title": "Dictionary of National Biography, 1885-1900/Edward III",
+    "publisher": "Wikisource (Dictionary of National Biography, 1885–1900)",
+    "quote": "his achievements by sea and land made the English name respected… it consists in the transition that it witnessed from mediæval to modern systems and ideas"
+   }
+  ],
+  "uncertain": "The start of his reign is dated differently by source and convention: Wikipedia's infobox gives 25 January 1327 while the DNB records that \"The new king's peace was proclaimed on 24 Jan.\" and that he was crowned on 29 January (Wikipedia's infobox gives the coronation as 1 February 1327). His father's deposition rather than death began the reign, so the two overlap in January 1327."
+ },
+ {
+  "id": "philippa-hainault",
+  "name": "Philippa of Hainault",
+  "fullName": null,
+  "epithet": null,
+  "house": "Avesnes",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1310",
+   "place": "Valenciennes",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Philippa_of_Hainault",
+     "title": "Philippa of Hainault",
+     "publisher": "Wikipedia",
+     "quote": "Philippa was born on 24 June c.1310/15, in Valenciennes"
+    }
+   ]
+  },
+  "death": {
+   "date": "1369-08-15",
+   "place": "Windsor Castle",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Philippa_of_Hainault",
+     "title": "Philippa of Hainault",
+     "publisher": "Wikipedia",
+     "quote": "On 15 August 1369, Queen Philippa died of an illness similar to oedema in Windsor Castle"
+    }
+   ]
+  },
+  "parents": [],
+  "spouses": [
+   {
+    "id": "edward-iii",
+    "married": "1328-01-24",
+    "ended": "1369-08-15",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Philippa_of_Hainault",
+      "title": "Philippa of Hainault",
+      "publisher": "Wikipedia",
+      "quote": "Their marriage was celebrated in York Minster on 24 January 1328"
+     }
+    ]
+   }
+  ],
+  "titles": [],
+  "summary": "Philippa of Hainault was the daughter of William I, Count of Hainault, and married Edward III at York Minster in January 1328, remaining his queen for over forty years. She bore Edward a large family, including the Black Prince, John of Gaunt and Edmund of Langley, whose descendants would contest the throne in the Wars of the Roses. Popular for her compassion, she is remembered for persuading the king to spare the Burghers of Calais in 1347. She died at Windsor Castle in August 1369.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Philippa_of_Hainault",
+    "title": "Philippa of Hainault",
+    "publisher": "Wikipedia",
+    "quote": "persuaded the king to spare the Burghers of Calais in 1347"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Philippa_of_Hainault",
+    "title": "Philippa of Hainault",
+    "publisher": "Wikipedia",
+    "quote": "Edward the Black Prince (15 June 1330), Isabella (16 June 1332), Joan (19 December 1333 or 28 January 1334), Lionel, 1st Duke of Clarence (29 November 1338), John, 1st Duke of Lancaster (6 March 1340)"
+   }
+  ],
+  "uncertain": "Her year of birth is unresolved in the source itself, which gives \"24 June c.1310/15\" — the day is attested but the year falls somewhere between 1310 and 1315, so only a circa year is recorded here."
+ },
+ {
+  "id": "edward-black-prince",
+  "name": "Edward the Black Prince",
+  "fullName": "Edward of Woodstock",
+  "epithet": "the Black Prince",
+  "house": "Plantagenet",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1330-06-15",
+   "place": "Woodstock Palace, Oxfordshire",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Edward_the_Black_Prince",
+     "title": "Edward the Black Prince",
+     "publisher": "Wikipedia",
+     "quote": "15 June 1330"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Philippa_of_Hainault",
+     "title": "Philippa of Hainault",
+     "publisher": "Wikipedia",
+     "quote": "Edward the Black Prince (15 June 1330)"
+    }
+   ]
+  },
+  "death": {
+   "date": "1376-06-08",
+   "place": "Westminster Palace, London",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Edward_the_Black_Prince",
+     "title": "Edward the Black Prince",
+     "publisher": "Wikipedia",
+     "quote": "8 June 1376 (aged 45)"
+    }
+   ]
+  },
+  "parents": [
+   "edward-iii",
+   "philippa-hainault"
+  ],
+  "spouses": [
+   {
+    "id": "joan-plantagenet",
+    "married": "1361-10-10",
+    "ended": "1376-06-08",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Joan_of_Kent",
+      "title": "Joan of Kent",
+      "publisher": "Wikipedia",
+      "quote": "Joan and Edward's spring marriage was annulled, and the couple held a second wedding, this time official, on 10 October 1361 at Windsor Castle."
+     },
+     {
+      "url": "https://en.wikipedia.org/wiki/Edward_the_Black_Prince",
+      "title": "Edward the Black Prince",
+      "publisher": "Wikipedia",
+      "quote": "spring 1361, Edward married his half-first cousin once removed Joan, Countess of Kent"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Earl of Chester",
+    "from": "1333",
+    "to": "1376",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Edward_the_Black_Prince",
+      "title": "Edward the Black Prince",
+      "publisher": "Wikipedia",
+      "quote": "invested with the earldom and county of Chester"
+     }
+    ]
+   },
+   {
+    "title": "Duke of Cornwall",
+    "from": "1337",
+    "to": "1376",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Edward_the_Black_Prince",
+      "title": "Edward the Black Prince",
+      "publisher": "Wikipedia",
+      "quote": "the first English dukedom"
+     }
+    ]
+   },
+   {
+    "title": "Prince of Wales",
+    "from": "1343",
+    "to": "1376",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Edward_the_Black_Prince",
+      "title": "Edward the Black Prince",
+      "publisher": "Wikipedia",
+      "quote": "made Prince of Wales in a parliament held at Westminster"
+     }
+    ]
+   },
+   {
+    "title": "Prince of Aquitaine and Gascony",
+    "from": "1362",
+    "to": "1372",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Edward_the_Black_Prince",
+      "title": "Edward the Black Prince",
+      "publisher": "Wikipedia",
+      "quote": "all his dominions in Aquitaine"
+     }
+    ]
+   }
+  ],
+  "summary": "Edward of Woodstock, known to later ages as the Black Prince, was the eldest son of Edward III and Philippa of Hainault and heir apparent to the English throne for his whole life. Made the first English duke as Duke of Cornwall in 1337 and Prince of Wales in 1343, he became one of the most celebrated English commanders of the Hundred Years' War, winning renown at Crécy and capturing the French king at Poitiers. His later years as Prince of Aquitaine were marred by illness and by the brutal sack of Limoges, and he died in June 1376, a year before his father. His surviving son by Joan of Kent succeeded Edward III as Richard II.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Edward_the_Black_Prince",
+    "title": "Edward the Black Prince",
+    "publisher": "Wikipedia",
+    "quote": "one of the most successful English commanders of the Hundred Years' War"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Edward_the_Black_Prince",
+    "title": "Edward the Black Prince",
+    "publisher": "Wikipedia",
+    "quote": "Richard, who succeeded his grandfather as king"
+   }
+  ],
+  "uncertain": "The date of his marriage to Joan of Kent is complicated by there having been two ceremonies: the couple married in secret in the spring of 1361, that union was annulled, and an official wedding followed on 10 October 1361 at Windsor Castle. The official date is recorded here."
+ },
+ {
+  "id": "joan-plantagenet",
+  "name": "Joan of Kent",
+  "fullName": "Joan, 4th Countess of Kent",
+  "epithet": "the Fair Maid of Kent",
+  "house": "Plantagenet",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1328",
+   "place": "Woodstock Palace, Oxfordshire",
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Joan_of_Kent",
+     "title": "Joan of Kent",
+     "publisher": "Wikipedia",
+     "quote": "Joan was born in around 1328 at Woodstock Palace. She was the daughter of Edmund of Woodstock, 1st Earl of Kent, by his wife, Margaret Wake, 3rd Baroness Wake of Liddell."
+    }
+   ]
+  },
+  "death": {
+   "date": "1385-08",
+   "place": "Wallingford Castle, Berkshire",
+   "precision": "month",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Joan_of_Kent",
+     "title": "Joan of Kent",
+     "publisher": "Wikipedia",
+     "quote": "Aware that she was dying Joan wrote her will on 7 August 1385 and died either the following day, 8 August 1385, or on 14 August probably at Wallingford Castle."
+    }
+   ]
+  },
+  "parents": [
+   "edmund-woodstock"
+  ],
+  "spouses": [
+   {
+    "id": "thomas-holland-kent",
+    "married": "1340",
+    "ended": null,
+    "endedBy": null,
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Joan_of_Kent",
+      "title": "Joan of Kent",
+      "publisher": "Wikipedia",
+      "quote": "In 1340, at the age of about twelve, Joan secretly married 26-year-old Thomas Holland"
+     }
+    ]
+   },
+   {
+    "id": "william-montagu-salisbury",
+    "married": "1341",
+    "ended": "1349",
+    "endedBy": "annulment",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Joan_of_Kent",
+      "title": "Joan of Kent",
+      "publisher": "Wikipedia",
+      "quote": "In 1349, the proceedings ruled in Holland's favour. Pope Clement VI annulled Joan's marriage to Salisbury."
+     }
+    ]
+   },
+   {
+    "id": "edward-black-prince",
+    "married": "1361-10-10",
+    "ended": "1376-06-08",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Joan_of_Kent",
+      "title": "Joan of Kent",
+      "publisher": "Wikipedia",
+      "quote": "Joan and Edward's spring marriage was annulled, and the couple held a second wedding, this time official, on 10 October 1361 at Windsor Castle."
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Countess of Kent",
+    "from": "1352",
+    "to": "1385",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Joan_of_Kent",
+      "title": "Joan of Kent",
+      "publisher": "Wikipedia",
+      "quote": "When the last of Joan's siblings died in 1352, the lands and titles of her parents devolved upon her, and she became the 4th Countess of Kent and 5th Baroness Wake of Liddell."
+     }
+    ]
+   },
+   {
+    "title": "Baroness Wake of Liddell",
+    "from": "1352",
+    "to": "1385",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Joan_of_Kent",
+      "title": "Joan of Kent",
+      "publisher": "Wikipedia",
+      "quote": "she became the 4th Countess of Kent and 5th Baroness Wake of Liddell."
+     }
+    ]
+   }
+  ],
+  "summary": "Joan of Kent, called the Fair Maid of Kent, was the daughter of Edmund of Woodstock, 1st Earl of Kent, and so a granddaughter of Edward I. Her marital history was famously tangled: at about twelve she secretly married Thomas Holland, and while he was overseas her family married her to William Montagu, a conflict resolved only in 1349 when Pope Clement VI annulled the second union. After Holland's death she married Edward the Black Prince in 1361, becoming Princess of Wales and mother of the future Richard II. She died in August 1385.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Joan_of_Kent",
+    "title": "Joan of Kent",
+    "publisher": "Wikipedia",
+    "quote": "The following winter (1340 or 1341), while Holland was overseas, Joan's family arranged for her to marry William Montagu"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Joan_of_Kent",
+    "title": "Joan of Kent",
+    "publisher": "Wikipedia",
+    "quote": "Their younger son, the future King Richard II, was born on 6 January 1367"
+   }
+  ],
+  "uncertain": "Her day of death is unresolved: the source states she \"died either the following day, 8 August 1385, or on 14 August probably at Wallingford Castle\", so only the month is recorded here and even the place is qualified as probable. The date of her marriage to William Montagu is given only as \"The following winter (1340 or 1341)\". The end of her marriage to Thomas Holland is left null because no verbatim statement of his death date was obtained in this research, though she was free to remarry by 1361. Her mother, Margaret Wake, 3rd Baroness Wake of Liddell, is attested by the source but is not authored as a record in this dataset, so only her father appears under parents."
+ },
+ {
+  "id": "isabella-england",
+  "name": "Isabella of England",
+  "fullName": "Isabella, Countess of Bedford",
+  "epithet": null,
+  "house": "Plantagenet",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1332-06-16",
+   "place": "Woodstock Palace, Oxfordshire",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Isabella_of_England,_Lady_of_Coucy",
+     "title": "Isabella, Countess of Bedford",
+     "publisher": "Wikipedia",
+     "quote": "Born 16 June 1332 Woodstock Palace, in Oxfordshire"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Philippa_of_Hainault",
+     "title": "Philippa of Hainault",
+     "publisher": "Wikipedia",
+     "quote": "Isabella (16 June 1332)"
+    }
+   ]
+  },
+  "death": {
+   "date": "1379/1382",
+   "place": "England",
+   "precision": "range",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Isabella_of_England,_Lady_of_Coucy",
+     "title": "Isabella, Countess of Bedford",
+     "publisher": "Wikipedia",
+     "quote": "Isabella died in England...before her burial at Westminster Abbey on 4 May 1379 or between 17 June and 5 October 1382"
+    }
+   ]
+  },
+  "parents": [
+   "edward-iii",
+   "philippa-hainault"
+  ],
+  "spouses": [
+   {
+    "id": "enguerrand-vii-coucy",
+    "married": "1365-07-27",
+    "ended": null,
+    "endedBy": null,
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Isabella_of_England,_Lady_of_Coucy",
+      "title": "Isabella, Countess of Bedford",
+      "publisher": "Wikipedia",
+      "quote": "They married on 27 July 1365, at Windsor Castle"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Countess of Bedford",
+    "from": "1366-05-11",
+    "to": null,
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Isabella_of_England,_Lady_of_Coucy",
+      "title": "Isabella, Countess of Bedford",
+      "publisher": "Wikipedia",
+      "quote": "on 11 May 1366, which made Isabella Countess of Bedford as well as Lady of Coucy."
+     }
+    ]
+   },
+   {
+    "title": "Lady of the Garter",
+    "from": "1376",
+    "to": null,
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Isabella_of_England,_Lady_of_Coucy",
+      "title": "Isabella, Countess of Bedford",
+      "publisher": "Wikipedia",
+      "quote": "She was made a Lady of the Garter in 1376."
+     }
+    ]
+   }
+  ],
+  "summary": "Isabella of England, also known as Isabella of Woodstock and Countess of Bedford, was the eldest daughter of Edward III and Philippa of Hainault, born at Woodstock Palace in 1332. Several proposed foreign matches for her came to nothing and she remained unmarried until she was thirty-three, when in 1365 she married the French nobleman Enguerrand VII de Coucy at Windsor Castle. She was made a Lady of the Garter in 1376 and bore two daughters, Marie and Philippa de Coucy. She died in England and was buried at Westminster Abbey.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Isabella_of_England,_Lady_of_Coucy",
+    "title": "Isabella, Countess of Bedford",
+    "publisher": "Wikipedia",
+    "quote": "Marie de Coucy (April 1366 – 1405)"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Isabella_of_England,_Lady_of_Coucy",
+    "title": "Isabella, Countess of Bedford",
+    "publisher": "Wikipedia",
+    "quote": "Philippa de Coucy (1367–1411)"
+   }
+  ],
+  "uncertain": "Her date of death is genuinely unsettled and the source offers two irreconcilable windows: she died \"before her burial at Westminster Abbey on 4 May 1379 or between 17 June and 5 October 1382\". The earlier bound is recorded here; the year may be 1379 or 1382."
+ },
+ {
+  "id": "lionel-antwerp",
+  "name": "Lionel of Antwerp",
+  "fullName": "Lionel of Antwerp, 1st Duke of Clarence",
+  "epithet": null,
+  "house": "Plantagenet",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1338-11-29",
+   "place": "Antwerp, Duchy of Brabant",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Lionel_of_Antwerp,_1st_Duke_of_Clarence",
+     "title": "Lionel of Antwerp, 1st Duke of Clarence",
+     "publisher": "Wikipedia",
+     "quote": "29 November 1338"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Philippa_of_Hainault",
+     "title": "Philippa of Hainault",
+     "publisher": "Wikipedia",
+     "quote": "Lionel, 1st Duke of Clarence (29 November 1338)"
+    }
+   ]
+  },
+  "death": {
+   "date": "1368-10-17",
+   "place": "Alba, Piedmont",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Lionel_of_Antwerp,_1st_Duke_of_Clarence",
+     "title": "Lionel of Antwerp, 1st Duke of Clarence",
+     "publisher": "Wikipedia",
+     "quote": "17 October 1368 (aged 29)"
+    }
+   ]
+  },
+  "parents": [
+   "edward-iii",
+   "philippa-hainault"
+  ],
+  "spouses": [
+   {
+    "id": "elizabeth-burgh-ulster",
+    "married": "1352",
+    "ended": "1363",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Lionel_of_Antwerp,_1st_Duke_of_Clarence",
+      "title": "Lionel of Antwerp, 1st Duke of Clarence",
+      "publisher": "Wikipedia",
+      "quote": "Elizabeth de Burgh, 4th Countess of Ulster (m. 1352; died 1363)"
+     }
+    ]
+   },
+   {
+    "id": "violante-visconti",
+    "married": "1368",
+    "ended": "1368-10-17",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Lionel_of_Antwerp,_1st_Duke_of_Clarence",
+      "title": "Lionel of Antwerp, 1st Duke of Clarence",
+      "publisher": "Wikipedia",
+      "quote": "Violante Visconti (m. 1368)"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Earl of Ulster",
+    "from": "1347",
+    "to": "1368",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Lionel_of_Antwerp,_1st_Duke_of_Clarence",
+      "title": "Lionel of Antwerp, 1st Duke of Clarence",
+      "publisher": "Wikipedia",
+      "quote": "Earl of Ulster jure uxoris from 1347"
+     }
+    ]
+   },
+   {
+    "title": "Duke of Clarence",
+    "from": "1362",
+    "to": "1368",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Lionel_of_Antwerp,_1st_Duke_of_Clarence",
+      "title": "Lionel of Antwerp, 1st Duke of Clarence",
+      "publisher": "Wikipedia",
+      "quote": "Duke of Clarence from 1362"
+     }
+    ]
+   }
+  ],
+  "summary": "Lionel of Antwerp, third son of Edward III and Philippa of Hainault, was born at Antwerp in 1338 and took his name from his birthplace. Through marriage to Elizabeth de Burgh he became Earl of Ulster, and he served as Lord Lieutenant of Ireland from 1361 to 1366, where he promulgated the Statutes of Kilkenny in 1366. Created Duke of Clarence in 1362, he died at Alba in Piedmont in 1368 shortly after his second marriage to Violante Visconti. Descent through his daughter Philippa later underpinned the Yorkist claim to the English throne.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Lionel_of_Antwerp,_1st_Duke_of_Clarence",
+    "title": "Lionel of Antwerp, 1st Duke of Clarence",
+    "publisher": "Wikipedia",
+    "quote": "Statutes of Kilkenny"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Lionel_of_Antwerp,_1st_Duke_of_Clarence",
+    "title": "Lionel of Antwerp, 1st Duke of Clarence",
+    "publisher": "Wikipedia",
+    "quote": "Philippa, 5th Countess of Ulster"
+   }
+  ],
+  "uncertain": "The cause of his death is not established; the source records \"suspicions of poisoning that were never proven\"."
+ },
+ {
+  "id": "john-of-gaunt",
+  "name": "John of Gaunt",
+  "fullName": "John of Gaunt, 1st Duke of Lancaster",
+  "epithet": null,
+  "house": "Plantagenet",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1340-03-06",
+   "place": "Saint Bavo's Abbey, Ghent, Flanders",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/John_of_Gaunt",
+     "title": "John of Gaunt",
+     "publisher": "Wikipedia",
+     "quote": "Born: 6 March 1340 Saint Bavo's Abbey, Ghent, Flanders"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/John_of_Gaunt",
+     "title": "John of Gaunt",
+     "publisher": "Wikipedia",
+     "quote": "John was the son of Edward III of England and Philippa of Hainault, and was born in Ghent in Flanders, most likely at Saint Bavo's Abbey, in March 1340."
+    }
+   ]
+  },
+  "death": {
+   "date": "1399-02-03",
+   "place": "Leicester Castle, Leicestershire",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/John_of_Gaunt",
+     "title": "John of Gaunt",
+     "publisher": "Wikipedia",
+     "quote": "John of Gaunt died of natural causes on 3 February 1399 at Leicester Castle, with his third wife Katherine by his side."
+    }
+   ]
+  },
+  "parents": [
+   "edward-iii",
+   "philippa-hainault"
+  ],
+  "spouses": [
+   {
+    "id": "blanche-lancaster",
+    "married": "1359-05-19",
+    "ended": "1368-09-12",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/John_of_Gaunt",
+      "title": "John of Gaunt",
+      "publisher": "Wikipedia",
+      "quote": "On 19 May 1359 at Reading Abbey, John married his third cousin, Blanche of Lancaster"
+     }
+    ]
+   },
+   {
+    "id": "constance-castile",
+    "married": "1371-09",
+    "ended": "1394",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/John_of_Gaunt",
+      "title": "John of Gaunt",
+      "publisher": "Wikipedia",
+      "quote": "Just before leaving Aquitaine, he married the Infanta Constance of Castile in September 1371 at Roquefort, near Bordeaux."
+     }
+    ]
+   },
+   {
+    "id": "katherine-swynford",
+    "married": "1396-01-13",
+    "ended": "1399-02-03",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/John_of_Gaunt",
+      "title": "John of Gaunt",
+      "publisher": "Wikipedia",
+      "quote": "On 13 January 1396, two years after the death of Constance of Castile, Katherine and John of Gaunt married in Lincoln Cathedral."
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Duke of Lancaster",
+    "from": "1362-11-13",
+    "to": "1399-02-03",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/John_of_Gaunt",
+      "title": "John of Gaunt",
+      "publisher": "Wikipedia",
+      "quote": "John received the title \"Duke of Lancaster\" from his father on 13 November 1362."
+     }
+    ]
+   },
+   {
+    "title": "Duke of Aquitaine",
+    "from": "1390-03-02",
+    "to": "1399-02-03",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/John_of_Gaunt",
+      "title": "John of Gaunt",
+      "publisher": "Wikipedia",
+      "quote": "2 March 1390 – 3 February 1399"
+     }
+    ]
+   }
+  ],
+  "summary": "John of Gaunt, third surviving son of Edward III and Philippa of Hainault, was born at Ghent in 1340 and became Duke of Lancaster through his marriage to the heiress Blanche of Lancaster in 1359. Enormously wealthy and politically dominant in the later years of his father's reign and the minority of his nephew Richard II, he pursued a long and unsuccessful claim to the throne of Castile through his second wife Constance. In 1396 he married his long-standing mistress Katherine Swynford, and their previously born children, the Beauforts, were legitimated. He died at Leicester Castle in February 1399; his son by Blanche deposed Richard II later that year to reign as Henry IV.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/John_of_Gaunt",
+    "title": "John of Gaunt",
+    "publisher": "Wikipedia",
+    "quote": "Their son Henry Bolingbroke became Henry IV of England, having deposed King Richard II"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/John_of_Gaunt",
+    "title": "John of Gaunt",
+    "publisher": "Wikipedia",
+    "quote": "A later proviso to the legitimation of the Beaufort children was that they were specifically barred from inheriting the throne… inserted with dubious authority by their half-brother Henry IV."
+   }
+  ],
+  "uncertain": "The status of the Beaufort children's succession rights is contested and bears directly on later claims to the throne. John's children by Katherine Swynford were born during his marriage to Constance of Castile and were legitimated after he married Katherine in 1396, but the source records that a later proviso barring them from the throne, \"the phrase excepta regali dignitate (\"except royal status\")—was inserted with dubious authority by their half-brother Henry IV.\" Whether that exclusion carried proper authority is disputed, and the question mattered greatly because the Tudor claim descended through the Beauforts."
+ },
+ {
+  "id": "blanche-lancaster",
+  "name": "Blanche of Lancaster",
+  "fullName": null,
+  "epithet": null,
+  "house": "Lancaster",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1342-03-25",
+   "place": "Bolingbroke Castle, Lincolnshire",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Blanche_of_Lancaster",
+     "title": "Blanche of Lancaster",
+     "publisher": "Wikipedia",
+     "quote": "Born 25 March 1342 Bolingbroke Castle, Lincolnshire, Kingdom of England"
+    }
+   ]
+  },
+  "death": {
+   "date": "1368-09-12",
+   "place": "Tutbury Castle, Staffordshire",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Blanche_of_Lancaster",
+     "title": "Blanche of Lancaster",
+     "publisher": "Wikipedia",
+     "quote": "Died 12 September 1368 (aged 26) Tutbury Castle, Staffordshire, Kingdom of England"
+    }
+   ]
+  },
+  "parents": [],
+  "spouses": [
+   {
+    "id": "john-of-gaunt",
+    "married": "1359-05-19",
+    "ended": "1368-09-12",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Blanche_of_Lancaster",
+      "title": "Blanche of Lancaster",
+      "publisher": "Wikipedia",
+      "quote": "On 19 May 1359, at Reading Abbey, Reading, Berkshire, Blanche married her third cousin, John of Gaunt"
+     }
+    ]
+   }
+  ],
+  "titles": [],
+  "summary": "Blanche of Lancaster was the daughter and eventual heiress of Henry of Grosmont, 1st Duke of Lancaster, and married John of Gaunt at Reading Abbey in 1359, bringing him the vast Lancastrian inheritance. Of their seven children only three survived to adulthood, among them the future Henry IV. She died at Tutbury Castle in September 1368 aged twenty-six, while her husband was overseas.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Blanche_of_Lancaster",
+    "title": "Blanche of Lancaster",
+    "publisher": "Wikipedia",
+    "quote": "Blanche and John of Gaunt together had seven children, of whom three survived to adulthood"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Blanche_of_Lancaster",
+    "title": "Blanche of Lancaster",
+    "publisher": "Wikipedia",
+    "quote": "Henry IV of England (15 April 1367 – 20 March 1413)"
+   }
+  ],
+  "uncertain": "Her birth year is disputed. The cited article gives 25 March 1342 but notes that \"She is also said to have been born as late as 1347, but this has been called into question as that would mean she had her first child at only about age 13.\""
+ },
+ {
+  "id": "edmund-langley",
+  "name": "Edmund of Langley",
+  "fullName": "Edmund of Langley, 1st Duke of York",
+  "epithet": null,
+  "house": "Plantagenet",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1341-06-05",
+   "place": "Kings Langley, Hertfordshire",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Edmund_of_Langley,_1st_Duke_of_York",
+     "title": "Edmund of Langley, 1st Duke of York",
+     "publisher": "Wikipedia",
+     "quote": "Born: 5 June 1341 Kings Langley, Hertfordshire, England"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Philippa_of_Hainault",
+     "title": "Philippa of Hainault",
+     "publisher": "Wikipedia",
+     "quote": "Edmund of Langley, 1st Duke of York (5 June 1341)"
+    }
+   ]
+  },
+  "death": {
+   "date": "1402-08-01",
+   "place": "Epworth, Lincolnshire",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Edmund_of_Langley,_1st_Duke_of_York",
+     "title": "Edmund of Langley, 1st Duke of York",
+     "publisher": "Wikipedia",
+     "quote": "Died: 1 August 1402 (aged 61) Epworth, Lincolnshire, England"
+    }
+   ]
+  },
+  "parents": [
+   "edward-iii",
+   "philippa-hainault"
+  ],
+  "spouses": [
+   {
+    "id": "isabella-castile-york",
+    "married": "1372",
+    "ended": "1392",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Edmund_of_Langley,_1st_Duke_of_York",
+      "title": "Edmund of Langley, 1st Duke of York",
+      "publisher": "Wikipedia",
+      "quote": "Langley's first wife, Isabella, was a daughter of King Peter of Castile"
+     },
+     {
+      "url": "https://en.wikipedia.org/wiki/Edmund_of_Langley,_1st_Duke_of_York",
+      "title": "Edmund of Langley, 1st Duke of York",
+      "publisher": "Wikipedia",
+      "quote": "After Isabella's death in 1392, Langley married his second cousin once removed, Joan Holland"
+     }
+    ]
+   },
+   {
+    "id": "joan-holland-york",
+    "married": "1393",
+    "ended": "1402-08-01",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Edmund_of_Langley,_1st_Duke_of_York",
+      "title": "Edmund of Langley, 1st Duke of York",
+      "publisher": "Wikipedia",
+      "quote": "After Isabella's death in 1392, Langley married his second cousin once removed, Joan Holland"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Duke of York",
+    "from": "1385-08-06",
+    "to": "1402-08-01",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Edmund_of_Langley,_1st_Duke_of_York",
+      "title": "Edmund of Langley, 1st Duke of York",
+      "publisher": "Wikipedia",
+      "quote": "On 6 August 1385, he was elevated to Duke of York."
+     }
+    ]
+   }
+  ],
+  "summary": "Edmund of Langley, fourth surviving son of Edward III and Philippa of Hainault, was born at Kings Langley in Hertfordshire in 1341 and took his name from his birthplace. Elevated to Duke of York in 1385, he was a comparatively unambitious figure who served his brothers and his nephew Richard II without seeking dominance himself. His first marriage, to Isabella of Castile, produced three children, while his second, to Joan Holland, was childless. He died at Epworth in 1402, and his descendants became the House of York that contested the throne in the Wars of the Roses.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Edmund_of_Langley,_1st_Duke_of_York",
+    "title": "Edmund of Langley, 1st Duke of York",
+    "publisher": "Wikipedia",
+    "quote": "Edward of Norwich, 2nd Duke of York (c. 1373 – 25 October 1415)"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Edmund_of_Langley,_1st_Duke_of_York",
+    "title": "Edmund of Langley, 1st Duke of York",
+    "publisher": "Wikipedia",
+    "quote": "Richard of Conisburgh, 3rd Earl of Cambridge (c. 20 July 1385 – 5 August 1415)"
+   }
+  ],
+  "uncertain": "The marriage years, 1372 to Isabella of Castile and 1393 to Joan Holland, are taken from the article's infobox rather than from a narrative sentence giving a full date; the body text confirms only that the second marriage followed \"Isabella's death in 1392\"."
+ },
+ {
+  "id": "thomas-woodstock",
+  "name": "Thomas of Woodstock",
+  "fullName": "Thomas of Woodstock, 1st Duke of Gloucester",
+  "epithet": null,
+  "house": "Plantagenet",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1355-01-07",
+   "place": "Woodstock Palace, Oxfordshire",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Thomas_of_Woodstock,_1st_Duke_of_Gloucester",
+     "title": "Thomas of Woodstock, 1st Duke of Gloucester",
+     "publisher": "Wikipedia",
+     "quote": "Born: 7 January 1355 Woodstock Palace, England"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Philippa_of_Hainault",
+     "title": "Philippa of Hainault",
+     "publisher": "Wikipedia",
+     "quote": "Thomas, 1st Duke of Gloucester (7 January 1355)"
+    }
+   ]
+  },
+  "death": {
+   "date": "1397-09",
+   "place": "Pale of Calais",
+   "precision": "month",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Thomas_of_Woodstock,_1st_Duke_of_Gloucester",
+     "title": "Thomas of Woodstock, 1st Duke of Gloucester",
+     "publisher": "Wikipedia",
+     "quote": "Died: 8 or 9 September 1397 (aged 42) Pale of Calais"
+    }
+   ]
+  },
+  "parents": [
+   "edward-iii",
+   "philippa-hainault"
+  ],
+  "spouses": [
+   {
+    "id": "eleanor-bohun",
+    "married": "1374",
+    "ended": "1397-09",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Thomas_of_Woodstock,_1st_Duke_of_Gloucester",
+      "title": "Thomas of Woodstock, 1st Duke of Gloucester",
+      "publisher": "Wikipedia",
+      "quote": "He married Eleanor de Bohun in 1374"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Duke of Gloucester",
+    "from": "1385",
+    "to": "1397",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Thomas_of_Woodstock,_1st_Duke_of_Gloucester",
+      "title": "Thomas of Woodstock, 1st Duke of Gloucester",
+      "publisher": "Wikipedia",
+      "quote": "In 1385, he received the title Duke of Aumale, and at about the same time was created Duke of Gloucester."
+     }
+    ]
+   },
+   {
+    "title": "Duke of Aumale",
+    "from": "1385",
+    "to": "1397",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Thomas_of_Woodstock,_1st_Duke_of_Gloucester",
+      "title": "Thomas of Woodstock, 1st Duke of Gloucester",
+      "publisher": "Wikipedia",
+      "quote": "In 1385, he received the title Duke of Aumale, and at about the same time was created Duke of Gloucester."
+     }
+    ]
+   }
+  ],
+  "summary": "Thomas of Woodstock, the youngest son of Edward III and Philippa of Hainault, was born at Woodstock Palace in 1355 and created Duke of Gloucester in 1385. He became the leading figure among the Lords Appellant who curbed the power of his nephew Richard II in the late 1380s, an opposition the king never forgave. In September 1397, during Richard's reassertion of authority, Thomas died at Calais, according to the traditional account smothered between two feather beds. His marriage to Eleanor de Bohun produced four children.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Thomas_of_Woodstock,_1st_Duke_of_Gloucester",
+    "title": "Thomas of Woodstock, 1st Duke of Gloucester",
+    "publisher": "Wikipedia",
+    "quote": "On 9 September 1397, he was murdered by being smothered between two feather beds, probably by a group of men led by Thomas de Mowbray, 1st Duke of Norfolk, and the knight Sir Nicholas Colfox, presumably on behalf of Richard II"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Thomas_of_Woodstock,_1st_Duke_of_Gloucester",
+    "title": "Thomas of Woodstock, 1st Duke of Gloucester",
+    "publisher": "Wikipedia",
+    "quote": "Thomas of Woodstock and his wife Eleanor had issue as follows: Humphrey, 2nd Earl of Buckingham... Anne of Gloucester... Joan... Isabel"
+   }
+  ],
+  "uncertain": "His day of death is not fixed, the infobox giving \"8 or 9 September 1397\" while the body text asserts 9 September, so only the month is recorded here. The agency behind his death is also hedged by the source itself, which says he was murdered \"probably\" by men led by Thomas de Mowbray and \"presumably on behalf of Richard II\". His marriage year is inconsistent across sources, given as 1374 in the body text and 1376 elsewhere."
+ },
+ {
+  "id": "mary-waltham",
+  "name": "Mary of Waltham",
+  "fullName": null,
+  "epithet": null,
+  "house": "Plantagenet",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1344-10-10",
+   "place": "Waltham, Hampshire",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Mary_of_Waltham",
+     "title": "Mary of Waltham",
+     "publisher": "Wikipedia",
+     "quote": "10 October 1344"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Philippa_of_Hainault",
+     "title": "Philippa of Hainault",
+     "publisher": "Wikipedia",
+     "quote": "Mary (10 October 1344)"
+    }
+   ]
+  },
+  "death": {
+   "date": "1361-09",
+   "place": null,
+   "precision": "month",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Mary_of_Waltham",
+     "title": "Mary of Waltham",
+     "publisher": "Wikipedia",
+     "quote": "a lethargic disease from which it was impossible to rouse her"
+    }
+   ]
+  },
+  "parents": [
+   "edward-iii",
+   "philippa-hainault"
+  ],
+  "spouses": [
+   {
+    "id": "john-iv-brittany",
+    "married": "1361-07-03",
+    "ended": "1361-09",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Mary_of_Waltham",
+      "title": "Mary of Waltham",
+      "publisher": "Wikipedia",
+      "quote": "around 3 July 1361"
+     }
+    ]
+   }
+  ],
+  "titles": [],
+  "summary": "Mary of Waltham was a daughter of Edward III and Philippa of Hainault, born at Waltham in Hampshire in 1344. In the summer of 1361, aged sixteen, she married John IV, Duke of Brittany, at Woodstock Palace, but died only weeks later of what was described as a lethargic disease, never having travelled to Brittany. She was buried at Abingdon Abbey and left no children.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Mary_of_Waltham",
+    "title": "Mary of Waltham",
+    "publisher": "Wikipedia",
+    "quote": "They had no children."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Mary_of_Waltham",
+    "title": "Mary of Waltham",
+    "publisher": "Wikipedia",
+    "quote": "a lethargic disease from which it was impossible to rouse her"
+   }
+  ],
+  "uncertain": "Her exact date of death is not attested; the source indicates only that she died shortly before 13 September 1361, so the month is recorded here. Her marriage date is likewise approximate, the source giving \"around 3 July 1361\", and no place of death was stated."
+ },
+ {
+  "id": "margaret-england-1346",
+  "name": "Margaret of England",
+  "fullName": "Margaret, Countess of Pembroke",
+  "epithet": null,
+  "house": "Plantagenet",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1346-07-20",
+   "place": "Windsor, Berkshire",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Margaret,_Countess_of_Pembroke",
+     "title": "Margaret, Countess of Pembroke",
+     "publisher": "Wikipedia",
+     "quote": "20 July 1346"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Philippa_of_Hainault",
+     "title": "Philippa of Hainault",
+     "publisher": "Wikipedia",
+     "quote": "Margaret (20 July 1346)"
+    }
+   ]
+  },
+  "death": {
+   "date": "1361-10-01/1361-12-25",
+   "place": null,
+   "precision": "range",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Margaret,_Countess_of_Pembroke",
+     "title": "Margaret, Countess of Pembroke",
+     "publisher": "Wikipedia",
+     "quote": "last mentioned as living on 1 October 1361"
+    }
+   ]
+  },
+  "parents": [
+   "edward-iii",
+   "philippa-hainault"
+  ],
+  "spouses": [
+   {
+    "id": "john-hastings-pembroke",
+    "married": "1359-05-13",
+    "ended": "1361",
+    "endedBy": "death",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Margaret,_Countess_of_Pembroke",
+      "title": "Margaret, Countess of Pembroke",
+      "publisher": "Wikipedia",
+      "quote": "13 May 1359"
+     }
+    ]
+   }
+  ],
+  "titles": [],
+  "summary": "Margaret of England, sometimes called Margaret of Windsor, was a younger daughter of Edward III and Philippa of Hainault, born at Windsor in July 1346. She married John Hastings, 2nd Earl of Pembroke, at Reading in May 1359, in the same week that her brother John of Gaunt married Blanche of Lancaster; the pair had been raised together beforehand. She died late in 1361 at about fifteen, without children, and was buried at Abingdon Abbey.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Margaret,_Countess_of_Pembroke",
+    "title": "Margaret, Countess of Pembroke",
+    "publisher": "Wikipedia",
+    "quote": "last mentioned as living on 1 October 1361"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Margaret,_Countess_of_Pembroke",
+    "title": "Margaret, Countess of Pembroke",
+    "publisher": "Wikipedia",
+    "quote": "20 July 1346"
+   }
+  ],
+  "uncertain": "Her date of death is known only within a window; the source records that she was \"last mentioned as living on 1 October 1361\" and places her death between about 1 October and 25 December 1361, so only the year is recorded here."
+ }
+]

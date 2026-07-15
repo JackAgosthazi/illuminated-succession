@@ -1,0 +1,151 @@
+[
+  {
+    "id": "evt-1216-magna-carta-reissue",
+    "title": "First Reissue of Magna Carta",
+    "date": "1216-11-12",
+    "endDate": null,
+    "precision": "day",
+    "category": "law",
+    "actors": [
+      "henry-iii",
+      "william-marshal"
+    ],
+    "place": "Bristol, England",
+    "significance": 4,
+    "summary": "Days after being chosen regent for the nine-year-old Henry III, William Marshal's government republished Magna Carta in a revised form, an act intended to win over rebel barons by showing the new regime's commitment to the charter's reforms.",
+    "citations": [
+      {
+        "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Marshal,_William_(d.1219)",
+        "title": "Dictionary of National Biography, 1885-1900/Marshal, William (d.1219)",
+        "publisher": "Wikisource (Dictionary of National Biography, 1885-1900)",
+        "quote": "The first act of Marshal's government was to republish the Great Charter on 12 Nov."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1217-magna-carta-second-reissue",
+    "title": "Second Reissue of Magna Carta",
+    "date": "1217-11-06",
+    "endDate": null,
+    "precision": "day",
+    "category": "law",
+    "actors": [
+      "henry-iii",
+      "william-marshal"
+    ],
+    "place": "England",
+    "significance": 4,
+    "summary": "Following the peace that ended the First Barons' War, William Marshal's regency government reissued Magna Carta again, now alongside a separate Charter of the Forest; this 1217 text established the version of Magna Carta that would be repeatedly confirmed by later kings.",
+    "citations": [
+      {
+        "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Marshal,_William_(d.1219)",
+        "title": "Dictionary of National Biography, 1885-1900/Marshal, William (d.1219)",
+        "publisher": "Wikisource (Dictionary of National Biography, 1885-1900)",
+        "quote": "The peace was followed on 6 Nov. by a reissue of the Great Charter, which now assumed its final form."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1217-treaty-of-lambeth",
+    "title": "Treaty of Lambeth (Treaty of Kingston)",
+    "date": "1217-09-11",
+    "endDate": "1217-09-20",
+    "precision": "day",
+    "category": "treaty",
+    "actors": [
+      "henry-iii"
+    ],
+    "place": "Lambeth Palace and Kingston upon Thames, England",
+    "significance": 4,
+    "summary": "Negotiated in a sequence of agreements at Lambeth and Kingston between 11 and 20 September 1217, in the wake of the royalist victories at Lincoln and at sea, this settlement ended Prince Louis of France's invasion and claim to the English throne and closed the First Barons' War. Louis renounced his claim and withdrew from England in exchange for a payment of 10,000 marks and an amnesty for the rebel barons; William Marshal, regent for the boy king Henry III, was criticised at the time for the generosity of the terms he granted, though it secured the peace.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Treaty_of_Lambeth",
+        "title": "Treaty of Lambeth",
+        "publisher": "Wikipedia",
+        "quote": "a treaty signed by Louis and Henry's regents on 11 September at Lambeth Palace"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Treaty_of_Lambeth",
+        "title": "Treaty of Lambeth",
+        "publisher": "Wikipedia",
+        "quote": "a Treaty of Lambeth signed on 20 September ratifying the Kingston treaty"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Treaty_of_Lambeth",
+        "title": "Treaty of Lambeth",
+        "publisher": "Wikipedia",
+        "quote": "a peace treaty signed by Louis of France in September 1217 ending the campaign known as the First Barons' War to uphold the claim by Louis to the throne of England"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/William_Marshal,_1st_Earl_of_Pembroke",
+        "title": "William Marshal, 1st Earl of Pembroke",
+        "publisher": "Wikipedia",
+        "quote": "William was criticised for the generosity of the terms he accorded to Louis in September 1217, but his expedient settlement was dictated by sound statesmanship and a desire to remove the French from England as quickly as possible."
+      }
+    ],
+    "uncertain": "Sources give a sequence of dates for the settlement (11 September at Lambeth, 12 September at Kingston, ratified 20 September at Lambeth); this record spans the full sequence rather than picking a single day."
+  },
+  {
+    "id": "evt-1219-death-william-marshal",
+    "title": "Death of William Marshal",
+    "date": "1219-05-14",
+    "endDate": null,
+    "precision": "day",
+    "category": "dynastic",
+    "actors": [
+      "william-marshal",
+      "henry-iii"
+    ],
+    "place": "Caversham, near Reading",
+    "significance": 4,
+    "summary": "William Marshal, regent of England for the young Henry III, died at Caversham on 14 May 1219, having secured the kingdom's peace and reissued Magna Carta during his three-year regency.",
+    "citations": [
+      {
+        "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Marshal,_William_(d.1219)",
+        "title": "Dictionary of National Biography, 1885-1900/Marshal, William (d.1219)",
+        "publisher": "Wikisource (Dictionary of National Biography, 1885-1900)",
+        "quote": "On 14 May 1219 Marshal died at Caversham, near Reading."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/William_Marshal,_1st_Earl_of_Pembroke",
+        "title": "William Marshal, 1st Earl of Pembroke",
+        "publisher": "Wikipedia",
+        "quote": "He died peacefully on 14 May 1219 at Caversham, surrounded by his friends and family."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1189-marriage-marshal-clare",
+    "title": "Marriage of William Marshal and Isabel de Clare",
+    "date": "1189-08",
+    "endDate": null,
+    "precision": "month",
+    "category": "dynastic",
+    "actors": [
+      "william-marshal",
+      "isabel-de-clare"
+    ],
+    "place": "London",
+    "significance": 4,
+    "summary": "On his accession, Richard I confirmed a promise made by the dying Henry II and granted William Marshal the hand of Isabel de Clare, heiress of Pembroke, Striguil, and Leinster. Marshal, until then a landless household knight, married her in London in August 1189, acquiring through her inheritance great estates in Wales, Ireland, and Normandy and becoming one of the wealthiest magnates in the Angevin realm.",
+    "citations": [
+      {
+        "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Marshal,_William_(d.1219)",
+        "title": "Dictionary of National Biography, 1885-1900/Marshal, William (d.1219)",
+        "publisher": "Wikisource (Dictionary of National Biography, 1885-1900)",
+        "quote": "Richard sent him over to England to take charge for him, but first, at the request of Geoffrey, his father's chancellor, confirmed the grant of the heiress of Pembroke... Thence he went on to London, and at once married his bride Isabella, daughter of Richard de Clare, earl of Pembroke and Striguil."
+      },
+      {
+        "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Marshal,_William_(d.1219)",
+        "title": "Dictionary of National Biography, 1885-1900/Marshal, William (d.1219)",
+        "publisher": "Wikisource (Dictionary of National Biography, 1885-1900)",
+        "quote": "a great position and wide lands in four countries"
+      }
+    ],
+    "uncertain": null
+  }
+]

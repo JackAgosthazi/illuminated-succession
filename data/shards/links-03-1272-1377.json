@@ -1,0 +1,422 @@
+[
+  {
+    "id": null,
+    "from": { "kind": "edge", "id": "edward-ii~isabella-france" },
+    "to": { "kind": "event", "id": "evt-1337-hundred-years-war" },
+    "relation": "claim-asserted-via",
+    "claim": "Isabella of France's marriage to Edward II made their son Edward III the nearest surviving male relative of the last direct Capetian kings, the maternal claim he pressed against Philip VI when Gascony was confiscated in 1337.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/English_claims_to_the_French_throne",
+        "title": "English claims to the French throne",
+        "publisher": "Wikipedia",
+        "quote": "Edward's claim was through his mother, Isabella, sister of the last direct line Capetian king of France, Charles IV."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/English_claims_to_the_French_throne",
+        "title": "English claims to the French throne",
+        "publisher": "Wikipedia",
+        "quote": "In 1337, a dispute arose between Philip and Edward regarding Edward's feudal obligations which resulted in Philip ordering the confiscation of Gascony. Edward declared war on Philip in response."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "edge", "id": "edward-ii~isabella-france" },
+    "to": { "kind": "event", "id": "evt-1327-edward-ii-deposition" },
+    "relation": "deposition-orchestrated",
+    "claim": "Isabella landed an invasion force with Roger Mortimer in September 1326 and, after the defeat of Edward II and the Despensers, the parliament of January 1327 she orchestrated deposed her husband and recognised their son as Edward III.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Isabella_of_France_(1292-1358)",
+        "title": "Dictionary of National Biography, 1885-1900/Isabella of France (1292-1358)",
+        "publisher": "Wikisource (Dictionary of National Biography, 1885-1900)",
+        "quote": "On 23 Sept. 1326 Isabella embarked at Dort, and on 24 Sept. landed at Harwich, accompanied by her son, Edmund, earl of Kent... Roger Mortimer, a large number of English exiles, and her foreign mercenaries."
+      },
+      {
+        "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Isabella_of_France_(1292-1358)",
+        "title": "Dictionary of National Biography, 1885-1900/Isabella of France (1292-1358)",
+        "publisher": "Wikisource (Dictionary of National Biography, 1885-1900)",
+        "quote": "A parliament assembled there on 7 Jan., deposed Edward II, and recognised the Duke of Aquitaine as Edward III."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "edward-ii" },
+    "to": { "kind": "event", "id": "evt-1311-ordinances" },
+    "relation": "favourite-provoked",
+    "claim": "Edward II's preferential treatment of his favourite Piers Gaveston, whose arrogance provoked baronial resentment, led the barons to impose the Ordinances of 1311, including Gaveston's permanent banishment.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Ordinances_of_1311",
+        "title": "Ordinances of 1311",
+        "publisher": "Wikipedia",
+        "quote": "The preferential treatment of an upstart like Gaveston, in combination with his behaviour that was seen as arrogant, led to resentment among the established peers of the realm."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ordinances_of_1311",
+        "title": "Ordinances of 1311",
+        "publisher": "Wikipedia",
+        "quote": "Just as instrumental to their conception were other issues, particularly discontent with the king's favourite, Piers Gaveston, whom the barons subsequently banished from the realm."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "edward-ii" },
+    "to": { "kind": "event", "id": "evt-1312-gaveston-execution" },
+    "relation": "favourite-provoked",
+    "claim": "Edward II's secret recall of Gaveston from exile at the end of 1311 and his public restoration in defiance of the Ordinances drove the barons to arms, ending in Gaveston's capture and execution in June 1312.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Ordinances_of_1311",
+        "title": "Ordinances of 1311",
+        "publisher": "Wikipedia",
+        "quote": "Before the end of the year, Gaveston had returned to England, and civil war appeared imminent."
+      },
+      {
+        "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Gaveston,_Piers",
+        "title": "1911 Encyclopaedia Britannica/Gaveston, Piers",
+        "publisher": "Wikisource (1911 Encyclopaedia Britannica)",
+        "quote": "Gaveston then retired to Flanders, but returned secretly to England at the end of 1311. Soon he was publicly restored by Edward, and the barons had taken up arms."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "isabella-france" },
+    "to": { "kind": "event", "id": "evt-1330-mortimer-coup" },
+    "relation": "regime-toppled",
+    "claim": "Isabella's regency alongside her lover Roger Mortimer ended when Edward III's men seized Mortimer at Nottingham Castle in October 1330 despite her plea for mercy.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Isabella_of_France_(1292-1358)",
+        "title": "Dictionary of National Biography, 1885-1900/Isabella of France (1292-1358)",
+        "publisher": "Wikisource (Dictionary of National Biography, 1885-1900)",
+        "quote": "On the night of 18 Oct. the attack was made on them. Both were arrested, despite Isabella's despairing cry, 'Sweet son, have pity on the gentle Mortimer!' Mortimer was speedily executed as a traitor."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "edward-iii" },
+    "to": { "kind": "event", "id": "evt-1330-mortimer-coup" },
+    "relation": "power-seized",
+    "claim": "Edward III joined a conspiracy of nobles against his mother's regime and ordered the seizure of Roger Mortimer at Nottingham Castle in October 1330, ending Isabella and Mortimer's rule and beginning his personal reign.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Isabella_of_France_(1292-1358)",
+        "title": "Dictionary of National Biography, 1885-1900/Isabella of France (1292-1358)",
+        "publisher": "Wikisource (Dictionary of National Biography, 1885-1900)",
+        "quote": "On the night of 18 Oct. the attack was made on them. Both were arrested, despite Isabella's despairing cry, 'Sweet son, have pity on the gentle Mortimer!' Mortimer was speedily executed as a traitor."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "isabella-france" },
+    "to": { "kind": "event", "id": "evt-1327-edward-ii-death" },
+    "relation": "death-precipitated",
+    "claim": "According to the traditional account, fearing her deposed husband endangered her rule, Isabella had his gaolers treat him with severity and procured his death in September 1327; modern historians dispute both the manner and the fact of his death.",
+    "strength": "attributed",
+    "citations": [
+      {
+        "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Isabella_of_France_(1292-1358)",
+        "title": "Dictionary of National Biography, 1885-1900/Isabella of France (1292-1358)",
+        "publisher": "Wikisource (Dictionary of National Biography, 1885-1900)",
+        "quote": "she urged on his gaolers to treat him with the utmost severity, and in September 1327 procured his murder"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "edward-i" },
+    "to": { "kind": "event", "id": "evt-1291-great-cause" },
+    "relation": "overlordship-asserted",
+    "claim": "Edward I made his arbitration of the vacant Scottish succession conditional on the competitors and Scottish leaders first recognising his feudal overlordship of Scotland.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Competitors_for_the_Crown_of_Scotland",
+        "title": "Competitors for the Crown of Scotland",
+        "publisher": "Wikipedia",
+        "quote": "Edward demanded in May 1291 that his claim of feudal overlordship of Scotland be recognised before he would step in and act as arbiter."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "edward-i" },
+    "to": { "kind": "event", "id": "evt-1305-wallace-execution" },
+    "relation": "treason-law-invoked",
+    "claim": "Edward I has been accused of abusing treason law against his enemies in Scotland and Wales, most notably in his execution of William Wallace in 1305.",
+    "strength": "attributed",
+    "citations": [
+      {
+        "url": "https://www.historyhit.com/a-history-of-treason-in-documents/",
+        "title": "A History of Treason in 5 Documents",
+        "publisher": "History Hit",
+        "quote": "Edward's grandfather, Edward I, had been accused of abusing treason laws to persecute his enemies in Scotland and Wales, perhaps most notably by executing William Wallace in 1305."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "edward-i" },
+    "to": { "kind": "event", "id": "evt-1284-statute-rhuddlan" },
+    "relation": "conquest-consolidated",
+    "claim": "After Dafydd ap Gruffudd's rebellion against the terms Edward I had imposed at Aberconwy escalated into a war that killed Llywelyn ap Gruffudd, Edward completed the conquest of Wales and issued the Statute of Rhuddlan annexing the principality to the English crown by law.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Treaty_of_Aberconwy",
+        "title": "Treaty of Aberconwy",
+        "publisher": "Wikipedia",
+        "quote": "Llywelyn's brother Dafydd was discontented with the reward he had received from Edward under the treaty. As a consequence, he rebelled against Edward in 1282."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Statute_of_Rhuddlan",
+        "title": "Statute of Rhuddlan",
+        "publisher": "Wikipedia",
+        "quote": "The statute followed the Conquest of Wales by Edward I and the killing of the last Welsh prince to rule the whole Principality, Llywelyn ap Gruffudd in 1282."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "edward-i" },
+    "to": { "kind": "event", "id": "evt-1295-model-parliament" },
+    "relation": "war-financing-required",
+    "claim": "Edward I's paramount goal in summoning the Model Parliament of 1295 was to raise funds for his wars against France and Scotland and to counter the insurgency in Wales.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Parliament_of_1295",
+        "title": "Parliament of 1295",
+        "publisher": "Wikipedia",
+        "quote": "Edward's paramount goal in summoning the parliament was to raise funds for his wars, specifically the planned campaigns against the French and the Scots for the forthcoming year and countering an insurgency in Wales."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "edward-i" },
+    "to": { "kind": "event", "id": "evt-1290-expulsion-jews" },
+    "relation": "tax-grant-secured",
+    "claim": "Contemporary chronicles closely link Edward I's 1290 expulsion of the Jews to Parliament's unusually large tax grant that year, suggesting the expulsion was the price of the Commons' unprecedented subsidy.",
+    "strength": "attributed",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Edict_of_Expulsion",
+        "title": "Edict of Expulsion",
+        "publisher": "Wikipedia",
+        "quote": "The link between these seems certain given the evidence of contemporaneous chronicles and the speed at which orders to expel the Jews of England were made, possibly after an agreement was reached."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "edward-black-prince" },
+    "to": { "kind": "event", "id": "evt-1346-crecy" },
+    "relation": "valor-proven",
+    "claim": "The sixteen-year-old Black Prince commanded a division at Crécy, and when he came under heavy French assault Edward III refused to send help, declaring he should be left to win his spurs and have the honour of the day.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://history.hanover.edu/courses/excerpts/211froi.html",
+        "title": "Froissart's Chronicles (excerpt): the Battle of Crécy",
+        "publisher": "Hanover Historical Texts Project",
+        "quote": "return to him and to them that sent you hither, and say to them that they send no more to me for any adventure that falleth, as long as my son is alive: and also say to them that they suffer him this day to win his spurs"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "edward-black-prince" },
+    "to": { "kind": "event", "id": "evt-1356-poitiers" },
+    "relation": "capture-secured",
+    "claim": "Edward the Black Prince commanded the Anglo-Gascon army at Poitiers, where King John II of France was surrounded and forced to surrender to the Prince's forces.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Poitiers",
+        "title": "Battle of Poitiers",
+        "publisher": "Wikipedia",
+        "quote": "a French army commanded by King John II and an Anglo-Gascon force under Edward, the Black Prince... Surrounded by enemies, John and his youngest son, Philip, surrendered."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "edward-black-prince" },
+    "to": { "kind": "event", "id": "evt-1360-treaty-bretigny" },
+    "relation": "capture-enabled",
+    "claim": "The Black Prince's capture of King John II at Poitiers in 1356 set in motion the ransom negotiations that culminated in the Treaty of Brétigny of 1360.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Treaty_of_Br%C3%A9tigny",
+        "title": "Treaty of Brétigny",
+        "publisher": "Wikipedia",
+        "quote": "King John II of France, taken as a prisoner of war at the Battle of Poitiers (19 September 1356), worked with King Edward III of England to write out the Treaty of London."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "edward-iii" },
+    "to": { "kind": "event", "id": "evt-1360-treaty-bretigny" },
+    "relation": "claim-renounced",
+    "claim": "Under the Treaty of Brétigny, Edward III renounced his claim to the French throne in exchange for full sovereignty over an enlarged Aquitaine and the ransom of the captive King John II.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Treaty_of_Br%C3%A9tigny",
+        "title": "Treaty of Brétigny",
+        "publisher": "Wikipedia",
+        "quote": "For his part, the king of England renounced all claims to the French throne."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "edward-black-prince" },
+    "to": { "kind": "event", "id": "evt-1376-good-parliament" },
+    "relation": "succession-secured",
+    "claim": "Dying through most of the Good Parliament's sittings, the Black Prince summoned Edward III and John of Gaunt to his London house and made them swear to recognise his son Richard as heir; his death on 8 June 1376 then robbed the Parliament's reformers of a key supporter.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_II_of_England",
+        "title": "Richard II of England",
+        "publisher": "Wikipedia",
+        "quote": "During the Good Parliament of 1376 the Black Prince was dying. Having taken a house in London, he summoned both Edward III and John of Gaunt and made them swear to recognise his son, the future Richard II, as successor to Edward."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Good_Parliament",
+        "title": "Good Parliament",
+        "publisher": "Wikipedia",
+        "quote": "The Black Prince's death on June 8 robbed the Parliament of one of its strongest supports."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "john-of-gaunt" },
+    "to": { "kind": "event", "id": "evt-1376-good-parliament" },
+    "relation": "dominance-feared",
+    "claim": "The Commons in the Good Parliament feared that John of Gaunt, left presiding for his dying father and brother, would try to seize the throne, and so moved quickly to have young Richard invested as Prince of Wales and publicly recognised as heir.",
+    "strength": "attributed",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_II_of_England",
+        "title": "Richard II of England",
+        "publisher": "Wikipedia",
+        "quote": "The Commons in the Good Parliament genuinely feared that Richard's uncle, John of Gaunt, would usurp the throne. For this reason, Richard was quickly invested with the princedom of Wales... and publicly recognised as heir."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "edge", "id": "edward-black-prince--richard-ii" },
+    "to": { "kind": "event", "id": "evt-1377-richard-ii-accession" },
+    "relation": "succession-triggered",
+    "claim": "Because the Black Prince predeceased his father, the throne passed on Edward III's death in 1377 to the Black Prince's ten-year-old son Richard rather than to a grown heir.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_II_of_England",
+        "title": "Richard II of England",
+        "publisher": "Wikipedia",
+        "quote": "On 21 June 1377, King Edward III, who was for some years frail and decrepit, died after a 50-year reign. This resulted in the 10-year-old Richard succeeding to the throne."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "edge", "id": "edward-iii~philippa-hainault" },
+    "to": { "kind": "event", "id": "evt-1327-edward-ii-deposition" },
+    "relation": "alliance-sealed",
+    "claim": "Isabella arranged Prince Edward's betrothal to Philippa of Hainault in exchange for Count William of Hainault's military assistance, which financed and supplied the 1326 invasion that deposed Edward II.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Philippa_of_Hainault",
+        "title": "Philippa of Hainault",
+        "publisher": "Wikipedia",
+        "quote": "Isabella of France, the Queen of England, arrived at the court of Hainaut to seek aid from Count William in order to depose her husband, Edward II... where she arranged the betrothal to 13-year-old Philippa in exchange for assistance."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "edward-iii" },
+    "to": { "kind": "event", "id": "evt-1337-hundred-years-war" },
+    "relation": "claim-asserted-via",
+    "claim": "When Philip VI ordered the confiscation of Gascony in 1337 over a dispute concerning Edward III's feudal obligations, Edward declared war in response, opening the Hundred Years' War.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/English_claims_to_the_French_throne",
+        "title": "English claims to the French throne",
+        "publisher": "Wikipedia",
+        "quote": "In 1337, a dispute arose between Philip and Edward regarding Edward's feudal obligations which resulted in Philip ordering the confiscation of Gascony. Edward declared war on Philip in response."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "edward-ii" },
+    "to": { "kind": "event", "id": "evt-1314-bannockburn" },
+    "relation": "support-withheld",
+    "claim": "Four earls, including Lancaster and Warwick, refused to join the Bannockburn campaign, citing Edward II's cancellation of parliament as a breach of the Ordinances' requirement of parliamentary sanction for war; their absence was an important factor in Edward's defeat.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://historyofparliament.com/2014/06/23/parliament-and-bannockburn/",
+        "title": "Parliament and Bannockburn",
+        "publisher": "The History of Parliament",
+        "quote": "Four earls, including Lancaster and Warwick, used this as an excuse not to go on campaign, claiming that it had not been sanctioned by parliament... The earls' absence from Bannockburn... was an important factor in Edward's defeat"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "edmund-woodstock" },
+    "to": { "kind": "event", "id": "evt-1327-edward-ii-death" },
+    "relation": "rumor-provoked",
+    "claim": "Edmund of Woodstock was convinced by rumours, later shown to have been planted by Roger Mortimer as entrapment, that his half-brother Edward II was still alive after his reported 1327 death, and plotted to free him.",
+    "strength": "attributed",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Edmund_of_Woodstock,_1st_Earl_of_Kent",
+        "title": "Edmund of Woodstock, 1st Earl of Kent",
+        "publisher": "Wikipedia",
+        "quote": "At this point he became involved in another plot against the court, when he was convinced by rumours that his brother was still alive... Roger Mortimer himself was responsible for leading Edmund into this belief, in a form of entrapment."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "edmund-woodstock" },
+    "to": { "kind": "event", "id": "evt-1330-mortimer-coup" },
+    "relation": "execution-avenged",
+    "claim": "Edmund of Woodstock's March 1330 execution, procured by Mortimer's entrapment, was itself named among the charges against Mortimer when Edward III's October 1330 coup brought him down; Kent's own attainder was then annulled.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Edmund_of_Woodstock,_1st_Earl_of_Kent",
+        "title": "Edmund of Woodstock, 1st Earl of Kent",
+        "publisher": "Wikipedia",
+        "quote": "Among the charges against Mortimer was that of procuring Edmund's death, and the charges against the late Earl of Kent were annulled."
+      }
+    ]
+  }
+]

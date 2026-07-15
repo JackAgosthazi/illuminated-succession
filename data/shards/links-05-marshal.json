@@ -1,0 +1,208 @@
+[
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "william-marshal" },
+    "to": { "kind": "event", "id": "evt-1215-magna-carta" },
+    "relation": "named-as-counsellor",
+    "claim": "Magna Carta's own preamble names William Marshal, Earl of Pembroke, first among the lay lords whose counsel King John acknowledges in issuing the charter.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://avalon.law.yale.edu/medieval/magna.asp",
+        "title": "Magna Carta (1215)",
+        "publisher": "The Avalon Project, Yale Law School",
+        "quote": "of the illustrious men William Marshal, earl of Pembroke, William, earl of Salisbury, William, earl of Warenne, William, earl of Arundel, Alan of Galloway (constable of Scotland), Waren Fitz Gerold, Peter Fitz Herbert, Hubert De Burgh (seneschal of Poitou), Hugh de Neville, Matthew Fitz Herbert, Thomas Basset, Alan Basset, Philip d'Aubigny, Robert of Roppesley, John Marshal, John Fitz Hugh, and others, our liegemen."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "event", "id": "evt-1216-death-of-john" },
+    "to": { "kind": "person", "id": "william-marshal" },
+    "relation": "succession-triggered",
+    "claim": "John's death in October 1216 led directly to a council at Bristol on 11 November 1216 that formally chose William Marshal as 'rector regis et regni' — protector of the nine-year-old Henry III and regent of the kingdom.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Marshal,_William_(d.1219)",
+        "title": "Dictionary of National Biography, 1885-1900/Marshal, William (d.1219)",
+        "publisher": "Wikisource (Dictionary of National Biography, 1885-1900)",
+        "quote": "Marshal was formally chosen by the common consent to be 'rector regis et regni'"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/John,_King_of_England",
+        "title": "John, King of England",
+        "publisher": "Wikipedia",
+        "quote": "In October 1216 John contracted dysentery, and he died at Newark Castle, Nottinghamshire."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "william-marshal" },
+    "to": { "kind": "event", "id": "evt-1216-magna-carta-reissue" },
+    "relation": "reissued-charter",
+    "claim": "As the first act of his regency government, Marshal republished Magna Carta on 12 November 1216 to win over rebel baronial opinion.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Marshal,_William_(d.1219)",
+        "title": "Dictionary of National Biography, 1885-1900/Marshal, William (d.1219)",
+        "publisher": "Wikisource (Dictionary of National Biography, 1885-1900)",
+        "quote": "The first act of Marshal's government was to republish the Great Charter on 12 Nov."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "william-marshal" },
+    "to": { "kind": "event", "id": "evt-1217-magna-carta-second-reissue" },
+    "relation": "reissued-charter",
+    "claim": "Following the September 1217 peace, Marshal's government reissued Magna Carta again on 6 November 1217 in the form that became its lasting text.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Marshal,_William_(d.1219)",
+        "title": "Dictionary of National Biography, 1885-1900/Marshal, William (d.1219)",
+        "publisher": "Wikisource (Dictionary of National Biography, 1885-1900)",
+        "quote": "The peace was followed on 6 Nov. by a reissue of the Great Charter, which now assumed its final form."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "william-marshal" },
+    "to": { "kind": "event", "id": "evt-1217-battle-of-lincoln" },
+    "relation": "commanded-royalist-forces",
+    "claim": "As regent, Marshal personally led the royalist relief force that attacked and routed Prince Louis's besieging army at Lincoln on 20 May 1217, the turning point of the First Barons' War.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Marshal,_William_(d.1219)",
+        "title": "Dictionary of National Biography, 1885-1900/Marshal, William (d.1219)",
+        "publisher": "Wikisource (Dictionary of National Biography, 1885-1900)",
+        "quote": "On 20 May, while Marshal with his knights attacked the north gate...the earl forced his way into the town, and the barons...were forced to surrender."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Lincoln_(1217)",
+        "title": "Battle of Lincoln (1217)",
+        "publisher": "Wikipedia",
+        "quote": "was pillaged by Marshal's victorious army, on the pretence that it was loyal to Louis, later euphemistically called the 'Lincoln Fair'"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "william-marshal" },
+    "to": { "kind": "event", "id": "evt-1217-treaty-of-lambeth" },
+    "relation": "negotiated-peace-terms",
+    "claim": "As regent, Marshal set the generous peace terms granted to Louis of France in September 1217 that ended the First Barons' War, a settlement contemporaries criticised as too lenient but which historians attribute to his desire to remove the French from England quickly.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/William_Marshal,_1st_Earl_of_Pembroke",
+        "title": "William Marshal, 1st Earl of Pembroke",
+        "publisher": "Wikipedia",
+        "quote": "William was criticised for the generosity of the terms he accorded to Louis in September 1217, but his expedient settlement was dictated by sound statesmanship and a desire to remove the French from England as quickly as possible."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "edge", "id": "william-marshal~isabel-de-clare" },
+    "to": { "kind": "event", "id": "evt-1189-marriage-marshal-clare" },
+    "relation": "marriage-enabled",
+    "claim": "Marshal's 1189 marriage to Isabel de Clare, granted by the new King Richard I, transferred to him the de Clare inheritance of Pembroke, Striguil, and Leinster, turning a landless household knight into one of the greatest magnates of the realm.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Marshal,_William_(d.1219)",
+        "title": "Dictionary of National Biography, 1885-1900/Marshal, William (d.1219)",
+        "publisher": "Wikisource (Dictionary of National Biography, 1885-1900)",
+        "quote": "Richard sent him over to England to take charge for him, but first, at the request of Geoffrey, his father's chancellor, confirmed the grant of the heiress of Pembroke... Thence he went on to London, and at once married his bride Isabella, daughter of Richard de Clare, earl of Pembroke and Striguil."
+      },
+      {
+        "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Marshal,_William_(d.1219)",
+        "title": "Dictionary of National Biography, 1885-1900/Marshal, William (d.1219)",
+        "publisher": "Wikisource (Dictionary of National Biography, 1885-1900)",
+        "quote": "a great position and wide lands in four countries"
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "william-marshal" },
+    "to": { "kind": "event", "id": "evt-1173-great-revolt" },
+    "relation": "served-young-king-in-rebellion",
+    "claim": "During the Revolt of 1173-74, Marshal was a household knight of the rebelling Henry the Young King and remained loyal to him throughout the rising against Henry II.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/William_Marshal,_1st_Earl_of_Pembroke",
+        "title": "William Marshal, 1st Earl of Pembroke",
+        "publisher": "Wikipedia",
+        "quote": "During the Revolt of 1173–1174 led by the Young King, little is known of William's specific activities besides his loyalty to Young Henry."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "william-marshal" },
+    "to": { "kind": "event", "id": "evt-1189-death-henry-ii" },
+    "relation": "defended-king-in-final-campaign",
+    "claim": "Covering Henry II's retreat from Le Mans to Chinon in the last weeks of the king's life in 1189, Marshal unhorsed the future Richard I in a rearguard skirmish rather than kill him, a demonstration of loyalty to the dying Henry that Richard nonetheless rewarded on becoming king.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/William_Marshal,_1st_Earl_of_Pembroke",
+        "title": "William Marshal, 1st Earl of Pembroke",
+        "publisher": "Wikipedia",
+        "quote": "In 1189 while covering the flight of Henry from Le Mans to Chinon, William unhorsed Richard in a skirmish. William could have killed the prince but killed his horse instead, to make that point clear."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/William_Marshal,_1st_Earl_of_Pembroke",
+        "title": "William Marshal, 1st Earl of Pembroke",
+        "publisher": "Wikipedia",
+        "quote": "after Henry's death William was welcomed at court by Richard, apparently recognising that William's loyalty and military accomplishments were too useful to ignore, especially for a king who was intending to go on crusade."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "person", "id": "richard-strongbow" },
+    "to": { "kind": "event", "id": "evt-1169-anglo-norman-invasion-ireland" },
+    "relation": "led-invasion-forces",
+    "claim": "The 1170 wave of Anglo-Norman landings in Ireland during the invasion was led by Richard 'Strongbow' de Clare.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Anglo-Norman_invasion_of_Ireland",
+        "title": "Anglo-Norman invasion of Ireland",
+        "publisher": "Wikipedia",
+        "quote": "In 1170, there were further Norman landings, led by the Earl of Pembroke, Richard 'Strongbow' de Clare."
+      }
+    ]
+  },
+  {
+    "id": null,
+    "from": { "kind": "edge", "id": "richard-strongbow~aoife-macmurrough" },
+    "to": { "kind": "event", "id": "evt-1169-anglo-norman-invasion-ireland" },
+    "relation": "alliance-sealed",
+    "claim": "Diarmait Mac Murchada's promise of his daughter Aoife's hand in marriage, and succession to Leinster, in exchange for Strongbow's military help was the bargain that secured Anglo-Norman participation in the invasion of Ireland; the marriage was sealed at Waterford immediately after the city's capture in August 1170.",
+    "strength": "explicit",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Richard_de_Clare,_2nd_Earl_of_Pembroke",
+        "title": "Richard de Clare, 2nd Earl of Pembroke",
+        "publisher": "Wikipedia",
+        "quote": "Dermot came to an agreement with Richard: If the latter helped the deposed king in the retaking of Leinster, he could have Aoife, Dermot's eldest daughter, in marriage, along with the succession to the crown if it was regained."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Aoife_of_Leinster",
+        "title": "Aoife of Leinster",
+        "publisher": "Wikipedia",
+        "quote": "On 23 August 1170, Waterford was captured in a short but violent battle. Aoife married Richard almost immediately after on 25 August in Christchurch Cathedral in Waterford."
+      }
+    ]
+  }
+]

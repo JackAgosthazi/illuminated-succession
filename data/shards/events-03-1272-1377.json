@@ -1,0 +1,749 @@
+[
+  {
+    "id": "evt-1272-edward-i-accession",
+    "title": "Accession of Edward I",
+    "date": "1272-11-16",
+    "endDate": "1274-08-19",
+    "precision": "range",
+    "category": "succession",
+    "actors": ["edward-i"],
+    "place": "Westminster, England",
+    "significance": 3,
+    "summary": "Henry III died on 16 November 1272 while Edward I was returning from crusade, and Edward succeeded to the throne without opposition, being proclaimed king by hereditary right while barons swore allegiance in his absence. He did not hurry home, finally landing at Dover on 2 August 1274, and was crowned at Westminster Abbey on 19 August 1274 alongside Queen Eleanor.",
+    "citations": [
+      {
+        "url": "https://www.royal.uk/edward-i-longshanks",
+        "title": "Edward I 'Longshanks' (r. 1272-1307)",
+        "publisher": "Royal Household (royal.uk)",
+        "quote": "Edward succeeded to the throne without opposition - given his track record in military ability and his proven determination to give peace to the country, enhanced by his magnified exploits on crusade."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Edward_I_of_England",
+        "title": "Edward I of England",
+        "publisher": "Wikipedia",
+        "quote": "On 2 August 1274 Edward returned to England, landing at Dover. The thirty-five-year-old king held his coronation on 19 August at Westminster Abbey, alongside Queen Eleanor."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1275-statute-westminster-i",
+    "title": "Statute of Westminster I",
+    "date": "1275",
+    "endDate": null,
+    "precision": "year",
+    "category": "law",
+    "actors": ["edward-i"],
+    "place": "Westminster, England",
+    "significance": 3,
+    "summary": "In Edward I's first parliament in 1275, the Statute of Westminster the First was enacted: a wide-ranging code issued to redress the state of the realm in such things as required amendment for the common profit of Holy Church and of the realm. Among much else it protected free parliamentary elections from force, malice, or menacing, and required that common right be done to all, as well poor as rich, without respect of persons. Its free-election clause remains partly in force in the United Kingdom today.",
+    "citations": [
+      {
+        "url": "https://en.wikisource.org/wiki/Freedom_of_Election_Act_1275",
+        "title": "Freedom of Election Act 1275 (Statute of Westminster the First, c.5)",
+        "publisher": "Wikisource",
+        "quote": "AND because Elections ought to be free, the King commandeth upon great Forfeiture, that no Man by force of Arms, nor by Malice, or Menacing, shall disturb any to make free Election."
+      },
+      {
+        "url": "https://www.legislation.gov.uk/aep/Edw1/3/5/data.html",
+        "title": "Statute of Westminster, The First (1275) (c. 5)",
+        "publisher": "The National Archives / legislation.gov.uk",
+        "quote": "to redress the State of the Realm in such Things as required Amendment for the common profit of Holy Church, and of the Realm."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Statute_of_Westminster_1275",
+        "title": "Statute of Westminster 1275",
+        "publisher": "Wikipedia",
+        "quote": "common right is to be done to all, as well poor as rich, without respect of persons"
+      }
+    ],
+    "uncertain": "The exact day and month of enactment is not firmly fixed by the sources consulted (Wikipedia gives 'April or May 1275'; the Wikisource text dates it by regnal and liturgical formula, 'Monday of Easter Utas', 3 Edw. I), so only year precision is asserted."
+  },
+  {
+    "id": "evt-1277-treaty-aberconwy",
+    "title": "Treaty of Aberconwy",
+    "date": "1277-11-10",
+    "endDate": null,
+    "precision": "day",
+    "category": "treaty",
+    "actors": ["edward-i"],
+    "place": "Aberconwy, Wales",
+    "significance": 4,
+    "summary": "The Treaty of Aberconwy, concluded on 10 November 1277, ended the first war between Edward I and Llywelyn ap Gruffudd, Prince of Wales. Llywelyn was stripped of most of his principality, with eastern Gwynedd split between Edward and Llywelyn's brother Dafydd ap Gruffydd, who had defected to Edward. Llywelyn's rule was confined to 'Lesser' Gwynedd, west of the river Conwy.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Treaty_of_Aberconwy",
+        "title": "Treaty of Aberconwy",
+        "publisher": "Wikipedia",
+        "quote": "Eastern Gwynedd was split between Edward and Llywelyn's brother Dafydd ap Gruffydd, who had defected to Edward."
+      },
+      {
+        "url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/aberconwy-peace",
+        "title": "Aberconwy, Peace of",
+        "publisher": "Encyclopedia.com",
+        "quote": "His rule was confined to 'Lesser' Gwynedd, west of the Conwy."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1284-statute-rhuddlan",
+    "title": "Statute of Rhuddlan (Statutum Walliae)",
+    "date": "1284-03-19",
+    "endDate": null,
+    "precision": "day",
+    "category": "law",
+    "actors": ["edward-i"],
+    "place": "Rhuddlan, Wales",
+    "significance": 4,
+    "summary": "Following the death of Llywelyn ap Gruffudd in 1282 and the execution of his brother Dafydd ap Gruffudd in 1283, Edward I issued the Statute of Rhuddlan (Statutum Walliae) as a royal ordinance rather than an act of Parliament, first promulgated at Rhuddlan on 19 March 1284. It divided the conquered lands of Gwynedd into the three shires of Anglesey, Carnarvon and Merioneth, establishing an English administrative and legal framework over the conquered principality.",
+    "citations": [
+      {
+        "url": "https://en.wikisource.org/wiki/The_Statutes_of_Wales_(1908)/Introduction",
+        "title": "The Statutes of Wales (1908) — Introduction",
+        "publisher": "Wikisource",
+        "quote": "Gwynedd and its appurtenances were divided into the three shires of Anglesey, Carnarvon, and Merioneth."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Statute_of_Rhuddlan",
+        "title": "Statute of Rhuddlan",
+        "publisher": "Wikipedia",
+        "quote": "first promulgated on 19 March 1284"
+      },
+      {
+        "url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/rhuddlan-statute",
+        "title": "Rhuddlan, Statute of",
+        "publisher": "Encyclopedia.com",
+        "quote": "a royal ordinance, not issued by Parliament"
+      }
+    ],
+    "uncertain": "Sources distinguish the date of the ordinance's making (3 March 1284) from its promulgation at Rhuddlan (19 March 1284); this record uses the promulgation date."
+  },
+  {
+    "id": "evt-1290-expulsion-jews",
+    "title": "Edict of Expulsion of the Jews from England",
+    "date": "1290-07-18",
+    "endDate": null,
+    "precision": "day",
+    "category": "church",
+    "actors": ["edward-i"],
+    "place": "England",
+    "significance": 4,
+    "summary": "On 18 July 1290, Edward I issued the Edict of Expulsion, ordering that all Jews were to leave England by All Saints' Day, 1 November 1290. The order followed Edward's return to England in 1289 deeply in debt, with the expulsion of the Jews being the price he agreed to pay for a large parliamentary tax grant. Jews were not permitted to resettle in England for centuries afterwards.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Edict_of_Expulsion",
+        "title": "Edict of Expulsion",
+        "publisher": "Wikipedia",
+        "quote": "all Jews were to leave by All Saints' Day, 1 November 1290"
+      },
+      {
+        "url": "https://www.nationalarchives.gov.uk/education/resources/jews-in-england-1290/",
+        "title": "Jews in England 1290",
+        "publisher": "The National Archives (UK)",
+        "quote": "by the time King Edward returned to England in 1289, he was deeply in debt … The expulsion of the Jews was the price he agreed to pay"
+      }
+    ],
+    "uncertain": "No surviving text of the 1290 edict itself was located; sources indicate the original is lost and only administrative writs to sheriffs survive. Estimates of the Jewish population affected vary: Wikipedia gives 'perhaps as few as 2,000 people, although estimates vary', while other accounts suggest figures around 3,000."
+  },
+  {
+    "id": "evt-1291-great-cause",
+    "title": "The Great Cause: Arbitration of the Scottish Succession",
+    "date": "1291",
+    "endDate": "1292-11-17",
+    "precision": "range",
+    "category": "succession",
+    "actors": ["edward-i"],
+    "place": "Berwick-upon-Tweed, Scotland",
+    "significance": 3,
+    "summary": "After the death of the child queen Margaret, Maid of Norway, left the Scottish throne vacant, the Guardians of Scotland invited Edward I to arbitrate among the competing claimants in the process known as the Great Cause. Before hearing the case, Edward demanded in May 1291 that his claim of feudal overlordship of Scotland be recognised. On 17 November 1292 he ruled in favour of John Balliol, who swore fealty to Edward and was inaugurated King of Scots at Scone Abbey on 30 November 1292.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Competitors_for_the_Crown_of_Scotland",
+        "title": "Competitors for the Crown of Scotland",
+        "publisher": "Wikipedia",
+        "quote": "Edward demanded in May 1291 that his claim of feudal overlordship of Scotland be recognised before he would step in and act as arbiter."
+      },
+      {
+        "url": "https://www.worldhistory.org/John_Balliol/",
+        "title": "John Balliol",
+        "publisher": "World History Encyclopedia",
+        "quote": "Balliol swore fealty to Edward, and ten days later, he was inaugurated as King of Scotland on 30 November 1292 CE at Scone Abbey."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1295-model-parliament",
+    "title": "The \"Model Parliament\" of 1295",
+    "date": "1295-11-13",
+    "endDate": null,
+    "precision": "day",
+    "category": "law",
+    "actors": ["edward-i"],
+    "place": "Westminster, London, England",
+    "significance": 4,
+    "summary": "Edward I summoned a parliament to meet at Westminster on 13 November 1295, comprising the higher clergy and magnates alongside representatives of the lower clergy and elected knights of the shires and burgesses of the towns, chiefly to secure funds for his wars. Victorian constitutional historians, notably William Stubbs, later dubbed it the \"Model Parliament\" for containing the elements associated with later representative parliaments. Modern commentary treats the label as retrospective, since subsequent parliaments did not consistently reproduce this composition.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Model_Parliament",
+        "title": "Model Parliament",
+        "publisher": "Wikipedia",
+        "quote": "Edward I summoned the parliament to meet at Westminster on 13 November 1295."
+      },
+      {
+        "url": "https://www.timewisetraveller.co.uk/modelparliament.html",
+        "title": "THE \"MODEL PARLIAMENT\" OF 1295 (E1)",
+        "publisher": "Timewise Traveller",
+        "quote": "the term \"Model\" is itself something of a misnomer, because many assemblies summoned after this date did not follow the same composition."
+      }
+    ],
+    "uncertain": "The 'Model Parliament' label is a 19th-century historiographical term (attributed to William Stubbs) rather than a contemporary designation, and is described by one source consulted as a misnomer since later parliaments did not consistently replicate the 1295 composition."
+  },
+  {
+    "id": "evt-1297-stirling-bridge",
+    "title": "Battle of Stirling Bridge",
+    "date": "1297-09-11",
+    "endDate": null,
+    "precision": "day",
+    "category": "battle",
+    "actors": [],
+    "place": "Stirling, Scotland",
+    "significance": 4,
+    "summary": "On 11 September 1297 the Scottish forces of Andrew Moray and William Wallace defeated the combined English forces of John de Warenne, 6th Earl of Surrey, and Hugh de Cressingham, treasurer of the English administration in Scotland, near Stirling on the River Forth. The English were caught crossing a narrow bridge over marshy ground and were routed, Cressingham being among the dead. Edward I was not present, having reassigned forces destined for Scotland to his own campaign in Flanders.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Stirling_Bridge",
+        "title": "Battle of Stirling Bridge",
+        "publisher": "Wikipedia",
+        "quote": "On 11 September 1297, the forces of Andrew Moray and William Wallace defeated the combined English forces of John de Warenne, 6th Earl of Surrey, and Hugh de Cressingham near Stirling, on the River Forth."
+      },
+      {
+        "url": "https://www.britishbattles.com/scottish-war-of-independence/battle-of-stirling-bridge/",
+        "title": "Battle of Stirling Bridge",
+        "publisher": "British Battles",
+        "quote": "John de Warenne, Earl of Surrey and Sussex and Hugh Cressingham, the Treasurer of the English administration in Scotland."
+      },
+      {
+        "url": "https://www.medievalists.net/2013/01/the-man-who-lost-at-stirling-bridge/",
+        "title": "The man who lost at Stirling Bridge",
+        "publisher": "Medievalists.net",
+        "quote": "Edward reassigned forces destined for Scotland to assist with his campaign in Flanders."
+      }
+    ],
+    "uncertain": "Sources confirm Edward I had diverted troops to his Flanders campaign and left Scottish command to Warenne, but none of the sources consulted places him at a specific location on 11 September 1297 itself; his absence from the battle is inferred from the delegation of command and his known Flanders campaign."
+  },
+  {
+    "id": "evt-1305-wallace-execution",
+    "title": "Execution of William Wallace",
+    "date": "1305-08-23",
+    "endDate": null,
+    "precision": "day",
+    "category": "rebellion",
+    "actors": ["edward-i"],
+    "place": "Smithfield, London, England",
+    "significance": 4,
+    "summary": "William Wallace, captured near Glasgow in August 1305, was tried at Westminster Hall and found guilty of treason on 23 August 1305, though he maintained he had never sworn allegiance to Edward I. He was executed the same day at Smithfield, being hanged, drawn and quartered. His head was displayed on London Bridge and his limbs sent to towns in the north as a warning against rebellion.",
+    "citations": [
+      {
+        "url": "https://www.nationalwallacemonument.com/2023/07/wallaces-capture-and-execution/",
+        "title": "Wallace's Capture and Execution",
+        "publisher": "National Wallace Monument",
+        "quote": "On 23rd August 1305 Wallace was found guilty of treason and sentenced to death."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/William_Wallace",
+        "title": "William Wallace",
+        "publisher": "Wikipedia",
+        "quote": "hanged, drawn and quartered—strangled by hanging, but released while he was still alive, emasculated, eviscerated (with his bowels burned before him), beheaded, then cut into four parts."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1307-edward-i-death",
+    "title": "Death of Edward I",
+    "date": "1307-07-07",
+    "endDate": null,
+    "precision": "day",
+    "category": "succession",
+    "actors": ["edward-i"],
+    "place": "Burgh by Sands, Cumberland, England",
+    "significance": 4,
+    "summary": "Despite failing health, Edward I was carried north to pursue another campaign against the Scots, Robert Bruce having taken the Scottish crown, and died en route at Burgh by Sands near the Scottish border on 7 July 1307, aged 68. He was succeeded by his son Edward II, who inherited the unresolved war with Scotland.",
+    "citations": [
+      {
+        "url": "https://www.royal.uk/edward-i-longshanks",
+        "title": "Edward I 'Longshanks' (r. 1272-1307)",
+        "publisher": "Royal Household (royal.uk)",
+        "quote": "Despite his failing health, Edward was carried north to pursue another campaign, but he died en route at Burgh on Sands on 7 July 1307 aged 68"
+      },
+      {
+        "url": "https://www.cumbriacountyhistory.org.uk/death-king-background-burgh-sands",
+        "title": "Death of a king [Background] Burgh by Sands",
+        "publisher": "Cumbria County History Trust",
+        "quote": "It was while on campaign against the Scots that Edward I died on 7th July 1307"
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1311-ordinances",
+    "title": "The Ordinances of 1311",
+    "date": "1311-10-05",
+    "endDate": null,
+    "precision": "day",
+    "category": "law",
+    "actors": ["edward-ii"],
+    "place": "London, England",
+    "significance": 3,
+    "summary": "In 1311 a committee of barons and clergy known as the Lords Ordainers imposed the Ordinances on Edward II, a reform programme restricting royal authority. Grants made to the damage of the king and the impoverishment of the crown were annulled, and the king could no longer go to war without the consent of the baronage, nor reform the coinage. Ordinance 20 required that the king's favourite Piers Gaveston, as the evident enemy of the king and of his people, be completely exiled from England, Scotland, Ireland and Wales.",
+    "citations": [
+      {
+        "url": "https://thehistoryofengland.co.uk/resource/the-ordinances-of-1311/",
+        "title": "The Ordinances of 1311",
+        "publisher": "The History of England",
+        "quote": "All grants made to the damage of the king and the impoverishment of the crown since the commission was given to us . . . shall be annulled"
+      },
+      {
+        "url": "https://thehistoryofengland.co.uk/resource/the-ordinances-of-1311/",
+        "title": "The Ordinances of 1311 — Ordinance 20",
+        "publisher": "The History of England",
+        "quote": "Piers Gavaston as the evident enemy of the king and of his people be completely exiled as well from the kingdom of England, Scotland, Ireland and Wales"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ordinances_of_1311",
+        "title": "Ordinances of 1311",
+        "publisher": "Wikipedia",
+        "quote": "The king could no longer go to war without the consent of the baronage, nor could he make reforms of the coinage."
+      }
+    ],
+    "uncertain": "Sources place the substantive completion of the articles in August 1311 but the formal presentation and proclamation on 5 October 1311; this record uses the October date. The British History Online edition (Parliament Rolls of Medieval England) is paywalled and could not be consulted directly."
+  },
+  {
+    "id": "evt-1312-gaveston-execution",
+    "title": "Execution of Piers Gaveston",
+    "date": "1312-06-19",
+    "endDate": null,
+    "precision": "day",
+    "category": "dynastic",
+    "actors": ["edward-ii"],
+    "place": "Blacklow Hill, near Warwick, Warwickshire, England",
+    "significance": 3,
+    "summary": "On 19 June 1312, Piers Gaveston, the exiled royal favourite of Edward II who had returned to England, was seized by the Earl of Warwick and taken to Blacklow Hill near Warwick, on the Earl of Lancaster's land. There two Welshmen ran him through with a sword and beheaded him, without any legal process. His killing deepened the political crisis between Edward II and the baronage that had produced the Ordinances of the previous year.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Piers_Gaveston",
+        "title": "Piers Gaveston",
+        "publisher": "Wikipedia",
+        "quote": "On 19 June, he was taken out on the road towards Kenilworth as far as Blacklow Hill, which was on the Earl of Lancaster's land. Here, two Welshmen ran him through with a sword and beheaded him."
+      },
+      {
+        "url": "https://www.executedtoday.com/2010/06/19/1312-piers-gaveston/",
+        "title": "1312: Piers Gaveston",
+        "publisher": "Executed Today",
+        "quote": "Gaveston was beheaded without color of law at Blacklow Hill near Warwick."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1314-bannockburn",
+    "title": "Battle of Bannockburn",
+    "date": "1314-06-23",
+    "endDate": "1314-06-24",
+    "precision": "range",
+    "category": "battle",
+    "actors": ["edward-ii"],
+    "place": "Bannockburn, near Stirling, Scotland",
+    "significance": 5,
+    "summary": "On 23-24 June 1314, the Scottish army of Robert Bruce decisively defeated the English army of Edward II at Bannockburn, near Stirling, during the First War of Scottish Independence. Edward's larger force was routed by the smaller Scottish army, and Edward himself barely escaped the field. The battle was a decisive victory for Bruce and formed a major turning point in the war, which ended fourteen years later.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Bannockburn",
+        "title": "Battle of Bannockburn",
+        "publisher": "Wikipedia",
+        "quote": "It was a decisive victory for Robert Bruce and formed a major turning point in the war, which ended 14 years later"
+      },
+      {
+        "url": "https://www.britishbattles.com/scottish-war-of-independence/battle-of-bannockburn/",
+        "title": "Battle of Bannockburn",
+        "publisher": "British Battles",
+        "quote": "Robert de Bruce kills Sir Henry de Bohun in single combat on the first day of the Battle of Bannockburn on 23rd June 1314"
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1315-great-famine",
+    "title": "The Great Famine",
+    "date": "1315",
+    "endDate": "1317",
+    "precision": "range",
+    "category": "economy",
+    "actors": [],
+    "place": "Northern Europe, including England",
+    "significance": 4,
+    "summary": "The Great Famine started with bad weather in spring 1315, most notably lengthy periods of rain which caused flooding and left agricultural fields waterlogged across Northern Europe including England. Crop failures lasted through 1316 until the summer harvest in 1317, and Europe did not fully recover until 1322. Livestock murrains compounded the shortages, and the resulting famine caused widespread mortality.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Great_Famine_of_1315%E2%80%931317",
+        "title": "Great Famine of 1315-1317",
+        "publisher": "Wikipedia",
+        "quote": "The Great Famine started with bad weather in spring 1315. Crop failures lasted through 1316 until the summer harvest in 1317, and Europe did not fully recover until 1322."
+      },
+      {
+        "url": "https://www.medievalists.net/2019/06/great-famine/",
+        "title": "10 Things to Know About the Great Famine",
+        "publisher": "Medievalists.net",
+        "quote": "The year 1315 saw drastic weather, most notably lengthy periods of rain, which caused flooding and left agricultural fields waterlogged."
+      }
+    ],
+    "uncertain": "Sources vary on the famine's chronological bounds: most identify the acute crisis as 1315-1317, but some extend related distress (livestock pestilence, slow recovery) to as late as 1322. Mortality estimates also vary widely by region and no single figure is asserted here."
+  },
+  {
+    "id": "evt-1327-edward-ii-deposition",
+    "title": "Deposition of Edward II",
+    "date": "1327-01",
+    "endDate": null,
+    "precision": "month",
+    "category": "succession",
+    "actors": ["edward-ii", "isabella-france", "edward-iii"],
+    "place": "Kenilworth Castle and Westminster, England",
+    "significance": 5,
+    "summary": "Following the 1326 invasion of England led by Queen Isabella of France and Roger Mortimer, a parliament convened at Westminster in January 1327, where the whole community of the realm there present unanimously chose Edward's son as guardian of the kingdom. Edward II was forced to relinquish his crown in January 1327 in favour of his son, who was proclaimed king in London on 25 January 1327. It was the first forced removal of a reigning English king by his subjects since the Norman Conquest.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Parliament_of_1327",
+        "title": "Parliament of 1327",
+        "publisher": "Wikipedia",
+        "quote": "the whole community of the realm there present, unanimously chose [Edward] to be guardian of the said kingdom"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Edward_II",
+        "title": "Edward II",
+        "publisher": "Wikipedia",
+        "quote": "Edward was forced to relinquish his crown in January 1327 in favour of his son, Edward III of England"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Edward_III",
+        "title": "Edward III",
+        "publisher": "Wikipedia",
+        "quote": "who was proclaimed king in London on 25 January 1327"
+      }
+    ],
+    "uncertain": "Sources differ on the exact day of each step: Edward's agreement to abdicate is usually placed around 20-21 January, while his son's proclamation as king is dated 24 or 25 January depending on the account. Month-level precision is used rather than asserting a single contested day."
+  },
+  {
+    "id": "evt-1327-edward-ii-death",
+    "title": "Reported death of Edward II",
+    "date": "1327-09-21",
+    "endDate": null,
+    "precision": "day",
+    "category": "dynastic",
+    "actors": ["edward-ii"],
+    "place": "Berkeley Castle, Gloucestershire, England (traditional/reported location)",
+    "significance": 4,
+    "summary": "Edward II, deposed in January 1327 and held in custody, was reported to have died at Berkeley Castle on 21 September 1327. Many modern historians believe he was murdered on the orders of the new regime controlled by Isabella of France and Roger Mortimer, though the manner of death is not established. The widely known story that he was killed with a red-hot iron is not supported by near-contemporary sources and is regarded by scholars as later embellishment or hostile propaganda.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Edward_II",
+        "title": "Edward II",
+        "publisher": "Wikipedia",
+        "quote": "he died in Berkeley Castle on 21 September, probably murdered on the orders of the new regime"
+      },
+      {
+        "url": "https://historiesandcastles.com/blogs/medieval-english-monarchy/the-mysterious-death-of-edward-ii-at-berkeley-castle",
+        "title": "The Mysterious Death of Edward II at Berkeley Castle",
+        "publisher": "Histories and Castles",
+        "quote": "No near-contemporary source mentions it. Scholars dismiss it as propaganda, a cruel jab at the king's sexuality rather than historical fact."
+      }
+    ],
+    "uncertain": "The fact, date, and manner of Edward II's death are all genuinely disputed. The 'red-hot poker' story first appears only in chronicles written in the 1330s-1340s, well after the event, and is now widely regarded as later embellishment or hostile propaganda rather than fact; the more commonly favoured modern view — death by murder, possibly suffocation, on the orders of the Isabella-Mortimer regime — remains unproven. A minority position associated with the historian Ian Mortimer, resting on the Fieschi Letter (c.1337), argues Edward did not die at Berkeley in 1327 at all but was secretly released and lived on abroad; this survival thesis has been contested by other scholars as unconvincing. The date and place recorded here reflect the traditional account, not a settled fact."
+  },
+  {
+    "id": "evt-1330-mortimer-coup",
+    "title": "Edward III's coup against Roger Mortimer",
+    "date": "1330-10-19",
+    "endDate": null,
+    "precision": "day",
+    "category": "dynastic",
+    "actors": ["edward-iii", "isabella-france"],
+    "place": "Nottingham Castle, England",
+    "significance": 4,
+    "summary": "On 19 October 1330 the seventeen-year-old Edward III, aided by his close companion William Montagu and a small number of other trusted men, took Roger Mortimer by surprise and captured him at Nottingham Castle, the party having been conducted into a secret underground passage by the castle's constable. Mortimer, who alongside Isabella of France had dominated the regency government since Edward II's deposition, was condemned without trial and hanged at Tyburn on 29 November 1330. The coup began Edward III's personal rule.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Edward_III_of_England",
+        "title": "Edward III of England",
+        "publisher": "Wikipedia",
+        "quote": "Aided by his close companion William Montagu, 3rd Baron Montagu, and a small number of other trusted men, Edward took Mortimer by surprise and captured him at Nottingham Castle on 19 October 1330."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Roger_Mortimer,_1st_Earl_of_March",
+        "title": "Roger Mortimer, 1st Earl of March",
+        "publisher": "Wikipedia",
+        "quote": "condemned without trial and hanged at Tyburn on 29 November 1330."
+      },
+      {
+        "url": "https://nottinghamhiddenhistoryteam.wordpress.com/2015/10/12/the-story-of-mortimers-hole/",
+        "title": "The Story of Mortimer's Hole",
+        "publisher": "Nottingham Hidden History Team",
+        "quote": "Montagu and Edward's loyal Knights were conducted by William Elan (Constable of the Castle) into a secret underground passage leading up through the rock."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1337-hundred-years-war",
+    "title": "Confiscation of Aquitaine and start of the Hundred Years' War",
+    "date": "1337-05",
+    "endDate": null,
+    "precision": "month",
+    "category": "dynastic",
+    "actors": ["edward-iii"],
+    "place": "Paris and the Duchy of Aquitaine (Gascony)",
+    "significance": 5,
+    "summary": "In May 1337 it was agreed by Philip VI of France's council that Gascony should be taken back into Philip's hands, confiscating Edward III's continental duchy of Aquitaine along with the county of Ponthieu. This prompted Edward to renew his claim for the French throne, this time by force of arms, and he formally declared himself King of France in a ceremony at Ghent in January 1340. The confiscation and ensuing succession dispute are conventionally dated as the start of the Hundred Years' War.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Hundred_Years%27_War",
+        "title": "Hundred Years' War",
+        "publisher": "Wikipedia",
+        "quote": "It was agreed that Gascony should be taken back into Philip's hands, which prompted Edward to renew his claim for the French throne, this time by force of arms."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Edward_III_of_England",
+        "title": "Edward III of England",
+        "publisher": "Wikipedia",
+        "quote": "In 1337, Philip VI of France confiscated the English king's Duchy of Aquitaine and the county of Ponthieu."
+      },
+      {
+        "url": "https://www.worldhistory.org/Hundred_Years'_War/",
+        "title": "Hundred Years' War",
+        "publisher": "World History Encyclopedia",
+        "quote": "Edward got the ball rolling by declaring himself King of France in a ceremony in Ghent in January 1340."
+      }
+    ],
+    "uncertain": "The exact day of the confiscation is not consistent across sources: Wikipedia's body text states only 'May 1337' while its infobox cites 24 May 1337 as the war's conventional start date, so month-level precision is used."
+  },
+  {
+    "id": "evt-1346-crecy",
+    "title": "Battle of Crécy",
+    "date": "1346-08-26",
+    "endDate": null,
+    "precision": "day",
+    "category": "battle",
+    "actors": ["edward-iii", "edward-black-prince"],
+    "place": "Crécy-en-Ponthieu, Picardy, France",
+    "significance": 5,
+    "summary": "The Battle of Crécy on 26 August 1346 saw an English army under Edward III, including a division commanded by his son Edward the Black Prince, defeat a much larger French force led by King Philip VI in Picardy, northern France. The battle turned on the English and Welsh longbowmen, whose weapon was unique to them and took up to ten years to master. Crécy established the effectiveness of the longbow as a dominant weapon on the Western European battlefield.",
+    "citations": [
+      {
+        "url": "https://www.britannica.com/event/Battle-of-Crecy",
+        "title": "Battle of Crécy",
+        "publisher": "Encyclopaedia Britannica",
+        "quote": "The longbow used by the English and Welsh archers was unique to them; it took up to ten years to master"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Cr%C3%A9cy",
+        "title": "Battle of Crécy",
+        "publisher": "Wikipedia",
+        "quote": "The battle established the effectiveness of the longbow as a dominant weapon on the Western European battlefield."
+      },
+      {
+        "url": "https://www.worldhistory.org/article/1510/battle-of-crecy/",
+        "title": "Battle of Crécy",
+        "publisher": "World History Encyclopedia",
+        "quote": "The Battle of Crécy on 26 August 1346 CE saw an English army defeat a much larger French force"
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1348-black-death",
+    "title": "The Black Death reaches England",
+    "date": "1348",
+    "endDate": "1349",
+    "precision": "range",
+    "category": "plague",
+    "actors": [],
+    "place": "Melcombe (Weymouth), Dorset, England",
+    "significance": 5,
+    "summary": "According to the Grey Friars' Chronicle, plague reached England by ship at Melcombe in the county of Dorset a little before the Feast of St John the Baptist in 1348; from there it spread through the country during 1348 and 1349. Mortality estimates vary considerably: for England a figure of 40-60% of the population is widely accepted, while broader estimates for Europe range from roughly one-third to between 30% and 50% of the population of affected areas. The pandemic caused catastrophic depopulation with lasting economic and social consequences.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Black_Death_in_England",
+        "title": "Black Death in England",
+        "publisher": "Wikipedia",
+        "quote": "In this year, in Melcombe, in the county of Dorset, a little before the Feast of St. John the Baptist, two ships, one of them from Bristol, came alongside."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Black_Death_in_England",
+        "title": "Black Death in England — mortality",
+        "publisher": "Wikipedia",
+        "quote": "a figure of 40–60% of the population is widely accepted."
+      },
+      {
+        "url": "https://www.worldhistory.org/Black_Death/",
+        "title": "Black Death",
+        "publisher": "World History Encyclopedia",
+        "quote": "between 30% and 50% of the population of those places affected died from the Black Death."
+      },
+      {
+        "url": "https://www.history.com/articles/black-death",
+        "title": "Black Death - Causes, Symptoms & Impact",
+        "publisher": "HISTORY (A&E Television Networks)",
+        "quote": "Over the next five years, the Black Death would kill more than 20 million people in Europe—almost one-third of the continent's population."
+      }
+    ],
+    "uncertain": "Mortality estimates conflict materially across sources and no single death toll is asserted: Wikipedia's England-specific article cites a widely accepted 40-60% figure, noting individual historians' estimates ranging from about 20% (Russell) to 62.5% (Benedictow); HISTORY gives roughly one-third for Europe overall; World History Encyclopedia gives 30-50% for affected areas."
+  },
+  {
+    "id": "evt-1356-poitiers",
+    "title": "Battle of Poitiers",
+    "date": "1356-09-19",
+    "endDate": null,
+    "precision": "day",
+    "category": "battle",
+    "actors": ["edward-black-prince"],
+    "place": "Near Poitiers, France",
+    "significance": 4,
+    "summary": "On 19 September 1356, an Anglo-Gascon army of roughly 6,000 men under Edward the Black Prince defeated a much larger French royal army of some 14,000 to 16,000 a few miles south of Poitiers. King John II of France was captured, as were his young son Philip and between 2,000 and 3,000 men-at-arms — a catastrophic outcome for the French crown. The king's captivity forced years of Anglo-French negotiation that eventually produced the Treaty of Brétigny in 1360.",
+    "citations": [
+      {
+        "url": "https://www.britannica.com/event/Battle-of-Poitiers-French-history-1356",
+        "title": "Battle of Poitiers | Description & Significance",
+        "publisher": "Encyclopaedia Britannica",
+        "quote": "King John II was captured, as were his 14-year-old son Philip and between 2,000 and 3,000 men-at-arms."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Poitiers",
+        "title": "Battle of Poitiers",
+        "publisher": "Wikipedia",
+        "quote": "It took place in western France, 5 miles (8 km) south of Poitiers, when approximately 14,000 to 16,000 French attacked a strong defensive position held by 6,000 Anglo-Gascons."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1360-treaty-bretigny",
+    "title": "Treaty of Brétigny",
+    "date": "1360-05-08",
+    "endDate": "1360-10-24",
+    "precision": "range",
+    "category": "treaty",
+    "actors": ["edward-iii"],
+    "place": "Brétigny, near Chartres, France (ratified at Calais)",
+    "significance": 4,
+    "summary": "Edward III and King John II of France agreed peace terms at Brétigny on 8 May 1360, ending the first phase of the Hundred Years' War, and the agreement was ratified at Calais in October 1360. Edward gave up his claim to the French throne in exchange for Ponthieu, Calais and an enlarged Aquitaine — Guyenne, Gascony, Poitou, Saintonge and Aunis — to be held free and clear, without doing homage. John II's release was tied to a large ransom.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Treaty_of_Br%C3%A9tigny",
+        "title": "Treaty of Brétigny",
+        "publisher": "Wikipedia",
+        "quote": "By the terms of this treaty, Edward III obtained Guyenne, Gascony, Poitou, Saintonge and Aunis...The king of England was to hold these free and clear, without doing homage for them."
+      },
+      {
+        "url": "https://www.gasconrolls.org/en/blog/654-years-on-the-treaty-of-bretigny-8-may-1360/",
+        "title": "654 years on: the treaty of Brétigny 8 May 1360",
+        "publisher": "Gascon Rolls Project (Department of Digital Humanities, King's College London)",
+        "quote": "On 8 May 1360, a peace treaty was finally signed. Edward III gave up his claims to the French throne in exchange of the county of Ponthieu, Calais and an enlarged Aquitaine in full sovereignty."
+      }
+    ],
+    "uncertain": "Sources consulted did not converge on a single ransom figure for John II (variously three or four million gold crowns/écus, with differing initial instalments), so no specific amount is asserted. No primary edition of the treaty text was located on the Avalon Project or elsewhere in this research."
+  },
+  {
+    "id": "evt-1376-good-parliament",
+    "title": "The Good Parliament",
+    "date": "1376-04-28",
+    "endDate": "1376-07-10",
+    "precision": "range",
+    "category": "law",
+    "actors": ["edward-iii", "edward-black-prince", "john-of-gaunt"],
+    "place": "Westminster, England",
+    "significance": 4,
+    "summary": "Sitting at Westminster from 28 April to 10 July 1376, the Good Parliament was the longest Parliament up until that time. The Commons prosecuted the crown's ministers before the Lords in what became the first recorded parliamentary impeachments, petitioning that Lord Latimer be deprived of his office on the grounds that he had often deceived the king; the ailing Edward the Black Prince died during the session. After Parliament dissolved, John of Gaunt had the Good Parliament declared void and its acts removed from the books.",
+    "citations": [
+      {
+        "url": "https://sourcebooks.fordham.edu/source/1376goodparliament.asp",
+        "title": "Thomas Walsingham: The Good Parliament of 1376",
+        "publisher": "Fordham University Internet Medieval Sourcebook",
+        "quote": "they most urgently petitioned that he should be deprived of his office; he was said often to have deceived the king and to have been false---let me not say traitorous---to his lord the king."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Good_Parliament",
+        "title": "Good Parliament",
+        "publisher": "Wikipedia",
+        "quote": "Sitting in Westminster from April 28 to July 10, it was the longest Parliament up until that time."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Good_Parliament",
+        "title": "Good Parliament — aftermath",
+        "publisher": "Wikipedia",
+        "quote": "John had the Good Parliament declared void and its acts removed from the books."
+      }
+    ],
+    "uncertain": "The British History Online edition of the Parliament Rolls for April 1376 — the preferred primary source — is paywalled and could not be read, so it is not cited. The Fordham/Walsingham text consulted covers Latimer's impeachment but does not mention Alice Perrers, so the Perrers strand of the scandal is omitted from the summary for want of a verified source."
+  },
+  {
+    "id": "evt-1376-black-prince-death",
+    "title": "Death of Edward the Black Prince",
+    "date": "1376-06-08",
+    "endDate": null,
+    "precision": "day",
+    "category": "dynastic",
+    "actors": ["edward-black-prince", "edward-iii"],
+    "place": "Palace of Westminster, England",
+    "significance": 4,
+    "summary": "The death of Edward the Black Prince was announced at the Palace of Westminster on 8 June 1376, when he was 46, after a long illness traditionally attributed to dysentery, his fits of which had become so violent they sometimes made him faint. Because he predeceased his father Edward III, his young son Richard became heir apparent in his place and the Black Prince never reigned.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Edward_the_Black_Prince",
+        "title": "Edward the Black Prince",
+        "publisher": "Wikipedia",
+        "quote": "His death was announced at the Palace of Westminster on 8 June 1376. His fits of dysentery had become so violent they sometimes made him faint."
+      },
+      {
+        "url": "https://www.worldhistory.org/Edward_the_Black_Prince/",
+        "title": "Edward the Black Prince",
+        "publisher": "World History Encyclopedia",
+        "quote": "Prince Edward was 46 when he died on 8 June 1376 CE, probably of dysentery, and a nation mourned."
+      },
+      {
+        "url": "https://www.medievalists.net/2022/12/death-of-edward-the-black-prince/",
+        "title": "New study re-examines the death of Edward the Black Prince",
+        "publisher": "Medievalists.net",
+        "quote": "\"chronic dysentery is probably unlikely,\" the authors write, noting that someone suffering from amoebic dysentery would likely not have been well enough to travel by ship to military campaigns in 1372."
+      }
+    ],
+    "uncertain": "The cause of death is disputed. The traditional account (chronic dysentery contracted on the 1367 Spanish campaign) is challenged by a 2022 study in BMJ Military Health, which considers chronic dysentery unlikely and proposes malaria, brucellosis, inflammatory bowel disease, or complications of an acute rather than chronic dysentery episode."
+  },
+  {
+    "id": "evt-1377-edward-iii-death",
+    "title": "Death of Edward III",
+    "date": "1377-06-21",
+    "endDate": null,
+    "precision": "day",
+    "category": "succession",
+    "actors": ["edward-iii"],
+    "place": "Sheen, Surrey, England",
+    "significance": 4,
+    "summary": "After a brief period of recovery in February 1377, Edward III died of a stroke at Sheen on 21 June 1377, aged 64. His reign, begun in January 1327, had lasted fifty years, the longest of any medieval English king to that point. He was succeeded by his ten-year-old grandson Richard II, son of the Black Prince, who had predeceased him the previous year.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Edward_III",
+        "title": "Edward III",
+        "publisher": "Wikipedia",
+        "quote": "After a brief period of recovery in February 1377, the King died of a stroke at Sheen on 21 June. Edward III was succeeded by his ten-year-old grandson, King Richard II."
+      },
+      {
+        "url": "https://www.worldhistory.org/Edward_III_of_England/",
+        "title": "Edward III of England",
+        "publisher": "World History Encyclopedia",
+        "quote": "Edward suffered a stroke in 1376 and, never really recovering, he died on 21 June 1377 at Sheen Palace in Surrey. He was 64."
+      }
+    ],
+    "uncertain": null
+  }
+]

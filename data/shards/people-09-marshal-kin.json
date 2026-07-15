@@ -1,0 +1,300 @@
+[
+ {
+  "id": "hugh-bigod-norfolk",
+  "name": "Hugh Bigod",
+  "fullName": "Hugh Bigod, 3rd Earl of Norfolk",
+  "epithet": null,
+  "house": "Bigod",
+  "role": "3rd Earl of Norfolk",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1182",
+   "place": null,
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Hugh_Bigod,_3rd_Earl_of_Norfolk",
+     "title": "Hugh Bigod, 3rd Earl of Norfolk",
+     "publisher": "Wikipedia",
+     "quote": "Hugh Bigod (c. 1182 – 18 February 1225) was a member of the powerful early Norman Bigod family"
+    }
+   ]
+  },
+  "death": {
+   "date": "1225-02-18",
+   "place": null,
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Hugh_Bigod,_3rd_Earl_of_Norfolk",
+     "title": "Hugh Bigod, 3rd Earl of Norfolk",
+     "publisher": "Wikipedia",
+     "quote": "Hugh Bigod (c. 1182 – 18 February 1225) was a member of the powerful early Norman Bigod family"
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "matilda-marshal",
+    "married": "1207",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Hugh_Bigod,_3rd_Earl_of_Norfolk",
+      "title": "Hugh Bigod, 3rd Earl of Norfolk",
+      "publisher": "Wikipedia",
+      "quote": "In late 1206 or early 1207, Hugh married Maud Marshal, also known as Matilda Marshall, (1192 – 27 March 1248), daughter of William Marshal, 1st Earl of Pembroke"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Earl of Norfolk",
+    "from": "1221",
+    "to": "1225-02-18",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/Hugh_Bigod,_3rd_Earl_of_Norfolk",
+      "title": "Hugh Bigod, 3rd Earl of Norfolk",
+      "publisher": "Wikipedia",
+      "quote": "He succeeded to his father's estates (including Framlingham Castle) in 1221."
+     }
+    ]
+   }
+  ],
+  "summary": "Hugh Bigod, eldest son of Roger Bigod, 2nd Earl of Norfolk, and Ida de Tosny, married Maud (Matilda) Marshal, daughter of William Marshal, in late 1206 or early 1207. Like his father, he was named among the twenty-five sureties charged with enforcing Magna Carta in 1215. He succeeded to the Bigod estates, including Framlingham Castle, on his father's death in 1221, but held the earldom of Norfolk for only a short time before his own death in 1225.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Hugh_Bigod,_3rd_Earl_of_Norfolk",
+    "title": "Hugh Bigod, 3rd Earl of Norfolk",
+    "publisher": "Wikipedia",
+    "quote": "In 1215, he and his father were one of the twenty-five sureties of Magna Carta"
+   }
+  ],
+  "uncertain": null
+ },
+ {
+  "id": "william-warenne-surrey",
+  "name": "William de Warenne",
+  "fullName": "William de Warenne, 5th Earl of Surrey",
+  "epithet": null,
+  "house": "Warenne",
+  "role": "5th Earl of Surrey",
+  "monarch": false,
+  "reign": null,
+  "death": {
+   "date": "1240-05-27",
+   "place": "London",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Warenne,_William_de_(d.1240)",
+     "title": "Dictionary of National Biography, 1885-1900/Warenne, William de (d.1240)",
+     "publisher": "Wikisource (Dictionary of National Biography, 1885-1900)",
+     "quote": "He died on 27 May 1240 at London"
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "matilda-marshal",
+    "married": "1225",
+    "citations": [
+     {
+      "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Warenne,_William_de_(d.1240)",
+      "title": "Dictionary of National Biography, 1885-1900/Warenne, William de (d.1240)",
+      "publisher": "Wikisource (Dictionary of National Biography, 1885-1900)",
+      "quote": "He certainly married in 1225 Matilda, the eldest daughter and subsequently coheiress of William Marshal, earl of Pembroke (d. 1219)."
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Earl of Surrey",
+    "from": "1202",
+    "to": "1240-05-27",
+    "citations": [
+     {
+      "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Warenne,_Hamelin_de",
+      "title": "Dictionary of National Biography, 1885-1900/Warenne, Hamelin de",
+      "publisher": "Wikisource (Dictionary of National Biography, 1885-1900)",
+      "quote": "He died in April 1202."
+     },
+     {
+      "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Warenne,_Hamelin_de",
+      "title": "Dictionary of National Biography, 1885-1900/Warenne, Hamelin de",
+      "publisher": "Wikisource (Dictionary of National Biography, 1885-1900)",
+      "quote": "Hamelin was succeeded by his son, William de Warenne (d. 1240)"
+     }
+    ]
+   }
+  ],
+  "summary": "William de Warenne succeeded his father Hamelin de Warenne as Earl of Surrey in 1202. He married, as her second husband, Matilda (Maud) Marshal, eldest daughter and later coheiress of William Marshal, Earl of Pembroke, in 1225, shortly after the February death of her first husband Hugh Bigod, Earl of Norfolk. William served as sheriff of Surrey and warden of the Cinque Ports, and acted as regent during Henry III's absence from England in 1230, before his own death in London on 27 May 1240.",
+  "citations": [
+   {
+    "url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Warenne,_William_de_(d.1240)",
+    "title": "Dictionary of National Biography, 1885-1900/Warenne, William de (d.1240)",
+    "publisher": "Wikisource (Dictionary of National Biography, 1885-1900)",
+    "quote": "By her Warenne was the father of John de Warenne (1231?–1304) [q. v.], his successor."
+   }
+  ],
+  "uncertain": "No source consulted gives a firm birth date for William de Warenne; Wikipedia's infobox range of 'born 1160s–1170s' is too imprecise to record, and the Dictionary of National Biography gives no date at all, only that he was already old enough to witness charters early in Richard I's reign (1189 onward). Birth is therefore omitted rather than estimated."
+ },
+ {
+  "id": "william-ferrers-derby",
+  "name": "William de Ferrers",
+  "fullName": "William de Ferrers, 5th Earl of Derby",
+  "epithet": null,
+  "house": "Ferrers",
+  "role": "5th Earl of Derby",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1193",
+   "place": null,
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/William_de_Ferrers,_5th_Earl_of_Derby",
+     "title": "William de Ferrers, 5th Earl of Derby",
+     "publisher": "Wikipedia",
+     "quote": "William III de Ferrers, 5th Earl of Derby (c. 1193 – 28 March 1254) of Chartley Castle in Staffordshire, was an English nobleman and major landowner, unable through illness to take much part in national affairs."
+    }
+   ]
+  },
+  "death": {
+   "date": "1254-03-28",
+   "place": null,
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/William_de_Ferrers,_5th_Earl_of_Derby",
+     "title": "William de Ferrers, 5th Earl of Derby",
+     "publisher": "Wikipedia",
+     "quote": "William III de Ferrers, 5th Earl of Derby (c. 1193 – 28 March 1254) of Chartley Castle in Staffordshire, was an English nobleman and major landowner, unable through illness to take much part in national affairs."
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "sibyl-marshal-daughter",
+    "married": "1238",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/William_de_Ferrers,_5th_Earl_of_Derby",
+      "title": "William de Ferrers, 5th Earl of Derby",
+      "publisher": "Wikipedia",
+      "quote": "He married (1st) Sibyl Marshal, a daughter of William Marshal, 1st Earl of Pembroke, by his wife Isabel de Clare, 4th Countess of Pembroke, by whom he had seven daughters:"
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Earl of Derby",
+    "from": "1247",
+    "to": "1254-03-28",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/William_de_Ferrers,_5th_Earl_of_Derby",
+      "title": "William de Ferrers, 5th Earl of Derby",
+      "publisher": "Wikipedia",
+      "quote": "He succeeded to the title of his father in 1247, but only lived another seven years, dying on 28 March 1254."
+     }
+    ]
+   }
+  ],
+  "summary": "William de Ferrers, son of William de Ferrers, 4th Earl of Derby, and Agnes de Kevelioc, married as his first wife Sibyl Marshal, a daughter of William Marshal, 1st Earl of Pembroke, by whom he had seven daughters. He suffered from gout from a young age and took little part in national affairs after the 1230s; he was also accidentally thrown from his litter into the River Great Ouse while crossing a bridge at St Neots, an accident he never fully recovered from. He succeeded his father as Earl of Derby in 1247 and died on 28 March 1254.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/William_de_Ferrers,_5th_Earl_of_Derby",
+    "title": "William de Ferrers, 5th Earl of Derby",
+    "publisher": "Wikipedia",
+    "quote": "He was accidentally thrown from his litter into the River Great Ouse while crossing a bridge at St Neots in Huntingdonshire and, although he escaped death, never recovered from the effects of the accident."
+   }
+  ],
+  "uncertain": "No source consulted gives a precise date for the marriage to Sibyl Marshal, only that it occurred before 1238; this record follows the same 1238 convention used in the existing Sibyl Marshal record."
+ },
+ {
+  "id": "william-de-braose-abergavenny",
+  "name": "William de Braose",
+  "fullName": "William de Braose, Lord of Abergavenny",
+  "epithet": "Gwilym Ddu (Black William)",
+  "house": "Braose",
+  "role": "Lord of Abergavenny",
+  "monarch": false,
+  "reign": null,
+  "birth": {
+   "date": "1197",
+   "place": null,
+   "precision": "circa",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/William_de_Braose_(died_1230)",
+     "title": "William de Braose (died 1230)",
+     "publisher": "Wikipedia",
+     "quote": "William de Braose (c. 1197 – 2 May 1230) was the son of Reginald de Braose by his first wife, Grecia Briwere."
+    }
+   ]
+  },
+  "death": {
+   "date": "1230-05-02",
+   "place": "Crogen, near Bala",
+   "precision": "day",
+   "citations": [
+    {
+     "url": "https://en.wikipedia.org/wiki/William_de_Braose_(died_1230)",
+     "title": "William de Braose (died 1230)",
+     "publisher": "Wikipedia",
+     "quote": "Invited by Llywelyn to the Easter festivities in 1230, William renewed the liaison with Joan and was caught in flagrante with her. Llywelyn had him hanged on 2 May 1230."
+    }
+   ]
+  },
+  "spouses": [
+   {
+    "id": "eva-marshal",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/William_de_Braose_(died_1230)",
+      "title": "William de Braose (died 1230)",
+      "publisher": "Wikipedia",
+      "quote": "William married Eva Marshal, daughter of William Marshal, 1st Earl of Pembroke."
+     }
+    ]
+   }
+  ],
+  "titles": [
+   {
+    "title": "Lord of Abergavenny",
+    "from": "1227",
+    "to": "1230-05-02",
+    "citations": [
+     {
+      "url": "https://en.wikipedia.org/wiki/William_de_Braose_(died_1230)",
+      "title": "William de Braose (died 1230)",
+      "publisher": "Wikipedia",
+      "quote": "He succeeded his father in his various lordships in 1227, including Abergavenny and Buellt."
+     }
+    ]
+   }
+  ],
+  "summary": "William de Braose, son of Reginald de Braose and Grecia Briwere, succeeded his father in the lordships of Abergavenny, Brecon, and Builth in 1227. Detested by the Welsh, who called him Gwilym Ddu, or Black William, he married Eva Marshal, daughter of William Marshal, 1st Earl of Pembroke. Captured by Llywelyn the Great's forces in the commote of Ceri in 1228, he agreed as part of his ransom that his daughter Isabella should marry Llywelyn's son Dafydd, but during a visit to Llywelyn's court at Easter 1230 he was caught having an affair with Llywelyn's wife, Joan, and was publicly hanged on 2 May 1230.",
+  "citations": [
+   {
+    "url": "https://en.wikipedia.org/wiki/William_de_Braose_(died_1230)",
+    "title": "William de Braose (died 1230)",
+    "publisher": "Wikipedia",
+    "quote": "William was captured by the Welsh forces of Prince Llywelyn the Great, in fighting in the commote of Ceri near Montgomery, in 1228."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/William_de_Braose_(died_1230)",
+    "title": "William de Braose (died 1230)",
+    "publisher": "Wikipedia",
+    "quote": "The Welsh, who detested him and his family name, called him Gwilym Ddu, Black William."
+   }
+  ],
+  "uncertain": "No source consulted gives a specific year for the marriage to Eva Marshal; other sources place it in a window of 1219-1221, which is recorded on Eva Marshal's own record, but the William de Braose article consulted here gives no date at all, so 'married' is omitted here rather than guessed."
+ }
+]

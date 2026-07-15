@@ -1,0 +1,683 @@
+[
+  {
+    "id": "evt-1042-edward-accession",
+    "title": "Edward the Confessor becomes King of England",
+    "date": "1042",
+    "endDate": null,
+    "precision": "year",
+    "category": "succession",
+    "actors": ["edward-confessor", "godwin-wessex"],
+    "place": "England",
+    "significance": 4,
+    "summary": "After the death of the childless Harthacnut, Edward — who had spent much of his life in Norman exile — was accepted as king with the backing of Earl Godwin of Wessex, restoring the West Saxon royal line. He was formally crowned at Winchester Cathedral on Easter Sunday, 3 April 1043.",
+    "citations": [
+      {
+        "url": "https://avalon.law.yale.edu/medieval/ang11.asp",
+        "title": "Avalon Project - The Anglo-Saxon Chronicle : Eleventh Century",
+        "publisher": "Avalon Project, Yale Law School",
+        "quote": "This year died King Hardacnute at Lambeth...and ere he was buried all people chose Edward for king in London."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Edward_the_Confessor",
+        "title": "Edward the Confessor",
+        "publisher": "Wikipedia",
+        "quote": "Following Harthacnut's death on 8 June 1042, Godwin, the most powerful of the English earls, supported Edward, who succeeded to the throne."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1051-godwin-exile",
+    "title": "Godwin family outlawed and exiled",
+    "date": "1051-09",
+    "endDate": null,
+    "precision": "month",
+    "category": "rebellion",
+    "actors": ["godwin-wessex", "harold-godwinson", "edward-confessor", "eustace-boulogne"],
+    "place": "England",
+    "significance": 3,
+    "summary": "A violent clash between the men of Dover and the retinue of Eustace of Boulogne led King Edward to order Earl Godwin to punish Dover; Godwin's refusal to comply was treated as open defiance of the king. Backed by rival earls, Edward outlawed Godwin and exiled him and his sons in September 1051.",
+    "citations": [
+      {
+        "url": "https://avalon.law.yale.edu/medieval/ang11.asp",
+        "title": "Avalon Project - The Anglo-Saxon Chronicle : Eleventh Century",
+        "publisher": "Avalon Project, Yale Law School",
+        "quote": "Then the king held a council, and proclaimed him an outlaw, with his whole army; himself and his wife, and all his three sons."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Godwin,_Earl_of_Wessex",
+        "title": "Godwin, Earl of Wessex",
+        "publisher": "Wikipedia",
+        "quote": "After a violent clash between people of Dover and the visiting Eustace II, Count of Boulogne, Godwin was ordered to punish the people of Dover...This time, however, Godwin refused, choosing to champion his own countrymen against a visiting foreign power and defying his own king."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1052-godwin-return",
+    "title": "Godwin family returns from exile in force",
+    "date": "1052",
+    "endDate": null,
+    "precision": "year",
+    "category": "rebellion",
+    "actors": ["godwin-wessex", "harold-godwinson", "edward-confessor"],
+    "place": "England",
+    "significance": 3,
+    "summary": "Godwin and his sons returned from exile in 1052 with an armed fleet, gathering the support of the navy, burgesses and peasantry as they sailed up the Thames. Faced with this show of force, Edward restored Godwin's earldom and lands without battle.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Godwin,_Earl_of_Wessex",
+        "title": "Godwin, Earl of Wessex",
+        "publisher": "Wikipedia",
+        "quote": "They all returned to England the next year with armed forces, gaining the support of the navy, burghers, and peasants, so compelling Edward to restore the earldom."
+      },
+      {
+        "url": "https://avalon.law.yale.edu/medieval/ang11.asp",
+        "title": "Avalon Project - The Anglo-Saxon Chronicle : Eleventh Century",
+        "publisher": "Avalon Project, Yale Law School",
+        "quote": "Earl Godwin, and Harold, and the queen, sat in their stations"
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1065-westminster-abbey",
+    "title": "Consecration of Westminster Abbey",
+    "date": "1065-12-28",
+    "endDate": null,
+    "precision": "day",
+    "category": "church",
+    "actors": ["edward-confessor"],
+    "place": "Westminster, London",
+    "significance": 4,
+    "summary": "Edward the Confessor's new Romanesque church at Westminster, built from 1042 as his royal burial church after Pope Leo IX released him from a pilgrimage vow, was consecrated on 28 December 1065 — Holy Innocents' Day. Edward, already ill, could not attend, and he died just over a week later.",
+    "citations": [
+      {
+        "url": "https://www.westminster-abbey.org/abbey-commemorations/royals/edward-the-confessor-and-edith",
+        "title": "Edward the Confessor and Edith",
+        "publisher": "Westminster Abbey",
+        "quote": "The Abbey at Westminster was consecrated on Holy Innocents' Day, 28th December 1065, but the king was ill and unable to be present at the service."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Westminster_Abbey",
+        "title": "Westminster Abbey",
+        "publisher": "Wikipedia",
+        "quote": "Between 1042 and 1052, Edward the Confessor began rebuilding Saint Peter's Abbey to provide himself with a royal burial church."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1066-harold-accession",
+    "title": "Death of Edward the Confessor and accession of Harold Godwinson",
+    "date": "1066-01-06",
+    "endDate": null,
+    "precision": "day",
+    "category": "succession",
+    "actors": ["harold-godwinson", "edward-confessor"],
+    "place": "Westminster, London",
+    "significance": 5,
+    "summary": "Edward the Confessor died at Westminster on 5 January 1066, having reportedly commended the kingdom to Harold Godwinson shortly before his death. The Witan elected Harold king the next day, and he was crowned in Westminster Abbey on 6 January 1066, the same day Edward was buried there.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Edward_the_Confessor",
+        "title": "Edward the Confessor",
+        "publisher": "Wikipedia",
+        "quote": "Edward probably entrusted the kingdom to Harold and Edith shortly before he died at Westminster on 5 January 1066. On 6 January he was buried in Westminster Abbey, and Harold was crowned on the same day."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Harold_Godwinson",
+        "title": "Harold Godwinson",
+        "publisher": "Wikipedia",
+        "quote": "When the Witan convened the next day they selected Harold to succeed"
+      }
+    ],
+    "uncertain": "Whether Edward genuinely bequeathed the throne to Harold, or had earlier promised it to Duke William of Normandy as Norman sources claimed, is disputed; the intent behind Edward's deathbed gesture is ambiguous and historians disagree on whether he ever seriously meant, or later abandoned, any promise to William."
+  },
+  {
+    "id": "evt-1066-fulford-stamford-bridge",
+    "title": "Battles of Fulford and Stamford Bridge",
+    "date": "1066-09-20",
+    "endDate": "1066-09-25",
+    "precision": "range",
+    "category": "battle",
+    "actors": ["harold-godwinson", "tostig-godwinson"],
+    "place": "Fulford and Stamford Bridge, Yorkshire",
+    "significance": 4,
+    "summary": "An invading Norwegian army under King Harald Hardrada, joined by Harold Godwinson's exiled brother Tostig, defeated the northern earls Edwin and Morcar at Fulford on 20 September 1066 and occupied York. King Harold marched his army north and destroyed the Norwegian force at Stamford Bridge on 25 September, killing both Hardrada and Tostig — but the victory left his army exhausted just as William of Normandy landed in the south.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Fulford",
+        "title": "Battle of Fulford",
+        "publisher": "Wikipedia",
+        "quote": "King Harald III of Norway, also known as Harald Hardrada, a claimant to the English throne, and Tostig Godwinson, his English ally, fought and defeated the Northern Earls Edwin and Morcar."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Stamford_Bridge",
+        "title": "Battle of Stamford Bridge",
+        "publisher": "Wikipedia",
+        "quote": "The Battle of Stamford Bridge took place at the village of Stamford Bridge, East Riding of Yorkshire, in England, on 25 September 1066, between an English army under King Harold Godwinson and an invading Norwegian force led by King Harald Hardrada and the English king's brother Tostig Godwinson."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1066-hastings",
+    "title": "Battle of Hastings",
+    "date": "1066-10-14",
+    "endDate": null,
+    "precision": "day",
+    "category": "battle",
+    "actors": ["william-i", "harold-godwinson"],
+    "place": "Senlac Hill, Sussex",
+    "significance": 5,
+    "summary": "William, Duke of Normandy, landed at Pevensey and, on 14 October 1066, defeated and killed King Harold at Senlac Hill near Hastings. Harold's death left the English forces leaderless and broke organized resistance, opening the way to the Norman conquest of England.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Hastings",
+        "title": "Battle of Hastings",
+        "publisher": "Wikipedia",
+        "quote": "The Battle of Hastings was fought on 14 October 1066 between the Norman-French army of William, Duke of Normandy, and an English army under the Anglo-Saxon King Harold Godwinson."
+      },
+      {
+        "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Hastings_(Sussex)",
+        "title": "1911 Encyclopædia Britannica/Hastings (Sussex)",
+        "publisher": "Wikisource (1911 Encyclopædia Britannica)",
+        "quote": "On the 28th of September 1066, William of Normandy, bent on asserting by arms his right to the English crown, landed at Pevensey."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1066-william-coronation",
+    "title": "Coronation of William I",
+    "date": "1066-12-25",
+    "endDate": null,
+    "precision": "day",
+    "category": "succession",
+    "actors": ["william-i"],
+    "place": "Westminster Abbey, London",
+    "significance": 4,
+    "summary": "William was crowned King of England by Ealdred, Archbishop of York, at Westminster Abbey on Christmas Day 1066. The ceremony was marred when Norman guards outside, mistaking the crowd's acclamations for an uprising, set fire to nearby houses.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Norman_conquest_of_England",
+        "title": "Norman conquest of England",
+        "publisher": "Wikipedia",
+        "quote": "William was acclaimed King of England and crowned by Ealdred on 25 December 1066, in Westminster Abbey."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/William_the_Conqueror",
+        "title": "William the Conqueror",
+        "publisher": "Wikipedia",
+        "quote": "he was crowned at Westminster Abbey on Christmas Day 1066."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1069-harrying-north",
+    "title": "The Harrying of the North",
+    "date": "1069",
+    "endDate": "1070",
+    "precision": "range",
+    "category": "rebellion",
+    "actors": ["william-i"],
+    "place": "Yorkshire and northern England",
+    "significance": 5,
+    "summary": "In the winter of 1069–1070, William I answered renewed northern rebellions with a scorched-earth campaign across Yorkshire and the north, destroying crops, herds and settlements and killing indiscriminately. The chronicler Orderic Vitalis, writing decades later, described enormous loss of life, and Domesday Book evidence from 1086 still shows large tracts of the region waste two decades afterward.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Harrying_of_the_North",
+        "title": "Harrying of the North",
+        "publisher": "Wikipedia",
+        "quote": "More than 100,000 people perished of starvation"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yorkshire",
+        "title": "Yorkshire",
+        "publisher": "Wikipedia",
+        "quote": "From York to Durham, crops, domestic animals, and farming tools were scorched. Many villages between the towns were burnt and local northerners were indiscriminately murdered."
+      }
+    ],
+    "uncertain": "Orderic Vitalis's figure of over 100,000 dead is a chronicler's estimate written decades after the event and cannot be independently verified; modern historians treat it as illustrative of the campaign's severity rather than a precise count."
+  },
+  {
+    "id": "evt-1086-domesday-book",
+    "title": "The Domesday Book survey",
+    "date": "1085",
+    "endDate": "1086",
+    "precision": "range",
+    "category": "economy",
+    "actors": ["william-i"],
+    "place": "England",
+    "significance": 5,
+    "summary": "At Christmas 1085 William I commissioned a comprehensive survey of landholding, population and resources across England to determine tax liability and consolidate Norman control after the Conquest. The resulting Domesday Book recorded holdings down to individual livestock, and survives as the oldest public record of England.",
+    "citations": [
+      {
+        "url": "https://sourcebooks.fordham.edu/source/1186aschron-domesday.asp",
+        "title": "Medieval Sourcebook: The Anglo-Saxon Chronicle: The Domesday Book, 1086",
+        "publisher": "Fordham University Internet Medieval Sourcebook",
+        "quote": "not even one ox, nor one cow, nor one pig which escaped notice in his survey"
+      },
+      {
+        "url": "https://www.historic-uk.com/HistoryUK/HistoryofEngland/Domesday-Book/",
+        "title": "The Domesday Book",
+        "publisher": "Historic UK",
+        "quote": "the Domesday Book was commissioned in December 1085 by order of William The Conqueror."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Domesday_Book",
+        "title": "Domesday Book",
+        "publisher": "Wikipedia",
+        "quote": "the king sent his agents to survey every shire in England, to list his holdings and dues owed to him."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1087-william-i-death",
+    "title": "Death of William I",
+    "date": "1087-09-09",
+    "endDate": null,
+    "precision": "day",
+    "category": "succession",
+    "actors": ["william-i", "william-ii", "robert-curthose"],
+    "place": "Priory of Saint-Gervase, Rouen",
+    "significance": 4,
+    "summary": "William I died on 9 September 1087 at the Priory of Saint-Gervase near Rouen after being injured during a campaign against Mantes. His lands were divided on his death: Normandy passed to his eldest son Robert Curthose, while England went to his second surviving son, William Rufus.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/William_the_Conqueror",
+        "title": "William the Conqueror",
+        "publisher": "Wikipedia",
+        "quote": "Died: 9 September 1087 (aged about 59) Priory of Saint Gervase, Rouen, Duchy of Normandy"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/William_the_Conqueror",
+        "title": "William the Conqueror",
+        "publisher": "Wikipedia",
+        "quote": "His lands were divided after his death: Normandy went to Robert, and England went to his second surviving son, William Rufus."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1096-robert-curthose-crusade",
+    "title": "Robert Curthose mortgages Normandy to join the First Crusade",
+    "date": "1096",
+    "endDate": null,
+    "precision": "year",
+    "category": "crusade",
+    "actors": ["robert-curthose", "william-ii"],
+    "place": "Normandy",
+    "significance": 3,
+    "summary": "To fund his participation in the First Crusade, Robert Curthose, Duke of Normandy, mortgaged the duchy to his brother King William Rufus of England for 10,000 marks, temporarily uniting Norman and English resources under Rufus while Robert campaigned in the Holy Land.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Robert_Curthose",
+        "title": "Robert Curthose",
+        "publisher": "Wikipedia",
+        "quote": "To raise money for the crusade he mortgaged his duchy to his brother William for the sum of 10,000 marks."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/First_Crusade",
+        "title": "First Crusade",
+        "publisher": "Wikipedia",
+        "quote": "Robert of Normandy loaned the Duchy of Normandy to his brother William II of England"
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1100-william-ii-death",
+    "title": "Death of William II in the New Forest",
+    "date": "1100-08-02",
+    "endDate": null,
+    "precision": "day",
+    "category": "succession",
+    "actors": ["william-ii", "henry-i"],
+    "place": "New Forest, Hampshire",
+    "significance": 4,
+    "summary": "William Rufus was killed by an arrow while hunting in the New Forest on 2 August 1100. His younger brother Henry, also present in the hunting party, moved immediately to secure the royal treasury at Winchester and the throne.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/William_II_of_England",
+        "title": "William II of England",
+        "publisher": "Wikipedia",
+        "quote": "William went hunting on 2 August 1100 in the New Forest, probably near Brockenhurst, and was killed by an arrow through the lung, although the circumstances remain unclear."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/New_Forest",
+        "title": "New Forest",
+        "publisher": "Wikipedia",
+        "quote": "Though many claim the latter was killed by an inaccurate arrow shot from his hunting companion, local folklore asserted that this was punishment for the crimes committed by William when he created his New Forest."
+      }
+    ],
+    "uncertain": "Whether William II's death was a hunting accident or an assassination is contested. Wikipedia notes that 'modern scholars have reopened the question, and some have found the assassination theory credible or compelling, but the theory is not universally accepted' — this dataset takes no position on which is correct."
+  },
+  {
+    "id": "evt-1100-henry-i-charter-liberties",
+    "title": "Henry I's Charter of Liberties",
+    "date": "1100-08-05",
+    "endDate": null,
+    "precision": "day",
+    "category": "law",
+    "actors": ["henry-i"],
+    "place": "London",
+    "significance": 5,
+    "summary": "Immediately after seizing the throne on William Rufus's death, Henry I issued a coronation charter promising to end oppressive exactions, free the church from arbitrary royal demands, and restore the laws of Edward the Confessor. Copied widely during his reign, it later served as a direct model for Magna Carta.",
+    "citations": [
+      {
+        "url": "https://sourcebooks.web.fordham.edu/source/hcoronation.asp",
+        "title": "Medieval Sourcebook: Charter of Liberties of Henry I, 1100",
+        "publisher": "Fordham University Internet Medieval Sourcebook",
+        "quote": "Know that by the mercy of God and the common counsel of the barons of the whole kingdom of England I have been crowned king of said kingdom; and because the kingdom had been oppressed by unjust exactions, I...make the holy church of God free...And I take away all the bad customs by which the kingdom of England was unjustly oppressed"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Charter_of_Liberties",
+        "title": "Charter of Liberties",
+        "publisher": "Wikipedia",
+        "quote": "a landmark document in English legal history and a forerunner of Magna Carta."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1101-treaty-alton",
+    "title": "Treaty of Alton",
+    "date": "1101",
+    "endDate": null,
+    "precision": "year",
+    "category": "treaty",
+    "actors": ["henry-i", "robert-curthose"],
+    "place": "Alton, Hampshire",
+    "significance": 3,
+    "summary": "After Robert Curthose invaded England to press his claim to the throne, the brothers negotiated the Treaty of Alton in 1101: Robert renounced his claim to the English crown in return for an annual payment and Henry's cession of most of his remaining lands in Normandy, with each naming the other his heir.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Treaty_of_Alton",
+        "title": "Treaty of Alton",
+        "publisher": "Wikipedia",
+        "quote": "The Treaty of Alton was an agreement signed in 1101 between Henry Beauclerc and his older brother Robert Curthose in which Robert agreed to recognize Henry as the king of England in exchange for a yearly stipend and other concessions."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Robert_Curthose",
+        "title": "Robert Curthose",
+        "publisher": "Wikipedia",
+        "quote": "Robert released Henry from his 1088 homage and recognized his crown, in exchange for 3000 livres and that Henry surrender all of his landholdings within Normandy, save for Domfront."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1106-tinchebray",
+    "title": "Battle of Tinchebray",
+    "date": "1106-09-28",
+    "endDate": null,
+    "precision": "day",
+    "category": "battle",
+    "actors": ["henry-i", "robert-curthose"],
+    "place": "Tinchebray, Normandy",
+    "significance": 4,
+    "summary": "Henry I invaded Normandy and decisively defeated his brother Robert Curthose at the Battle of Tinchebray on 28 September 1106, capturing Robert and reuniting Normandy with the English crown. Robert remained a prisoner for the rest of his life, dying in captivity in 1134.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Tinchebray",
+        "title": "Battle of Tinchebray",
+        "publisher": "Wikipedia",
+        "quote": "Henry's knights won a decisive victory: they captured Robert, and Henry imprisoned him in England (in Devizes Castle) and then in Wales until Robert's death (in Cardiff Castle) in 1134."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Robert_Curthose",
+        "title": "Robert Curthose",
+        "publisher": "Wikipedia",
+        "quote": "In 1106, Henry defeated Robert's army decisively at the Battle of Tinchebray and claimed Normandy as a possession of the English crown."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1120-white-ship",
+    "title": "The White Ship disaster",
+    "date": "1120-11-25",
+    "endDate": null,
+    "precision": "day",
+    "category": "dynastic",
+    "actors": ["william-adelin", "henry-i"],
+    "place": "English Channel, off Barfleur",
+    "significance": 5,
+    "summary": "The White Ship sank in the Channel on 25 November 1120 with the loss of nearly everyone aboard, including William Adelin, Henry I's only legitimate son and heir, who drowned after turning back to try to rescue his half-sister. The disaster left Henry without a male heir and precipitated the succession crisis that erupted into the Anarchy after his death in 1135.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/White_Ship",
+        "title": "White Ship",
+        "publisher": "Wikipedia",
+        "quote": "Out of approximately 300 people aboard, only one – a butcher from Rouen – survived."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/William_Adelin",
+        "title": "William Adelin",
+        "publisher": "Wikipedia",
+        "quote": "the drunken helmsman, captained by Thomas FitzStephen, rammed the ship into a rock in the bay"
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1127-oath-for-matilda",
+    "title": "Barons swear to recognize Empress Matilda as heir",
+    "date": "1127",
+    "endDate": null,
+    "precision": "year",
+    "category": "succession",
+    "actors": ["henry-i", "matilda-empress"],
+    "place": "Westminster, London",
+    "significance": 4,
+    "summary": "Having lost his only legitimate son in the White Ship disaster, Henry I had his barons swear an oath to recognize his daughter, Empress Matilda, as his heir to England and Normandy.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Henry_I_of_England",
+        "title": "Henry I of England",
+        "publisher": "Wikipedia",
+        "quote": "In 1127, Henry gathered his barons together and made them swear an oath to recognize his daughter Matilda as his heir to both England and Normandy."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Empress_Matilda",
+        "title": "Empress Matilda",
+        "publisher": "Wikipedia",
+        "quote": "The Anglo-Norman barons were gathered together at Westminster on Christmas 1126, where they swore in January to recognise Matilda and any future legitimate heir she might have."
+      }
+    ],
+    "uncertain": "Sources differ on the precise date: one account places the barons' gathering at Christmas 1126 with the oath itself sworn in January (1127), while another dates the whole event to 1127. A further renewal of the oath is recorded in 1131."
+  },
+  {
+    "id": "evt-1135-stephen-accession",
+    "title": "Death of Henry I and Stephen's seizure of the throne",
+    "date": "1135-12-22",
+    "endDate": null,
+    "precision": "day",
+    "category": "succession",
+    "actors": ["henry-i", "stephen"],
+    "place": "Lyons-la-Forêt, Normandy; Westminster, London",
+    "significance": 5,
+    "summary": "Henry I died unexpectedly near Lyons-la-Forêt in Normandy on 1 December 1135. Despite the barons' earlier oaths to recognize Empress Matilda, Henry's nephew Stephen of Blois crossed to England, secured London's backing, and was crowned at Westminster Abbey on 22 December 1135, precipitating the succession dispute that became the Anarchy.",
+    "citations": [
+      {
+        "url": "https://avalon.law.yale.edu/medieval/ang12.asp",
+        "title": "Avalon Project - The Anglo-Saxon Chronicle : Twelfth Century",
+        "publisher": "Avalon Project, Yale Law School",
+        "quote": "Stephen de Blois...came to London, and the people of London received him...and hallowed him to king on midwinter day."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Stephen,_King_of_England",
+        "title": "Stephen, King of England",
+        "publisher": "Wikipedia",
+        "quote": "In the middle of this confrontation, Henry unexpectedly fell ill and died near Lyons-la-Forêt."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1138-battle-standard",
+    "title": "Battle of the Standard",
+    "date": "1138-08-22",
+    "endDate": null,
+    "precision": "day",
+    "category": "battle",
+    "actors": [],
+    "place": "Cowton Moor, near Northallerton, Yorkshire",
+    "significance": 3,
+    "summary": "An invading Scottish army under King David I, supporting his niece Empress Matilda's cause, was defeated by English levies under local barons and clergy at the Battle of the Standard near Northallerton on 22 August 1138, securing northern England for Stephen during the early years of the Anarchy.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_the_Standard",
+        "title": "Battle of the Standard",
+        "publisher": "Wikipedia",
+        "quote": "English forces under William of Aumale repelled a Scottish army led by King David I of Scotland."
+      },
+      {
+        "url": "https://www.britishbattles.com/norman-conquest/battle-of-the-standard/",
+        "title": "Battle of the Standard",
+        "publisher": "British Battles",
+        "quote": "The Scots failed to break up the English line and were forced to retreat with heavy casualties."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1141-battle-lincoln",
+    "title": "Battle of Lincoln and capture of King Stephen",
+    "date": "1141-02-02",
+    "endDate": null,
+    "precision": "day",
+    "category": "battle",
+    "actors": ["stephen", "robert-gloucester", "matilda-empress"],
+    "place": "Lincoln",
+    "significance": 5,
+    "summary": "On 2 February 1141, forces loyal to Empress Matilda under Robert of Gloucester defeated King Stephen's army at Lincoln; most of Stephen's magnates fled the field, and Stephen himself was captured and imprisoned while Matilda took control of the government for several months.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Lincoln_(1141)",
+        "title": "Battle of Lincoln (1141)",
+        "publisher": "Wikipedia",
+        "quote": "Stephen was captured during the battle, imprisoned, and effectively deposed while Matilda ruled for a short time."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Lincoln_(1141)",
+        "title": "Battle of Lincoln (1141)",
+        "publisher": "Wikipedia",
+        "quote": "As soon as the battle was joined, the majority of the leading magnates fled the king."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1141-rout-winchester",
+    "title": "Rout of Winchester",
+    "date": "1141-09-14",
+    "endDate": null,
+    "precision": "day",
+    "category": "battle",
+    "actors": ["robert-gloucester", "matilda-empress", "matilda-boulogne"],
+    "place": "Winchester and Stockbridge, Hampshire",
+    "significance": 4,
+    "summary": "Queen Matilda of Boulogne's relief army routed the Empress's forces besieging Winchester on 14 September 1141. Robert of Gloucester was captured nearby at Stockbridge while covering Empress Matilda's retreat, and the two sides subsequently exchanged Robert for the still-captive King Stephen, restoring Stephen to the throne and ending Matilda's best chance of becoming queen.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Rout_of_Winchester",
+        "title": "Rout of Winchester",
+        "publisher": "Wikipedia",
+        "quote": "the queen's army destroyed the Angevin main body as an effective fighting force"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Robert,_1st_Earl_of_Gloucester",
+        "title": "Robert, 1st Earl of Gloucester",
+        "publisher": "Wikipedia",
+        "quote": "Her forces were defeated at the Rout of Winchester on 14 September 1141, and Robert of Gloucester was captured nearby at Stockbridge."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1142-matilda-oxford-escape",
+    "title": "Empress Matilda's escape from Oxford Castle",
+    "date": "1142-12",
+    "endDate": null,
+    "precision": "month",
+    "category": "battle",
+    "actors": ["matilda-empress", "stephen"],
+    "place": "Oxford",
+    "significance": 3,
+    "summary": "Besieged by King Stephen at Oxford Castle for three months in late 1142, Empress Matilda slipped out with a handful of knights just before Christmas, crossed the frozen river, and made her way past the royal army on foot to reach safety at Abingdon-on-Thames; the castle surrendered the next day.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Empress_Matilda",
+        "title": "Empress Matilda",
+        "publisher": "Wikipedia",
+        "quote": "Just before Christmas, Matilda sneaked out of the castle with a handful of knights (probably via a postern gate), crossed the icy river and made her escape past the royal army on foot to Abingdon-on-Thames."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Oxford_Castle",
+        "title": "Oxford Castle",
+        "publisher": "Wikipedia",
+        "quote": "did not descend the walls, but instead escaped from one of the gates"
+      }
+    ],
+    "uncertain": "The popular tradition that Matilda was lowered from the walls in a white cloak for camouflage in the snow is contested; the contemporary chronicler William of Malmesbury instead says she left through a gate rather than descending the walls, so the exact manner of her escape is uncertain."
+  },
+  {
+    "id": "evt-1153-treaty-wallingford",
+    "title": "Treaty of Wallingford",
+    "date": "1153",
+    "endDate": null,
+    "precision": "year",
+    "category": "treaty",
+    "actors": ["stephen", "henry-ii"],
+    "place": "Wallingford / Winchester",
+    "significance": 5,
+    "summary": "After years of inconclusive civil war and the death of Stephen's son and heir Eustace, the exhausted parties concluded the Treaty of Wallingford in 1153: Stephen would remain king for the rest of his life, but recognized Henry FitzEmpress, the future Henry II, as his successor, effectively ending the Anarchy.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Treaty_of_Wallingford",
+        "title": "Treaty of Wallingford",
+        "publisher": "Wikipedia",
+        "quote": "allowed Stephen to retain the throne but recognised Henry as his successor."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/The_Anarchy",
+        "title": "The Anarchy",
+        "publisher": "Wikipedia",
+        "quote": "The Anarchy was a civil war in England and Normandy between 1138 and 1153 which resulted in a widespread breakdown in law and order."
+      }
+    ],
+    "uncertain": null
+  },
+  {
+    "id": "evt-1154-stephen-death",
+    "title": "Death of Stephen and accession of Henry II",
+    "date": "1154-10-25",
+    "endDate": null,
+    "precision": "day",
+    "category": "succession",
+    "actors": ["stephen", "henry-ii"],
+    "place": "Dover, Kent",
+    "significance": 4,
+    "summary": "Stephen died at Dover on 25 October 1154, less than a year after the Treaty of Wallingford. Per its terms, Henry FitzEmpress succeeded peacefully as Henry II, ending the Anarchy and founding the Angevin dynasty; he was crowned at Westminster Abbey that December alongside his wife Eleanor.",
+    "citations": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Stephen,_King_of_England",
+        "title": "Stephen, King of England",
+        "publisher": "Wikipedia",
+        "quote": "25 October 1154 (aged 57–58 or 61–62)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Henry_II_of_England",
+        "title": "Henry II of England",
+        "publisher": "Wikipedia",
+        "quote": "Stephen fell ill with a stomach disorder and died on 25 October 1154, allowing Henry to inherit the throne sooner than had been expected."
+      }
+    ],
+    "uncertain": null
+  }
+]
